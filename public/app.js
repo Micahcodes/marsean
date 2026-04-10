@@ -123,6 +123,68 @@ function renderBills(data) {
   });
 }
 
+function analyzeNewsRisk(article) {
+  const text = `${article.title || ""} ${article.description || ""}`.toLowerCase();
+  
+  // Map sentiment to risk level
+  const sentimentToRisk = {
+    negative: "red",
+    neutral: "yellow",
+    positive: "green",
+  };
+  
+  const rating = sentimentToRisk[article.sentiment] || "yellow";
+  
+  // Keywords for recap analysis
+  const concernKeywords = {
+    ban: /\bban|banned|bans|banning\b/i,
+    controversy: /\bcontroversy|controversial|controversy\b/i,
+    opposition: /\bopposition|oppose|opposed\b/i,
+    restrict: /\brestrict|restriction|restricted\b/i,
+    lawsuit: /\blawsuit|lawsuit|legal\b/i,
+    water: /\bwater|groundwater|aquifer\b/i,
+    energy: /\benergy|electric|power/i,
+    cooling: /\bcooling|chiller|thermal\b/i,
+    environmental: /\benvironmental|ecology|ecological\b/i,
+    impact: /\bimpact|concern|issue|problem\b/i,
+  };
+  
+  // Identify concerns present in article
+  const concernsFound = Object.entries(concernKeywords)
+    .filter(([_, regex]) => regex.test(text))
+    .map(([concern, _]) => concern);
+  
+  // Generate recap based on sentiment and concerns
+  let recap = "";
+  if (article.sentiment === "negative") {
+    if (concernsFound.length > 0) {
+      recap = `Negative coverage highlighting ${concernsFound.slice(0, 2).join(" and ")} concerns.`;
+    } else {
+      recap = "Negative sentiment detected in news coverage.";
+    }
+  } else if (article.sentiment === "neutral") {
+    if (concernsFound.length > 0) {
+      recap = `Neutral coverage mentioning potential ${concernsFound[0]} considerations.`;
+    } else {
+      recap = "Neutral tone in article discussing data center or related infrastructure.";
+    }
+  } else {
+    recap = "Positive sentiment in coverage.";
+  }
+  
+  // Generate detailed analysis
+  let analysis = "";
+  if (article.sentiment === "negative") {
+    analysis = `This article presents negative coverage that could impact project approval or public perception. Key concerns identified: ${concernsFound.length > 0 ? concernsFound.join(", ") : "general opposition or controversy"}. Recommend developing counter-narrative focused on project benefits and stakeholder engagement.`;
+  } else if (article.sentiment === "neutral") {
+    analysis = `Article provides factual coverage without clear sentiment. Opportunity to engage media with project benefits story, particularly around ${concernsFound.length > 0 ? concernsFound[0] : "infrastructure"} advantages and local economic impact.`;
+  } else {
+    analysis = "Positive coverage represents opportunity to amplify project narrative through stakeholder engagement and media partnerships.";
+  }
+  
+  return { rating, recap, analysis, concerns: concernsFound };
+}
+
 function renderNews(data) {
   results.innerHTML = "";
   if (!data || !data.articles?.length) {
@@ -136,25 +198,55 @@ function renderNews(data) {
   });
 
   sortedArticles.forEach((article) => {
-    const sentimentClass =
-      article.sentiment === "negative"
-        ? "bg-rose-500"
-        : article.sentiment === "positive"
-          ? "bg-emerald-500"
-          : "bg-amber-400";
-    const container = document.createElement("div");
-    container.className =
-      "rounded-lg border border-slate-800 bg-slate-900/90 p-3 shadow-lg shadow-slate-950/20";
-    container.innerHTML = `
-      <div class="flex items-center gap-2 mb-2">
-        <span class="rounded-full px-2 py-1 text-xs font-semibold ${sentimentClass} text-slate-950">${article.sentiment.toUpperCase()}</span>
-        <p class="text-slate-400 text-xs">${new Date(article.publishedAt).toLocaleDateString()}</p>
-      </div>
-      <h3 class="text-lg font-semibold leading-tight">${article.title || "No title"}</h3>
-      <p class="mt-2 text-slate-400 text-sm">${article.description || ""}</p>
-      <a href="${article.url}" target="_blank" rel="noreferrer" class="mt-2 inline-block text-cyan-300 hover:text-cyan-200 text-xs">Read more</a>
-    `;
-    results.appendChild(container);
+    // Analyze risk for each article
+    const riskAnalysis = analyzeNewsRisk(article);
+    const { rating, recap, analysis, concerns } = riskAnalysis;
+    
+    // Only show yellow and red rated articles with full analysis
+    if (rating === "red" || rating === "yellow") {
+      const container = document.createElement("div");
+      container.className =
+        "rounded-lg border border-slate-800 bg-slate-900/90 p-3 shadow-lg shadow-slate-950/20";
+      container.innerHTML = `
+        <div class="flex flex-col gap-2 sm:flex-row sm:justify-between sm:items-start">
+          <div class="flex-1">
+            <div class="flex items-center gap-2 mb-1">
+              <span class="rounded-full px-2 py-1 text-xs font-semibold ${getRiskClasses(rating)}">${rating.toUpperCase()}</span>
+              <p class="text-slate-400 text-xs">${new Date(article.publishedAt).toLocaleDateString()} • ${article.source?.name || "News Source"}</p>
+            </div>
+            <h3 class="text-lg font-semibold leading-tight">${article.title || "No title"}</h3>
+          </div>
+        </div>
+        ${concerns.length > 0 ? `
+          <div class="mt-2 flex flex-wrap gap-1 text-xs">
+            ${concerns.map((concern) => `<span class="rounded bg-slate-800 px-2 py-1 text-slate-300">${concern}</span>`).join("")}
+          </div>
+        ` : ""}
+        <p class="mt-2 text-slate-400 text-sm">${article.description || ""}</p>
+        <div class="mt-2 rounded bg-slate-950/80 p-2 text-xs text-slate-300">
+          <p class="font-semibold text-slate-100">Sentiment Analysis</p>
+          <p class="mt-1"><strong>Summary:</strong> ${recap}</p>
+          <p class="mt-1"><strong>Recommendation:</strong> ${analysis}</p>
+        </div>
+        <a href="${article.url}" target="_blank" rel="noreferrer" class="mt-2 inline-block text-cyan-300 hover:text-cyan-200 text-xs">Read full article</a>
+      `;
+      results.appendChild(container);
+    } else {
+      // Green articles shown without detailed analysis
+      const container = document.createElement("div");
+      container.className =
+        "rounded-lg border border-slate-800 bg-slate-900/90 p-3 shadow-lg shadow-slate-950/20";
+      container.innerHTML = `
+        <div class="flex items-center gap-2 mb-2">
+          <span class="rounded-full px-2 py-1 text-xs font-semibold ${getRiskClasses(rating)} text-slate-950">${rating.toUpperCase()}</span>
+          <p class="text-slate-400 text-xs">${new Date(article.publishedAt).toLocaleDateString()}</p>
+        </div>
+        <h3 class="text-lg font-semibold leading-tight">${article.title || "No title"}</h3>
+        <p class="mt-2 text-slate-400 text-sm">${article.description || ""}</p>
+        <a href="${article.url}" target="_blank" rel="noreferrer" class="mt-2 inline-block text-cyan-300 hover:text-cyan-200 text-xs">Read more</a>
+      `;
+      results.appendChild(container);
+    }
   });
 }
 
@@ -396,10 +488,14 @@ function renderSummary(data, newsData) {
 
   // Populate Risk Intelligence Highlights
   const riskHighlightsEl = document.querySelector("#riskHighlights");
-  const actionRecommendationsEl = document.querySelector("#actionRecommendations");
+  const actionRecommendationsEl = document.querySelector(
+    "#actionRecommendations",
+  );
 
   if (riskHighlightsEl) {
-    riskHighlightsEl.innerHTML = riskHighlights.map((item) => `<li>• ${item}</li>`).join("");
+    riskHighlightsEl.innerHTML = riskHighlights
+      .map((item) => `<li>• ${item}</li>`)
+      .join("");
   }
   if (actionRecommendationsEl) {
     actionRecommendationsEl.innerHTML = `<strong>Recommended focus:</strong> ${actionRecommendations}`;
@@ -408,7 +504,7 @@ function renderSummary(data, newsData) {
   // Populate Additional Insights (placeholder for now)
   const additionalInsightsEl = document.querySelector("#additionalInsights");
   if (additionalInsightsEl) {
-    additionalInsightsEl.textContent = `State analysis for ${getStateName(stateFilter?.value || 'tx')} completed. Monitor legislative activity and stakeholder sentiment for optimal data center site selection.`;
+    additionalInsightsEl.textContent = `State analysis for ${getStateName(stateFilter?.value || "tx")} completed. Monitor legislative activity and stakeholder sentiment for optimal data center site selection.`;
   }
 
   // Populate Legislative Bills
