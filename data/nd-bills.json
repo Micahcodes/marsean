@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/993ebfb6-6346-4dc5-97e1-69843781b590",
+      "session": "69",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nd/government",
+        "name": "North Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/79645ed7-6baa-4842-ac97-09b444c4020b",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 2248",
+      "title": "A BILL for an Act to amend and reenact section 19-02.1-16.3 of the North Dakota Century Code, relating to step therapy protocols; to provide for a report to the legislative assembly; to provide for application; and to provide an expiration date.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-20T23:49:50.580781+00:00",
+      "updated_at": "2026-03-18T00:53:35.165386+00:00",
+      "openstates_url": "https://openstates.org/nd/bills/69/SB2248/",
+      "first_action_date": "2025-01-20",
+      "latest_action_date": "2025-02-07",
+      "latest_action_description": "Second reading, failed to pass, yeas 2 nays 45",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/3b1c7f69-b1fb-42bb-91d8-3169fd562fc1",
+      "session": "69",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nd/government",
+        "name": "North Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/79645ed7-6baa-4842-ac97-09b444c4020b",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 2363",
+      "title": "A BILL for an Act to amend and reenact subsection 3 of section 15.1-27-02, sections 15.1-27-04.1, 15.1-27-04.2, and 57-15-01.1, paragraph 3 of subdivision e of subsection 1 of section 57-15-14, section 57-15-14.2, and subdivision c of subsection 1 of section 57-20-07.1 of the North Dakota Century Code, relating to the determination of state aid payments, state aid minimum local effort, the protection of taxpayers and taxing districts, voter approval of excess levies in school districts, school district levies, and contents of the property tax statement; and to provide an effective date.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-28T00:45:15.030947+00:00",
+      "updated_at": "2026-03-18T00:53:29.161117+00:00",
+      "openstates_url": "https://openstates.org/nd/bills/69/SB2363/",
+      "first_action_date": "2025-01-27",
+      "latest_action_date": "2025-02-25",
+      "latest_action_description": "Second reading, failed to pass, yeas 23 nays 23",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/e4753edb-e17e-4fa7-88d4-764b8d0d11c2",
+      "session": "69",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nd/government",
+        "name": "North Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/79645ed7-6baa-4842-ac97-09b444c4020b",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 2208",
+      "title": "A BILL for an Act to amend and reenact subsection 9 of section 57-51.1-07.5 and sections 57-51.1-07.7 and 57-51.1-07.8 of the North Dakota Century Code, relating to the state share of oil and gas tax revenue allocations, the municipal infrastructure fund, and the county and township infrastructure fund.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-16T00:38:24.897262+00:00",
+      "updated_at": "2026-03-18T00:53:27.657621+00:00",
+      "openstates_url": "https://openstates.org/nd/bills/69/SB2208/",
+      "first_action_date": "2025-01-15",
+      "latest_action_date": "2025-02-21",
+      "latest_action_description": "Second reading, failed to pass, yeas 19 nays 27",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/9673d665-ce22-4735-a516-50f0e8a00645",
+      "session": "69",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nd/government",
+        "name": "North Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b9f9b32c-a2cc-4cca-941f-862aecc30617",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1482",
+      "title": "AN ACT to amend and reenact sections 15.1-07-03, 15.1-07-04, 21-03-04, 21-03-07, 21-03-11, and 21-03-13 of the North Dakota Century Code, relating to a school district debt limit election, the requirements of a municipal bond election, and the contents of a ballot.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-20T23:49:54.545761+00:00",
+      "updated_at": "2026-03-18T00:53:25.244488+00:00",
+      "openstates_url": "https://openstates.org/nd/bills/69/HB1482/",
+      "first_action_date": "2025-01-20",
+      "latest_action_date": "2025-04-30",
+      "latest_action_description": "Filed with Secretary Of State 04/28",
+      "latest_passage_date": "2025-04-21"
+    },
+    {
+      "id": "ocd-bill/daf53ac7-f381-496a-b4d3-9b9950ff64d6",
+      "session": "69",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nd/government",
+        "name": "North Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b9f9b32c-a2cc-4cca-941f-862aecc30617",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HCR 3017",
+      "title": "A concurrent resolution recognizing December 6th as annual \"Miner's Day\" to honor the hard work and dedication of coal miners, whose critical efforts provide reliable and affordable energy to millions of people, fuel economic growth, and support the energy security of North Dakota and the region.",
+      "classification": [
+        "concurrent resolution"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-30T18:40:00.007977+00:00",
+      "updated_at": "2026-03-18T00:53:05.678884+00:00",
+      "openstates_url": "https://openstates.org/nd/bills/69/HCR3017/",
+      "first_action_date": "2025-01-30",
+      "latest_action_date": "2025-03-20",
+      "latest_action_description": "Filed with Secretary Of State 03/21",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/572e7486-e8f8-4b69-9881-495c89d5ee31",
+      "session": "69",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nd/government",
+        "name": "North Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b9f9b32c-a2cc-4cca-941f-862aecc30617",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1271",
+      "title": "A BILL for an Act to amend and reenact subsection 6 of section 11-18-02.2 of the North Dakota Century Code, relating to exceptions for providing statements of full consideration.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-15T18:06:26.772043+00:00",
+      "updated_at": "2026-03-18T00:52:57.224769+00:00",
+      "openstates_url": "https://openstates.org/nd/bills/69/HB1271/",
+      "first_action_date": "2025-01-13",
+      "latest_action_date": "2025-01-31",
+      "latest_action_description": "Second reading, failed to pass, yeas 7 nays 80",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/5251c1ac-23e6-4d37-8029-628dd70631d5",
+      "session": "69",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nd/government",
+        "name": "North Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/79645ed7-6baa-4842-ac97-09b444c4020b",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 2279",
+      "title": "A BILL for an Act to amend and reenact sections 15.1-27-04.1, 15.1-27-04.2, and 57-15-01.1, subsection 1 of section 57-15-14, section 57-15-14.2, and subdivision c of subsection 1 of section 57-20-07.1 of the North Dakota Century Code, relating to the determination of state aid payments, state aid minimum local effort, the protection of taxpayers and taxing districts, voter approval of excess levies in school districts, school district levies, and information displayed on property tax statements; to repeal sections 15.1-27-04.3, 15.1-27-15.1, and 15.1-27-20.2 of the North Dakota Century Code, relating to adjustments to state aid payments, isolated school district transition payments, and taxable valuation impact on state aid; and to provide an effective date.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-20T23:49:47.673370+00:00",
+      "updated_at": "2026-03-18T00:52:49.128542+00:00",
+      "openstates_url": "https://openstates.org/nd/bills/69/SB2279/",
+      "first_action_date": "2025-01-20",
+      "latest_action_date": "2025-02-12",
+      "latest_action_description": "Second reading, failed to pass, yeas 6 nays 41",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/616ae8b7-d41d-4553-a817-0b587889ce61",
+      "session": "69",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nd/government",
+        "name": "North Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b9f9b32c-a2cc-4cca-941f-862aecc30617",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1507",
+      "title": "AN ACT to create and enact a new chapter to title 6 of the North Dakota Century Code, relating to the establishment and organization of cooperative financial institutions; and to amend and reenact sections 6-01-02, 6-01-15, 6-01-17.1, 6-02-02, 6-02-03, 6-03-02, 6-03-11, 6-03-13.1, 6-03-34, 6-05-01, 6-06-35, 6-07.2-09, 6-07.2-19, and 6-08-08.1 of the North Dakota Century Code, relating to the application, powers, payment of claims, liquidation, and sale of cooperative financial institutions.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-20T23:47:22.393613+00:00",
+      "updated_at": "2026-03-18T00:52:45.621176+00:00",
+      "openstates_url": "https://openstates.org/nd/bills/69/HB1507/",
+      "first_action_date": "2025-01-20",
+      "latest_action_date": "2025-04-07",
+      "latest_action_description": "Filed with Secretary Of State 04/03",
+      "latest_passage_date": "2025-03-24"
+    },
+    {
+      "id": "ocd-bill/f51cd1a4-f96a-496b-a5e5-486e789d6ded",
+      "session": "69",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nd/government",
+        "name": "North Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/79645ed7-6baa-4842-ac97-09b444c4020b",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 2353",
+      "title": "AN ACT to amend and reenact sections 15.1-09.1-02.1 and 54-44.4-02 of the North Dakota Century Code, relating to regional education associations.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-24T18:40:11.985237+00:00",
+      "updated_at": "2026-03-18T00:52:42.655463+00:00",
+      "openstates_url": "https://openstates.org/nd/bills/69/SB2353/",
+      "first_action_date": "2025-01-24",
+      "latest_action_date": "2025-04-01",
+      "latest_action_description": "Filed with Secretary Of State 03/31",
+      "latest_passage_date": "2025-03-21"
+    },
+    {
+      "id": "ocd-bill/f4e85082-16ef-4bbc-b1a3-0aa859cce879",
+      "session": "69",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nd/government",
+        "name": "North Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b9f9b32c-a2cc-4cca-941f-862aecc30617",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1623",
+      "title": "AN ACT to provide an appropriation to the department of health and human services for federal rural health transformation program grant funds; to provide an appropriation to the Bank of North Dakota to administer a loan program; to provide for a transfer; to amend and reenact section 6-09-47 of the North Dakota Century Code, relating to a rural health loan program under the medical facility infrastructure loan fund; to provide an exemption; to provide for a legislative management report; to provide for application; to provide a report; and to provide an effective date.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-16T06:51:09.074911+00:00",
+      "updated_at": "2026-03-18T00:52:40.654943+00:00",
+      "openstates_url": "https://openstates.org/nd/bills/69/HB1623/",
+      "first_action_date": "2026-01-21",
+      "latest_action_date": "2026-01-28",
+      "latest_action_description": "Filed with Secretary Of State 01/23",
+      "latest_passage_date": "2026-01-23"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 54,
+    "total_items": 532
+  }
+}

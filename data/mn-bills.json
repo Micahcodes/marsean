@@ -1,0 +1,324 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/d1437561-1c42-493f-bac9-ca4266eaae08",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mn/government",
+        "name": "Minnesota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e91db6f8-2232-49cd-91af-fdb5adb4ac3b",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HF 4487",
+      "title": "Onetime property tax refund or credit provided, and money appropriated.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Appropriations",
+        "Taxation-Property"
+      ],
+      "extras": {},
+      "created_at": "2026-03-19T04:35:50.776153+00:00",
+      "updated_at": "2026-04-10T00:15:19.816594+00:00",
+      "openstates_url": "https://openstates.org/mn/bills/2025-2026/HF4487/",
+      "first_action_date": "2026-03-18",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Motion did not prevail",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/66f9c5ef-c97c-4edb-bd5a-ecbc66a18b10",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mn/government",
+        "name": "Minnesota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e91db6f8-2232-49cd-91af-fdb5adb4ac3b",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HF 3128",
+      "title": "Lanesboro; utility infrastructure improvements funding provided, bonds issued, and money appropriated.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Bonds",
+        "Cities and Towns-Specific",
+        "Public Utilities and Public Utilities Commission"
+      ],
+      "extras": {},
+      "created_at": "2025-04-07T23:01:32.111126+00:00",
+      "updated_at": "2026-04-10T00:12:37.284884+00:00",
+      "openstates_url": "https://openstates.org/mn/bills/2025-2026/HF3128/",
+      "first_action_date": "2025-04-07",
+      "latest_action_date": "2025-04-07",
+      "latest_action_description": "Introduction and first reading, referred to Capital Investment",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/5875c44b-de31-4593-91ca-aabf888c288c",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mn/government",
+        "name": "Minnesota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e91db6f8-2232-49cd-91af-fdb5adb4ac3b",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HF 4118",
+      "title": "Credit unions authorized to obtain insurance from a credit union share insurance provider, credit union share guaranty corporations regulated, and conforming changes made.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Banks and Financial Institutions",
+        "Insurance"
+      ],
+      "extras": {},
+      "created_at": "2026-03-10T00:46:53.189805+00:00",
+      "updated_at": "2026-04-10T00:11:00.317123+00:00",
+      "openstates_url": "https://openstates.org/mn/bills/2025-2026/HF4118/",
+      "first_action_date": "2026-03-09",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "House rule 1.21, placed on Calendar for the Day Monday, April 13, 2026",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/09c9cf37-51cb-47ff-83bc-956d73e8f562",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mn/government",
+        "name": "Minnesota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e91db6f8-2232-49cd-91af-fdb5adb4ac3b",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HF 4577",
+      "title": "Psilocybin therapeutic use program established; protections for registered patients, registered suppliers, registered facilitators, and health care practitioners established; civil actions authorized; advisory committee established; and money appropriated.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Appropriations",
+        "Health and Health Department"
+      ],
+      "extras": {},
+      "created_at": "2026-03-24T03:04:35.053269+00:00",
+      "updated_at": "2026-04-10T00:09:57.192840+00:00",
+      "openstates_url": "https://openstates.org/mn/bills/2025-2026/HF4577/",
+      "first_action_date": "2026-03-23",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Motion to recall and re-refer, motion prevailed Veterans and Military Affairs Division",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/6e4cc40a-687a-4be9-9ebb-fc1e92bac258",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mn/government",
+        "name": "Minnesota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e91db6f8-2232-49cd-91af-fdb5adb4ac3b",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HF 3516",
+      "title": "Dentistry profession licensure, registration, scope of practice, continuing education, and disciplinary grounds modified; and fees established.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Health and Health Department",
+        "Licenses",
+        "Occupations and Professions"
+      ],
+      "extras": {},
+      "created_at": "2026-02-20T02:03:45.309626+00:00",
+      "updated_at": "2026-04-10T00:00:55.523248+00:00",
+      "openstates_url": "https://openstates.org/mn/bills/2025-2026/HF3516/",
+      "first_action_date": "2026-02-19",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Bill was passed",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/e4ceccaa-61d8-4d12-9f57-6c53e9dff1d5",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mn/government",
+        "name": "Minnesota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e91db6f8-2232-49cd-91af-fdb5adb4ac3b",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HF 2928",
+      "title": "Preapplication filings for large water appropriation projects required, permit application information for large water appropriation projects added, level of environmental review for data centers specified, data centers exempted from making financial contributions to an energy conservation and optimization plan, and other data center provisions modified.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Energy",
+        "Public Utilities and Public Utilities Commission",
+        "Telecommunications and Information Technology"
+      ],
+      "extras": {},
+      "created_at": "2025-03-27T22:24:50.657238+00:00",
+      "updated_at": "2026-04-09T22:03:37.470241+00:00",
+      "openstates_url": "https://openstates.org/mn/bills/2025-2026/HF2928/",
+      "first_action_date": "2025-03-27",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Author added Jones",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/643cd61b-88e9-4f4d-b366-9fc8f036923f",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mn/government",
+        "name": "Minnesota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e91db6f8-2232-49cd-91af-fdb5adb4ac3b",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HF 4825",
+      "title": "Rate recovery of executive pay for public utilities limited, and utility expenses that may not be recovered from ratepayers specified.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Public Utilities and Public Utilities Commission"
+      ],
+      "extras": {},
+      "created_at": "2026-04-07T19:05:02.203081+00:00",
+      "updated_at": "2026-04-09T22:03:33.513010+00:00",
+      "openstates_url": "https://openstates.org/mn/bills/2025-2026/HF4825/",
+      "first_action_date": "2026-04-07",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Author added Xiong",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/4b1ce858-486c-408b-9dbe-af31d57582d2",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mn/government",
+        "name": "Minnesota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/6a026144-758d-4d57-b856-9c60dce3c4b5",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SF 5046",
+      "title": "Prescription Drug Affordability Advisory Council elimination",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Councils",
+        "Drugs and Medicine",
+        "Health and Health Department"
+      ],
+      "extras": {},
+      "created_at": "2026-04-08T21:55:18.830412+00:00",
+      "updated_at": "2026-04-09T22:03:32.872291+00:00",
+      "openstates_url": "https://openstates.org/mn/bills/2025-2026/SF5046/",
+      "first_action_date": "2026-04-09",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Referred to Commerce and Consumer Protection",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/61e0c4f0-367b-41f6-9ede-2287dfbb5d9d",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mn/government",
+        "name": "Minnesota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e91db6f8-2232-49cd-91af-fdb5adb4ac3b",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HF 4476",
+      "title": "Marked Trunk Highway 13 and associated local road improvements funding provided, bonds issued, and money appropriated.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Appropriations",
+        "Bonds",
+        "Highways, Roads, and Bridges"
+      ],
+      "extras": {},
+      "created_at": "2026-03-19T04:27:42.377779+00:00",
+      "updated_at": "2026-04-09T22:03:31.696405+00:00",
+      "openstates_url": "https://openstates.org/mn/bills/2025-2026/HF4476/",
+      "first_action_date": "2026-03-18",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Authors added Berg and Bakeberg",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/6ef60a7b-f9b3-4761-968e-e40847e4789f",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mn/government",
+        "name": "Minnesota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e91db6f8-2232-49cd-91af-fdb5adb4ac3b",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HF 4919",
+      "title": "Distributed energy resource aggregator standards established, fees authorized, and money appropriated.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Appropriations",
+        "Energy"
+      ],
+      "extras": {},
+      "created_at": "2026-04-09T22:03:22.734037+00:00",
+      "updated_at": "2026-04-09T22:03:23.000458+00:00",
+      "openstates_url": "https://openstates.org/mn/bills/2025-2026/HF4919/",
+      "first_action_date": "2026-04-09",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Introduction and first reading, referred to Energy Finance and Policy",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 852,
+    "total_items": 8520
+  }
+}

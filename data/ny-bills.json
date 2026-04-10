@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/018cfc37-2b6d-4a67-9d05-011d6645266c",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ny/government",
+        "name": "New York",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/26bb6306-85f0-4d10-bff7-d1cd5bdc0865",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "A 7115",
+      "title": "Removes the board of trustees of the state university of New York as a charter entity; repealer",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-03-21T03:44:14.979591+00:00",
+      "updated_at": "2026-04-09T19:16:37.516446+00:00",
+      "openstates_url": "https://openstates.org/ny/bills/2025-2026/A7115/",
+      "first_action_date": "2025-03-20",
+      "latest_action_date": "2026-01-07",
+      "latest_action_description": "REFERRED TO EDUCATION",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/a65040af-2ab1-4c68-8dec-0092dfe417d9",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ny/government",
+        "name": "New York",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/8291a233-623d-40e8-882d-21ec2d382c87",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "S 9863",
+      "title": "Relates to adjudications and owner liability for a violation of traffic-control signal indications in the town of Woodbury",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-09T18:37:40.296522+00:00",
+      "updated_at": "2026-04-09T18:37:40.590838+00:00",
+      "openstates_url": "https://openstates.org/ny/bills/2025-2026/S9863/",
+      "first_action_date": "2026-04-09",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "REFERRED TO TRANSPORTATION",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/dfb77afb-35fa-440c-8d6f-783c2725393d",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ny/government",
+        "name": "New York",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/26bb6306-85f0-4d10-bff7-d1cd5bdc0865",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "A 10922",
+      "title": "Extends certain provisions relating to the sale, issuance and refund of bonds and notes of New York city",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-09T18:33:27.907533+00:00",
+      "updated_at": "2026-04-09T18:33:28.235918+00:00",
+      "openstates_url": "https://openstates.org/ny/bills/2025-2026/A10922/",
+      "first_action_date": "2026-04-09",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "REFERRED TO CITIES",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/d0dc7f94-349e-4db8-8c7e-5f1a41ff69df",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ny/government",
+        "name": "New York",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/8291a233-623d-40e8-882d-21ec2d382c87",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "S 9864",
+      "title": "Relates to adjudications and owner liability for a violation of traffic-control signal indications in the town of Palm Tree",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-09T18:06:27.891670+00:00",
+      "updated_at": "2026-04-09T18:06:28.194243+00:00",
+      "openstates_url": "https://openstates.org/ny/bills/2025-2026/S9864/",
+      "first_action_date": "2026-04-09",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "REFERRED TO TRANSPORTATION",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/700fabf2-54f4-41e1-8af1-4fb4488f0a4d",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ny/government",
+        "name": "New York",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/8291a233-623d-40e8-882d-21ec2d382c87",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "S 5111",
+      "title": "Enacts the \"just energy transition act\"",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-02-19T16:18:27.774366+00:00",
+      "updated_at": "2026-04-09T08:49:05.029246+00:00",
+      "openstates_url": "https://openstates.org/ny/bills/2025-2026/S5111/",
+      "first_action_date": "2025-02-19",
+      "latest_action_date": "2026-03-26",
+      "latest_action_description": "ADVANCED TO THIRD READING",
+      "latest_passage_date": "2025-04-22"
+    },
+    {
+      "id": "ocd-bill/b6879850-a96f-4270-898a-d9c2af8a582b",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ny/government",
+        "name": "New York",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/8291a233-623d-40e8-882d-21ec2d382c87",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "S 1553",
+      "title": "Provides that credits for excess electricity generated by customer-generators subject to net energy metering may be carried over and used to offset electricity used",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-10T21:09:35.297025+00:00",
+      "updated_at": "2026-04-09T08:47:51.962832+00:00",
+      "openstates_url": "https://openstates.org/ny/bills/2025-2026/S1553/",
+      "first_action_date": "2025-01-10",
+      "latest_action_date": "2026-03-26",
+      "latest_action_description": "ADVANCED TO THIRD READING",
+      "latest_passage_date": "2025-03-05"
+    },
+    {
+      "id": "ocd-bill/898fdd63-5dce-41ca-80d7-862cc24b27eb",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ny/government",
+        "name": "New York",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/26bb6306-85f0-4d10-bff7-d1cd5bdc0865",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "A 1318",
+      "title": "Establishes a state SNAP minimum benefit program",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-10T00:49:58.198951+00:00",
+      "updated_at": "2026-04-09T08:46:17.642349+00:00",
+      "openstates_url": "https://openstates.org/ny/bills/2025-2026/A1318/",
+      "first_action_date": "2025-01-09",
+      "latest_action_date": "2026-01-07",
+      "latest_action_description": "REFERRED TO SOCIAL SERVICES",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/09a65b85-2855-47d1-8c65-03d54fd78d5e",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ny/government",
+        "name": "New York",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/8291a233-623d-40e8-882d-21ec2d382c87",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "S 1701",
+      "title": "Relates to strengthening of utility storm response and compliance",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-13T17:30:38.152382+00:00",
+      "updated_at": "2026-04-09T08:42:19.617931+00:00",
+      "openstates_url": "https://openstates.org/ny/bills/2025-2026/S1701/",
+      "first_action_date": "2025-01-13",
+      "latest_action_date": "2026-02-26",
+      "latest_action_description": "ADVANCED TO THIRD READING",
+      "latest_passage_date": "2025-01-27"
+    },
+    {
+      "id": "ocd-bill/a88757bd-f5df-4125-8c86-e098f0472635",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ny/government",
+        "name": "New York",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/26bb6306-85f0-4d10-bff7-d1cd5bdc0865",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "A 2140",
+      "title": "Relates to fair pricing for low-complexity, routine medical care",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-15T23:20:40.757462+00:00",
+      "updated_at": "2026-04-09T08:40:31.017731+00:00",
+      "openstates_url": "https://openstates.org/ny/bills/2025-2026/A2140/",
+      "first_action_date": "2025-01-15",
+      "latest_action_date": "2026-02-13",
+      "latest_action_description": "PRINT NUMBER 2140A",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/01f0d152-ef7a-4eeb-bdf7-0927abb146a6",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ny/government",
+        "name": "New York",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/8291a233-623d-40e8-882d-21ec2d382c87",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "S 9142",
+      "title": "Relates to the reporting requirements of the statewide fiscal intermediary; repealer",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-06T03:26:33.140649+00:00",
+      "updated_at": "2026-04-09T08:39:36.626654+00:00",
+      "openstates_url": "https://openstates.org/ny/bills/2025-2026/S9142/",
+      "first_action_date": "2026-02-05",
+      "latest_action_date": "2026-02-05",
+      "latest_action_description": "REFERRED TO HEALTH",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 1647,
+    "total_items": 16468
+  }
+}

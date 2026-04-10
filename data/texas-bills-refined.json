@@ -1,0 +1,465 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/e4c2a3be-532e-4088-94ac-85256f768eeb",
+      "session": "892",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:tx/government",
+        "name": "Texas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d6189dbb-417e-429e-ae4b-2ee6747eddc0",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 22",
+      "title": "Relating to the authority of the comptroller to provide funding for the deployment and operation of certain emergency communication equipment.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ALERT SYSTEM (S0523)",
+        "BROADBAND DEVELOPMENT OFFICE (V62YT)",
+        "COMPTROLLER OF PUBLIC ACCOUNTS (V2608)",
+        "Disaster Preparedness & Relief (I0211)",
+        "Safety (I0740)",
+        "State Agencies, Boards & Commissions (I0749)",
+        "State Finances--Management & Control (I0748)",
+        "Utilities--Telecommunications (I0828)"
+      ],
+      "extras": {},
+      "created_at": "2025-08-18T20:54:59.963444+00:00",
+      "updated_at": "2026-04-04T06:18:22.380825+00:00",
+      "openstates_url": "https://openstates.org/tx/bills/892/HB22/",
+      "first_action_date": "2025-08-15",
+      "latest_action_date": "2025-08-22",
+      "latest_action_description": "Referred to Disaster Preparedness & Flooding, Select",
+      "latest_passage_date": "2025-08-21",
+      "risk_analysis": {
+        "rating": "green",
+        "recap": "HB 22 funds emergency communications equipment, not a data center or utility demand driver.",
+        "analysis": "The bill is telecom-focused and does not meaningfully affect data center water or energy requirements."
+      }
+    },
+    {
+      "id": "ocd-bill/77c299c1-041e-48c3-9108-f9a9cc74f9e2",
+      "session": "892",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:tx/government",
+        "name": "Texas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d6189dbb-417e-429e-ae4b-2ee6747eddc0",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2",
+      "title": "Relating to disaster preparedness, response, and recovery, including required training for justices of the peace and responding to mass fatality events; requiring a license; authorizing fees.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "CRIMINAL RECORDS (S0008)",
+        "Disaster Preparedness & Relief (I0211)",
+        "EMERGENCY MANAGEMENT, TEXAS DIVISION OF (VP6FW)",
+        "Electronic Information Systems (I0311)",
+        "FIRE PROTECTION, TEXAS COMMISSION ON (V0035)",
+        "Health--Emergency Services & Personnel (I0384)",
+        "JUSTICE OF THE PEACE (S0133)",
+        "MISSING PERSONS (S0242)",
+        "Occupational Regulation--Other Trades & Professions (I0541)",
+        "STAFF DEVELOPMENT & TRAINING (S0317)",
+        "STATE HEALTH SERVICES, DEPARTMENT OF (V0463)",
+        "Safety (I0740)",
+        "State Agencies, Boards & Commissions (I0749)",
+        "VOLUNTEERS (S1314)"
+      ],
+      "extras": {},
+      "created_at": "2025-08-18T20:54:58.831873+00:00",
+      "updated_at": "2026-04-04T06:17:52.856359+00:00",
+      "openstates_url": "https://openstates.org/tx/bills/892/HB2/",
+      "first_action_date": "2025-08-15",
+      "latest_action_date": "2025-08-21",
+      "latest_action_description": "Laid on the table subject to call",
+      "latest_passage_date": "",
+      "risk_analysis": {
+        "rating": "green",
+        "recap": "HB 2 is disaster preparedness legislation with no explicit data center or energy utility mandates.",
+        "analysis": "The legislation is focused on emergency response training and licensing rather than infrastructure consumption."
+      }
+    },
+    {
+      "id": "ocd-bill/e3b77cbc-8961-47c5-9c6c-7bc8ba526073",
+      "session": "892",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:tx/government",
+        "name": "Texas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/cabf1716-c572-406a-bfdd-1917c11ac629",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 2",
+      "title": "Relating to disaster preparedness, response, and recovery; requiring a license; authorizing fees.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ADMINISTRATIVE HEARINGS, STATE OFFICE OF (V0065)",
+        "AUTOPSIES (S8855)",
+        "Aeronautics (I0010)",
+        "Business & Commerce--Small Business & Minority Business (I0051)",
+        "CONTINUING EDUCATION (S0234)",
+        "CRIMINAL RECORDS (S0008)",
+        "City Government--Employees/Officers (I0061)",
+        "County Government--Employees/Officers (I0095)",
+        "Disaster Preparedness & Relief (I0211)",
+        "ECONOMIC DEVELOPMENT & TOURISM OFFICE, TEXAS (V1109)",
+        "ECONOMIC DEVELOPMENT BANK, TEXAS (V0452)",
+        "EMERGENCY MANAGEMENT, TEXAS DIVISION OF (VP6FW)",
+        "Electronic Information Systems (I0311)",
+        "FEDERAL BUREAU OF INVESTIGATION (V0196)",
+        "FIRE PROTECTION, TEXAS COMMISSION ON (V0035)",
+        "FLOODS (S0327)",
+        "Fire Fighters & Police--General (I0370)",
+        "Health--Emergency Services & Personnel (I0384)",
+        "JUSTICE OF THE PEACE (S0133)",
+        "LOANS (S0117)",
+        "MICRO-BUSINESSES (S0397)",
+        "Minors--Health & Safety (I0533)",
+        "PUBLIC SAFETY, DEPARTMENT OF (V0251)",
+        "RECREATIONAL & CULTURAL FACILITIES (S0286)",
+        "RICE UNIVERSITY (U699W)",
+        "SHERIFFS (S1013)",
+        "STAFF DEVELOPMENT & TRAINING (S0317)",
+        "STATE CLIMATOLOGIST, TEXAS (V1158)",
+        "STATE HEALTH SERVICES, DEPARTMENT OF (V0463)",
+        "STATEWIDE METEOROLOGICAL DATA MONITORING WORK GROUP (VO7OX)",
+        "Safety (I0740)",
+        "State Agencies, Boards & Commissions--Newly Proposed (I0773)",
+        "Sunset--Recommended Reviews (I0018)",
+        "TEXAS TECH UNIVERSITY (U0722)",
+        "TRANSPORTATION, TEXAS DEPARTMENT OF (V8796)",
+        "UNIVERSITY OF TEXAS AT ARLINGTON (U0015)",
+        "UNIVERSITY OF TEXAS AT AUSTIN                                (U0397)",
+        "UPPER GUADALUPE RIVER AUTHORITY (D0069)",
+        "VOLUNTEERS (S1314)",
+        "WATER DEVELOPMENT BOARD, TEXAS (V2481)",
+        "Water--Development (I0875)",
+        "Water--General (I0885)",
+        "YOUTH CAMPS (S2463)"
+      ],
+      "extras": {},
+      "created_at": "2025-08-18T20:53:56.743073+00:00",
+      "updated_at": "2026-04-04T06:17:40.238694+00:00",
+      "openstates_url": "https://openstates.org/tx/bills/892/SB2/",
+      "first_action_date": "2025-08-15",
+      "latest_action_date": "2025-08-27",
+      "latest_action_description": "House appoints conferees-reported",
+      "latest_passage_date": "2025-08-21",
+      "risk_analysis": {
+        "rating": "green",
+        "recap": "SB 2 is another general disaster preparedness and licensing bill, not a data center regulation.",
+        "analysis": "This bill addresses emergency management rather than high water or energy use or data center site requirements."
+      }
+    },
+    {
+      "id": "ocd-bill/af45d80f-4ff1-4a5e-8ec9-6dfa01241cf8",
+      "session": "892",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:tx/government",
+        "name": "Texas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/cabf1716-c572-406a-bfdd-1917c11ac629",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 1",
+      "title": "Relating to campground and youth camp safety.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Disaster Preparedness & Relief (I0211)",
+        "EMERGENCY MANAGEMENT, TEXAS DIVISION OF (VP6FW)",
+        "Electronic Information Systems (I0311)",
+        "FEDERAL EMERGENCY MANAGEMENT AGENCY (V1040)",
+        "FLOODS (S0327)",
+        "HEALTH & HUMAN SERVICES COMMISSION (V0177)",
+        "HEAVEN'S 27 CAMP SAFETY ACT (PR2SY)",
+        "Health--Emergency Services & Personnel (I0384)",
+        "INTERNET (S0130)",
+        "Minors--Health & Safety (I0533)",
+        "Political Subdivisions (I0588)",
+        "RECREATIONAL & CULTURAL FACILITIES (S0286)",
+        "STATE HEALTH SERVICES, DEPARTMENT OF (V0463)",
+        "Safety (I0740)",
+        "YOUTH CAMPS (S2463)"
+      ],
+      "extras": {},
+      "created_at": "2025-08-18T20:54:01.475631+00:00",
+      "updated_at": "2026-03-18T01:34:21.007989+00:00",
+      "openstates_url": "https://openstates.org/tx/bills/892/SB1/",
+      "first_action_date": "2025-08-18",
+      "latest_action_date": "2025-09-05",
+      "latest_action_description": "Effective immediately",
+      "latest_passage_date": "2025-09-04",
+      "risk_analysis": {
+        "rating": "green",
+        "recap": "SB 1 covers campground safety and emergency management, not data center infrastructure.",
+        "analysis": "This is a public safety bill and not a risk driver for water or power demand at a data center site."
+      }
+    },
+    {
+      "id": "ocd-bill/f4aafaf1-4742-4cfd-a0e4-439f756bd2c2",
+      "session": "892",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:tx/government",
+        "name": "Texas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d6189dbb-417e-429e-ae4b-2ee6747eddc0",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 162",
+      "title": "Relating to the exercise of the power of eminent domain by a political subdivision to acquire property outside the political subdivision's boundaries.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "CONDEMNATION (S0063)",
+        "City Government--Annexation (I0063)",
+        "County Government--General (I0096)",
+        "Political Subdivisions (I0588)",
+        "Property Interests--Eminent Domain (I0615)",
+        "Special Districts & Authorities--Miscellaneous (I0770)"
+      ],
+      "extras": {},
+      "created_at": "2025-08-18T20:54:53.879848+00:00",
+      "updated_at": "2026-03-18T01:34:16.145998+00:00",
+      "openstates_url": "https://openstates.org/tx/bills/892/HB162/",
+      "first_action_date": "2025-08-15",
+      "latest_action_date": "2025-08-15",
+      "latest_action_description": "Filed",
+      "latest_passage_date": "",
+      "risk_analysis": {
+        "rating": "green",
+        "recap": "HB 162 covers eminent domain powers for political subdivisions and does not directly address data center utilities.",
+        "analysis": "This property-related bill is not directly tied to water or energy usage at a data center site."
+      }
+    },
+    {
+      "id": "ocd-bill/e00b2272-4104-446a-92f5-6362713dde4f",
+      "session": "892",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:tx/government",
+        "name": "Texas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d6189dbb-417e-429e-ae4b-2ee6747eddc0",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 53",
+      "title": "Relating to the issuance of anticipation notes and certificates of obligation by certain local governments.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "City Government--General (I0060)",
+        "County Government--General (I0096)",
+        "Purchasing--Local (I0644)"
+      ],
+      "extras": {},
+      "created_at": "2025-08-18T20:54:01.184606+00:00",
+      "updated_at": "2026-03-18T01:34:07.971844+00:00",
+      "openstates_url": "https://openstates.org/tx/bills/892/HB53/",
+      "first_action_date": "2025-08-15",
+      "latest_action_date": "2025-08-15",
+      "latest_action_description": "Filed",
+      "latest_passage_date": "",
+      "risk_analysis": {
+        "rating": "green",
+        "recap": "HB 53 concerns local governments issuing obligation notes, unrelated to data center or utility operations.",
+        "analysis": "This finance bill does not impose new water/energy rules on a data center project."
+      }
+    },
+    {
+      "id": "ocd-bill/ec3bf0a7-fb8c-4dbf-af1a-6f8591d4395d",
+      "session": "892",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:tx/government",
+        "name": "Texas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d6189dbb-417e-429e-ae4b-2ee6747eddc0",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 225",
+      "title": "Relating to building codes and standards applicable in the unincorporated areas of a county; authorizing a fee.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "BUILDING CONSTRUCTION (S0426)",
+        "BUILDING INSPECTORS (S0601)",
+        "CONTRACTORS & SUBCONTRACTORS (S2563)",
+        "County Government--General (I0096)",
+        "County Government--Land Use & Zoning (I0098)",
+        "PUBLIC NOTICE (S0264)"
+      ],
+      "extras": {},
+      "created_at": "2025-08-18T20:53:39.759417+00:00",
+      "updated_at": "2026-03-18T01:34:06.496266+00:00",
+      "openstates_url": "https://openstates.org/tx/bills/892/HB225/",
+      "first_action_date": "2025-08-18",
+      "latest_action_date": "2025-08-18",
+      "latest_action_description": "Filed",
+      "latest_passage_date": "",
+      "risk_analysis": {
+        "rating": "yellow",
+        "recap": "HB 225 changes building codes for unincorporated county areas, which could affect future site construction requirements.",
+        "analysis": "Although not data center-specific, construction code changes could indirectly alter permitted infrastructure or costs for a build site."
+      }
+    },
+    {
+      "id": "ocd-bill/e0ad47e0-efad-4711-8cd9-7a2c69f6cbd3",
+      "session": "892",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:tx/government",
+        "name": "Texas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d6189dbb-417e-429e-ae4b-2ee6747eddc0",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HR 148",
+      "title": "Expressing support for a federally owned transcontinental pipeline system that runs from the western coast of the Mexico-United States border to refineries located along the Gulf Coast of Texas and Louisiana.",
+      "classification": [
+        "resolution"
+      ],
+      "subject": [
+        "Oil & Gas (I0545)",
+        "Resolutions--Legislative Policy (I0685)"
+      ],
+      "extras": {},
+      "created_at": "2025-09-02T18:15:53.749839+00:00",
+      "updated_at": "2026-03-18T01:34:05.071899+00:00",
+      "openstates_url": "https://openstates.org/tx/bills/892/HR148/",
+      "first_action_date": "2025-09-02",
+      "latest_action_date": "2025-09-02",
+      "latest_action_description": "Filed",
+      "latest_passage_date": "",
+      "risk_analysis": {
+        "rating": "yellow",
+        "recap": "HR 148 supports a transcontinental pipeline system, which is energy infrastructure adjacent to data center risk concerns.",
+        "analysis": "This resolution may signal state support for energy corridor development, but it does not create immediate water or energy limits for data centers."
+      }
+    },
+    {
+      "id": "ocd-bill/cc5e89a6-7e21-46dc-a305-f45ff0e9970c",
+      "session": "892",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:tx/government",
+        "name": "Texas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/cabf1716-c572-406a-bfdd-1917c11ac629",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SR 82",
+      "title": "Recognizing Irving Fire Department on the occasion of its 100th anniversary.",
+      "classification": [
+        "resolution"
+      ],
+      "subject": [
+        "IRVING FIRE DEPARTMENT (NE8LX)",
+        "Resolutions--Congratulatory & Honorary (I0705)"
+      ],
+      "extras": {},
+      "created_at": "2025-09-03T00:18:41.461182+00:00",
+      "updated_at": "2026-03-18T01:33:53.545579+00:00",
+      "openstates_url": "https://openstates.org/tx/bills/892/SR82/",
+      "first_action_date": "2025-09-02",
+      "latest_action_date": "2025-09-04",
+      "latest_action_description": "Reported enrolled",
+      "latest_passage_date": "2025-09-04",
+      "risk_analysis": {
+        "rating": "green",
+        "recap": "SR 82 is a ceremonial recognition of a fire department and has no utility or data center policy impact.",
+        "analysis": "This resolution is honorary and not related to data center site risk."
+      }
+    },
+    {
+      "id": "ocd-bill/edef0125-c0ae-4c02-bc7f-a3d268563a8c",
+      "session": "892",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:tx/government",
+        "name": "Texas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d6189dbb-417e-429e-ae4b-2ee6747eddc0",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 52",
+      "title": "Relating to the designation and use of certain spaces and facilities according to sex; authorizing a civil penalty and a private civil right of action.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ATTORNEY GENERAL (V2811)",
+        "ATTORNEY'S FEES (S0202)",
+        "BIRTH & DEATH CERTIFICATES (S6418)",
+        "CRIMINAL JUSTICE, TEXAS BOARD OF (V0740)",
+        "CRIMINAL JUSTICE, TEXAS DEPARTMENT OF (V8788)",
+        "Civil Remedies & Liabilities (I0065)",
+        "Corrections--Jails & Prisons (I0092)",
+        "Courts--General (I0160)",
+        "Education--Higher--General (I0231)",
+        "Family--Family Violence (I0353)",
+        "GENDER IDENTITY & EXPRESSION (S0767)",
+        "Political Subdivisions (I0588)",
+        "State Agencies, Boards & Commissions (I0749)",
+        "TEXAS WOMEN'S PRIVACY ACT (PH8L1)",
+        "WOMEN'S SHELTERS (S0049)",
+        "Women (I0925)"
+      ],
+      "extras": {},
+      "created_at": "2025-08-18T20:54:43.215665+00:00",
+      "updated_at": "2026-03-18T01:33:52.593136+00:00",
+      "openstates_url": "https://openstates.org/tx/bills/892/HB52/",
+      "first_action_date": "2025-08-15",
+      "latest_action_date": "2025-08-18",
+      "latest_action_description": "Referred to State Affairs",
+      "latest_passage_date": "",
+      "risk_analysis": {
+        "rating": "green",
+        "recap": "HB 52 addresses facility designation by sex and is unrelated to utility or data center infrastructure.",
+        "analysis": "This bill does not affect water, energy, or data center operations."
+      }
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 414,
+    "total_items": 4140
+  }
+}

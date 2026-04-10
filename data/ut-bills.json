@@ -1,0 +1,486 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/18154cc4-f409-4263-af9d-8ceb59e1ae03",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ut/government",
+        "name": "Utah",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98cb21d7-f3ae-416b-93e7-df3da962aff9",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 148",
+      "title": "General Oversight Amendments",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Administrative Rulemaking",
+        "Administrative Rulemaking and Procedures",
+        "Department of Government Operations",
+        "Government Operations (State Issues)",
+        "Legislative Committees and Task Forces",
+        "Legislative Operations",
+        "Legislative Organization",
+        "Legislative Staff Offices",
+        "Open and Public Meetings"
+      ],
+      "extras": {},
+      "created_at": "2026-01-17T01:15:05.252531+00:00",
+      "updated_at": "2026-03-27T01:45:26.797322+00:00",
+      "openstates_url": "https://openstates.org/ut/bills/2026/SB148/",
+      "first_action_date": "2026-01-16T20:23:52+00:00",
+      "latest_action_date": "2026-03-26T19:47:06+00:00",
+      "latest_action_description": "Governor Signed",
+      "latest_passage_date": "2026-03-06T15:10:03+00:00"
+    },
+    {
+      "id": "ocd-bill/3c787c33-706a-4101-ae1b-a68c6dfd1417",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ut/government",
+        "name": "Utah",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/c7625e7e-dc12-49cf-aa73-fa96c5bf4b11",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 137",
+      "title": "Violent Crime Clearance Rate Amendments",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Appropriations",
+        "Commission on Criminal and Juvenile Justice",
+        "Crimes",
+        "Government Operations (State Issues)",
+        "Law Enforcement and Criminal Justice",
+        "Public Budgeting"
+      ],
+      "extras": {},
+      "created_at": "2026-01-05T19:06:03.810444+00:00",
+      "updated_at": "2026-03-27T01:44:58.110409+00:00",
+      "openstates_url": "https://openstates.org/ut/bills/2026/HB137/",
+      "first_action_date": "2026-01-05T18:40:31+00:00",
+      "latest_action_date": "2026-03-26T19:11:30+00:00",
+      "latest_action_description": "Governor Signed",
+      "latest_passage_date": "2026-03-07T04:08:39+00:00"
+    },
+    {
+      "id": "ocd-bill/e4fa5109-b97d-401c-bdbc-42f2c6dde4b5",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ut/government",
+        "name": "Utah",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98cb21d7-f3ae-416b-93e7-df3da962aff9",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 21",
+      "title": "Geothermal Amendments",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Energy",
+        "Natural Resources",
+        "Public Lands",
+        "State Engineer",
+        "Trust Lands",
+        "Water",
+        "Water Rights"
+      ],
+      "extras": {},
+      "created_at": "2025-12-05T00:58:54.717096+00:00",
+      "updated_at": "2026-03-27T01:44:13.628059+00:00",
+      "openstates_url": "https://openstates.org/ut/bills/2026/SB21/",
+      "first_action_date": "2025-10-16T15:47:36+00:00",
+      "latest_action_date": "2026-03-26T19:42:54+00:00",
+      "latest_action_description": "Governor Signed",
+      "latest_passage_date": "2026-03-06T21:08:25+00:00"
+    },
+    {
+      "id": "ocd-bill/957c805b-aa8c-4334-85f4-267046f73c9e",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ut/government",
+        "name": "Utah",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98cb21d7-f3ae-416b-93e7-df3da962aff9",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 121",
+      "title": "Medical Cannabis Program Amendments",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Agriculture",
+        "Agriculture & Food",
+        "Controlled Substances",
+        "Health and Human Services",
+        "Legislative Operations",
+        "Medical Cannabis",
+        "Sunsets and Repealers"
+      ],
+      "extras": {},
+      "created_at": "2026-01-13T01:10:27.016495+00:00",
+      "updated_at": "2026-03-27T01:43:32.588823+00:00",
+      "openstates_url": "https://openstates.org/ut/bills/2026/SB121/",
+      "first_action_date": "2026-01-12T19:00:18+00:00",
+      "latest_action_date": "2026-03-26T19:45:46+00:00",
+      "latest_action_description": "Governor Signed",
+      "latest_passage_date": "2026-02-19T21:29:31+00:00"
+    },
+    {
+      "id": "ocd-bill/ac78e6c4-697a-477b-ba68-4b663d0477b4",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ut/government",
+        "name": "Utah",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98cb21d7-f3ae-416b-93e7-df3da962aff9",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 197",
+      "title": "Transportation Funding and Governance Amendments",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Legislative Committees and Task Forces",
+        "Legislative Operations",
+        "Public Transit",
+        "Public Transit Districts",
+        "Revenue and Taxation",
+        "Sales and Use Tax",
+        "State Tax Commission",
+        "Transit Transportation Investment Fund",
+        "Transportation",
+        "Transportation Funding"
+      ],
+      "extras": {},
+      "created_at": "2026-01-26T19:22:46.301654+00:00",
+      "updated_at": "2026-03-27T01:43:02.532156+00:00",
+      "openstates_url": "https://openstates.org/ut/bills/2026/SB197/",
+      "first_action_date": "2026-01-26T17:25:13+00:00",
+      "latest_action_date": "2026-03-26T19:48:09+00:00",
+      "latest_action_description": "Governor Signed",
+      "latest_passage_date": "2026-03-10T15:38:03+00:00"
+    },
+    {
+      "id": "ocd-bill/d692e4a3-f20c-4b0a-bc2e-0731e2f50ce8",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ut/government",
+        "name": "Utah",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/c7625e7e-dc12-49cf-aa73-fa96c5bf4b11",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 179",
+      "title": "Milk Amendments",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Administrative Rulemaking",
+        "Administrative Rulemaking and Procedures",
+        "Agriculture & Food",
+        "Animal Food Products",
+        "Department of Health and Human Services",
+        "Food",
+        "Food Quality",
+        "Health and Human Services"
+      ],
+      "extras": {},
+      "created_at": "2026-01-08T01:08:27.926933+00:00",
+      "updated_at": "2026-03-27T01:42:25.607836+00:00",
+      "openstates_url": "https://openstates.org/ut/bills/2026/HB179/",
+      "first_action_date": "2026-01-07T21:35:11+00:00",
+      "latest_action_date": "2026-03-26T19:06:51+00:00",
+      "latest_action_description": "Governor Signed",
+      "latest_passage_date": "2026-03-07T07:16:36+00:00"
+    },
+    {
+      "id": "ocd-bill/78a70078-1667-4dc8-9ad6-daba2474ad71",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ut/government",
+        "name": "Utah",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/c7625e7e-dc12-49cf-aa73-fa96c5bf4b11",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 122",
+      "title": "Pregnant and Postpartum Inmate Amendments",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Correctional Facilities",
+        "Department of Corrections",
+        "Health Care",
+        "Inmates",
+        "Law Enforcement and Criminal Justice",
+        "Substance Abuse"
+      ],
+      "extras": {},
+      "created_at": "2025-12-31T01:04:55.282832+00:00",
+      "updated_at": "2026-03-27T01:41:37.338999+00:00",
+      "openstates_url": "https://openstates.org/ut/bills/2026/HB122/",
+      "first_action_date": "2025-12-30T23:33:43+00:00",
+      "latest_action_date": "2026-03-26T19:09:30+00:00",
+      "latest_action_description": "Governor Signed",
+      "latest_passage_date": "2026-02-20T19:20:43+00:00"
+    },
+    {
+      "id": "ocd-bill/dd7e9cb9-b8d5-4144-83a3-1d6b031fe99a",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ut/government",
+        "name": "Utah",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/c7625e7e-dc12-49cf-aa73-fa96c5bf4b11",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 3",
+      "title": "Appropriations Adjustments",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Appropriations",
+        "Business",
+        "Colleges and Universities",
+        "Cultural and Community Engagement",
+        "Department of Commerce",
+        "Department of Corrections",
+        "Department of Cultural and Community Engagement",
+        "Department of Environmental Quality",
+        "Department of Government Operations",
+        "Department of Health and Human Services",
+        "Department of Natural Resources",
+        "Department of Public Safety",
+        "Department of Transportation",
+        "Department of Veterans and Military Affairs",
+        "Department of Workforce Services",
+        "Division of Finance",
+        "Education",
+        "Environment",
+        "Government Operations (State Issues)",
+        "Health and Human Services",
+        "Higher Education",
+        "Income Tax",
+        "Law Enforcement and Criminal Justice",
+        "Legislative Operations",
+        "Natural Resources",
+        "Public Budgeting",
+        "Public Funds and Accounts",
+        "Transportation",
+        "Veterans and Military Affairs",
+        "Workforce Services"
+      ],
+      "extras": {},
+      "created_at": "2026-03-07T07:39:29.635946+00:00",
+      "updated_at": "2026-03-27T01:40:20.406597+00:00",
+      "openstates_url": "https://openstates.org/ut/bills/2026/HB3/",
+      "first_action_date": "2026-03-07T04:05:21+00:00",
+      "latest_action_date": "2026-03-26T19:01:48+00:00",
+      "latest_action_description": "Governor Line Item Veto",
+      "latest_passage_date": "2026-03-07T07:16:36+00:00"
+    },
+    {
+      "id": "ocd-bill/60e301cf-5302-463f-b306-66b33d34b22f",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ut/government",
+        "name": "Utah",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98cb21d7-f3ae-416b-93e7-df3da962aff9",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 8",
+      "title": "State Agency and Higher Education Compensation Appropriations",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Agriculture & Food",
+        "Appropriations",
+        "Business",
+        "Cultural and Community Engagement",
+        "Department of Agriculture and Food",
+        "Department of Alcoholic Beverage Services",
+        "Department of Commerce",
+        "Department of Corrections",
+        "Department of Cultural and Community Engagement",
+        "Department of Environmental Quality",
+        "Department of Financial Institutions",
+        "Department of Health and Human Services",
+        "Department of Natural Resources",
+        "Department of Public Safety",
+        "Department of Transportation",
+        "Department of Veterans and Military Affairs",
+        "Department of Workforce Services",
+        "Economic Development",
+        "Education",
+        "Environment",
+        "Government Operations (State Issues)",
+        "Governor's Office of Economic Opportunity",
+        "Health and Human Services",
+        "Higher Education",
+        "Insurance Department",
+        "Law Enforcement and Criminal Justice",
+        "Natural Resources",
+        "Public Budgeting",
+        "Public Funds and Accounts",
+        "Transportation",
+        "Veterans and Military Affairs",
+        "Workforce Services"
+      ],
+      "extras": {},
+      "created_at": "2026-01-16T19:13:14.794961+00:00",
+      "updated_at": "2026-03-27T01:40:18.975715+00:00",
+      "openstates_url": "https://openstates.org/ut/bills/2026/SB8/",
+      "first_action_date": "2026-01-16T17:03:23+00:00",
+      "latest_action_date": "2026-03-26T19:51:10+00:00",
+      "latest_action_description": "Governor Signed",
+      "latest_passage_date": "2026-03-05T00:25:01+00:00"
+    },
+    {
+      "id": "ocd-bill/359a361a-1bfe-43df-945f-9621fc5bb2ab",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ut/government",
+        "name": "Utah",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98cb21d7-f3ae-416b-93e7-df3da962aff9",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 3",
+      "title": "Current Fiscal Year Supplemental Appropriations",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Alcohol",
+        "Appropriations",
+        "Arts",
+        "Attorney General",
+        "Bureau of Criminal Identification",
+        "Business",
+        "Commission on Criminal and Juvenile Justice",
+        "Community Development",
+        "Constitutional Officers",
+        "Correctional Facilities",
+        "Courts",
+        "Cultural and Community Engagement",
+        "Department of Alcoholic Beverage Services",
+        "Department of Commerce",
+        "Department of Corrections",
+        "Department of Cultural and Community Engagement",
+        "Department of Environmental Quality",
+        "Department of Financial Institutions",
+        "Department of Government Operations",
+        "Department of Health and Human Services",
+        "Department of Natural Resources",
+        "Department of Public Safety",
+        "Department of Transportation",
+        "Department of Veterans and Military Affairs",
+        "Department of Workforce Services",
+        "Division of Child and Family Services",
+        "Division of Finance",
+        "Division of Human Resource Management",
+        "Division of Indian Affairs",
+        "Division of Purchasing and General Services",
+        "Division of Risk Management",
+        "Drinking Water",
+        "Economic Development",
+        "Education",
+        "Environment",
+        "Facilities, Construction, and Management",
+        "Government Operations (State Issues)",
+        "Governor's Office of Economic Opportunity",
+        "Health and Human Services",
+        "Higher Education",
+        "Homelessness",
+        "Housing",
+        "Insurance Department",
+        "Judicial Administration",
+        "Judicial Operations",
+        "Juvenile Justice Services",
+        "Law Enforcement and Criminal Justice",
+        "Legislative Operations",
+        "Legislative Organization",
+        "Legislative Staff Offices",
+        "License Plates",
+        "Motor Vehicles",
+        "Museums",
+        "Natural Resources",
+        "Peace Officers",
+        "Public Budgeting",
+        "Public Funds and Accounts",
+        "Rehabilitation Services",
+        "Revenue and Taxation",
+        "State Tax Commission",
+        "State Treasurer",
+        "Substance Abuse and Mental Health",
+        "Telehealth",
+        "Tourism",
+        "Transportation",
+        "Unemployment Insurance",
+        "Utah Highway Patrol",
+        "Utah National Guard",
+        "Veterans and Military Affairs",
+        "Water",
+        "Workforce Services"
+      ],
+      "extras": {},
+      "created_at": "2026-03-02T01:34:06.823184+00:00",
+      "updated_at": "2026-03-27T01:39:58.005850+00:00",
+      "openstates_url": "https://openstates.org/ut/bills/2026/SB3/",
+      "first_action_date": "2026-03-01T19:15:10+00:00",
+      "latest_action_date": "2026-03-26T19:42:16+00:00",
+      "latest_action_description": "Governor Signed",
+      "latest_passage_date": "2026-03-05T00:25:01+00:00"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 284,
+    "total_items": 2834
+  }
+}

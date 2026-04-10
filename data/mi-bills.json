@@ -1,0 +1,330 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/09ded32f-30dd-42d0-baa4-d0d57cfeb4a4",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mi/government",
+        "name": "Michigan",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d387cf69-631c-4013-bb32-4a00c848fcc4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4037",
+      "title": "Records: health; health information exchange; establish certain requirements to operate a health data utility. Amends secs. 2501 & 2505 of 1978 PA 368 (MCL 333.2501 & 333.2505) & adds sec. 2508.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Health: code",
+        "Health: other",
+        "Records: health",
+        "State agencies (existing): technology, management, and budget"
+      ],
+      "extras": {},
+      "created_at": "2025-01-29T20:38:45.384867+00:00",
+      "updated_at": "2026-04-09T00:49:59.551373+00:00",
+      "openstates_url": "https://openstates.org/mi/bills/2025-2026/HB4037/",
+      "first_action_date": "2025-01-29",
+      "latest_action_date": "2025-05-21",
+      "latest_action_description": "referred to second reading",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/a38c9473-f72b-411a-a270-5e36072d9578",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mi/government",
+        "name": "Michigan",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d387cf69-631c-4013-bb32-4a00c848fcc4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4413",
+      "title": "Mental health: other; hospital evaluations for assisted outpatient treatment; expand. Amends secs. 206a & 429 of 1974 PA 258 (MCL 330.1206a & 330.1429).",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Mental health: other",
+        "Mental health: patients",
+        "Mental health: recipient rights"
+      ],
+      "extras": {},
+      "created_at": "2025-05-01T18:57:27.716834+00:00",
+      "updated_at": "2026-04-07T22:15:43.856886+00:00",
+      "openstates_url": "https://openstates.org/mi/bills/2025-2026/HB4413/",
+      "first_action_date": "2025-05-01",
+      "latest_action_date": "2026-03-24",
+      "latest_action_description": "REFERRED TO COMMITTEE ON HEALTH POLICY",
+      "latest_passage_date": "2026-03-24"
+    },
+    {
+      "id": "ocd-bill/0283e65b-2975-4c78-9f5f-044115a041ef",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mi/government",
+        "name": "Michigan",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7cf9891c-6c1f-45ec-b24c-7aa9be45e9cc",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 603",
+      "title": "Corrections: parole; certain voting information on release; require department of corrections to provide. Amends secs. 34c & 35 of 1953 PA 232 (MCL 791.234c & 791.235).",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Corrections: parole",
+        "Corrections: prisoners",
+        "Elections: registration",
+        "Elections: voters"
+      ],
+      "extras": {},
+      "created_at": "2025-10-09T18:21:41.069094+00:00",
+      "updated_at": "2026-04-07T22:15:17.861671+00:00",
+      "openstates_url": "https://openstates.org/mi/bills/2025-2026/SB603/",
+      "first_action_date": "2025-10-09",
+      "latest_action_date": "2025-10-09",
+      "latest_action_description": "REFERRED TO COMMITTEE ON ELECTIONS AND ETHICS",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/c3023fb6-43ee-48e4-9e72-8fb025370116",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mi/government",
+        "name": "Michigan",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d387cf69-631c-4013-bb32-4a00c848fcc4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 5206",
+      "title": "Occupations: cosmetologists; cut and color license option; provide for. Amends secs. 1201 & 1203a of 1980 PA 299 (MCL 339.1201 & 339.1203a) & adds sec. 1207a.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Occupations: cosmetologists",
+        "Occupations: individual licensing and registration"
+      ],
+      "extras": {},
+      "created_at": "2025-11-04T22:57:33.819797+00:00",
+      "updated_at": "2026-04-07T22:15:04.008148+00:00",
+      "openstates_url": "https://openstates.org/mi/bills/2025-2026/HB5206/",
+      "first_action_date": "2025-11-04",
+      "latest_action_date": "2025-12-18",
+      "latest_action_description": "recommendation concurred in",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/f13539d7-298d-45f8-9637-188e65ea2acd",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mi/government",
+        "name": "Michigan",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7cf9891c-6c1f-45ec-b24c-7aa9be45e9cc",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 727",
+      "title": "Energy: alternative sources; renewable energy system standards; modify. Amends secs. 29 & 51 of 2008 PA 295 (MCL 460.1029 & 460.1051).",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Energy: alternative sources"
+      ],
+      "extras": {},
+      "created_at": "2025-12-03T19:25:39.880039+00:00",
+      "updated_at": "2026-04-07T22:14:26.199983+00:00",
+      "openstates_url": "https://openstates.org/mi/bills/2025-2026/SB727/",
+      "first_action_date": "2025-12-03",
+      "latest_action_date": "2025-12-03",
+      "latest_action_description": "REFERRED TO COMMITTEE ON GOVERNMENT OPERATIONS",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/9e6b47af-5682-495b-ad5a-0154f13f99c5",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mi/government",
+        "name": "Michigan",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d387cf69-631c-4013-bb32-4a00c848fcc4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4060",
+      "title": "Education: financing; requirements concerning taxes levied for area career and technical education programs; modify. Amends secs. 681 & 684 of 1976 PA 451 (MCL 380.681 & 380.684).",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Education: career and technical",
+        "Education: financing",
+        "Education: intermediate school districts"
+      ],
+      "extras": {},
+      "created_at": "2025-02-04T20:39:43.177456+00:00",
+      "updated_at": "2026-04-07T22:14:10.960432+00:00",
+      "openstates_url": "https://openstates.org/mi/bills/2025-2026/HB4060/",
+      "first_action_date": "2025-02-04",
+      "latest_action_date": "2025-03-18",
+      "latest_action_description": "REFERRED TO COMMITTEE ON EDUCATION",
+      "latest_passage_date": "2025-03-18"
+    },
+    {
+      "id": "ocd-bill/a7c1ec1a-4d0f-426a-b8bd-f05163b64e9a",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mi/government",
+        "name": "Michigan",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d387cf69-631c-4013-bb32-4a00c848fcc4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4294",
+      "title": "State management: purchasing; award of state contracts to persons that do not possess fair paycheck workplace certificate; prohibit. Amends secs. 241 & 261 of 1984 PA 431 (MCL 18.1241 & 18.1261).   TIE BAR WITH: HB 4295'25",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Labor: fair employment practices",
+        "Labor: hours and wages",
+        "State management: purchasing"
+      ],
+      "extras": {},
+      "created_at": "2025-03-25T18:51:23.260384+00:00",
+      "updated_at": "2026-04-07T22:13:41.709950+00:00",
+      "openstates_url": "https://openstates.org/mi/bills/2025-2026/HB4294/",
+      "first_action_date": "2025-03-25",
+      "latest_action_date": "2025-03-26",
+      "latest_action_description": "bill electronically reproduced 03/25/2025",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/6810abb3-c2d1-43c3-a513-7e8c0edd752e",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mi/government",
+        "name": "Michigan",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7cf9891c-6c1f-45ec-b24c-7aa9be45e9cc",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 255",
+      "title": "Criminal procedure: other; violation of tampering with utility shut-off procedures; decriminalize under certain circumstances. Amends title & secs. 282 & 383a of 1931 PA 328 (MCL 750.282 & 750.383a).",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Crimes: other",
+        "Criminal procedure: other",
+        "Public utilities: consumer services",
+        "Public utilities: public service commission",
+        "Water supply: systems and utilities"
+      ],
+      "extras": {},
+      "created_at": "2025-04-23T16:52:39.296501+00:00",
+      "updated_at": "2026-04-07T22:13:37.194316+00:00",
+      "openstates_url": "https://openstates.org/mi/bills/2025-2026/SB255/",
+      "first_action_date": "2025-04-23",
+      "latest_action_date": "2025-11-05",
+      "latest_action_description": "REFERRED TO COMMITTEE OF THE WHOLE",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/2cdea789-dc6b-427c-ba5c-05b5af842410",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mi/government",
+        "name": "Michigan",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7cf9891c-6c1f-45ec-b24c-7aa9be45e9cc",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 558",
+      "title": "Economic development: Michigan strategic fund; aerospace and defense incentive program; create and administer. Amends title & secs. 7 & 9 of 1984 PA 270 (MCL 125.2007 & 125.2009) & adds sec. 88v.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Aeronautics: other",
+        "Corporate income tax: credits",
+        "Economic development: Michigan strategic fund",
+        "Individual income tax: credit"
+      ],
+      "extras": {},
+      "created_at": "2025-09-18T19:18:29.849934+00:00",
+      "updated_at": "2026-04-07T22:13:28.339313+00:00",
+      "openstates_url": "https://openstates.org/mi/bills/2025-2026/SB558/",
+      "first_action_date": "2025-09-18",
+      "latest_action_date": "2025-09-18",
+      "latest_action_description": "REFERRED TO COMMITTEE ON FINANCE, INSURANCE, AND CONSUMER PROTECTION",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/83e8ad26-718d-490f-ad07-c00ef2b82abd",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mi/government",
+        "name": "Michigan",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7cf9891c-6c1f-45ec-b24c-7aa9be45e9cc",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 256",
+      "title": "Criminal procedure: sentencing guidelines; sentencing guidelines for tampering with utility shutoff to residence; amend to reflect decriminalization of certain acts. Amends secs. 16o & 16s, ch. XVII of 1927 PA 175 (MCL 777.16o & 777.16s).   TIE BAR WITH: SB 0255'25",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Criminal procedure: sentencing guidelines"
+      ],
+      "extras": {},
+      "created_at": "2025-04-23T16:53:25.559862+00:00",
+      "updated_at": "2026-04-07T22:13:16.334632+00:00",
+      "openstates_url": "https://openstates.org/mi/bills/2025-2026/SB256/",
+      "first_action_date": "2025-04-23",
+      "latest_action_date": "2025-11-05",
+      "latest_action_description": "REFERRED TO COMMITTEE OF THE WHOLE",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 274,
+    "total_items": 2734
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/0d1c4e50-f79d-477b-a7b2-ef5652a15929",
+      "session": "2026F",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ar/government",
+        "name": "Arkansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9e2c94af-8e67-438b-8a47-7eac48112403",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HR 1016",
+      "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO CREATE THE ARKANSAS PROPERTY RIGHTS PROTECTION FROM SHARIA LAW ACT AND TO REGULATE CERTAIN RESIDENTIAL PROPERTY INTERESTS CONTROLLED BY CERTAIN ENTITIES.",
+      "classification": [
+        "resolution"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-09T00:26:18.081007+00:00",
+      "updated_at": "2026-04-09T21:25:34.314935+00:00",
+      "openstates_url": "https://openstates.org/ar/bills/2026F/HR1016/",
+      "first_action_date": "2026-04-08T21:49:55+00:00",
+      "latest_action_date": "2026-04-09T21:08:55+00:00",
+      "latest_action_description": "Read the first time, rules suspended, read the second time and referred to the Committee on HOUSE RULES",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/6434c3b8-a2ea-49f7-ba2c-9563c1d46213",
+      "session": "2026F",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ar/government",
+        "name": "Arkansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/f80b9e71-0c25-4b8b-a87d-7266a3f84313",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SR 21",
+      "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO CREATE THE ARKANSAS PROPERTY RIGHTS PROTECTION FROM SHARIA LAW ACT AND TO REGULATE CERTAIN RESIDENTIAL PROPERTY INTERESTS CONTROLLED BY CERTAIN ENTITIES.",
+      "classification": [
+        "resolution"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-09T00:25:18.835320+00:00",
+      "updated_at": "2026-04-09T15:25:21.380195+00:00",
+      "openstates_url": "https://openstates.org/ar/bills/2026F/SR21/",
+      "first_action_date": "2026-04-08T21:49:54+00:00",
+      "latest_action_date": "2026-04-09T15:07:41+00:00",
+      "latest_action_description": "Read the first time, rules suspended, read the second time and placed on the calendar.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/021859fc-82d0-46f2-b0c1-16d78ffa54e0",
+      "session": "2026F",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ar/government",
+        "name": "Arkansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9e2c94af-8e67-438b-8a47-7eac48112403",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1073",
+      "title": "AN ACT FOR THE ARKANSAS PUBLIC SERVICE COMMISSION APPROPRIATION FOR THE 2026-2027 FISCAL YEAR.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-02T00:26:37.427760+00:00",
+      "updated_at": "2026-04-09T00:26:25.118635+00:00",
+      "openstates_url": "https://openstates.org/ar/bills/2026F/HB1073/",
+      "first_action_date": "2026-04-01T21:33:26+00:00",
+      "latest_action_date": "2026-04-08T21:55:56+00:00",
+      "latest_action_description": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/3f49d93b-3232-43d5-8a95-43b71438e864",
+      "session": "2026F",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ar/government",
+        "name": "Arkansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9e2c94af-8e67-438b-8a47-7eac48112403",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1062",
+      "title": "AN ACT FOR THE DEPARTMENT OF HUMAN SERVICES - MEDICAID TOBACCO SETTLEMENT PROGRAM APPROPRIATION FOR THE 2026-2027 FISCAL YEAR.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-02T00:26:38.145279+00:00",
+      "updated_at": "2026-04-09T00:26:22.897854+00:00",
+      "openstates_url": "https://openstates.org/ar/bills/2026F/HB1062/",
+      "first_action_date": "2026-04-01T21:12:22+00:00",
+      "latest_action_date": "2026-04-08T21:53:14+00:00",
+      "latest_action_description": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/7d344fe8-6930-4068-90cf-aea7bd5594f8",
+      "session": "2026F",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ar/government",
+        "name": "Arkansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9e2c94af-8e67-438b-8a47-7eac48112403",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1054",
+      "title": "AN ACT FOR THE DEPARTMENT OF EDUCATION - DIVISION OF CAREER AND TECHNICAL EDUCATION APPROPRIATION FOR THE 2026-2027 FISCAL YEAR.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-02T00:25:55.937063+00:00",
+      "updated_at": "2026-04-09T00:26:22.315679+00:00",
+      "openstates_url": "https://openstates.org/ar/bills/2026F/HB1054/",
+      "first_action_date": "2026-04-01T20:58:26+00:00",
+      "latest_action_date": "2026-04-08T21:51:08+00:00",
+      "latest_action_description": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/587cba8f-ed59-4d5f-8432-e2312708bfee",
+      "session": "2026F",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ar/government",
+        "name": "Arkansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9e2c94af-8e67-438b-8a47-7eac48112403",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1058",
+      "title": "AN ACT FOR THE UAMS - REYNOLDS CENTER ON AGING, BOOZMAN COLLEGE OF PUBLIC HEALTH, ARK. BIOSCIENCES INSTITUTE, & THE AREA HEALTH ED. CENTER IN HELENA APPROPRIATION FOR THE 2026-2027 FISCAL YEAR.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-02T00:26:11.348219+00:00",
+      "updated_at": "2026-04-09T00:26:21.384119+00:00",
+      "openstates_url": "https://openstates.org/ar/bills/2026F/HB1058/",
+      "first_action_date": "2026-04-01T21:05:00+00:00",
+      "latest_action_date": "2026-04-08T21:52:12+00:00",
+      "latest_action_description": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/9287939b-1f8a-42f2-a2a6-67e8c0597a48",
+      "session": "2026F",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ar/government",
+        "name": "Arkansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9e2c94af-8e67-438b-8a47-7eac48112403",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1078",
+      "title": "AN ACT FOR THE DEPARTMENT OF THE MILITARY APPROPRIATION FOR THE 2026-2027 FISCAL YEAR.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-02T21:23:51.293733+00:00",
+      "updated_at": "2026-04-09T00:26:20.450882+00:00",
+      "openstates_url": "https://openstates.org/ar/bills/2026F/HB1078/",
+      "first_action_date": "2026-04-02T18:21:12+00:00",
+      "latest_action_date": "2026-04-08T21:57:13+00:00",
+      "latest_action_description": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/126e6513-3773-461e-a03a-22c14af7e6ad",
+      "session": "2026F",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ar/government",
+        "name": "Arkansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9e2c94af-8e67-438b-8a47-7eac48112403",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1021",
+      "title": "AN ACT FOR THE ARKANSAS STATE UNIVERSITY - MID-SOUTH APPROPRIATION FOR THE 2026-2027 FISCAL YEAR.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-02T00:26:41.680875+00:00",
+      "updated_at": "2026-04-09T00:26:19.861193+00:00",
+      "openstates_url": "https://openstates.org/ar/bills/2026F/HB1021/",
+      "first_action_date": "2026-04-01T19:54:57+00:00",
+      "latest_action_date": "2026-04-08T21:43:26+00:00",
+      "latest_action_description": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/d848e9d7-85e7-45ac-861a-919e1d11b72d",
+      "session": "2026F",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ar/government",
+        "name": "Arkansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9e2c94af-8e67-438b-8a47-7eac48112403",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1019",
+      "title": "AN ACT FOR THE COSSATOT COMMUNITY COLLEGE OF THE UNIVERSITY OF ARKANSAS APPROPRIATION FOR THE 2026-2027 FISCAL YEAR.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-02T00:26:42.178184+00:00",
+      "updated_at": "2026-04-09T00:26:15.742448+00:00",
+      "openstates_url": "https://openstates.org/ar/bills/2026F/HB1019/",
+      "first_action_date": "2026-04-01T19:50:58+00:00",
+      "latest_action_date": "2026-04-08T21:42:57+00:00",
+      "latest_action_description": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/87084e57-b360-47c9-96ac-3c60fcd0a171",
+      "session": "2026F",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ar/government",
+        "name": "Arkansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9e2c94af-8e67-438b-8a47-7eac48112403",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1071",
+      "title": "AN ACT FOR THE HENDERSON STATE UNIVERSITY APPROPRIATION FOR THE 2026-2027 FISCAL YEAR.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-02T00:25:54.817195+00:00",
+      "updated_at": "2026-04-09T00:26:15.160844+00:00",
+      "openstates_url": "https://openstates.org/ar/bills/2026F/HB1071/",
+      "first_action_date": "2026-04-01T21:29:59+00:00",
+      "latest_action_date": "2026-04-08T21:55:30+00:00",
+      "latest_action_description": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 121,
+    "total_items": 1203
+  }
+}

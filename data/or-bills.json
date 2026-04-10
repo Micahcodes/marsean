@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/7d70623d-e9dc-4664-a233-843cae6baa28",
+      "session": "2026R1",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:or/government",
+        "name": "Oregon",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bfb1aaad-4896-4399-b12f-64b8b4ab1b30",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 1507",
+      "title": "Relating to revenue; and prescribing an effective date.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-29T19:15:19.931431+00:00",
+      "updated_at": "2026-04-10T00:54:18.741771+00:00",
+      "openstates_url": "https://openstates.org/or/bills/2026R1/SB1507/",
+      "first_action_date": "2026-02-02T15:32:59+00:00",
+      "latest_action_date": "2026-04-09T23:10:00+00:00",
+      "latest_action_description": "Governor signed.",
+      "latest_passage_date": "2026-03-04T17:42:52+00:00"
+    },
+    {
+      "id": "ocd-bill/8fa5e2f2-702d-49b3-a737-942b33740293",
+      "session": "2026R1",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:or/government",
+        "name": "Oregon",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bfb1aaad-4896-4399-b12f-64b8b4ab1b30",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 1601",
+      "title": "Relating to state financial administration; and declaring an emergency.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-07T02:52:40.360807+00:00",
+      "updated_at": "2026-04-08T16:54:27.092467+00:00",
+      "openstates_url": "https://openstates.org/or/bills/2026R1/SB1601/",
+      "first_action_date": "2026-02-09T18:34:14+00:00",
+      "latest_action_date": "2026-04-07T16:32:00+00:00",
+      "latest_action_description": "Governor signed.",
+      "latest_passage_date": "2026-03-10T19:28:36+00:00"
+    },
+    {
+      "id": "ocd-bill/35c6bda2-1f89-4b79-95f0-2785fd8eb1d7",
+      "session": "2026R1",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:or/government",
+        "name": "Oregon",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bfb1aaad-4896-4399-b12f-64b8b4ab1b30",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 5701",
+      "title": "Relating to state financial administration; and declaring an emergency.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-07T02:54:14.710205+00:00",
+      "updated_at": "2026-04-08T16:52:53.766396+00:00",
+      "openstates_url": "https://openstates.org/or/bills/2026R1/SB5701/",
+      "first_action_date": "2026-02-09T18:34:14+00:00",
+      "latest_action_date": "2026-04-07T16:32:00+00:00",
+      "latest_action_description": "Governor signed.",
+      "latest_passage_date": "2026-03-10T19:28:36+00:00"
+    },
+    {
+      "id": "ocd-bill/cd1eaf26-7f5d-4a02-9b15-aeccf5eb01e5",
+      "session": "2026R1",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:or/government",
+        "name": "Oregon",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bfb1aaad-4896-4399-b12f-64b8b4ab1b30",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 1517",
+      "title": "Relating to civil litigation; and declaring an emergency.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-29T19:16:09.767813+00:00",
+      "updated_at": "2026-04-08T16:52:52.013719+00:00",
+      "openstates_url": "https://openstates.org/or/bills/2026R1/SB1517/",
+      "first_action_date": "2026-02-02T15:32:59+00:00",
+      "latest_action_date": "2026-04-07T16:32:00+00:00",
+      "latest_action_description": "Governor signed.",
+      "latest_passage_date": "2026-03-10T19:28:36+00:00"
+    },
+    {
+      "id": "ocd-bill/f3e27fbc-85b0-459e-8430-5c287cf5a96c",
+      "session": "2026R1",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:or/government",
+        "name": "Oregon",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bfb1aaad-4896-4399-b12f-64b8b4ab1b30",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 5702",
+      "title": "Relating to state financial administration; and declaring an emergency.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-07T02:53:37.912981+00:00",
+      "updated_at": "2026-04-08T16:52:42.578628+00:00",
+      "openstates_url": "https://openstates.org/or/bills/2026R1/SB5702/",
+      "first_action_date": "2026-02-09T18:34:14+00:00",
+      "latest_action_date": "2026-04-07T16:32:00+00:00",
+      "latest_action_description": "Governor signed.",
+      "latest_passage_date": "2026-03-10T19:28:36+00:00"
+    },
+    {
+      "id": "ocd-bill/c67febd5-9eb9-4163-af75-109539085e46",
+      "session": "2026R1",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:or/government",
+        "name": "Oregon",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9b08e1e9-5a70-48c1-983d-508a3281c378",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4121",
+      "title": "Relating to emergency management.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-29T19:16:11.372958+00:00",
+      "updated_at": "2026-04-07T22:54:51.771031+00:00",
+      "openstates_url": "https://openstates.org/or/bills/2026R1/HB4121/",
+      "first_action_date": "2026-02-02T16:50:03+00:00",
+      "latest_action_date": "2026-04-07T22:30:54+00:00",
+      "latest_action_description": "Governor signed.",
+      "latest_passage_date": "2026-03-10T20:49:13+00:00"
+    },
+    {
+      "id": "ocd-bill/13161044-14f6-458f-8fdb-23a07869eecc",
+      "session": "2026R1",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:or/government",
+        "name": "Oregon",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9b08e1e9-5a70-48c1-983d-508a3281c378",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4040",
+      "title": "Relating to health care; and declaring an emergency.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-29T19:16:11.164952+00:00",
+      "updated_at": "2026-04-07T22:53:56.407509+00:00",
+      "openstates_url": "https://openstates.org/or/bills/2026R1/HB4040/",
+      "first_action_date": "2026-02-02T16:50:03+00:00",
+      "latest_action_date": "2026-04-07T22:30:54+00:00",
+      "latest_action_description": "Governor signed.",
+      "latest_passage_date": "2026-03-10T20:49:13+00:00"
+    },
+    {
+      "id": "ocd-bill/ed6f4bab-0ae2-4ce6-8688-da801d6aaf45",
+      "session": "2026R1",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:or/government",
+        "name": "Oregon",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9b08e1e9-5a70-48c1-983d-508a3281c378",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4153",
+      "title": "Relating to farm stores.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-29T19:15:54.683620+00:00",
+      "updated_at": "2026-04-07T22:53:28.645436+00:00",
+      "openstates_url": "https://openstates.org/or/bills/2026R1/HB4153/",
+      "first_action_date": "2026-02-02T16:50:03+00:00",
+      "latest_action_date": "2026-04-07T22:30:54+00:00",
+      "latest_action_description": "Governor signed.",
+      "latest_passage_date": "2026-03-10T20:49:13+00:00"
+    },
+    {
+      "id": "ocd-bill/2f6de0b5-7794-4aa5-87e6-a0daff4a06f1",
+      "session": "2026R1",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:or/government",
+        "name": "Oregon",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9b08e1e9-5a70-48c1-983d-508a3281c378",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4178",
+      "title": "Relating to rounding procedures in transactions; and declaring an emergency.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-16T18:52:51.878241+00:00",
+      "updated_at": "2026-04-07T22:53:18.662847+00:00",
+      "openstates_url": "https://openstates.org/or/bills/2026R1/HB4178/",
+      "first_action_date": "2026-02-16T17:56:55+00:00",
+      "latest_action_date": "2026-04-07T22:30:54+00:00",
+      "latest_action_description": "Governor signed.",
+      "latest_passage_date": "2026-03-10T20:49:13+00:00"
+    },
+    {
+      "id": "ocd-bill/81ef972b-c6a5-4b9f-91f3-1b2a75252db2",
+      "session": "2026R1",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:or/government",
+        "name": "Oregon",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9b08e1e9-5a70-48c1-983d-508a3281c378",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4130",
+      "title": "Relating to farm use.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-29T19:15:27.512006+00:00",
+      "updated_at": "2026-04-07T22:52:58.707446+00:00",
+      "openstates_url": "https://openstates.org/or/bills/2026R1/HB4130/",
+      "first_action_date": "2026-02-02T16:50:03+00:00",
+      "latest_action_date": "2026-04-07T22:30:54+00:00",
+      "latest_action_description": "Governor signed.",
+      "latest_passage_date": "2026-03-10T20:49:13+00:00"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 225,
+    "total_items": 2245
+  }
+}

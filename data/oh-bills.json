@@ -1,0 +1,328 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/43ed3ab0-5a31-4526-8a88-b4ee9db8b1fc",
+      "session": "136",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:oh/government",
+        "name": "Ohio",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/401c065d-0f85-4c93-b87b-1675a7ef6c1a",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SCR 20",
+      "title": "Urge Congress accelerate deployment of new energy infrastructure",
+      "classification": [
+        "resolution"
+      ],
+      "subject": [
+        "Electric Utilities",
+        "Environment and Natural Resources",
+        "Utilities"
+      ],
+      "extras": {},
+      "created_at": "2026-04-09T22:45:28.697008+00:00",
+      "updated_at": "2026-04-09T22:45:28.997149+00:00",
+      "openstates_url": "https://openstates.org/oh/bills/136/SCR20/",
+      "first_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_description": "Offered",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/9ee70cd0-bb14-4710-a268-9bce7f1cc267",
+      "session": "136",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:oh/government",
+        "name": "Ohio",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/401c065d-0f85-4c93-b87b-1675a7ef6c1a",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 419",
+      "title": "Revise temporary instruction permit eligibility, requirements",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Drivers' Licenses",
+        "Public Safety",
+        "Transportation"
+      ],
+      "extras": {},
+      "created_at": "2026-04-09T22:44:50.420228+00:00",
+      "updated_at": "2026-04-09T22:44:50.718210+00:00",
+      "openstates_url": "https://openstates.org/oh/bills/136/SB419/",
+      "first_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_description": "Introduced",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/8b63eb95-7e3c-4ef0-901f-fcfc5d06d22d",
+      "session": "136",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:oh/government",
+        "name": "Ohio",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/401c065d-0f85-4c93-b87b-1675a7ef6c1a",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 420",
+      "title": "Regards JobsOhio public records, open meetings, performance audit",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Liquor Control",
+        "Public Records",
+        "State Government",
+        "State and Local Government"
+      ],
+      "extras": {},
+      "created_at": "2026-04-09T22:42:30.162436+00:00",
+      "updated_at": "2026-04-09T22:42:30.490914+00:00",
+      "openstates_url": "https://openstates.org/oh/bills/136/SB420/",
+      "first_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_description": "Introduced",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/d10b1b93-be9e-4846-bc91-2f8b9c020bd5",
+      "session": "136",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:oh/government",
+        "name": "Ohio",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/401c065d-0f85-4c93-b87b-1675a7ef6c1a",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 313",
+      "title": "Regards insurance, Medicaid coverage of scalp cooling systems",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Commerce",
+        "Health Care",
+        "Health and Human Services",
+        "Insurance",
+        "Medicaid"
+      ],
+      "extras": {},
+      "created_at": "2025-11-04T21:39:58.547624+00:00",
+      "updated_at": "2026-04-09T22:39:30.339523+00:00",
+      "openstates_url": "https://openstates.org/oh/bills/136/SB313/",
+      "first_action_date": "2025-11-04T05:00:00+00:00",
+      "latest_action_date": "2025-11-05T05:00:00+00:00",
+      "latest_action_description": "Referred to committee",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/c1f69328-232b-43a2-a683-57b47df045f7",
+      "session": "136",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:oh/government",
+        "name": "Ohio",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3cb2bb10-f68b-4a7d-a7c5-41986e71ff3a",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 229",
+      "title": "Establish licensing process, contract requirements for PBMs",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Commerce",
+        "Health Care",
+        "Health and Human Services",
+        "Insurance",
+        "Occupational Licensing and Regulation",
+        "State Government",
+        "State and Local Government"
+      ],
+      "extras": {},
+      "created_at": "2025-04-09T22:50:11.984889+00:00",
+      "updated_at": "2026-04-09T22:38:31.414854+00:00",
+      "openstates_url": "https://openstates.org/oh/bills/136/HB229/",
+      "first_action_date": "2025-04-09T04:00:00+00:00",
+      "latest_action_date": "2026-06-30T04:00:00+00:00",
+      "latest_action_description": "Effective 6/30/26",
+      "latest_passage_date": "2026-03-26T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/6f719352-1c73-48d2-a7d8-fefd4184dbda",
+      "session": "136",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:oh/government",
+        "name": "Ohio",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3cb2bb10-f68b-4a7d-a7c5-41986e71ff3a",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 730",
+      "title": "Make capital reappropriations for biennium ending June 30, 2028",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Finance and Appropriations"
+      ],
+      "extras": {},
+      "created_at": "2026-03-03T19:14:05.772853+00:00",
+      "updated_at": "2026-04-09T22:37:07.481249+00:00",
+      "openstates_url": "https://openstates.org/oh/bills/136/HB730/",
+      "first_action_date": "2026-03-03T05:00:00+00:00",
+      "latest_action_date": "2026-06-30T04:00:00+00:00",
+      "latest_action_description": "Effective 6/30/26",
+      "latest_passage_date": "2026-03-26T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/eacd89cd-afbe-4be9-8cdd-6af657ca3365",
+      "session": "136",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:oh/government",
+        "name": "Ohio",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3cb2bb10-f68b-4a7d-a7c5-41986e71ff3a",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 780",
+      "title": "Enact the Medicaid Savings Act",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Health and Human Services",
+        "Medicaid"
+      ],
+      "extras": {},
+      "created_at": "2026-03-24T22:23:51.585967+00:00",
+      "updated_at": "2026-04-09T22:36:36.207476+00:00",
+      "openstates_url": "https://openstates.org/oh/bills/136/HB780/",
+      "first_action_date": "2026-03-24T04:00:00+00:00",
+      "latest_action_date": "2026-03-25T04:00:00+00:00",
+      "latest_action_description": "Referred to committee",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/9d682210-850b-45e4-af93-8d26274261cc",
+      "session": "136",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:oh/government",
+        "name": "Ohio",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/401c065d-0f85-4c93-b87b-1675a7ef6c1a",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SR 326",
+      "title": "Honoring Laibe Electric Technology on its Centennial.",
+      "classification": [
+        "resolution"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-09T19:58:44.070344+00:00",
+      "updated_at": "2026-04-09T19:58:44.405873+00:00",
+      "openstates_url": "https://openstates.org/oh/bills/136/SR326/",
+      "first_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_description": "Adopted",
+      "latest_passage_date": "2026-04-09T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/4b133382-61d6-4a2b-951d-c1c5a3cfb41a",
+      "session": "136",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:oh/government",
+        "name": "Ohio",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/401c065d-0f85-4c93-b87b-1675a7ef6c1a",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 326",
+      "title": "Require students complete a high school computer science course",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Education",
+        "Primary and Secondary Education"
+      ],
+      "extras": {},
+      "created_at": "2025-11-13T07:36:40.875275+00:00",
+      "updated_at": "2026-04-09T17:15:32.242521+00:00",
+      "openstates_url": "https://openstates.org/oh/bills/136/SB326/",
+      "first_action_date": "2025-11-12T05:00:00+00:00",
+      "latest_action_date": "2025-11-18T05:00:00+00:00",
+      "latest_action_description": "Referred to committee",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/a4a63e8c-d0fb-457f-a4ed-1d746a1ec9dc",
+      "session": "136",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:oh/government",
+        "name": "Ohio",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/401c065d-0f85-4c93-b87b-1675a7ef6c1a",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 61",
+      "title": "Regards courts and court procedures",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Courts",
+        "Courts and Civil Law"
+      ],
+      "extras": {},
+      "created_at": "2025-01-28T20:46:40.031753+00:00",
+      "updated_at": "2026-04-09T14:46:36.044218+00:00",
+      "openstates_url": "https://openstates.org/oh/bills/136/SB61/",
+      "first_action_date": "2025-01-28T05:00:00+00:00",
+      "latest_action_date": "2025-10-22T04:00:00+00:00",
+      "latest_action_description": "Referred to committee",
+      "latest_passage_date": "2025-10-15T04:00:00+00:00"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 230,
+    "total_items": 2297
+  }
+}

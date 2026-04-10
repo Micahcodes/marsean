@@ -1,0 +1,327 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/fbcf5f73-324b-4081-b856-d77e3c865d76",
+      "session": "109",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ne/government",
+        "name": "Nebraska",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a0563aa3-1ab5-4e1e-afd1-643aca03b3b8",
+        "name": "Nebraska Legislature",
+        "classification": "legislature"
+      },
+      "identifier": "LB 1155",
+      "title": "Change provisions relating to legislative oversight",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "NE_REF_COM": "Executive Board",
+        "NE_REF_DATE": "February 05, 2026",
+        "NE_PRIORITIZER": "Legislative Oversight Committee Committee"
+      },
+      "created_at": "2026-01-20T19:30:44.337903+00:00",
+      "updated_at": "2026-04-09T22:50:04.976514+00:00",
+      "openstates_url": "https://openstates.org/ne/bills/109/LB1155/",
+      "first_action_date": "2026-01-20",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Dispensing of reading at large approved",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/0caa4d3d-b1d8-485e-9be8-dc8ccdb398c7",
+      "session": "109",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ne/government",
+        "name": "Nebraska",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a0563aa3-1ab5-4e1e-afd1-643aca03b3b8",
+        "name": "Nebraska Legislature",
+        "classification": "legislature"
+      },
+      "identifier": "LB 1256",
+      "title": "Redefine a term under the Emergency Management Act",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "NE_REF_COM": "Government, Military and Veterans Affairs Committee",
+        "NE_REF_DATE": "February 26, 2026"
+      },
+      "created_at": "2026-01-21T19:25:50.583223+00:00",
+      "updated_at": "2026-04-09T15:43:14.024519+00:00",
+      "openstates_url": "https://openstates.org/ne/bills/109/LB1256/",
+      "first_action_date": "2026-01-21",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Passed on Final Reading 49-0-0",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/45cb8738-6491-4cc7-abb1-3f75b1d6388f",
+      "session": "109",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ne/government",
+        "name": "Nebraska",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a0563aa3-1ab5-4e1e-afd1-643aca03b3b8",
+        "name": "Nebraska Legislature",
+        "classification": "legislature"
+      },
+      "identifier": "LB 1108",
+      "title": "Change provisions related to contracts entered into by and bidding requirements and exceptions for joint entities and public power districts",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "NE_REF_COM": "Government, Military and Veterans Affairs Committee",
+        "NE_REF_DATE": "February 20, 2026"
+      },
+      "created_at": "2026-01-16T19:20:35.354704+00:00",
+      "updated_at": "2026-04-09T15:43:00.660863+00:00",
+      "openstates_url": "https://openstates.org/ne/bills/109/LB1108/",
+      "first_action_date": "2026-01-16",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Dispensing of reading at large approved",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/26bd4b08-592d-4e04-80fd-b8ff9c9388b1",
+      "session": "109",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ne/government",
+        "name": "Nebraska",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a0563aa3-1ab5-4e1e-afd1-643aca03b3b8",
+        "name": "Nebraska Legislature",
+        "classification": "legislature"
+      },
+      "identifier": "LB 1096",
+      "title": "Adopt the Preventing Lethal Agricultural and National Threats Act, create restrictions on contracts with foreign principals, authorize the withholding of records, and provide civil penalties",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "NE_REF_COM": "Judiciary Committee",
+        "NE_REF_DATE": "February 05, 2026",
+        "NE_PRIORITIZER": "Senator Bostar"
+      },
+      "created_at": "2026-01-15T19:13:20.692327+00:00",
+      "updated_at": "2026-04-08T23:42:55.940809+00:00",
+      "openstates_url": "https://openstates.org/ne/bills/109/LB1096/",
+      "first_action_date": "2026-01-15",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Placed on Final Reading",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/35430052-dfbf-46b7-87de-642dbbed38e1",
+      "session": "109",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ne/government",
+        "name": "Nebraska",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a0563aa3-1ab5-4e1e-afd1-643aca03b3b8",
+        "name": "Nebraska Legislature",
+        "classification": "legislature"
+      },
+      "identifier": "LB 889",
+      "title": "Change a penalty and provisions regulating licensure and registration under the State Electrical Act",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "NE_REF_COM": "Judiciary Committee",
+        "NE_REF_DATE": "January 28, 2026",
+        "NE_PRIORITIZER": "Senator Clouse"
+      },
+      "created_at": "2026-01-08T19:13:50.795094+00:00",
+      "updated_at": "2026-04-08T23:37:12.233447+00:00",
+      "openstates_url": "https://openstates.org/ne/bills/109/LB889/",
+      "first_action_date": "2026-01-08",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Placed on Final Reading with ST94",
+      "latest_passage_date": "2026-04-01"
+    },
+    {
+      "id": "ocd-bill/06e8aa6a-2fcb-4c70-9a15-2dc25f407785",
+      "session": "109",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ne/government",
+        "name": "Nebraska",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a0563aa3-1ab5-4e1e-afd1-643aca03b3b8",
+        "name": "Nebraska Legislature",
+        "classification": "legislature"
+      },
+      "identifier": "LB 1114",
+      "title": "Adopt the Community Improvement District Act and the New Taxpayer Recruitment Grant Act, authorize community improvement districts to levy property taxes, and change provisions related to the Community Development Law, the Municipal Inland Port Authority Act, extraterritorial jurisdiction, sanitary and improvement districts, housing authorities, housing agencies, the Nebraska Housing Agency Act, and the Local Option Municipal Economic Development Act",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "NE_REF_COM": "Urban Affairs Committee",
+        "NE_REF_DATE": "February 10, 2026",
+        "NE_PRIORITIZER": "Urban Affairs Committee"
+      },
+      "created_at": "2026-01-16T19:22:08.711054+00:00",
+      "updated_at": "2026-04-08T23:35:00.870556+00:00",
+      "openstates_url": "https://openstates.org/ne/bills/109/LB1114/",
+      "first_action_date": "2026-01-16",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Placed on Final Reading with ST91",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/1c9ad82f-d8ee-4d4f-9344-944b04d9e4ec",
+      "session": "109",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ne/government",
+        "name": "Nebraska",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a0563aa3-1ab5-4e1e-afd1-643aca03b3b8",
+        "name": "Nebraska Legislature",
+        "classification": "legislature"
+      },
+      "identifier": "LB 1071",
+      "title": "Provide, change, and eliminate provisions related to appropriations for the expenses of Nebraska State Government for the biennium ending June 30, 2027",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "NE_REF_COM": "Appropriations Committee",
+        "NE_REF_DATE": "February 02, 2026"
+      },
+      "created_at": "2026-01-15T17:14:28.172409+00:00",
+      "updated_at": "2026-04-07T21:42:50.633923+00:00",
+      "openstates_url": "https://openstates.org/ne/bills/109/LB1071/",
+      "first_action_date": "2026-01-15",
+      "latest_action_date": "2026-04-07",
+      "latest_action_description": "Approved by Governor on April 7, 2026",
+      "latest_passage_date": "2026-04-01"
+    },
+    {
+      "id": "ocd-bill/7a44f5d1-29a3-4601-8ec8-071854d50540",
+      "session": "109",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ne/government",
+        "name": "Nebraska",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a0563aa3-1ab5-4e1e-afd1-643aca03b3b8",
+        "name": "Nebraska Legislature",
+        "classification": "legislature"
+      },
+      "identifier": "LB 1126",
+      "title": "Adopt the Infrastructure Development Investment Program Act and change and eliminate provisions relating to the Rural Road Improvement District Act, the Political Subdivisions Construction Alternatives Act, the Transportation Innovation Act, the Motor Vehicle Safety Responsibility Act, the Nebraska Rules of the Road, intrastate medicaid nonemergency medical transportation services, and wireless service surcharges",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "NE_REF_COM": "Transportation and Telecommunications Committee",
+        "NE_REF_DATE": "February 03, 2026",
+        "NE_PRIORITIZER": "Transportation and Telecommunications Committee"
+      },
+      "created_at": "2026-01-20T17:19:39.199447+00:00",
+      "updated_at": "2026-04-07T19:38:02.240793+00:00",
+      "openstates_url": "https://openstates.org/ne/bills/109/LB1126/",
+      "first_action_date": "2026-01-20",
+      "latest_action_date": "2026-04-07",
+      "latest_action_description": "Placed on Final Reading with ST82",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/98a8af9d-5a71-4d5c-af40-5a1173fc2a45",
+      "session": "109",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ne/government",
+        "name": "Nebraska",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a0563aa3-1ab5-4e1e-afd1-643aca03b3b8",
+        "name": "Nebraska Legislature",
+        "classification": "legislature"
+      },
+      "identifier": "LB 1135",
+      "title": "Adopt the Service Contract Reporting Act, authorize municipalities to contract regarding parking facilities, change provisions of the Community Development Law, the Nebraska Municipal Land Bank Act, and the Property Assessed Clean Energy Act, and provide for the sale of certain waterworks, sewer systems, and water systems to Indian tribes",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "NE_REF_COM": "Urban Affairs Committee",
+        "NE_REF_DATE": "February 10, 2026",
+        "NE_PRIORITIZER": "Urban Affairs Committee"
+      },
+      "created_at": "2026-01-20T17:18:09.583622+00:00",
+      "updated_at": "2026-04-07T19:36:01.431882+00:00",
+      "openstates_url": "https://openstates.org/ne/bills/109/LB1135/",
+      "first_action_date": "2026-01-20",
+      "latest_action_date": "2026-04-07",
+      "latest_action_description": "Placed on Final Reading with ST84",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/3ef3647f-daf1-4ec7-a985-e7df0569d492",
+      "session": "109",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ne/government",
+        "name": "Nebraska",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a0563aa3-1ab5-4e1e-afd1-643aca03b3b8",
+        "name": "Nebraska Legislature",
+        "classification": "legislature"
+      },
+      "identifier": "LB 1010",
+      "title": "Adopt the Large Load Customer Regulation Act, provide for eminent domain relating to energy storage and regulation and taxation of energy storage resources, and change provisions relating to cryptocurrency mining operations and data centers",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "NE_REF_COM": "Judiciary Committee",
+        "NE_REF_DATE": "February 11, 2026",
+        "NE_PRIORITIZER": "Natural Resources Committee"
+      },
+      "created_at": "2026-01-13T17:10:33.695308+00:00",
+      "updated_at": "2026-04-07T17:44:15.346135+00:00",
+      "openstates_url": "https://openstates.org/ne/bills/109/LB1010/",
+      "first_action_date": "2026-01-13",
+      "latest_action_date": "2026-04-07",
+      "latest_action_description": "Placed on Final Reading",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 109,
+    "total_items": 1086
+  }
+}

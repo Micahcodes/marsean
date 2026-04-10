@@ -1,0 +1,356 @@
+{
+  "status": "ok",
+  "totalResults": 83,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Scott Stein",
+      "title": "We're All Flailing With AI: I Tried Art That Pokes Back at the Chaos",
+      "description": "A handful of moments at SXSW had me wondering: How much of AI is me playing a game and how much is it a game playing me?",
+      "url": "https://www.cnet.com/tech/services-and-software/ai-art-games-creativity-chaos-sxsw-2026/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/9a03a92b0f2f61612d1c003791afa8b7e6fa9460/hub/2026/03/24/b6989991-dd18-4c6c-9df2-1e7257ab4e14/body-proxy-sxsw.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2026-03-25T12:01:15Z",
+      "content": "Smack dab in the middle of this year's SXSW festival in Austin, Texas, there was a huge dirt hole in the ground, blocks wide, where there used to be a convention center. The festival's events continu… [+11915 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": "Olivia Miske, Anna Lou Abatayo, Mason Daley, Mirka Dirzo, Nicholas Fox, Noah Haber, Krystal M. Hahn, Melissa Kline Struhl, Brinna Mawhinney, Priya Silverstein, Theresa Stankov, Andrew H. Tyner, Matúš Adamkovič, Shilaan Alzahawi, Saule Anafinova, Eli Awtrey, Erick Axxe, James Bailey, Bert N. Bakker, Akshaya Balaji, Gabriel Banik, František Bartoš, Henk Berkman, Zachariah Berry, Felix S. Bethke, Timothy F. Brady, Nate Breznau, Sara Capitan, Tabaré Capitán, Laura Caquelin, Kent Jason Cheng, William J. Chopik, Gwen-Jiro Clochard, Tom Coupé, Jamie Cummins, Elif Gizem Demirag Burak, Jianhua Duan, Kevin M. Esterling, Thomas R. Evans, Nathan Fiala, James Field, Victor Gay, Jing Geng, Johanna Gereke, Ilka Helene Gleibs, Amélie Gourdon-Kanhukamwe, Dmitry Grigoryev, Nicholas Gunby, Paul H. P. Hanel, Sanghyun Hong, Sean Dae Houlihan, Nick Huntington-Klein, Kamil Izydorczak, Kristin Jankowsky, Kai Jonas, Pavol Kačmár, Hansika Kapoor, Sebastian Karcher, Marta Kołczyńska, David Kretschmer, Ljiljana Lazarevic, Katelin E. Leahy, Jessica C. Lee, Christopher Limnios, An-Chiao Liu, John Wills Lloyd, Ruben Lopez-Nicolas, Nigel Mantou Lou, Richard E. Lucas, Maximilian Maier, Daniel J. Mallinson, Marcel Martončik, Michael C. McCall, Nikita Mehta, Esteban Méndez, Johannes Michalak, Daniel C. Molden, Faisal Mushtaq, Claudia Neuendorf, Austin Lee Nichols, Gustav Nilsonne, Ernest O’Boyle, Jeewon Oh, Thomas Ostermann, Abiola Oyebanjo, Radoslaw Panczak, Yuri G. Pavlov, Zoran Pavlović, Noemi Peter, Kim Peters, Nathaniel D. Porter, Mariah Purol, Arathy Puthillam, Marco Ramljak, Arran T. Reader, W. Robert Reed, Jan Philipp Röer, Ivan Ropovik, Alexander O. Savi, Kathleen Schmidt, Landon Schnabel, Eric L. Sevigny, Samuel Shaki, Shishir Shakya, Andrew Soh, Angela Somo, Fatih Sonmez, Eirik Strømland, Jordan W. Suchow, Anna Szabelska, Anirudh Tagat, Melba Verra Tutor, Karolina Urbanska, Pieter Van Dessel, Elisabeth Julie Vargo, Diem Thi Hong Vo, Victor Volkman, Ke Wang, Aaron L. Wichman, Jamal R. Will…",
+      "title": "Investigating the reproducibility of the social and behavioural sciences",
+      "description": "A study of reproducibility in a stratified random sample of 600 papers published from 2009 to 2018 in 62 journals spanning the social and behavioural sciences finds higher reproducibility among more&nbsp;recent papers and papers from journals that require dat…",
+      "url": "https://www.nature.com/articles/s41586-026-10203-5",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10203-5/MediaObjects/41586_2026_10203_Fig1_HTML.png",
+      "publishedAt": "2026-04-01T00:00:00Z",
+      "content": "Authors and Affiliations\r\n<ol><li>Center for Open Science Charlottesville, Charlottesville, VA, USA\r\nOlivia Miske, Mason Daley, Mirka Dirzo, Nicholas Fox, Noah Haber, Krystal M. Hahn, Brinna Mawhinne… [+12097 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Reason"
+      },
+      "author": "Jacob Sullum",
+      "title": "Virginia's Impending 'Assault Firearm' Ban Is Logically and Constitutionally Dubious",
+      "description": "The ban, which targets guns based on criteria that make little sense, seems vulnerable to a challenge under the Supreme Court's Second Amendment precedents.",
+      "url": "https://reason.com/2026/03/11/virginias-impending-assault-firearm-ban-is-logically-and-constitutionally-dubious/",
+      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/03/sporting-rifle-and-magazines.jpg",
+      "publishedAt": "2026-03-11T21:07:17Z",
+      "content": "Virginia is poised to become the 11th state with a ban on \"assault weapons,\" an arbitrarily defined category of politically disfavored firearms. Senate Bill 749 makes it illegal to import, sell, or b… [+10700 chars]",
+      "sentiment": "negative"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Lori Grunin",
+      "title": "Getting Older Messed With My Gaming. So I Changed How I Play",
+      "description": "Don't let fear or frustration force you to give up something you love. It may be a process of adaptation and discovery, but ultimately, it's still about fun.",
+      "url": "https://www.cnet.com/tech/gaming/features/handheld-gaming-consoles-aging-gamers-windows-steam-switch-legion/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/83d039338f9aa7129c4922bbc6d64628cfd1413f/hub/2026/03/16/84d55734-bdc3-4fa3-826a-e960beab74dd/cs-hero.gif?fit=crop&format=mp4&height=675&width=1200",
+      "publishedAt": "2026-03-18T12:01:08Z",
+      "content": "You know what I discovered at some point during the past 10 years? Gaming anxiety is a thing. \r\nI'd spend hours scrolling through my Steam library, palms sweaty and heart palpitating, looking for som… [+29457 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adevarul.ro"
+      },
+      "author": "Daniela Trifan",
+      "title": "Minerii vin în Capitală: Protest major în fața Guvernului pentru salvarea locurilor de muncă",
+      "description": "Aproximativ o mie de mineri din Gorj protestează astăzi, 24 martie, în Piața Victoriei, nemulțumiți de pierderea locurilor de muncă și de faptul că noul contract colectiv nu a fost încă semnat.",
+      "url": "https://adevarul.ro/stiri-locale/bucuresti/minerii-vin-in-capitala-protest-major-in-fata-2517451.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-3/305ca4cb-b9d4-4bf3-a11b-5f53a63afe09/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2026-03-24T07:30:37Z",
+      "content": "Aproximativ o mie de mineri din Gorj protesteaz astzi, 24 martie, în Piaa Victoriei, nemulumii de pierderea locurilor de munc i de faptul c noul contract colectiv nu a fost înc semnat. Oamenii cer in… [+1733 chars]",
+      "sentiment": "negative"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediafax.ro"
+      },
+      "author": "Laura Buciu",
+      "title": "Protest ale transportatorilor de marfă în Bosnia și Herțegovina. MAE emite atenționare de călătorie",
+      "description": "Ministerul Afacerilor Externe (MAE) a emis atenționare de călătorie pentru Bosnia și Herțegovina după ce asociațiile transportatorilor de marfă din această țară au anunțat acțiuni de protest la punctele de trecere a frontierei spre/dinspre țările vecine din s…",
+      "url": "https://www.mediafax.ro/politic/protest-ale-transportatorilor-de-marfa-in-bosnia-si-hertegovina-mae-emite-atentionare-de-calatorie-23706486",
+      "urlToImage": "https://www.mediafax.ro//wp-content/uploads/2026/03/jorono-international-2690908-scaled.jpg",
+      "publishedAt": "2026-03-19T16:33:04Z",
+      "content": "MAE informeaz cetenii români care se afl, tranziteaz ori intenioneaz s cltoreasc spre/dinspre Bosnia i Heregovina asupra faptului c asociaiile transportatorilor de marf din aceast ar au anunat aciuni… [+1347 chars]",
+      "sentiment": "negative"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adevarul.ro"
+      },
+      "author": "Cornelia Mazilu",
+      "title": "Fabrica de bani de la Punctul Borș 2: Doi polițiști de frontieră au folosit autospeciala de serviciu pentru a cere bani de la șoferi străini",
+      "description": "Un polițist de frontieră a fost arestat preventiv, iar colegul său este cercetat, după ce anchetatorii au descoperit că, la Punctul de Trecere Borș 2, cei doi ar fi pretins bani de la un cetățean bulgar și au falsificat date în rapoartele de serviciu pentru a…",
+      "url": "https://adevarul.ro/stiri-interne/societate/fabrica-de-bani-de-la-punctul-bors-2-doi-2518611.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-c/c181ee84-ea0d-4aa4-b812-7146f06938e9/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2026-03-28T09:20:56Z",
+      "content": "Un poliist de frontier a fost arestat preventiv, iar colegul su este cercetat, dup ce anchetatorii au descoperit c, la Punctul de Trecere Bor 2, cei doi ar fi pretins bani de la un cetean bulgar i au… [+4390 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Truthout"
+      },
+      "author": "Michael Arria",
+      "title": "Trump Convenes “God Squad” Committee in Move That Could Annihilate Whale Species",
+      "description": "Secretary of Defense Pete Hegseth cited national security when requesting exemptions to endangered species protections.",
+      "url": "https://truthout.org/articles/trump-convenes-god-squad-committee-in-move-that-could-annihilate-whale-species/",
+      "urlToImage": "https://truthout.org/app/uploads/2026/03/GettyImages-2264484891.jpg",
+      "publishedAt": "2026-03-30T19:03:29Z",
+      "content": "Truthout is an indispensable resource for activists, movement leaders and workers everywhere. Please make this work possible with a quick donation.\r\nOn March 31, U.S. Secretary of the Interior Doug B… [+9211 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adevarul.ro"
+      },
+      "author": "Daniela Trifan",
+      "title": "Ziua 11 de proteste la șantierul naval: muncitorii cer urgent decizii pentru salvarea proiectelor",
+      "description": "Protestele continuă la șantierul naval, unde angajații au ajuns în cea de-a 11-a zi de manifestații.",
+      "url": "https://adevarul.ro/economie/ziua-11-de-proteste-la-santierul-naval-muncitorii-2519893.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-7/7d338cc5-6914-48ba-814f-0aa72626f335/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2026-04-02T13:28:16Z",
+      "content": "Protestele continu la antierul naval, unde angajaii au ajuns în cea de-a 11-a zi de manifestaii. Reprezentanii sindicatului atrag atenia c timpul se scurge rapid pân la termenul-limit pentru semnarea… [+1814 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": "Tianyi Liu, Zheng Huang, Xuecheng Wang, Wanxin Shi, Hongwei Chen, Milin Zhang",
+      "title": "NEOSTI - a neuromorphic electronic-opto spatial-temporal hybrid image sensor",
+      "description": "The authors demonstrate a neuromorphic imaging system that combines optical and electronic, spatial and temporal processing near the sensor, enabling parallel sensing and computation in typical indoor and outdoor environments without any light source requirem…",
+      "url": "https://www.nature.com/articles/s41467-026-71091-x",
+      "urlToImage": null,
+      "publishedAt": "2026-03-26T00:00:00Z",
+      "content": "<li>Kang, I. The art of scaling: Distributed and connected to sustain the golden age of computation. In Proc. IEEE International Solid-State Circuits Conference (ISSCC), Vol. 65, 2531 (IEEE, 2022).\r\n… [+7225 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adevarul.ro"
+      },
+      "author": "Cristina Stancu",
+      "title": "Sindicaliștii de la Damen Mangalia anunță organizarea unui protest în Capitală, după anunțarea falimentului șantierului. Salariile pentru decembrie, respinse la plată",
+      "description": "Protestele angajaților de la Damen Shipyards Mangalia au continuat marți, 7 aprilie, pentru a 14‑a zi consecutiv. Sindicatul Liber Navalistul, afiliat la Blocul Național Sindical anunță o acțiune similară și în București.",
+      "url": "https://adevarul.ro/economie/sindicalistii-de-la-damen-mangalia-anunta-2521120.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-6/6cf65854-01d3-4b8c-9ba8-e9c090561e0c/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2026-04-07T14:22:43Z",
+      "content": "Protestele angajailor de la Damen Mangalia au continuat mari, 7 aprilie, pentru a 14a zi consecutiv, pe fondul msurilor legate de falimentul i lichidarea antierului. Sindicatul Liber Navalistul, afil… [+5448 chars]",
+      "sentiment": "negative"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adevarul.ro"
+      },
+      "author": "Cristian Unteanu\n          Jurnalist",
+      "title": "Spectaculoasa, neobișnuita și tragica perspectivă deschisă de demisia șefului anti-terorismului american",
+      "description": "O demisie care deschide cu mult mai multe perspective de scandal decât cele ce pot fi intuite prin prisma cea mai la îndemână și care numai impresionează de acum pe nimeni, adică încă un scandal răsunător în sânul Administrației Trump, cea atât de greu încerc…",
+      "url": "https://adevarul.ro/blogurile-adevarul/spectaculoasa-neobisnuita-si-tragica-perspectiva-2516024.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-3/30ad4ee2-2da0-4550-8d15-fc8e6f6e4ad1/index.png?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2026-03-18T07:43:43Z",
+      "content": "O\r\ndemisie care deschide cu mult mai multe perspective de scandal decât\r\ncele ce pot fi intuite prin prisma cea mai la îndemân i care\r\nnumai impresioneaz de acum pe nimeni, adic înc un scandal\r\nrsunt… [+3758 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": "Hye In Kim, Christopher DeBoever, Klaudia Walter, Georgios Kalantzis, Chen Li, Sahar V. Mozaffari, Kousik Kundu, Benjamin M. Jacobs, Pedrum Mohammadi-Shemirani, Anthony M. Musolf, Jonathan M. Davitte, Melis A. Aksit, Joseph Gafton, Katrina A. Catalano, Adem Y. Dawed, Robert R. Graham, Bin Guo, Namrata Gupta, Teng Hiang Heng, Karen A. Hunt, Vivek Iyer, Claudia Langenberg, Frederik H. Lassen, Daniel G. MacArthur, Eamonn R. Maher, Cyrielle Maroteau, William G. Newman, Stephen O’Rahilly, Duncan S. Palmer, Iaroslav Popov, Moneeza K. Siddiqui, Michael A. Simpson, Marie Spreckley, John Wright, David A. van Heel, Guillermo del Angel, Slavé Petrovski, Emily R. Holzinger, Joseph C. Maranville, Laura Addis, Richard M. Turner, Karol Estrada, Simone Longerich, Joanna M. M. Howson, Yalda Jamshidi, Eric B. Fauman, Melissa R. Miller, Dorothée Diogo, Richard C. Trembath, Sarah Finer, Hilary C. Martin, David A. van Heel",
+      "title": "Exome sequencing and analysis of 44,028 British South Asians enriched for high autozygosity",
+      "description": "An analysis of whole-exome sequencing data linked to longitudinal electronic health records from 44,028 British South Asians finds new gene–phenotype associations and identifies 2,991 genes with rare biallelic predicted loss-of-function genotypes.",
+      "url": "https://www.nature.com/articles/s41588-026-02553-7",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-026-02553-7/MediaObjects/41588_2026_2553_Fig1_HTML.png",
+      "publishedAt": "2026-03-27T00:00:00Z",
+      "content": "Protein coding variation and population structure in 44,028 South Asian exome sequences\r\nWe identified a total of 4,723,926 variants (4,458,984 single-nucleotide variants (SNVs) and 264,942 insertion… [+32754 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adevarul.ro"
+      },
+      "author": "Cristina Stancu",
+      "title": "Piedone recunoaște nonșalant că a condus timp de aproape zece ani fără permis: „Vă povestesc acum, că faptele s-au prescris”",
+      "description": "Cristian Popescu Piedone a făcut o mărturisire surprinzătoare și controversată, afirmând public că a șofat timp de aproximativ zece ani fără permis de conducere, înainte de a obține documentul în Argeș, județul devenit, în 2008, sinonim cu „mafia permiselor”.",
+      "url": "https://adevarul.ro/stiri-interne/evenimente/piedone-recunoaste-nonsalant-ca-a-condus-timp-de-2515593.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-5/595665a8-ac92-4dc3-ae16-eb3ce57c7142/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2026-03-16T15:34:59Z",
+      "content": "Cristian Popescu Piedone a fcut o mrturisire surprinztoare i controversat, afirmând public c a ofat timp de aproximativ zece ani fr permis de conducere, înainte de a obine documentul în Arge, judeul … [+4366 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adevarul.ro"
+      },
+      "author": "Alina Mitran",
+      "title": "Simulare Bac 2026. Liceenii, încântați de subiectele de la prima probă. „Rezultatele slabe ar trebui să ne pună pe gânduri”",
+      "description": "Peste 114.000 de elevi aflați în ultimul an de liceu s-au prezentat, luni, 23 martie, la prima probă de la simularea Bacalaureatului 2026, cea la Limba și literatura română.",
+      "url": "https://adevarul.ro/stiri-interne/educatie/simulare-bac-2026-liceenii-incantati-de-2517359.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-b/b391bcdc-051a-4ff4-8c08-b9e5e26c3352/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover%26c%3D0%252C0%252C1%252C0.957",
+      "publishedAt": "2026-03-23T17:48:43Z",
+      "content": "Peste 114.000 de elevi aflai în ultimul an de liceu s-au prezentat, luni, 23 martie, la prima prob de la simularea Bacalaureatului 2026, cea la Limba i literatura român.\r\npublicitate\r\n\"); background-… [+8460 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adevarul.ro"
+      },
+      "author": "Alina Cotoros",
+      "title": "Omul lui Putin la Chișinău vrea să fie primit în audiență de liderul puterii. Igor Grosu: ,,Nu înțeleg ce să discut cu el”",
+      "description": "Oleg Ozerov, ambasadorul agreat al Rusiei în Republica Moldova, a trimis o scrisoare prin care solicită să fie primit în audiență de Igor Grosu, președintele Parlamentului și liderul Partidului Acțiune și Solidaritate (PAS), însă acesta susține că nu are ce d…",
+      "url": "https://adevarul.ro/stiri-externe/republica-moldova/omul-lui-putin-la-chisinau-vrea-sa-fie-primit-in-2516682.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-8/8400c504-c143-41da-b26d-ef70f34ce038/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2026-03-20T12:34:24Z",
+      "content": "Oleg Ozerov, ambasadorul agreat al Rusiei în Republica Moldova, a trimis o scrisoare prin care solicit s fie primit în audien de Igor Grosu, preedintele Parlamentului i liderul Partidului Aciune i So… [+2932 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adevarul.ro"
+      },
+      "author": "Cristian Unteanu\n          Jurnalist",
+      "title": "România are ceva de zis? Începând de azi, Trump anunță o ridicare temporară de sancțiuni prind cumpărarea de petrol rusesc",
+      "description": "Desigur, trebuie spus asta, fără însă ca asta să reprezinte o anulare totală sau definitivă a tuturor interdicțiilor valabile în acest moment, astfel concepute încât să fie dublate de penalități financiare extrem de importante și chiar de boicot comercial.",
+      "url": "https://adevarul.ro/blogurile-adevarul/romania-are-ceva-de-zis-incepand-de-azi-trump-2514837.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-3/33de9b69-7c6c-4b41-8ee6-99f5bfeea2d8/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2026-03-13T08:04:04Z",
+      "content": "Desigur,\r\ntrebuie spus asta, fr îns ca asta s reprezinte o anulare\r\ntotal sau definitiv a tuturor interdiciilor valabile în acest\r\nmoment, astfel concepute încât s fie dublate de penaliti\r\nfinanciare… [+5806 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cisco.com"
+      },
+      "author": "Bryan Bedford",
+      "title": "The Future of Live is Real-Time: Powering Sports, Media, and Venues with Cisco Unified Edge and Intel",
+      "description": "Cisco Unified Edge, powered by Intel Xeon 6, revolutionizes sports and media by moving AI and compute to the edge. This enables real-time analytics, smarter venues, and advanced broadcast workflows. Discover more at the upcoming NAB Show.",
+      "url": "https://blogs.cisco.com/industries/the-future-of-live-is-real-time-powering-sports-media-and-venues-with-cisco-unified-edge-and-intel",
+      "urlToImage": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/04/Screenshot-2026-04-06-at-9.54.35 AM-1024x472.png",
+      "publishedAt": "2026-04-06T17:30:43Z",
+      "content": "The energy of a live stadium, the precision of a remote broadcast, and the split-second decisions of an AI-driven production-these aren’t just moments anymore; they are massive data challenges. As we… [+3291 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adevarul.ro"
+      },
+      "author": "Alina Cotoros",
+      "title": "Procurorii din Republica Moldova investighează poluarea fluviului Nistru după atacul Rusiei în Ucraina",
+      "description": "Responsabilii Procuraturii Generale (PG) din Republica Moldova au inițiat un proces penal pe faptul poluării cu petrol a fluviului Nistru după atacul rusesc din Ucraina, subliniind că s-au autosizat după ce Guvernul a declarat stare de alertă de mediu pentru …",
+      "url": "https://adevarul.ro/stiri-externe/republica-moldova/procurorii-din-republica-moldova-investigheaza-2515793.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-0/02bc7021-3c9f-4881-ba49-3d02469ec9d1/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2026-03-17T11:41:47Z",
+      "content": "Responsabilii Procuraturii Generale (PG) din Republica Moldova au iniiat un proces penal pe faptul polurii cu petrol a fluviului Nistru dup atacul rusesc din Ucraina, subliniind c s-au autosizat dup … [+4576 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Greg Evans",
+      "title": "Webby Awards 2026 Nominations: Taylor Swift, Bad Bunny, Stephen Colbert & Timothée Chalamet Make The List",
+      "description": "The 30th Annual Webby Awards were announced today by the International Academy of Digital Arts & Sciences, with winners to be announced on April 21 in New York and recognized May 11 at a special anniversary awards ceremony hosted by The Daily Show corresponde…",
+      "url": "http://deadline.com/2026/03/webby-awards-2026-nominations-1236769823/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/03/P1055GF3-e1774581301167.jpg?w=1024",
+      "publishedAt": "2026-03-31T13:45:10Z",
+      "content": "The 30th Annual Webby Awards were announced today by the International Academy of Digital Arts &amp; Sciences, with winners to be announced on April 21 in New York and recognized May 11 at a special … [+26644 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Smallwarsjournal.com"
+      },
+      "author": "SWJ Staff",
+      "title": "2026 Worldwide Threats Hearing",
+      "description": "March 19, 2026 08:30 | HVC- 210 “House Permanent Select Committee on Intelligence Chairman Rick Crawford (AR-01) announced an open full Committee hearing for Thursday, March 19, to examine the annual assessment of worldwide threats to the national security of…",
+      "url": "https://smallwarsjournal.com/2026/03/25/2026-worldwide-threats-hearing/",
+      "urlToImage": "https://smallwarsjournal.com/wp-content/uploads/2026/03/house-permanent-select-committee-on-intelligence.jpg",
+      "publishedAt": "2026-03-25T00:32:51Z",
+      "content": "March 19, 2026 08:30 | HVC- 210\r\n“House Permanent Select Committee on Intelligence Chairman Rick Crawford (AR-01) announced an open full Committee hearing for Thursday, March 19, to examine the annua… [+230630 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adevarul.ro"
+      },
+      "author": "Alina Cotoros",
+      "title": "Trimisul lui Putin la Chișinău, așteptat la MAE moldovean cu apa poluată a fluviului Nistru după atacul rusesc",
+      "description": "Ambasadorul agreat al Federației Ruse la Chișinău, Oleg Ozerov, a fost convocat marți la sediul Ministerului Afacerilor Externe (MAE) pentru a oferi explicații în legătură cu poluarea fluviului Nistru cu petrol.",
+      "url": "https://adevarul.ro/stiri-externe/republica-moldova/trimisul-lui-putin-la-chisinau-convocat-la-mae-2515716.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-5/539afbc2-1c4e-4d28-aa61-d9c1998a3640/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover%26c%3D0%252C0.292%252C0.997%252C0.645",
+      "publishedAt": "2026-03-17T07:21:35Z",
+      "content": "Ambasadorul agreat al Federaiei Ruse la Chiinu, Oleg Ozerov, a fost convocat mari la sediul Ministerului Afacerilor Externe (MAE) pentru a oferi explicaii în legtur cu poluarea fluviului Nistru cu pe… [+4845 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Research and Markets",
+      "title": "Western Europe Colocation Data Center Portfolio Report 2026: Detailed Analysis of 1,038 Existing Data Centers, 328 Upcoming Data Centers, and 400 Major Operators/Investors",
+      "description": "Explore Western Europe's Data Center Market with an in-depth Excel database covering 1,038 existing and 328 upcoming facilities across 12 countries, including the UK, France, and Germany. Gain insights into white-floor space, IT load capacity, and both retail…",
+      "url": "https://www.globenewswire.com/news-release/2026/03/11/3253667/28124/en/Western-Europe-Colocation-Data-Center-Portfolio-Report-2026-Detailed-Analysis-of-1-038-Existing-Data-Centers-328-Upcoming-Data-Centers-and-400-Major-Operators-Investors.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2026-03-11T11:38:00Z",
+      "content": "Dublin, March 11, 2026 (GLOBE NEWSWIRE) -- The \"Western Europe Existing &amp; Upcoming Data Center Portfolio\" report has been added to ResearchAndMarkets.com's offering.\r\nWestern Europe hosts around … [+12659 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Gadgeteer"
+      },
+      "author": "Vincent Nguyen",
+      "title": "visionOS 26.4 Brings NVIDIA CloudXR 4K Streaming to Apple Vision Pro",
+      "description": "Apple released visionOS 26.4 yesterday, and the headline feature isn’t a new emoji pack or a minor Spatial Audio tweak (though both of those are included). It’s native CloudXR 6.0 integration with foveated streaming, which means your Vision Pro can now wirele…",
+      "url": "https://the-gadgeteer.com/2026/03/25/visionos-26-4-brings-nvidia-cloudxr-4k-streaming-to-apple-vision-pro/",
+      "urlToImage": "https://the-gadgeteer.com/wp-content/uploads/2026/03/apple-vision-pro-1.jpg",
+      "publishedAt": "2026-03-25T21:06:53Z",
+      "content": "If you buy something from a link in this article, we may earn a commission. Learn more\r\nApple released visionOS 26.4 yesterday, and the headline feature isnt a new emoji pack or a minor Spatial Audio… [+11340 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adevarul.ro"
+      },
+      "author": "Ştefan Lică",
+      "title": "Avertisment sumbru al generalului care a adus SUA în România: Sunt convulsiile de dinaintea unui nou război mondial",
+      "description": "Generalul-maior (r) Mihail Ionescu, unul dintre arhitecții integrării noastre în NATO, analizează, într-un interviu pentru „Adevărul”, situația României și schimbarea paradigmei securității.",
+      "url": "https://adevarul.ro/stiri-interne/evenimente/avertisment-sumbru-al-generalului-care-a-adus-sua-2515028.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-d/d4bbc3d2-012a-40df-bc39-cf2b9b6d81e5/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2026-03-16T10:32:02Z",
+      "content": "Generalul-maior (r) Mihail Ionescu, unul dintre arhitecii\r\nintegrrii noastre în NATO, analizeaz, într-un interviu pentru\r\nAdevrul, contextul complicat în care se afl România. De\r\nla riscul pierderii … [+19795 chars]",
+      "sentiment": "neutral"
+    }
+  ]
+}

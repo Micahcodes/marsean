@@ -1,0 +1,340 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/5204ab17-f856-46ee-a067-5163e328544e",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:in/government",
+        "name": "Indiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/10bc85d1-df30-4bb9-a8d0-e158225b4431",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1002",
+      "title": "Electric utility affordability.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "AGENCIES; Utility Regulatory Commission (IURC)",
+        "UTILITIES; Generally"
+      ],
+      "extras": {},
+      "created_at": "2026-01-08T16:46:42.905825+00:00",
+      "updated_at": "2026-04-08T09:08:06.245729+00:00",
+      "openstates_url": "https://openstates.org/in/bills/2026/HB1002/",
+      "first_action_date": "2026-01-08",
+      "latest_action_date": "2026-02-26",
+      "latest_action_description": "Public Law 36",
+      "latest_passage_date": "2026-02-25"
+    },
+    {
+      "id": "ocd-bill/eba43988-78eb-40c6-bb8a-397150c7ca84",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:in/government",
+        "name": "Indiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b8946e05-f621-442a-8352-cc51db92980c",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 241",
+      "title": "Utility service enhancement improvement costs.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "AGENCIES; Utility Regulatory Commission (IURC)",
+        "ENERGY; Generally",
+        "ENVIRONMENT; Solid Waste and Trash",
+        "UTILITIES; Generally",
+        "UTILITIES; Water"
+      ],
+      "extras": {},
+      "created_at": "2026-01-08T20:48:51.331590+00:00",
+      "updated_at": "2026-03-31T21:11:00.372265+00:00",
+      "openstates_url": "https://openstates.org/in/bills/2026/SB241/",
+      "first_action_date": "2026-01-08",
+      "latest_action_date": "2026-03-05",
+      "latest_action_description": "Public Law 127",
+      "latest_passage_date": "2026-02-27"
+    },
+    {
+      "id": "ocd-bill/6a8f9053-3cee-48cc-8ae1-ceaa0d084a7a",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:in/government",
+        "name": "Indiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b8946e05-f621-442a-8352-cc51db92980c",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SCR 18",
+      "title": "Honoring the International Brotherhood of Electrical Workers Local 481.",
+      "classification": [
+        "concurrent resolution"
+      ],
+      "subject": [
+        "RESOLUTIONS; Recognition; Groups, Organizations, and Companies Congratulated"
+      ],
+      "extras": {},
+      "created_at": "2026-02-05T16:58:01.618954+00:00",
+      "updated_at": "2026-03-17T21:13:34.020019+00:00",
+      "openstates_url": "https://openstates.org/in/bills/2026/SCR18/",
+      "first_action_date": "2026-02-05",
+      "latest_action_date": "2026-02-16",
+      "latest_action_description": "Returned to the Senate",
+      "latest_passage_date": "2026-02-16"
+    },
+    {
+      "id": "ocd-bill/60aaecae-4f31-4622-942e-19808cdb240a",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:in/government",
+        "name": "Indiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b8946e05-f621-442a-8352-cc51db92980c",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 168",
+      "title": "Electric generation asset reports.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "AGENCIES; Utility Regulatory Commission (IURC)",
+        "UTILITIES; Electric",
+        "UTILITIES; Generally"
+      ],
+      "extras": {},
+      "created_at": "2026-01-02T16:34:41.843198+00:00",
+      "updated_at": "2026-03-17T21:13:17.956453+00:00",
+      "openstates_url": "https://openstates.org/in/bills/2026/SB168/",
+      "first_action_date": "2026-01-05",
+      "latest_action_date": "2026-01-05",
+      "latest_action_description": "Senator Rogers added as second author",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/96efb6e7-3e77-40e1-8d48-9a2638966b45",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:in/government",
+        "name": "Indiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/10bc85d1-df30-4bb9-a8d0-e158225b4431",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1186",
+      "title": "Restrictions on the sale of public utilities.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "AGENCIES; Generally",
+        "AGENCIES; State Budget Agency (SBA)",
+        "AGRICULTURE; Agricultural Commodities and Products",
+        "AGRICULTURE; Generally",
+        "HEALTH; Drinking Water"
+      ],
+      "extras": {},
+      "created_at": "2026-01-05T16:39:45.747968+00:00",
+      "updated_at": "2026-03-17T21:13:10.743310+00:00",
+      "openstates_url": "https://openstates.org/in/bills/2026/HB1186/",
+      "first_action_date": "2026-01-05",
+      "latest_action_date": "2026-01-05",
+      "latest_action_description": "Representative Zimmerman added as coauthor",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/5fe55f05-8a99-470f-ac00-0f858e8521e0",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:in/government",
+        "name": "Indiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/10bc85d1-df30-4bb9-a8d0-e158225b4431",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1276",
+      "title": "Competitive electric generation service.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "AGENCIES; Utility Regulatory Commission (IURC)",
+        "GENERAL ASSEMBLY; Indiana Code",
+        "GENERAL ASSEMBLY; Legislative Services Agency",
+        "PROFESSIONAL AND OCCUPATIONAL LICENSING; Generally",
+        "UTILITIES; Electric"
+      ],
+      "extras": {},
+      "created_at": "2026-01-06T00:40:13.670556+00:00",
+      "updated_at": "2026-03-17T21:13:07.538555+00:00",
+      "openstates_url": "https://openstates.org/in/bills/2026/HB1276/",
+      "first_action_date": "2026-01-06",
+      "latest_action_date": "2026-01-12",
+      "latest_action_description": "Representative Sweet added as coauthor",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/d3898f4c-77d4-4b94-b9b2-f126a17467d3",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:in/government",
+        "name": "Indiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b8946e05-f621-442a-8352-cc51db92980c",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 153",
+      "title": "Utility disconnections and customer data reports.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ADMINISTRATIVE LAW; Generally",
+        "AGENCIES; Utility Regulatory Commission (IURC)",
+        "TRADE REGULATIONS; Consumer Credit and Consumer Protection (Including the Uniform Consumer Credit Code (UCCC))",
+        "UTILITIES; Electric",
+        "UTILITIES; Gas",
+        "UTILITIES; Generally",
+        "UTILITIES; Water"
+      ],
+      "extras": {},
+      "created_at": "2026-01-02T16:36:23.193915+00:00",
+      "updated_at": "2026-03-17T21:11:49.598732+00:00",
+      "openstates_url": "https://openstates.org/in/bills/2026/SB153/",
+      "first_action_date": "2026-01-05",
+      "latest_action_date": "2026-01-05",
+      "latest_action_description": "First reading: referred to Committee on Utilities",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/f357421a-e567-4bb5-b375-97abeddaca28",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:in/government",
+        "name": "Indiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b8946e05-f621-442a-8352-cc51db92980c",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 184",
+      "title": "Sales tax on utility service.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "PROPERTY; Housing",
+        "TAXES; Sales and Use Taxes",
+        "UTILITIES; Electric",
+        "UTILITIES; Gas",
+        "UTILITIES; Generally",
+        "UTILITIES; Water"
+      ],
+      "extras": {},
+      "created_at": "2026-01-05T16:38:57.428581+00:00",
+      "updated_at": "2026-03-17T21:11:34.010779+00:00",
+      "openstates_url": "https://openstates.org/in/bills/2026/SB184/",
+      "first_action_date": "2026-01-05",
+      "latest_action_date": "2026-01-05",
+      "latest_action_description": "First reading: referred to Committee on Utilities",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/cf59bf17-35c7-4bbe-bf74-bd178a644824",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:in/government",
+        "name": "Indiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/10bc85d1-df30-4bb9-a8d0-e158225b4431",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1245",
+      "title": "IURC study of data centers.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "AGENCIES; Utility Regulatory Commission (IURC)",
+        "GENERAL ASSEMBLY; Generally"
+      ],
+      "extras": {},
+      "created_at": "2026-01-05T16:38:33.262865+00:00",
+      "updated_at": "2026-03-17T21:11:16.641736+00:00",
+      "openstates_url": "https://openstates.org/in/bills/2026/HB1245/",
+      "first_action_date": "2026-01-05",
+      "latest_action_date": "2026-01-05",
+      "latest_action_description": "First reading: referred to Committee on Utilities, Energy and Telecommunications",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/dca9c8e1-2c7f-4d07-b5ea-2d480c84461c",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:in/government",
+        "name": "Indiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/10bc85d1-df30-4bb9-a8d0-e158225b4431",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1434",
+      "title": "Utility votes at RTO meetings.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "AGENCIES; Utility Regulatory Commission (IURC)",
+        "ENERGY; Generally",
+        "TASK FORCES AND COMMITTEES; Generally",
+        "UTILITIES; Generally"
+      ],
+      "extras": {},
+      "created_at": "2026-01-08T16:47:31.628215+00:00",
+      "updated_at": "2026-03-17T21:11:16.109883+00:00",
+      "openstates_url": "https://openstates.org/in/bills/2026/HB1434/",
+      "first_action_date": "2026-01-08",
+      "latest_action_date": "2026-01-08",
+      "latest_action_description": "First reading: referred to Committee on Utilities, Energy and Telecommunications",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 123,
+    "total_items": 1230
+  }
+}

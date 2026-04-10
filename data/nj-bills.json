@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/bfaac455-d2f4-4308-88a0-54800f069a28",
+      "session": "222",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/0461b3ba-ecad-4ed3-bc89-056dbaa698d1",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "S 3183",
+      "title": "Modifies various provisions of State's renewable energy incentive programs; requires electric public utilities to consider interconnection applications for certain solar projects.*",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-23T01:26:29.005799+00:00",
+      "updated_at": "2026-03-25T06:47:21.611916+00:00",
+      "openstates_url": "https://openstates.org/nj/bills/222/S3183/",
+      "first_action_date": "2026-01-13T05:00:00+00:00",
+      "latest_action_date": "2026-03-23T04:00:00+00:00",
+      "latest_action_description": "Referred to Senate Budget and Appropriations Committee",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/06f6c441-f600-4577-babf-dfebd3f0648e",
+      "session": "222",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/68d34c4f-e59d-42a2-bcfe-fbf7f8cc8f15",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "A 796",
+      "title": "Requires electric public utilities to develop and apply special rules for certain data centers to protect non-data center customers from increased costs.**",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-06T14:26:22.470835+00:00",
+      "updated_at": "2026-03-25T06:42:32.910187+00:00",
+      "openstates_url": "https://openstates.org/nj/bills/222/A796/",
+      "first_action_date": "2026-01-13T05:00:00+00:00",
+      "latest_action_date": "2026-03-23T04:00:00+00:00",
+      "latest_action_description": "Passed by the Assembly (55-18-0)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/3364dde4-0b9e-474c-a022-d22565dca284",
+      "session": "222",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/68d34c4f-e59d-42a2-bcfe-fbf7f8cc8f15",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "A 3877",
+      "title": "Establishes certain State funding preferences for municipalities that enhance opportunities to develop housing.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-06T14:04:07.089220+00:00",
+      "updated_at": "2026-03-25T06:29:23.745748+00:00",
+      "openstates_url": "https://openstates.org/nj/bills/222/A3877/",
+      "first_action_date": "2026-01-13T05:00:00+00:00",
+      "latest_action_date": "2026-03-23T04:00:00+00:00",
+      "latest_action_description": "Passed by the Assembly (55-19-0)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/729eb7df-0a66-4bef-a280-82a6dd7867d1",
+      "session": "222",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/68d34c4f-e59d-42a2-bcfe-fbf7f8cc8f15",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "A 938",
+      "title": "Provides for representation of Burlington County on SJTA.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-06T14:06:47.247814+00:00",
+      "updated_at": "2026-03-25T06:24:07.196255+00:00",
+      "openstates_url": "https://openstates.org/nj/bills/222/A938/",
+      "first_action_date": "2026-01-13T05:00:00+00:00",
+      "latest_action_date": "2026-01-13T05:00:00+00:00",
+      "latest_action_description": "Introduced, Referred to Assembly Transportation and Independent Authorities Committee",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/37c60e2a-ed15-45f1-a8c5-a43c363164c1",
+      "session": "222",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/0461b3ba-ecad-4ed3-bc89-056dbaa698d1",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "S 1244",
+      "title": "Requires health care professional to order bi-lateral ultrasounds concurrently when ordering mammograms; requires insurers to cover concurrent mammograms and bi-lateral ultrasounds.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-23T01:24:33.640302+00:00",
+      "updated_at": "2026-03-25T06:22:40.365915+00:00",
+      "openstates_url": "https://openstates.org/nj/bills/222/S1244/",
+      "first_action_date": "2026-01-13T05:00:00+00:00",
+      "latest_action_date": "2026-01-13T05:00:00+00:00",
+      "latest_action_description": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/b880aa83-8420-42f6-8554-8176f084112a",
+      "session": "222",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/68d34c4f-e59d-42a2-bcfe-fbf7f8cc8f15",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "A 2127",
+      "title": "Prohibits certain public utilities from charging residents of multi-unit dwellings meter-reading fees in certain circumstances.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-06T14:04:28.233147+00:00",
+      "updated_at": "2026-03-25T06:21:31.835152+00:00",
+      "openstates_url": "https://openstates.org/nj/bills/222/A2127/",
+      "first_action_date": "2026-01-13T05:00:00+00:00",
+      "latest_action_date": "2026-03-23T04:00:00+00:00",
+      "latest_action_description": "Passed by the Assembly (72-0-0)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/2661d1d5-be8d-4bc3-8de9-924bc9f8eada",
+      "session": "222",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/68d34c4f-e59d-42a2-bcfe-fbf7f8cc8f15",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "A 1205",
+      "title": "Requires Division of Developmental Disabilities to create and distribute satisfaction survey.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-06T14:23:40.349743+00:00",
+      "updated_at": "2026-03-25T06:07:14.501071+00:00",
+      "openstates_url": "https://openstates.org/nj/bills/222/A1205/",
+      "first_action_date": "2026-01-13T05:00:00+00:00",
+      "latest_action_date": "2026-03-23T04:00:00+00:00",
+      "latest_action_description": "Passed by the Assembly (72-0-0)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/255ac316-6c67-417d-86f5-3075cbb75e61",
+      "session": "222",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/68d34c4f-e59d-42a2-bcfe-fbf7f8cc8f15",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "A 2777",
+      "title": "The \"New Jersey Online Foreclosure Sale Act;\" permits online foreclosure sales for real property.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-06T14:28:24.044725+00:00",
+      "updated_at": "2026-03-25T06:05:02.640682+00:00",
+      "openstates_url": "https://openstates.org/nj/bills/222/A2777/",
+      "first_action_date": "2026-01-13T05:00:00+00:00",
+      "latest_action_date": "2026-03-23T04:00:00+00:00",
+      "latest_action_description": "Passed by the Assembly (71-0-0)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/075df084-4309-4e77-a8d7-6088d60a58ae",
+      "session": "222",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/68d34c4f-e59d-42a2-bcfe-fbf7f8cc8f15",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "A 4769",
+      "title": "Requires certain State agencies to establish expedited approval and permitting procedures for artificial intelligence data centers powered by small modular nuclear reactors.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-03-17T08:34:36.458132+00:00",
+      "updated_at": "2026-03-25T06:05:00.270912+00:00",
+      "openstates_url": "https://openstates.org/nj/bills/222/A4769/",
+      "first_action_date": "2026-03-19T04:00:00+00:00",
+      "latest_action_date": "2026-03-19T04:00:00+00:00",
+      "latest_action_description": "Introduced, Referred to Assembly Telecommunications and Utilities Committee",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/f86db9b9-d0a6-432e-ad08-88a3ac5de4ec",
+      "session": "222",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nj/government",
+        "name": "New Jersey",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/68d34c4f-e59d-42a2-bcfe-fbf7f8cc8f15",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "A 1945",
+      "title": "Requires health care professionals to order bi-lateral ultrasounds concurrently when ordering mammograms; requires insurers to cover concurrent mammograms and bi-lateral ultrasounds.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-06T14:16:27.442429+00:00",
+      "updated_at": "2026-03-25T05:58:21.920728+00:00",
+      "openstates_url": "https://openstates.org/nj/bills/222/A1945/",
+      "first_action_date": "2026-01-13T05:00:00+00:00",
+      "latest_action_date": "2026-01-13T05:00:00+00:00",
+      "latest_action_description": "Introduced, Referred to Assembly Health Committee",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 1094,
+    "total_items": 10936
+  }
+}

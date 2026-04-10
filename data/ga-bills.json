@@ -1,0 +1,332 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/3bbc03a0-f0f1-43c9-b67e-1c48070db640",
+      "session": "2025_26",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ga/government",
+        "name": "Georgia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3b9777f2-c2fb-48e1-83bf-66fc7a17492e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SR 624",
+      "title": "Officer Drew Haynes Brown Memorial Intersection; Cobb County; dedicate",
+      "classification": [
+        "resolution"
+      ],
+      "subject": [
+        "HIGHWAYS, BRIDGES, AND FERRIES"
+      ],
+      "extras": {
+        "guid": 72473
+      },
+      "created_at": "2026-01-28T07:44:16.509846+00:00",
+      "updated_at": "2026-04-09T10:28:09.978102+00:00",
+      "openstates_url": "https://openstates.org/ga/bills/2025_26/SR624/",
+      "first_action_date": "2026-01-27",
+      "latest_action_date": "2026-04-02",
+      "latest_action_description": "Senate Agreed House Amend or Sub",
+      "latest_passage_date": "2026-04-02"
+    },
+    {
+      "id": "ocd-bill/5e0304f5-9dec-4ff4-a2aa-f708d7921123",
+      "session": "2025_26",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ga/government",
+        "name": "Georgia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/f94ae35f-f161-4599-b603-e7737dc8c93f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 483",
+      "title": "Crimes and offenses; protections for inspectors of code enforcement; provide",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "CRIMES AND OFFENSES (CRIMINAL CODE)"
+      ],
+      "extras": {
+        "guid": 70404
+      },
+      "created_at": "2025-02-19T06:39:53.652724+00:00",
+      "updated_at": "2026-04-08T10:47:56.320368+00:00",
+      "openstates_url": "https://openstates.org/ga/bills/2025_26/HB483/",
+      "first_action_date": "2025-02-18",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "House Sent to Governor",
+      "latest_passage_date": "2026-03-12"
+    },
+    {
+      "id": "ocd-bill/728e88d3-d3ab-4bea-8940-741548902740",
+      "session": "2025_26",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ga/government",
+        "name": "Georgia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3b9777f2-c2fb-48e1-83bf-66fc7a17492e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 447",
+      "title": "Control of Soil Erosion and Sedimentation; denial or nonacceptance of permits; revise provisions",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "CONSERVATION AND NATURAL RESOURCES",
+        "LOCAL GOVERNMENT"
+      ],
+      "extras": {
+        "guid": 72694
+      },
+      "created_at": "2026-02-03T07:33:47.833733+00:00",
+      "updated_at": "2026-04-08T10:47:32.776566+00:00",
+      "openstates_url": "https://openstates.org/ga/bills/2025_26/SB447/",
+      "first_action_date": "2026-02-02",
+      "latest_action_date": "2026-04-02",
+      "latest_action_description": "Senate Agreed House Amend or Sub",
+      "latest_passage_date": "2026-03-31"
+    },
+    {
+      "id": "ocd-bill/2b8edaf1-a34d-4ec2-9a85-1dd5bb0a311d",
+      "session": "2025_26",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ga/government",
+        "name": "Georgia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/f94ae35f-f161-4599-b603-e7737dc8c93f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 998",
+      "title": "Public utilities; authorize certain Tier 2 local exchange companies to elect to become subject to rate of return regulation",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "PUBLIC UTILITIES AND TRANSPORTATION"
+      ],
+      "extras": {
+        "guid": 72277
+      },
+      "created_at": "2026-01-16T07:39:20.889114+00:00",
+      "updated_at": "2026-04-08T10:47:24.833892+00:00",
+      "openstates_url": "https://openstates.org/ga/bills/2025_26/HB998/",
+      "first_action_date": "2026-01-15",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "House Sent to Governor",
+      "latest_passage_date": "2026-03-18"
+    },
+    {
+      "id": "ocd-bill/4561e815-5b5e-447e-9a89-6255f3416efe",
+      "session": "2025_26",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ga/government",
+        "name": "Georgia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/f94ae35f-f161-4599-b603-e7737dc8c93f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 946",
+      "title": "Game and fish; authorize hunting and trapping of feral hogs under certain circumstances",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "GAME AND FISH"
+      ],
+      "extras": {
+        "guid": 72144
+      },
+      "created_at": "2026-01-13T07:44:59.696888+00:00",
+      "updated_at": "2026-04-08T10:46:20.720794+00:00",
+      "openstates_url": "https://openstates.org/ga/bills/2025_26/HB946/",
+      "first_action_date": "2026-01-12",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "House Sent to Governor",
+      "latest_passage_date": "2026-03-20"
+    },
+    {
+      "id": "ocd-bill/244d9dbd-703e-4eff-891e-85166b940d59",
+      "session": "2025_26",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ga/government",
+        "name": "Georgia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/f94ae35f-f161-4599-b603-e7737dc8c93f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 115",
+      "title": "Natural Resources, Department of; certain notice upon registration of a vessel; provide",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "WATERS, PORTS, AND WATERCRAFT"
+      ],
+      "extras": {
+        "guid": 69468
+      },
+      "created_at": "2025-01-18T06:17:06.427285+00:00",
+      "updated_at": "2026-04-08T10:45:43.498123+00:00",
+      "openstates_url": "https://openstates.org/ga/bills/2025_26/HB115/",
+      "first_action_date": "2025-01-17",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "House Sent to Governor",
+      "latest_passage_date": "2026-03-10"
+    },
+    {
+      "id": "ocd-bill/2d272b14-9de3-474f-90f9-6a48f3b08e1f",
+      "session": "2025_26",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ga/government",
+        "name": "Georgia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/f94ae35f-f161-4599-b603-e7737dc8c93f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 445",
+      "title": "Ad valorem tax; language required to be included in notices of current assessment; revise",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "PROPERTY",
+        "REVENUE AND TAXATION"
+      ],
+      "extras": {
+        "guid": 70317
+      },
+      "created_at": "2025-02-14T06:37:59.933768+00:00",
+      "updated_at": "2026-04-08T10:39:53.371647+00:00",
+      "openstates_url": "https://openstates.org/ga/bills/2025_26/HB445/",
+      "first_action_date": "2025-02-13",
+      "latest_action_date": "2026-04-02",
+      "latest_action_description": "Senate Agreed House Amend or Sub",
+      "latest_passage_date": "2026-03-31"
+    },
+    {
+      "id": "ocd-bill/a2f4a2ad-30b0-4b62-8fc2-cf03c6a0cad3",
+      "session": "2025_26",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ga/government",
+        "name": "Georgia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/f94ae35f-f161-4599-b603-e7737dc8c93f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 986",
+      "title": "Motor vehicles; personal delivery devices; revise operation procedures and restrictions",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "MOTOR VEHICLES AND TRAFFIC"
+      ],
+      "extras": {
+        "guid": 72246
+      },
+      "created_at": "2026-01-16T07:40:31.948119+00:00",
+      "updated_at": "2026-04-08T10:35:37.566165+00:00",
+      "openstates_url": "https://openstates.org/ga/bills/2025_26/HB986/",
+      "first_action_date": "2026-01-15",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "House Sent to Governor",
+      "latest_passage_date": "2026-03-19"
+    },
+    {
+      "id": "ocd-bill/704cda3d-c4a1-41f7-9522-91f0f2c3989f",
+      "session": "2025_26",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ga/government",
+        "name": "Georgia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/f94ae35f-f161-4599-b603-e7737dc8c93f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 455",
+      "title": "Bingo; properties used for games; limit number of sessions; provisions",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "CRIMES AND OFFENSES (CRIMINAL CODE)"
+      ],
+      "extras": {
+        "guid": 70327
+      },
+      "created_at": "2025-02-14T06:40:35.582226+00:00",
+      "updated_at": "2026-04-08T10:32:31.872224+00:00",
+      "openstates_url": "https://openstates.org/ga/bills/2025_26/HB455/",
+      "first_action_date": "2025-02-13",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "House Sent to Governor",
+      "latest_passage_date": "2026-02-20"
+    },
+    {
+      "id": "ocd-bill/6878b087-ac26-4ba8-8923-4f9c5d014a67",
+      "session": "2025_26",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ga/government",
+        "name": "Georgia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/f94ae35f-f161-4599-b603-e7737dc8c93f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1024",
+      "title": "Property; debtor's aggregate interest in real property or personal property used as a residence; revise exemption",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "PROPERTY"
+      ],
+      "extras": {
+        "guid": 72354
+      },
+      "created_at": "2026-01-28T07:26:55.017420+00:00",
+      "updated_at": "2026-04-08T10:29:46.730508+00:00",
+      "openstates_url": "https://openstates.org/ga/bills/2025_26/HB1024/",
+      "first_action_date": "2026-01-27",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "House Sent to Governor",
+      "latest_passage_date": "2026-03-23"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 271,
+    "total_items": 2704
+  }
+}

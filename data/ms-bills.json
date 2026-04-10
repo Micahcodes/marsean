@@ -1,0 +1,341 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/efa8d004-b2f1-441f-ac1f-4319fb488429",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/47c2e037-ffe3-46c3-9399-8feb1f7d4988",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1901",
+      "title": "Appropriation; Public Utilities Staff.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Appropriations",
+        "Appropriations A",
+        "Appropriations B"
+      ],
+      "extras": {
+        "summary": "AN ACT MAKING AN APPROPRIATION FROM GENERAL FUNDS IN THE STATE TREASURY FOR THE PURPOSE OF DEFRAYING THE EXPENSES OF THE PUBLIC UTILITIES STAFF FOR FISCAL YEAR 2027."
+      },
+      "created_at": "2026-02-16T22:10:30.322782+00:00",
+      "updated_at": "2026-04-08T00:03:12.313215+00:00",
+      "openstates_url": "https://openstates.org/ms/bills/2026/HB1901/",
+      "first_action_date": "2026-02-16T06:00:00+00:00",
+      "latest_action_date": "2026-04-06T05:00:00+00:00",
+      "latest_action_description": "Approved by Governor",
+      "latest_passage_date": "2026-03-12T05:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/30c5ae93-3839-419f-85a2-cfc2d32d1719",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/47c2e037-ffe3-46c3-9399-8feb1f7d4988",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4000",
+      "title": "Grenada County; authorize to create the Grenada County Utility Authority.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Local and Private",
+        "Local and Private Legislation"
+      ],
+      "extras": {
+        "summary": "AN ACT TO AUTHORIZE GRENADA COUNTY, MISSISSIPPI, TO CREATE THE GRENADA COUNTY UTILITY AUTHORITY; TO PROVIDE THAT THE AUTHORITY SHALL BE GOVERNED BY A BOARD OF DIRECTORS OF THE AUTHORITY; TO PROVIDE FOR THE MEMBERSHIP OF THE BOARD OF DIRECTORS OF THE AUTHORITY; TO PROVIDE FOR THE POWERS AND DUTIES OF THE AUTHORITY AND THE BOARD OF THE AUTHORITY; TO AUTHORIZE THE AUTHORITY TO ACQUIRE, CONSTRUCT, MAINTAIN, AND OPERATE WASTEWATER COLLECTION AND TREATMENT SYSTEMS AND WATER SYSTEMS WITHIN THE AUTHORITY'S SERVICE AREA; TO AUTHORIZE SERVICE PROVIDERS TO CONTRACT WITH THE AUTHORITY; TO AUTHORIZE THE AUTHORITY TO ISSUE REVENUE BONDS TO PROVIDE FUNDS NECESSARY TO ACHIEVE THE PURPOSES OF THIS ACT; TO AUTHORIZE THE AUTHORITY TO ENTER INTO CONTRACTS WITH THE OWNERS OF PROPERTY TO PROVIDE IMPROVEMENTS NECESSARY TO PROVIDE WASTEWATER AND WATER SERVICES; TO PROVIDE THAT THE AUTHORITY MAY ISSUE SPECIAL ASSESSMENT BONDS TO FINANCE SUCH IMPROVEMENTS AND TO AUTHORIZE THE AUTHORITY TO LEVY AND COLLECT SPECIAL ASSESSMENTS AGAINST THE PROPERTY BENEFITED THEREBY TO RETIRE SUCH BONDS; AND FOR RELATED PURPOSES."
+      },
+      "created_at": "2026-02-18T18:17:58.051196+00:00",
+      "updated_at": "2026-04-07T23:54:16.457927+00:00",
+      "openstates_url": "https://openstates.org/ms/bills/2026/HB4000/",
+      "first_action_date": "2026-02-18T06:00:00+00:00",
+      "latest_action_date": "2026-04-06T05:00:00+00:00",
+      "latest_action_description": "Approved by Governor",
+      "latest_passage_date": "2026-03-26T05:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/fca41361-40c3-4329-8b8e-fcb69e53c3ba",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/47c2e037-ffe3-46c3-9399-8feb1f7d4988",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1870",
+      "title": "Bolivar County; authorize to create utility district to own, control, operate and maintain Choctaw Sewer Association System.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Local and Private",
+        "Local and Private Legislation"
+      ],
+      "extras": {
+        "summary": "AN ACT TO AUTHORIZE THE BOARD OF SUPERVISORS OF BOLIVAR COUNTY, MISSISSIPPI, TO ESTABLISH A UTILITY DISTRICT WITHIN THE COMMUNITY OF CHOCTAW FOR THE PURPOSE OF OWNING, CONTROLLING, OPERATING AND MAINTAINING THE CHOCTAW SEWER ASSOCIATION SYSTEM FACILITIES; TO PROVIDE FOR THE POWERS AND DUTIES OF THE UTILITY DISTRICT; TO AUTHORIZE THE BOARD OF SUPERVISORS OF BOLIVAR COUNTY TO TRANSFER ASSETS AND OTHER PROPERTY TO THE DISTRICT, AND TO CONTRIBUTE FUNDS AND SERVICES FOR THE REPAIR AND IMPROVEMENT OF THE SEWER SYSTEM FACILITIES; AND FOR RELATED PURPOSES."
+      },
+      "created_at": "2026-02-13T00:03:17.410471+00:00",
+      "updated_at": "2026-04-07T23:53:04.071470+00:00",
+      "openstates_url": "https://openstates.org/ms/bills/2026/HB1870/",
+      "first_action_date": "2026-02-12T06:00:00+00:00",
+      "latest_action_date": "2026-04-06T05:00:00+00:00",
+      "latest_action_description": "Approved by Governor",
+      "latest_passage_date": "2026-03-26T05:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/8c950c46-99cc-4aa9-a414-bfeae758bb8d",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/47c2e037-ffe3-46c3-9399-8feb1f7d4988",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1989",
+      "title": "Sales tax; exempt sales of utilities to certain nonprofit organizations.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Finance",
+        "Ways and Means"
+      ],
+      "extras": {
+        "summary": "AN ACT TO AMEND SECTION 27-65-107, MISSISSIPPI CODE OF 1972, TO EXEMPT FROM SALES TAXATION SALES TO CERTAIN NONPROFIT ORGANIZATIONS OF UTILITIES THAT ARE UTILIZED ON PROPERTY THAT IS PRIMARILY USED FOR AGRICULTURAL EXHIBITS, LIVESTOCK SHOWS, CARNIVAL RIDES, HORSE RACING AND VARIOUS TYPES OF OTHER ENTERTAINMENT, AND ON WHICH ARE LOCATED FACILITIES THAT PROVIDE FOR TEMPORARY LODGING ACCOMMODATIONS; AND FOR RELATED PURPOSES."
+      },
+      "created_at": "2026-02-17T18:14:36.483314+00:00",
+      "updated_at": "2026-04-07T23:48:44.047637+00:00",
+      "openstates_url": "https://openstates.org/ms/bills/2026/HB1989/",
+      "first_action_date": "2026-02-17T06:00:00+00:00",
+      "latest_action_date": "2026-04-06T05:00:00+00:00",
+      "latest_action_description": "Approved by Governor",
+      "latest_passage_date": "2026-03-17T05:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/21d4e844-73fc-492f-af2e-5dd4f0d88096",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7e3c07c9-91ff-4445-8cef-57f85ab6ae9f",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 3410",
+      "title": "City of Brandon and West Rankin Utility Authority; authorize to enter agreements w/data center for water & wastewater infrastructure.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Local and Private",
+        "Local and Private Legislation"
+      ],
+      "extras": {
+        "summary": "AN ACT TO AUTHORIZE THE MAYOR AND BOARD OF ALDERMEN OF THE CITY OF BRANDON, MISSISSIPPI, AND THE BOARD OF DIRECTORS OF THE WEST RANKIN UTILITY AUTHORITY TO JOINTLY OR INDEPENDENTLY ENTER INTO ONE OR MORE CONTRACTS OR AGREEMENTS WITH A DEVELOPER OR OPERATOR OF A DATA CENTER OR RELATED TECHNOLOGY FACILITY, AND WITH EACH OTHER, FOR THE PLANNING, DESIGN, CONSTRUCTION, INSTALLATION, OPERATION, AND MAINTENANCE OF WATER AND WASTEWATER INFRASTRUCTURE, WHERE SUCH DEVELOPER OR OPERATOR AGREES TO REIMBURSE THE CITY AND AUTHORITY, FROM THE DEVELOPER'S OR OPERATOR'S OWN FUNDS ON A PROGRESS PAYMENT BASIS, THE COSTS OF THE CITY AND/OR THE AUTHORITY OF CONSTRUCTING IMPROVEMENTS TO THEIR RESPECTIVE WATER AND WASTEWATER INFRASTRUCTURE FOR THE PURPOSES OF ENTERING INTO SUCH CONTRACTS OR AGREEMENTS; TO AUTHORIZE THE DELIVERY OF RECLAIMED WATER FOR COOLING, INDUSTRIAL, OR OPERATIONAL PURPOSES TO SUCH FACILITY AND THE COLLECTION AND CONVEYANCE OF WASTEWATER FOR TREATMENT AND DISPOSAL; TO AUTHORIZE SUCH AGREEMENTS FOR A PRIMARY TERM NOT TO EXCEED 30 YEARS, WITH OPTIONS TO RENEW; TO AUTHORIZE PROVISIONS FOR AGREEMENT ASSIGNABILITY, VOLUMETRIC CAPACITY GUARANTEES, AND THE ESTABLISHMENT OF RATES AND CHARGES; AND FOR RELATED PURPOSES."
+      },
+      "created_at": "2026-03-24T17:16:10.913381+00:00",
+      "updated_at": "2026-04-07T16:28:01.174757+00:00",
+      "openstates_url": "https://openstates.org/ms/bills/2026/SB3410/",
+      "first_action_date": "2026-03-24T05:00:00+00:00",
+      "latest_action_date": "2026-04-07T05:00:00+00:00",
+      "latest_action_description": "Due From Governor 04/13/26",
+      "latest_passage_date": "2026-04-02T05:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/a26de4a7-0db7-465f-86b1-c0ed6a75948c",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/47c2e037-ffe3-46c3-9399-8feb1f7d4988",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1076",
+      "title": "Preserving Lawful Utilization of Services for Veterans Act of 2026 (PLUS Act); create.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Military Affairs",
+        "Veterans and Military Affairs"
+      ],
+      "extras": {
+        "summary": "AN ACT ENTITLED THE \"PRESERVING LAWFUL UTILIZATION OF SERVICES FOR VETERANS ACT OF 2026 (PLUS ACT)\"; TO PROVIDE DEFINITIONS; TO PROVIDE THAT NO PERSON MAY RECEIVE ANY COMPENSATION FOR SERVICES RENDERED IN CONNECTION WITH ANY VETERAN'S CLAIM UNLESS THE VETERAN SIGNS A WAIVER THAT THEY ARE WITHIN THE ALLOWABLE TIME PERIOD AND ARE CHOOSING TO DENY FREE SERVICES AVAILABLE; TO PROVIDE THAT ANY PERSON ASSISTING ON VETERANS' BENEFITS MATTERS FOR COMPENSATION SHALL PROVIDE CERTAIN DISCLOSURES AT THE BEGINNING OF THE BUSINESS RELATIONSHIP; TO PROHIBIT CERTAIN PRACTICES BY BUSINESSES ASSISTING VETERANS BENEFITS MATTERS FOR COMPENSATION; AND FOR RELATED PURPOSES."
+      },
+      "created_at": "2026-01-16T21:29:58.426525+00:00",
+      "updated_at": "2026-04-07T16:26:11.970438+00:00",
+      "openstates_url": "https://openstates.org/ms/bills/2026/HB1076/",
+      "first_action_date": "2026-01-16T06:00:00+00:00",
+      "latest_action_date": "2026-04-07T05:00:00+00:00",
+      "latest_action_description": "Due From Governor 04/13/26",
+      "latest_passage_date": "2026-02-26T06:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/b1d30930-fb9d-468f-aa96-ca9109f3888d",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7e3c07c9-91ff-4445-8cef-57f85ab6ae9f",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 3229",
+      "title": "Bonds; authorize revenue bonds to be issued to pay for damage to electric utilities caused by the 2026 winter storm.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Finance",
+        "Ways and Means"
+      ],
+      "extras": {
+        "summary": "AN ACT TO ENACT THE MISSISSIPPI 2026 SEVERE WINTER STORM ELECTRIC UTILITY CUSTOMER RELIEF AND ELECTRIC UTILITY SYSTEM RESTORATION ACT; TO ESTABLISH A MECHANISM BY WHICH THE MISSISSIPPI PUBLIC SERVICE COMMISSION MAY AUTHORIZE AND CERTIFY AN ELECTRIC UTILITY FINANCING ORDER AND THE STATE MAY ISSUE BONDS TO PAY THE COSTS OF REPAIRING DAMAGE TO THE SYSTEMS OF ELECTRIC UTILITIES CAUSED BY THE 2026 WINTER STORM; TO AUTHORIZE ELECTRIC UTILITIES TO PETITION THE PUBLIC SERVICE COMMISSION FOR THE ISSUANCE OF A FINANCING ORDER WHICH, WHEN TRANSMITTED TO THE STATE BOND COMMISSION BY AN ELECTRIC UTILITY, AUTHORIZES THE ISSUANCE OF BONDS TO PAY THE COSTS ASSOCIATED WITH RESTORING THE SYSTEM OF THE ELECTRIC UTILITY; TO PROVIDE THE CONTENTS OF SUCH A PETITION; TO AUTHORIZE THE PUBLIC UTILITIES STAFF TO CONDUCT AN INDEPENDENT INVESTIGATION OF THE PETITION; TO ESTABLISH THE DUTIES OF THE PUBLIC SERVICE COMMISSION WITH REGARD TO SUCH PETITIONS; TO PROVIDE FOR THE CONTENTS OF FINANCING ORDERS; TO PROVIDE THAT THE FINANCING ORDER SHALL REQUIRE THE ELECTRIC UTILITY TO COLLECT A SYSTEM RESTORATION CHARGE FROM ITS RETAIL CUSTOMERS SUFFICIENT TO PAY THE DEBT SERVICE ON ANY BONDS ISSUED PURSUANT TO THE FINANCING ORDER; TO PROVIDE FOR ANNUAL ADJUSTMENTS TO THE SYSTEM RESTORATION CHARGES TO ENSURE THAT THE CHARGES ARE SUFFICIENT TO PAY THE DEBT SERVICE ON ANY BONDS ISSUED PURSUANT TO THIS ACT; TO PROVIDE THE METHOD FOR APPEALING DECISIONS OF THE PUBLIC SERVICE COMMISSION WITH RESPECT TO A FINANCING ORDER; TO PROVIDE FOR THE DURATION OF A FINANCING ORDER; TO AUTHORIZE THE ISSUANCE OF BONDS IN AN AMOUNT NOT TO EXCEED THE AMOUNT SPECIFIED IN THE FINANCING ORDER TO BE UTILIZED BY AN ELECTRIC UTILITY TO PAY THE COST OF REPAIRS NECESSITATED BY THE 2026 WINTER STORM; TO AUTHORIZE THE CREATION OF SINKING FUNDS INTO WHICH SYSTEM RESTORATION CHARGES COLLECTED BY THE ELECTRIC UTILITY SHALL BE DEPOSITED AND TO PROVIDE THAT MONEY IN THE SINKING FUNDS SHALL BE UTILIZED TO PAY THE DEBT SERVICE ON BONDS ISSUED PURSUANT TO A FINANCING ORDER; AND FOR RELATED PURPOSES."
+      },
+      "created_at": "2026-02-24T18:17:17.548851+00:00",
+      "updated_at": "2026-04-07T16:19:51.318205+00:00",
+      "openstates_url": "https://openstates.org/ms/bills/2026/SB3229/",
+      "first_action_date": "2026-02-24T06:00:00+00:00",
+      "latest_action_date": "2026-04-07T05:00:00+00:00",
+      "latest_action_description": "Due From Governor 04/13/26",
+      "latest_passage_date": "2026-03-17T05:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/27320770-b684-4cbd-8295-1d9828199fda",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/47c2e037-ffe3-46c3-9399-8feb1f7d4988",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1563",
+      "title": "Municipal utilities; revise composition of the commission to include one person who is a customer that receives service by such utility.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Energy",
+        "Public Utilities"
+      ],
+      "extras": {
+        "summary": "AN ACT TO AMEND SECTION 21-27-13, MISSISSIPPI CODE OF 1972, TO REQUIRE THAT TWO MEMBERS OF A MUNICIPAL UTILITY COMMISSION MUST BE CUSTOMERS WHO RECEIVE SUCH UTILITY SERVICE AT A LOCATION OUTSIDE THE BOUNDARIES OF THE MUNICIPALITY; TO AMEND SECTION 41-26-101, MISSISSIPPI CODE OF 1972, TO REQUIRE ALL MEMBERS OF A GOVERNING BOARD OF ANY COMMUNITY PUBLIC WATER SYSTEM TO ATTEND MANAGEMENT TRAINING; TO BRING FORWARD SECTION 41-26-3, MISSISSIPPI CODE OF 1972, FOR PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+      },
+      "created_at": "2026-01-21T23:52:15.957551+00:00",
+      "updated_at": "2026-04-07T16:14:52.815075+00:00",
+      "openstates_url": "https://openstates.org/ms/bills/2026/HB1563/",
+      "first_action_date": "2026-01-19T06:00:00+00:00",
+      "latest_action_date": "2026-04-07T05:00:00+00:00",
+      "latest_action_description": "Due From Governor 04/13/26",
+      "latest_passage_date": "2026-03-10T05:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/e1cba725-0f5d-425c-bade-093d29dc583f",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/47c2e037-ffe3-46c3-9399-8feb1f7d4988",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4069",
+      "title": "Mississippi Severe Winter Storm of 2026 Electric Utility Customer Relief and Electric Utility System Restoration Act; create.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Finance",
+        "Ways and Means"
+      ],
+      "extras": {
+        "summary": "AN ACT TO CREATE THE MISSISSIPPI SEVERE WINTER STORM OF 2026 ELECTRIC UTILITY CUSTOMER RELIEF AND ELECTRIC UTILITY SYSTEM RESTORATION ACT\"; TO ESTABLISH A MECHANISM BY WHICH THE MISSISSIPPI PUBLIC SERVICE COMMISSION MAY AUTHORIZE AND CERTIFY AN ELECTRIC UTILITY FINANCING ORDER AND THE STATE MAY ISSUE GENERAL OBLIGATION BONDS TO PAY THE COSTS OF REPAIRING DAMAGE TO THE SYSTEMS OF ELECTRIC UTILITIES CAUSED BY THE MISSISSIPPI SEVERE WINTER STORM OF 2026; TO AUTHORIZE ELECTRIC UTILITIES TO PETITION THE PUBLIC SERVICE COMMISSION FOR THE ISSUANCE OF A FINANCING ORDER WHICH, WHEN TRANSMITTED TO THE STATE BOND COMMISSION BY AN ELECTRIC UTILITY, AUTHORIZES THE ISSUANCE OF BONDS TO PAY THE COSTS ASSOCIATED WITH RESTORING THE SYSTEM OF THE ELECTRIC UTILITY; TO PROVIDE THE CONTENTS OF SUCH A PETITION; TO AUTHORIZE THE PUBLIC UTILITIES STAFF TO CONDUCT AN INDEPENDENT INVESTIGATION OF THE PETITION; TO ESTABLISH THE DUTIES OF THE PUBLIC SERVICE COMMISSION WITH REGARD TO SUCH PETITIONS; TO PROVIDE FOR THE CONTENTS OF FINANCING ORDERS; TO PROVIDE THAT THE FINANCING ORDER SHALL REQUIRE THE ELECTRIC UTILITY TO COLLECT A SYSTEM RESTORATION CHARGE FROM ITS RETAIL CUSTOMERS SUFFICIENT TO PAY THE DEBT SERVICE ON ANY BONDS ISSUED PURSUANT TO THE FINANCING ORDER; TO PROVIDE FOR ANNUAL ADJUSTMENTS TO THE SYSTEM RESTORATION CHARGES TO ENSURE THAT THE CHARGES ARE SUFFICIENT TO PAY THE DEBT SERVICE ON ANY BONDS ISSUED PURSUANT TO THIS ACT; TO PROVIDE THE METHOD FOR APPEALING DECISIONS OF THE PUBLIC SERVICE COMMISSION WITH RESPECT TO A FINANCING ORDER; TO PROVIDE FOR THE DURATION OF A FINANCING ORDER; TO AUTHORIZE THE ISSUANCE OF STATE GENERAL OBLIGATION BONDS IN AN AMOUNT NOT TO EXCEED THE AMOUNT SPECIFIED IN THE FINANCING ORDER TO BE UTILIZED BY AN ELECTRIC UTILITY TO PAY THE COST OF REPAIRS NECESSITATED BY THE MISSISSIPPI SEVERE WINTER STORM OF 2026; TO AUTHORIZE THE CREATION OF SINKING FUNDS INTO WHICH SYSTEM RESTORATION CHARGES COLLECTED BY THE ELECTRIC UTILITY SHALL BE DEPOSITED AND TO PROVIDE THAT MONEY IN THE SINKING FUNDS SHALL BE UTILIZED TO PAY THE DEBT SERVICE ON BONDS ISSUED PURSUANT TO A FINANCING ORDER; TO BRING FORWARD SECTION 27-65-19, MISSISSIPPI CODE OF 1972, WHICH IS A SECTION OF THE MISSISSIPPI SALES TAX LAW, FOR THE PURPOSES OF POSSIBLE AMENDMENT; AND FOR RELATED PURPOSES."
+      },
+      "created_at": "2026-02-24T18:19:35.559334+00:00",
+      "updated_at": "2026-03-29T20:45:30.908209+00:00",
+      "openstates_url": "https://openstates.org/ms/bills/2026/HB4069/",
+      "first_action_date": "2026-02-24T06:00:00+00:00",
+      "latest_action_date": "2026-03-28T05:00:00+00:00",
+      "latest_action_description": "Died In Conference",
+      "latest_passage_date": "2026-03-17T05:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/07b825da-b86a-481d-8cf0-e1b118e2bea7",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ms/government",
+        "name": "Mississippi",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/47c2e037-ffe3-46c3-9399-8feb1f7d4988",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1404",
+      "title": "Fraudulent Utility Conversion; create crime when landlord fails to pay utilities and tenants' utilities are interrupted.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Judiciary A",
+        "Judiciary, Division B"
+      ],
+      "extras": {
+        "summary": "AN ACT TO PROHIBIT A PERSON WHO HAS RECEIVED PAYMENT IN ACCORDANCE WITH A LEASE TO PAY UTILITY SERVICES FROM KNOWINGLY FAILING TO PAY OR USING AN AGENT OR EMPLOYEE TO USE ANY DECEPTION TO NOT PAY THE AMOUNT OWED TO THE UTILITY SERVICE; TO PROVIDE CRIMINAL PENALTIES; AND FOR RELATED PURPOSES."
+      },
+      "created_at": "2026-01-21T22:46:42.203972+00:00",
+      "updated_at": "2026-03-27T01:10:07.040900+00:00",
+      "openstates_url": "https://openstates.org/ms/bills/2026/HB1404/",
+      "first_action_date": "2026-01-16T06:00:00+00:00",
+      "latest_action_date": "2026-03-25T05:00:00+00:00",
+      "latest_action_description": "Approved by Governor",
+      "latest_passage_date": "2026-03-09T05:00:00+00:00"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 749,
+    "total_items": 7490
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/2d0b186d-edef-4795-9863-4a62bd98f65e",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mt/government",
+        "name": "Montana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/1cf80fcd-e90e-4d0b-87d6-304fad2262f9",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 437",
+      "title": "Revise definition of sex in Montana law",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Corrections",
+        "Discrimination and Human Rights",
+        "Family Law  (see also: Minors)",
+        "Health (see also: Health Care Services; Safety)",
+        "Insurance"
+      ],
+      "extras": {
+        "by_request_of": "Carl Glimm",
+        "bill_draft_number": "LC4192"
+      },
+      "created_at": "2025-02-25T05:06:17.127115+00:00",
+      "updated_at": "2026-03-27T12:30:28.688383+00:00",
+      "openstates_url": "https://openstates.org/mt/bills/2025/SB437/",
+      "first_action_date": "2024-12-28T12:13:47+00:00",
+      "latest_action_date": "2026-03-25T17:54:37+00:00",
+      "latest_action_description": "Chapter Number Assigned",
+      "latest_passage_date": "2026-03-24T16:06:00+00:00"
+    },
+    {
+      "id": "ocd-bill/c7eea3ac-6a9e-449f-bf51-a06859d3f24d",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mt/government",
+        "name": "Montana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/1cf80fcd-e90e-4d0b-87d6-304fad2262f9",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 412",
+      "title": "Provide for fee waivers of government documents to former foster children",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Family Law  (see also: Minors)",
+        "Health (see also: Health Care Services; Safety)",
+        "Minors  (see also: Family Law)",
+        "Motor Vehicles (see also: Taxation--Trans; Traffic Regulations; Transportation)",
+        "Revenue, State",
+        "Social Services"
+      ],
+      "extras": {
+        "by_request_of": "Laura Smith",
+        "bill_draft_number": "LC1058"
+      },
+      "created_at": "2025-02-22T14:14:03.565892+00:00",
+      "updated_at": "2026-03-18T12:37:32.975356+00:00",
+      "openstates_url": "https://openstates.org/mt/bills/2025/SB412/",
+      "first_action_date": "2024-11-11T20:57:01+00:00",
+      "latest_action_date": "2025-05-08T21:24:06+00:00",
+      "latest_action_description": "Chapter Number Assigned",
+      "latest_passage_date": "2025-04-25T20:40:10+00:00"
+    },
+    {
+      "id": "ocd-bill/3abce591-bd60-4e68-8b11-3998c5444e50",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mt/government",
+        "name": "Montana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7508efaf-3ca6-436d-8858-45b2f73a78d9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 147",
+      "title": "Revise laws related to covenants to provide definition of enforcement action",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Courts  (see also: Judges and Justices; Juries and Jurors)",
+        "Property"
+      ],
+      "extras": {
+        "by_request_of": "Jedediah Hinkle",
+        "bill_draft_number": "LC1272"
+      },
+      "created_at": "2025-01-09T21:37:55.451212+00:00",
+      "updated_at": "2026-03-18T12:37:28.899164+00:00",
+      "openstates_url": "https://openstates.org/mt/bills/2025/HB147/",
+      "first_action_date": "2024-11-12T01:56:00+00:00",
+      "latest_action_date": "2025-05-08T15:49:24+00:00",
+      "latest_action_description": "Chapter Number Assigned",
+      "latest_passage_date": "2025-04-25T18:30:45+00:00"
+    },
+    {
+      "id": "ocd-bill/89bedcae-b72a-4b56-ad86-262549be65b7",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mt/government",
+        "name": "Montana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/1cf80fcd-e90e-4d0b-87d6-304fad2262f9",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 178",
+      "title": "Provide for temporary lease of water rights",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Rule Making",
+        "Water"
+      ],
+      "extras": {
+        "by_request_of": "Barry Usher",
+        "bill_draft_number": "LC0431"
+      },
+      "created_at": "2025-01-23T04:38:06.881236+00:00",
+      "updated_at": "2026-03-18T12:37:17.048985+00:00",
+      "openstates_url": "https://openstates.org/mt/bills/2025/SB178/",
+      "first_action_date": "2024-10-01T18:45:02+00:00",
+      "latest_action_date": "2025-05-05T17:40:37+00:00",
+      "latest_action_description": "Chapter Number Assigned",
+      "latest_passage_date": "2025-04-24T22:00:37+00:00"
+    },
+    {
+      "id": "ocd-bill/8be9f1ab-b9ea-4242-b78b-df30f75ba4be",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mt/government",
+        "name": "Montana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7508efaf-3ca6-436d-8858-45b2f73a78d9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 810",
+      "title": "Revise tenant landlord laws",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Landlord and Tenant"
+      ],
+      "extras": {
+        "by_request_of": "Daniel Zolnikov",
+        "bill_draft_number": "LC0879"
+      },
+      "created_at": "2025-02-27T03:52:29.877025+00:00",
+      "updated_at": "2026-03-18T12:37:15.393001+00:00",
+      "openstates_url": "https://openstates.org/mt/bills/2025/HB810/",
+      "first_action_date": "2024-11-06T20:47:13+00:00",
+      "latest_action_date": "2025-06-12T15:07:59+00:00",
+      "latest_action_description": "Chapter Number Assigned",
+      "latest_passage_date": "2025-05-29T17:30:15+00:00"
+    },
+    {
+      "id": "ocd-bill/c516d0db-8841-4196-b9de-778e6624e65f",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mt/government",
+        "name": "Montana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7508efaf-3ca6-436d-8858-45b2f73a78d9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HR 1",
+      "title": "House rules resolution",
+      "classification": [
+        "resolution"
+      ],
+      "subject": [
+        "Legislature"
+      ],
+      "extras": {
+        "bill_draft_number": "LC2183"
+      },
+      "created_at": "2024-12-27T01:29:15.551103+00:00",
+      "updated_at": "2026-03-18T12:37:13.915063+00:00",
+      "openstates_url": "https://openstates.org/mt/bills/2025/HR1/",
+      "first_action_date": "2024-12-03T22:13:46+00:00",
+      "latest_action_date": "2025-01-16T18:45:00+00:00",
+      "latest_action_description": "(H) Filed with Secretary of State",
+      "latest_passage_date": "2025-01-16T15:30:00+00:00"
+    },
+    {
+      "id": "ocd-bill/f7899422-dfe4-4cc8-871c-44dd2b4ebe65",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mt/government",
+        "name": "Montana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7508efaf-3ca6-436d-8858-45b2f73a78d9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 846",
+      "title": "Revising property taxation for certain local government subdivisions",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Local Government  (see also: City Subjects; County Subjects)",
+        "Revenue, Local",
+        "School Finance",
+        "Schools and Education",
+        "Taxation (Generally)",
+        "Taxation--Property"
+      ],
+      "extras": {
+        "by_request_of": "Llew Jones",
+        "bill_draft_number": "LC1143"
+      },
+      "created_at": "2025-03-20T00:20:37.204154+00:00",
+      "updated_at": "2026-03-18T12:36:59.072185+00:00",
+      "openstates_url": "https://openstates.org/mt/bills/2025/HB846/",
+      "first_action_date": "2024-11-11T22:16:56+00:00",
+      "latest_action_date": "2025-05-19T21:24:56+00:00",
+      "latest_action_description": "Chapter Number Assigned",
+      "latest_passage_date": "2025-05-06T20:00:07+00:00"
+    },
+    {
+      "id": "ocd-bill/beaf1d9b-8068-4884-9847-456db616e241",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mt/government",
+        "name": "Montana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7508efaf-3ca6-436d-8858-45b2f73a78d9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 452",
+      "title": "Generally revise penalties for assaults against utility workers",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Crimes",
+        "Utilities"
+      ],
+      "extras": {
+        "by_request_of": "Gary Parry",
+        "bill_draft_number": "LC1488"
+      },
+      "created_at": "2025-02-12T04:42:19.864045+00:00",
+      "updated_at": "2026-03-18T12:36:56.092937+00:00",
+      "openstates_url": "https://openstates.org/mt/bills/2025/HB452/",
+      "first_action_date": "2024-11-16T20:09:04+00:00",
+      "latest_action_date": "2025-05-20T17:00:00+00:00",
+      "latest_action_description": "(H) Died in Process",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/6173f2fb-74d4-4885-8e65-9a6af24d041b",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mt/government",
+        "name": "Montana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/1cf80fcd-e90e-4d0b-87d6-304fad2262f9",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SJ 14",
+      "title": "Resolution to release federal wilderness study areas",
+      "classification": [
+        "joint resolution"
+      ],
+      "subject": [
+        "Environmental Protection",
+        "Federal Government",
+        "General Joint Resolution"
+      ],
+      "extras": {
+        "by_request_of": "Tony Tezak",
+        "bill_draft_number": "LC2187"
+      },
+      "created_at": "2025-02-19T04:51:31.384414+00:00",
+      "updated_at": "2026-03-18T12:36:49.199007+00:00",
+      "openstates_url": "https://openstates.org/mt/bills/2025/SJ14/",
+      "first_action_date": "2024-12-04T14:18:04+00:00",
+      "latest_action_date": "2025-05-23T20:50:02+00:00",
+      "latest_action_description": "(S) Died in Process",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/b37134f9-6e85-49c1-94c4-04a355351b6f",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mt/government",
+        "name": "Montana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7508efaf-3ca6-436d-8858-45b2f73a78d9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 670",
+      "title": "Require a public utility to transfer unused customer-generated kilowatt-hour credits to low-income energy assistance programs",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Energy",
+        "Utilities"
+      ],
+      "extras": {
+        "by_request_of": "Jill Cohenour",
+        "bill_draft_number": "LC4353"
+      },
+      "created_at": "2025-02-22T19:34:04.476512+00:00",
+      "updated_at": "2026-03-18T12:36:38.690831+00:00",
+      "openstates_url": "https://openstates.org/mt/bills/2025/HB670/",
+      "first_action_date": "2025-01-23T13:43:43+00:00",
+      "latest_action_date": "2025-05-20T17:00:00+00:00",
+      "latest_action_description": "(H) Died in Process",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 137,
+    "total_items": 1363
+  }
+}

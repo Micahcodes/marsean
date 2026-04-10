@@ -1,0 +1,359 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/7acf67d0-bb70-4a02-9683-6384af8bf64a",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:id/government",
+        "name": "Idaho",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7a59916c-201a-49b2-9288-776ffea9f6cb",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 674",
+      "title": "TELECOMMUNICATION SERVICE – Amends and adds to existing law to revise provisions regarding the discontinuation of telecommunication service.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "BUSINESS AND BUSINESS ENTITIES",
+        "FEDERAL LAWS AND RELATIONS",
+        "GOVERNMENT",
+        "TELECOMMUNICATIONS",
+        "VETOED BILLS"
+      ],
+      "extras": {},
+      "created_at": "2026-02-17T00:30:59.944069+00:00",
+      "updated_at": "2026-04-09T22:42:53.727095+00:00",
+      "openstates_url": "https://openstates.org/id/bills/2026/H674/",
+      "first_action_date": "2026-02-16",
+      "latest_action_date": "2026-03-30",
+      "latest_action_description": "Delivered to Governor at 12:31 p.m. on March 30, 2026",
+      "latest_passage_date": "2026-03-30"
+    },
+    {
+      "id": "ocd-bill/bc79e8b2-6488-416b-ab3c-d0e146080101",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:id/government",
+        "name": "Idaho",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7a59916c-201a-49b2-9288-776ffea9f6cb",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 523",
+      "title": "CAPITOL MALL – Amends existing law to provide that certain persons may be banned from the Capitol building, the Supreme Court building, Capitol Mall properties, and multiagency facilities.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ADMINISTRATION DEPARTMENT",
+        "CAPITOL",
+        "COURTS",
+        "GOVERNMENT",
+        "LAW ENFORCEMENT",
+        "POLICE, IDAHO STATE",
+        "PROPERTY",
+        "SECURITY"
+      ],
+      "extras": {},
+      "created_at": "2026-01-26T18:23:21.578543+00:00",
+      "updated_at": "2026-04-09T22:40:28.826759+00:00",
+      "openstates_url": "https://openstates.org/id/bills/2026/H523/",
+      "first_action_date": "2026-01-26",
+      "latest_action_date": "2026-01-27",
+      "latest_action_description": "Reported Printed and Referred to Judiciary, Rules & Administration",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/382c9569-914f-44d6-b290-c11663d1108e",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:id/government",
+        "name": "Idaho",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7a59916c-201a-49b2-9288-776ffea9f6cb",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 585",
+      "title": "ELECTRICAL, PLUMBING, AND HVAC INSPECTIONS – Adds to existing law to provide for timely electrical, plumbing, and HVAC inspections and the option for third-party inspections in certain situations.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "CONSTRUCTION",
+        "CONTRACTORS",
+        "ELECTRICITY AND ELECTRICIANS",
+        "INSPECTIONS AND INSPECTORS",
+        "PLUMBING AND PLUMBERS",
+        "UTILITIES"
+      ],
+      "extras": {},
+      "created_at": "2026-02-04T18:25:30.925057+00:00",
+      "updated_at": "2026-04-09T20:40:10.196926+00:00",
+      "openstates_url": "https://openstates.org/id/bills/2026/H585/",
+      "first_action_date": "2026-02-04",
+      "latest_action_date": "2026-04-01",
+      "latest_action_description": "Reported Signed by Governor on March 31, 2026    Session Law Chapter 232    Effective: 07/01/2026",
+      "latest_passage_date": "2026-03-26"
+    },
+    {
+      "id": "ocd-bill/0517e1fe-34ed-4091-9c2c-d79d1e698e33",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:id/government",
+        "name": "Idaho",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7a59916c-201a-49b2-9288-776ffea9f6cb",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 787",
+      "title": "PODIATRY – Amends, repeals, and adds to existing law to provide for the Podiatric Medical Practice Act.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ACTS",
+        "HEALTH",
+        "HEALTH CARE FACILITIES",
+        "HEALTH CARE PROFESSIONS AND PROVIDERS",
+        "LICENSES AND PERMITS",
+        "MEDICAL",
+        "OCCUPATIONAL AND PROFESSIONAL LICENSES"
+      ],
+      "extras": {},
+      "created_at": "2026-02-27T21:33:59.695913+00:00",
+      "updated_at": "2026-04-09T20:40:00.602735+00:00",
+      "openstates_url": "https://openstates.org/id/bills/2026/H787/",
+      "first_action_date": "2026-02-27",
+      "latest_action_date": "2026-03-30",
+      "latest_action_description": "Reported Signed by Governor on March 27, 2026    Session Law Chapter 217    Effective: 07/01/2026;    07/01/2026 IDAPA Sunset Clause - SECTION 6",
+      "latest_passage_date": "2026-03-26"
+    },
+    {
+      "id": "ocd-bill/506c9682-a1c8-4460-9d9c-476a2d94dea5",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:id/government",
+        "name": "Idaho",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7a59916c-201a-49b2-9288-776ffea9f6cb",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 790",
+      "title": "ARCHITECTS – Amends existing law to provide for certified interior designers to be able to sign and seal certain technical submissions and to make such submissions to state or local governmental entities.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ARCHITECTURE AND ARCHITECTS",
+        "LICENSES AND PERMITS",
+        "OCCUPATIONAL AND PROFESSIONAL LICENSES"
+      ],
+      "extras": {},
+      "created_at": "2026-02-27T21:34:30.279476+00:00",
+      "updated_at": "2026-04-09T20:39:07.551058+00:00",
+      "openstates_url": "https://openstates.org/id/bills/2026/H790/",
+      "first_action_date": "2026-02-27",
+      "latest_action_date": "2026-03-30",
+      "latest_action_description": "Reported Signed by Governor on March 27, 2026    Session Law Chapter 219    Effective: 07/01/2026",
+      "latest_passage_date": "2026-03-26"
+    },
+    {
+      "id": "ocd-bill/23f7565d-8887-4414-9e47-9589dff5c006",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:id/government",
+        "name": "Idaho",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7a59916c-201a-49b2-9288-776ffea9f6cb",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 650",
+      "title": "STATE GOVERNMENT AND STATE AFFAIRS – Adds to existing law to provide for state sovereignty, jurisdictional presumption, and a limitation on federal power.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "CONSTITUTION",
+        "FEDERAL LAWS AND RELATIONS",
+        "GOVERNMENT"
+      ],
+      "extras": {},
+      "created_at": "2026-02-12T20:27:23.179840+00:00",
+      "updated_at": "2026-04-09T20:39:00.548901+00:00",
+      "openstates_url": "https://openstates.org/id/bills/2026/H650/",
+      "first_action_date": "2026-02-12",
+      "latest_action_date": "2026-04-01",
+      "latest_action_description": "Reported Signed by Governor on March 31, 2026    Session Law Chapter 238    Effective: 07/01/2026",
+      "latest_passage_date": "2026-03-30"
+    },
+    {
+      "id": "ocd-bill/84c3dc6b-f96d-4e69-8d79-e914e377414e",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:id/government",
+        "name": "Idaho",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7a59916c-201a-49b2-9288-776ffea9f6cb",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 825",
+      "title": "MOTOR VEHICLE REGISTRATION – Amends and adds to existing law to eliminate the fee for the copyrighted license plate design and to establish the America250 license plate for the benefit of the Idaho Heritage Trust.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "FEES",
+        "FUNDS",
+        "HISTORY",
+        "LICENSE PLATES",
+        "MOTOR VEHICLES",
+        "TRANSPORTATION"
+      ],
+      "extras": {},
+      "created_at": "2026-03-04T22:34:25.464712+00:00",
+      "updated_at": "2026-04-09T20:38:03.417111+00:00",
+      "openstates_url": "https://openstates.org/id/bills/2026/H825/",
+      "first_action_date": "2026-03-04",
+      "latest_action_date": "2026-03-30",
+      "latest_action_description": "Reported Signed by Governor on March 27, 2026    Session Law Chapter 223    Effective: 03/27/2026",
+      "latest_passage_date": "2026-03-27"
+    },
+    {
+      "id": "ocd-bill/5bc3400c-5dc2-4f41-ba57-f4e7975c6817",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:id/government",
+        "name": "Idaho",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e8c4c8ae-7ba0-4116-9865-5d34fcc6e681",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SCR 120",
+      "title": "UNUSED NUCLEAR FUEL – States findings of the Legislature and supports expansion of research and development at the Idaho National Laboratory.",
+      "classification": [
+        "concurrent resolution"
+      ],
+      "subject": [
+        "ENERGY",
+        "ENVIRONMENT",
+        "FEDERAL LAWS AND RELATIONS",
+        "FUELS",
+        "RESEARCH"
+      ],
+      "extras": {},
+      "created_at": "2026-02-18T20:31:03.144820+00:00",
+      "updated_at": "2026-04-09T16:38:35.548855+00:00",
+      "openstates_url": "https://openstates.org/id/bills/2026/SCR120/",
+      "first_action_date": "2026-02-18",
+      "latest_action_date": "2026-03-20",
+      "latest_action_description": "Reported delivered to the Secretary of State on 03/19/26",
+      "latest_passage_date": "2026-03-19"
+    },
+    {
+      "id": "ocd-bill/7f54f4b6-ab4e-4d19-a74a-cd32799b94d2",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:id/government",
+        "name": "Idaho",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7a59916c-201a-49b2-9288-776ffea9f6cb",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 765",
+      "title": "TAXING DISTRICTS – Amends existing law to allow fire protection districts to enter into certain agreements to transfer territory and to allow certain taxing districts to be exempt from certain budget limitations.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "BOARDS",
+        "BUDGETS",
+        "CITIES",
+        "COUNTIES",
+        "DISTRICTS",
+        "EMERGENCIES",
+        "FIRE AND FIREFIGHTERS",
+        "LIBRARIES AND LIBRARIANS",
+        "REAL PROPERTY",
+        "TAX AND TAXATION"
+      ],
+      "extras": {},
+      "created_at": "2026-02-25T22:32:23.135684+00:00",
+      "updated_at": "2026-04-06T22:41:19.878097+00:00",
+      "openstates_url": "https://openstates.org/id/bills/2026/H765/",
+      "first_action_date": "2026-02-25",
+      "latest_action_date": "2026-04-02",
+      "latest_action_description": "Reported Signed by Governor on March 27, 2026    Session Law Chapter 197    Effective: Retroactive to 01/01/2026",
+      "latest_passage_date": "2026-03-26"
+    },
+    {
+      "id": "ocd-bill/7c43b1a1-072f-481a-84d4-e4ecd1a411cb",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:id/government",
+        "name": "Idaho",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7a59916c-201a-49b2-9288-776ffea9f6cb",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 689",
+      "title": "ADMINISTRATIVE SUBPOENAS – Amends existing law to revise a provision regarding an administrative subpoena.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ATTORNEY GENERAL",
+        "ATTORNEYS",
+        "COURTS",
+        "CRIMINAL OFFENSES AND PROCEDURES",
+        "LAW ENFORCEMENT",
+        "RECORDS"
+      ],
+      "extras": {},
+      "created_at": "2026-02-17T00:30:45.371308+00:00",
+      "updated_at": "2026-04-06T22:37:22.095193+00:00",
+      "openstates_url": "https://openstates.org/id/bills/2026/H689/",
+      "first_action_date": "2026-02-16",
+      "latest_action_date": "2026-03-30",
+      "latest_action_description": "Reported Signed by Governor on March 27, 2026    Session Law Chapter 202    Effective: 07/01/2026",
+      "latest_passage_date": "2026-03-25"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 134,
+    "total_items": 1337
+  }
+}

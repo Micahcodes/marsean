@@ -1,0 +1,411 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/a2ad8666-fc0c-4508-9e26-ca32d2b91384",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ia/government",
+        "name": "Iowa",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bd11534f-0c3b-4321-8d04-6a42f212bf77",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HF 726",
+      "title": "A bill for an act providing for the implementation of battery stewardship plans, making appropriations, and providing penalties.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "electrical batteries",
+        "waste management"
+      ],
+      "extras": {},
+      "created_at": "2025-03-05T01:45:50.853263+00:00",
+      "updated_at": "2026-04-09T15:05:32.148269+00:00",
+      "openstates_url": "https://openstates.org/ia/bills/2025-2026/HF726/",
+      "first_action_date": "2025-03-04",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Subcommittee: Wood, Cooling and Mommsen. H.J. 04/08.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/1c63b220-3bb9-4261-b4d0-cd75f5d81950",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ia/government",
+        "name": "Iowa",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a9ad8273-4a86-4544-9bed-09ccb48ebabc",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SF 2304",
+      "title": "A bill for an act relating to certain public utilities, including the development of ratemaking principles permitted for recovery costs of certain investments in infrastructure by water and wastewater utilities and cost considerations for acquisitions of water, sanitary sewer, or storm water utilities.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "infrastructure",
+        "investments",
+        "property taxes",
+        "utilities",
+        "utilities commission",
+        "water",
+        "water utilities"
+      ],
+      "extras": {},
+      "created_at": "2026-02-13T05:57:34.634436+00:00",
+      "updated_at": "2026-04-09T15:05:15.873037+00:00",
+      "openstates_url": "https://openstates.org/ia/bills/2025-2026/SF2304/",
+      "first_action_date": "2026-02-12",
+      "latest_action_date": "2026-04-07",
+      "latest_action_description": "Message from House.",
+      "latest_passage_date": "2026-04-06"
+    },
+    {
+      "id": "ocd-bill/9eb0857e-c2ce-4d53-86c0-01c5eac71986",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ia/government",
+        "name": "Iowa",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a9ad8273-4a86-4544-9bed-09ccb48ebabc",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SSB 1235",
+      "title": "A bill for an act relating to and making appropriations for state government administration and regulation, including the department of administrative services, auditor of state, ethics and campaign disclosure board, offices of governor and lieutenant governor, department of inspections, appeals, and licensing, department of insurance and financial services, department of management, Iowa public employees’ retirement system, public information board, department of revenue, secretary of state, treasurer of state, and utilities commission.",
+      "classification": [
+        "proposed bill"
+      ],
+      "subject": [
+        "administration and regulation appropriations",
+        "administrative services department",
+        "appropriations",
+        "auditor of state",
+        "audits",
+        "departments of state government",
+        "employment appeal board",
+        "ethics and campaign disclosure board",
+        "governor",
+        "inspections",
+        "inspections, appeals, and licensing department",
+        "insurance and financial services department",
+        "lieutenant governor",
+        "management department",
+        "public employees' retirement system",
+        "public funds",
+        "public information board",
+        "racing and gaming commission",
+        "retirement",
+        "revenue department",
+        "secretary of state",
+        "treasurer of state",
+        "utilities commission"
+      ],
+      "extras": {},
+      "created_at": "2025-04-28T21:58:53.556380+00:00",
+      "updated_at": "2026-04-09T15:04:08.654964+00:00",
+      "openstates_url": "https://openstates.org/ia/bills/2025-2026/SSB1235/",
+      "first_action_date": "2025-04-28",
+      "latest_action_date": "2025-05-13",
+      "latest_action_description": "Committee report approving bill, renumbered as SF 658.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/808177dc-9ae1-4cc8-912d-8c01e8aede91",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ia/government",
+        "name": "Iowa",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a9ad8273-4a86-4544-9bed-09ccb48ebabc",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SF 2466",
+      "title": "A bill for an act relating to veterans services and making appropriations.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "appropriations",
+        "county boards of supervisors",
+        "county veteran affairs commissions",
+        "fraternal organizations",
+        "power of attorney",
+        "reports",
+        "veterans affairs",
+        "veterans affairs department"
+      ],
+      "extras": {},
+      "created_at": "2026-03-06T16:27:15.215399+00:00",
+      "updated_at": "2026-04-09T15:02:45.774491+00:00",
+      "openstates_url": "https://openstates.org/ia/bills/2025-2026/SF2466/",
+      "first_action_date": "2026-03-05",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Amendment H-8341 filed. H.J. 04/08.",
+      "latest_passage_date": "2026-03-10"
+    },
+    {
+      "id": "ocd-bill/46fee48e-7161-4fb3-aad9-6fc40837a973",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ia/government",
+        "name": "Iowa",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bd11534f-0c3b-4321-8d04-6a42f212bf77",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HF 2756",
+      "title": "A bill for an act relating to licensing of service companies, motor vehicle service contracts, and residential service contracts, and providing civil penalties and including effective date provisions.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "business entities",
+        "insurance",
+        "motor vehicles",
+        "residential care facilities",
+        "service contracts"
+      ],
+      "extras": {},
+      "created_at": "2026-04-07T17:57:11.300818+00:00",
+      "updated_at": "2026-04-09T14:59:51.491770+00:00",
+      "openstates_url": "https://openstates.org/ia/bills/2025-2026/HF2756/",
+      "first_action_date": "2026-04-06",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Message from House.",
+      "latest_passage_date": "2026-04-08"
+    },
+    {
+      "id": "ocd-bill/cd867c17-9f92-4f8d-ad05-e56903118f3c",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ia/government",
+        "name": "Iowa",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a9ad8273-4a86-4544-9bed-09ccb48ebabc",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SF 2474",
+      "title": "A bill for an act requiring the department of education to prepare a report related to cardiac emergency response plans and automated external defibrillators and submit the report to the general assembly.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "charter schools",
+        "contests (competitions)",
+        "defibrillators",
+        "education",
+        "education department",
+        "emergency management",
+        "extracurricular activities",
+        "general assembly",
+        "innovation zone schools",
+        "medical care",
+        "reports",
+        "schools"
+      ],
+      "extras": {},
+      "created_at": "2026-03-25T08:47:56.438194+00:00",
+      "updated_at": "2026-04-09T14:59:46.183537+00:00",
+      "openstates_url": "https://openstates.org/ia/bills/2025-2026/SF2474/",
+      "first_action_date": "2026-03-24",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Subcommittee: Weldon, Johnson, R. and Stone. H.J. 04/08.",
+      "latest_passage_date": "2026-04-01"
+    },
+    {
+      "id": "ocd-bill/6672724a-c003-40ae-8c78-ae0e944848b6",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ia/government",
+        "name": "Iowa",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bd11534f-0c3b-4321-8d04-6a42f212bf77",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HF 2748",
+      "title": "A bill for an act relating to agriculture, including by providing for the powers and duties of the department of agriculture and land stewardship, including the promotion and regulation of commodities and products; the regulation of the transportation of agricultural commodities; the use of agricultural land; and taxation, including property taxes, excise and sales taxes, and income taxes; making penalties applicable; and including effective date and applicability provisions.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "agricultural land",
+        "agriculture",
+        "commodities",
+        "excise taxes",
+        "farming",
+        "income taxes",
+        "property taxes",
+        "real property",
+        "sales taxes",
+        "taxation",
+        "transportation"
+      ],
+      "extras": {},
+      "created_at": "2026-03-31T09:05:36.835216+00:00",
+      "updated_at": "2026-04-09T14:53:55.643258+00:00",
+      "openstates_url": "https://openstates.org/ia/bills/2025-2026/HF2748/",
+      "first_action_date": "2026-03-30",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Message from House.",
+      "latest_passage_date": "2026-04-08"
+    },
+    {
+      "id": "ocd-bill/494e426f-cc12-4e26-8ad8-c6afbda14c2f",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ia/government",
+        "name": "Iowa",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bd11534f-0c3b-4321-8d04-6a42f212bf77",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HF 737",
+      "title": "A bill for an act establishing the school health-related emergency response plan competitive grant program within the department of education, making appropriations, and including applicability provisions.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "emergency management",
+        "grants",
+        "medical care",
+        "schools"
+      ],
+      "extras": {},
+      "created_at": "2025-03-06T00:30:49.685933+00:00",
+      "updated_at": "2026-04-09T14:53:48.084729+00:00",
+      "openstates_url": "https://openstates.org/ia/bills/2025-2026/HF737/",
+      "first_action_date": "2025-03-05",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Subcommittee: Weldon, Johnson, R. and Stone. H.J. 04/08.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/01eede4c-9ca6-4d64-9d83-998dc500d8ea",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ia/government",
+        "name": "Iowa",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a9ad8273-4a86-4544-9bed-09ccb48ebabc",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SF 2462",
+      "title": "A bill for an act relating to early childhood and family services, including the creation of an early childhood and family services system, state child care assistance for the child care workforce, making appropriations, and including effective date provisions.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "appropriations",
+        "boards, commissions, and councils",
+        "checkoffs",
+        "child abuse",
+        "child assistance",
+        "child care",
+        "children",
+        "families",
+        "family assistance",
+        "health and human services department",
+        "healthy opportunities for parents to experience success (hopes) program",
+        "income taxes",
+        "revenue department"
+      ],
+      "extras": {},
+      "created_at": "2026-02-27T09:14:25.207249+00:00",
+      "updated_at": "2026-04-09T14:50:29.713558+00:00",
+      "openstates_url": "https://openstates.org/ia/bills/2025-2026/SF2462/",
+      "first_action_date": "2026-02-26",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Committee report approving bill, renumbered as [].",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/ed5de926-410f-4505-9713-c704db2e7558",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ia/government",
+        "name": "Iowa",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a9ad8273-4a86-4544-9bed-09ccb48ebabc",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SSB 3192",
+      "title": "A bill for an act relating to and making appropriations to the department of veterans affairs and the department of health and human services, including aging and disability services, behavioral health, public health, and community access and eligibility; the medical assistance program, state supplementary assistance, Hawki, and other health-related programs; family well-being and protection; state-operated specialty care; administration and compliance; prior appropriations; child welfare and juvenile justice decategorization; commitment or hospitalization of certain persons with mental illness or substance abuse disorders; child abuse prevention; creation of a comprehensive family support program; and repeal of expenditure projections for state child care assistance and adoption subsidy programs; and including effective date and retroactive applicability provisions.",
+      "classification": [
+        "proposed bill"
+      ],
+      "subject": [
+        "adoptions",
+        "aging and disability resource centers",
+        "appropriations",
+        "behavioral health service system",
+        "child abuse",
+        "child care",
+        "disabilities",
+        "diseases",
+        "expenditures",
+        "families",
+        "family investment program",
+        "family support programs",
+        "grants",
+        "health",
+        "health and human services appropriations",
+        "health and human services department",
+        "home ownership",
+        "inspections, appeals, and licensing department",
+        "juvenile justice",
+        "medical assistance",
+        "mental health",
+        "older persons",
+        "public assistance",
+        "supplementary assistance",
+        "veterans affairs department",
+        "veterans home"
+      ],
+      "extras": {},
+      "created_at": "2026-04-07T06:47:40.657771+00:00",
+      "updated_at": "2026-04-09T03:55:34.665753+00:00",
+      "openstates_url": "https://openstates.org/ia/bills/2025-2026/SSB3192/",
+      "first_action_date": "2026-04-06",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "NOBA: Senate Sub",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 315,
+    "total_items": 3142
+  }
+}

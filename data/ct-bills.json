@@ -1,0 +1,381 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/6dd7357a-386e-4c22-9b03-51e4a0932e42",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ct/government",
+        "name": "Connecticut",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/8e8c6d29-dcc1-4d2f-9ca5-82a4a3d3b962",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 5551",
+      "title": "AN ACT CONCERNING PROCEEDINGS OF THE SITING COUNCIL AND OTHER REQUIREMENTS CONCERNING CERTAIN UTILITY EXPENDITURES.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Advertising",
+        "Agricultural lands",
+        "Attorney General",
+        "Certificates and certification",
+        "Connecticut Siting Council",
+        "Consumer Counsel, Office of",
+        "Electric distribution companies",
+        "Electric distribution company rates",
+        "Electric distribution company systems benefit charge",
+        "Electric generating facilities",
+        "Electric suppliers",
+        "Energy and Environmental Protection, Department of",
+        "Energy assistance",
+        "Ethics",
+        "Fees",
+        "Forests",
+        "Gas companies",
+        "Gifts",
+        "Hazardous waste establishments",
+        "Hearings",
+        "Meetings",
+        "Municipalities",
+        "Notices",
+        "Nuclear power generating facilities",
+        "Political advertising",
+        "Public Utilities Regulatory Authority",
+        "Public hearings",
+        "Public utilities",
+        "Solar electricity work",
+        "Solar energy",
+        "Utility lines, poles and towers",
+        "Water companies"
+      ],
+      "extras": {},
+      "created_at": "2026-03-12T10:17:42.787482+00:00",
+      "updated_at": "2026-04-09T21:27:21.382632+00:00",
+      "openstates_url": "https://openstates.org/ct/bills/2026/HB5551/",
+      "first_action_date": "2026-03-12",
+      "latest_action_date": "2026-04-07",
+      "latest_action_description": "FILE NO. 439",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/25860c02-07f0-476e-8bb1-f642444feac1",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ct/government",
+        "name": "Connecticut",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/46a37f5a-a01b-4905-b023-a443b5be41c6",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 421",
+      "title": "AN ACT CONCERNING REPORTING OF DOUBLE UTILITY POLES.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-03-05T01:12:19.466434+00:00",
+      "updated_at": "2026-04-09T21:26:36.707392+00:00",
+      "openstates_url": "https://openstates.org/ct/bills/2026/SB421/",
+      "first_action_date": "2026-03-05",
+      "latest_action_date": "2026-04-07",
+      "latest_action_description": "FILE NO. 471",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/c7482428-d8ec-4c27-8c43-8a10504afba1",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ct/government",
+        "name": "Connecticut",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/8e8c6d29-dcc1-4d2f-9ca5-82a4a3d3b962",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HJ 59",
+      "title": "RESOLUTION CONFIRMING THE NOMINATION OF JANICE BEECHER OF NEW BRITAIN TO BE A UTILITY COMMISSIONER OF THE PUBLIC UTILITIES REGULATORY AUTHORITY.",
+      "classification": [
+        "joint resolution"
+      ],
+      "subject": [
+        "Nominations",
+        "Public Utilities Regulatory Authority"
+      ],
+      "extras": {},
+      "created_at": "2026-03-09T17:19:12.484812+00:00",
+      "updated_at": "2026-04-09T17:25:59.071294+00:00",
+      "openstates_url": "https://openstates.org/ct/bills/2026/HJ59/",
+      "first_action_date": "2026-03-09",
+      "latest_action_date": "2026-03-27",
+      "latest_action_description": "SENATE CALENDAR NUMBER 159",
+      "latest_passage_date": "2026-03-25"
+    },
+    {
+      "id": "ocd-bill/c571457e-1dbb-40df-9eb8-f455d211cf6e",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ct/government",
+        "name": "Connecticut",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/8e8c6d29-dcc1-4d2f-9ca5-82a4a3d3b962",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HJ 60",
+      "title": "RESOLUTION CONFIRMING THE NOMINATION OF HOLLY CHEESEMAN OF NIANTIC TO BE A UTILITY COMMISSIONER OF THE PUBLIC UTILITIES REGULATORY AUTHORITY.",
+      "classification": [
+        "joint resolution"
+      ],
+      "subject": [
+        "Nominations",
+        "Public Utilities Regulatory Authority"
+      ],
+      "extras": {},
+      "created_at": "2026-03-09T17:14:59.649864+00:00",
+      "updated_at": "2026-04-09T17:25:10.935383+00:00",
+      "openstates_url": "https://openstates.org/ct/bills/2026/HJ60/",
+      "first_action_date": "2026-03-09",
+      "latest_action_date": "2026-03-27",
+      "latest_action_description": "SENATE CALENDAR NUMBER 160",
+      "latest_passage_date": "2026-03-25"
+    },
+    {
+      "id": "ocd-bill/7bd8b7ca-494c-4aa5-b374-48fdcfb47ff9",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ct/government",
+        "name": "Connecticut",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/8e8c6d29-dcc1-4d2f-9ca5-82a4a3d3b962",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 5245",
+      "title": "AN ACT CONCERNING MUNICIPAL ELECTRIC AGGREGATION PROGRAMS.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Electric aggregators",
+        "Electric distribution companies",
+        "Electric distribution services",
+        "Fines (Penalties)",
+        "Municipalities",
+        "Notices",
+        "Plans",
+        "Public Utilities Regulatory Authority",
+        "Public utilities",
+        "Reports",
+        "Violations"
+      ],
+      "extras": {},
+      "created_at": "2026-02-19T00:50:16.196389+00:00",
+      "updated_at": "2026-04-08T21:26:22.622965+00:00",
+      "openstates_url": "https://openstates.org/ct/bills/2026/HB5245/",
+      "first_action_date": "2026-02-19",
+      "latest_action_date": "2026-04-02",
+      "latest_action_description": "FILE NO. 375",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/a17745f9-8cf1-4fff-b620-54886fa8a323",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ct/government",
+        "name": "Connecticut",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/46a37f5a-a01b-4905-b023-a443b5be41c6",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 419",
+      "title": "AN ACT CONCERNING SUPPLIERS OF ELECTRICITY.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-03-05T01:16:18.340978+00:00",
+      "updated_at": "2026-04-08T05:30:22.407847+00:00",
+      "openstates_url": "https://openstates.org/ct/bills/2026/SB419/",
+      "first_action_date": "2026-03-05",
+      "latest_action_date": "2026-04-07",
+      "latest_action_description": "FILE NO. 469",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/a6820012-ecbf-42a7-a707-757550b71494",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ct/government",
+        "name": "Connecticut",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/8e8c6d29-dcc1-4d2f-9ca5-82a4a3d3b962",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 5469",
+      "title": "AN ACT CONCERNING COLOCATED ELECTRIC SUPPLIERS AND LARGE ELECTRIC LOAD CUSTOMERS.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Contracts",
+        "Electric aggregators",
+        "Electric distribution companies",
+        "Electric distribution services",
+        "Electric generating facilities",
+        "Electric suppliers",
+        "Fees",
+        "Internet",
+        "Licenses",
+        "Municipal utilities",
+        "Municipalities",
+        "Public Utilities Regulatory Authority",
+        "Violations",
+        "Water authorities"
+      ],
+      "extras": {},
+      "created_at": "2026-03-05T01:12:13.304804+00:00",
+      "updated_at": "2026-04-08T05:29:37.531399+00:00",
+      "openstates_url": "https://openstates.org/ct/bills/2026/HB5469/",
+      "first_action_date": "2026-03-05",
+      "latest_action_date": "2026-04-07",
+      "latest_action_description": "FILE NO. 421",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/ad047e80-4ce7-431c-938d-74204f7c0b2f",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ct/government",
+        "name": "Connecticut",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/8e8c6d29-dcc1-4d2f-9ca5-82a4a3d3b962",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 5473",
+      "title": "AN ACT CONCERNING THE SATISFACTION OF TELECOMMUNICATIONS QUALITY OF SERVICE STANDARDS AND SETTLEMENTS IN CONTESTED PROCEEDINGS BEFORE THE PUBLIC UTILITIES REGULATORY AUTHORITY.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Hearings",
+        "Internet",
+        "Investigations",
+        "Public Utilities Regulatory Authority",
+        "Reports",
+        "Telecommunications companies",
+        "Telecommunications services",
+        "Telephone companies",
+        "Violations"
+      ],
+      "extras": {},
+      "created_at": "2026-03-05T01:16:08.860609+00:00",
+      "updated_at": "2026-04-08T05:25:33.124404+00:00",
+      "openstates_url": "https://openstates.org/ct/bills/2026/HB5473/",
+      "first_action_date": "2026-03-05",
+      "latest_action_date": "2026-04-07",
+      "latest_action_description": "FILE NO. 424",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/c46227a3-057d-46a0-a7dc-e2ce10a90078",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ct/government",
+        "name": "Connecticut",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/8e8c6d29-dcc1-4d2f-9ca5-82a4a3d3b962",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 5496",
+      "title": "AN ACT CONCERNING WORKPLACE VIOLENCE PROTECTIONS FOR UTILITY AND PUBLIC WORKS EMPLOYEES.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Assessments",
+        "Crime victims",
+        "Emergency Services and Public Protection, Department of",
+        "Employees",
+        "Municipal utilities",
+        "Public utilities",
+        "Records",
+        "Risk management",
+        "Sewer districts",
+        "Water authorities",
+        "Workplace violence"
+      ],
+      "extras": {},
+      "created_at": "2026-03-05T01:15:47.777515+00:00",
+      "updated_at": "2026-04-08T01:23:14.395733+00:00",
+      "openstates_url": "https://openstates.org/ct/bills/2026/HB5496/",
+      "first_action_date": "2026-03-05",
+      "latest_action_date": "2026-04-07",
+      "latest_action_description": "REF. BY HOUSE TO COMMITTEE ON Appropriations",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/2544a296-a161-4c5f-a4d7-e9341af46b86",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ct/government",
+        "name": "Connecticut",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/8e8c6d29-dcc1-4d2f-9ca5-82a4a3d3b962",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 5568",
+      "title": "AN ACT INCREASING THE MOTOR VEHICLE REGISTRATION FEES FOR ELECTRIC VEHICLES.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Electric vehicles",
+        "Motor vehicle registration fees"
+      ],
+      "extras": {},
+      "created_at": "2026-03-18T01:26:11.581583+00:00",
+      "updated_at": "2026-04-07T21:27:39.822147+00:00",
+      "openstates_url": "https://openstates.org/ct/bills/2026/HB5568/",
+      "first_action_date": "2026-03-18",
+      "latest_action_date": "2026-03-23",
+      "latest_action_description": "PUBLIC HEARING 0327",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 45,
+    "total_items": 444
+  }
+}

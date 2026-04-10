@@ -1,0 +1,312 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/2efddc39-bf43-416b-89f3-40192db8b7b9",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:md/government",
+        "name": "Maryland",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bd8388d3-8fcd-4e28-9c1b-f23f0e376544",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 451",
+      "title": "Maryland Zero Emission Electric Vehicle Infrastructure Council - Membership, Duties, and Sunset Repeal",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "date_effective": "June 1, 2026"
+      },
+      "created_at": "2026-01-23T01:04:03.733099+00:00",
+      "updated_at": "2026-04-09T23:52:03.642116+00:00",
+      "openstates_url": "https://openstates.org/md/bills/2026/HB451/",
+      "first_action_date": "2026-01-23",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Passed Enrolled",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/9d57c237-e82b-48d0-b6b1-83e135b7e549",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:md/government",
+        "name": "Maryland",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bd8388d3-8fcd-4e28-9c1b-f23f0e376544",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 969",
+      "title": "Electric Vehicle Fuel Sold at Retail - Equipment Requirements, Units of Measure, and Fees",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "date_effective": "July 1, 2026"
+      },
+      "created_at": "2026-02-06T07:28:03.824137+00:00",
+      "updated_at": "2026-04-09T23:39:49.336353+00:00",
+      "openstates_url": "https://openstates.org/md/bills/2026/HB969/",
+      "first_action_date": "2026-02-06",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Third Reading Passed (24-9)",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/5b2384b1-09cb-4216-8119-e36f75bb2d19",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:md/government",
+        "name": "Maryland",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bd8388d3-8fcd-4e28-9c1b-f23f0e376544",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 220",
+      "title": "Environment - Water - Individual Submeters",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "date_effective": "October 1, 2026"
+      },
+      "created_at": "2026-01-12T18:37:50.423664+00:00",
+      "updated_at": "2026-04-09T21:53:20.971304+00:00",
+      "openstates_url": "https://openstates.org/md/bills/2026/HB220/",
+      "first_action_date": "2025-10-30",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Returned Passed",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/18b157e8-ac59-420b-b007-ec1f14970959",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:md/government",
+        "name": "Maryland",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bd8388d3-8fcd-4e28-9c1b-f23f0e376544",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 284",
+      "title": "Public Safety - Licensed Firearms Dealers - Notification Regarding Compromising Events",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "date_effective": "October 1, 2026"
+      },
+      "created_at": "2026-01-12T18:38:58.348610+00:00",
+      "updated_at": "2026-04-09T21:53:16.973341+00:00",
+      "openstates_url": "https://openstates.org/md/bills/2026/HB284/",
+      "first_action_date": "2025-09-24",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Passed Enrolled",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/e17c6a99-eed5-4012-af94-5bd887224cac",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:md/government",
+        "name": "Maryland",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/6328292e-c35e-4187-903c-75829a17d5d8",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 4",
+      "title": "Charitable Organizations - Charitable Donation and Tax-Exempt Status - Revocation (Keeping Charities Nonpartisan Act of 2026)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "date_effective": "Upon Enactment"
+      },
+      "created_at": "2026-01-12T18:39:53.437705+00:00",
+      "updated_at": "2026-04-09T21:50:27.417331+00:00",
+      "openstates_url": "https://openstates.org/md/bills/2026/SB4/",
+      "first_action_date": "2025-08-25",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Rereferred to Economic Matters",
+      "latest_passage_date": "2026-03-24"
+    },
+    {
+      "id": "ocd-bill/fd6f3022-d91e-4402-a1b8-98fda51b4839",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:md/government",
+        "name": "Maryland",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bd8388d3-8fcd-4e28-9c1b-f23f0e376544",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 829",
+      "title": "Public Utilities - For-Hire Drivers and Transportation Network Operators - Human Trafficking Awareness and Prevention Training and Liability",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "A"
+      ],
+      "extras": {
+        "date_effective": "October 1, 2026"
+      },
+      "created_at": "2026-02-04T13:24:47.615982+00:00",
+      "updated_at": "2026-04-09T21:50:18.287579+00:00",
+      "openstates_url": "https://openstates.org/md/bills/2026/HB829/",
+      "first_action_date": "2026-02-04",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Passed Enrolled",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/41f795bb-ef8a-4362-ae20-4d0fcb454b71",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:md/government",
+        "name": "Maryland",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bd8388d3-8fcd-4e28-9c1b-f23f0e376544",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 258",
+      "title": "Chesapeake and Atlantic Coastal Bays Critical Area Protection Program - Standards and Procedures",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "date_effective": "October 1, 2026"
+      },
+      "created_at": "2026-01-12T18:38:29.231969+00:00",
+      "updated_at": "2026-04-09T21:48:19.981060+00:00",
+      "openstates_url": "https://openstates.org/md/bills/2026/HB258/",
+      "first_action_date": "2025-09-30",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Returned Passed",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/21ae7322-7a40-4256-9adf-3117cd8e5efd",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:md/government",
+        "name": "Maryland",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bd8388d3-8fcd-4e28-9c1b-f23f0e376544",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 276",
+      "title": "State Emergency Medical Services Board - Public Access Automated External Defibrillator Program - Revisions",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "date_effective": "October 1, 2026"
+      },
+      "created_at": "2026-01-12T18:39:24.956244+00:00",
+      "updated_at": "2026-04-09T21:42:10.168825+00:00",
+      "openstates_url": "https://openstates.org/md/bills/2026/HB276/",
+      "first_action_date": "2025-10-01",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Returned Passed",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/6f1a5307-63a0-4ddf-9d8e-f8b90b302cc0",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:md/government",
+        "name": "Maryland",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/6328292e-c35e-4187-903c-75829a17d5d8",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 204",
+      "title": "Public Schools - Maryland Civic Excellence Program - Established",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "date_effective": "July 1, 2026"
+      },
+      "created_at": "2026-01-12T18:37:10.564457+00:00",
+      "updated_at": "2026-04-09T21:41:17.962796+00:00",
+      "openstates_url": "https://openstates.org/md/bills/2026/SB204/",
+      "first_action_date": "2025-08-20",
+      "latest_action_date": "2026-04-10",
+      "latest_action_description": "Favorable with Amendments Report by Ways and Means",
+      "latest_passage_date": "2026-02-19"
+    },
+    {
+      "id": "ocd-bill/3e506217-d093-4990-b1d9-73174a2cf1ea",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:md/government",
+        "name": "Maryland",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bd8388d3-8fcd-4e28-9c1b-f23f0e376544",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 293",
+      "title": "Maryland Longitudinal Data System Center - External Data Sharing With Third-Party Data Centers for Multistate Reporting - Authorization",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "date_effective": "July 1, 2026"
+      },
+      "created_at": "2026-01-12T18:38:33.507941+00:00",
+      "updated_at": "2026-04-09T21:38:46.069243+00:00",
+      "openstates_url": "https://openstates.org/md/bills/2026/HB293/",
+      "first_action_date": "2025-10-01",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Returned Passed",
+      "latest_passage_date": "2026-04-09"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 187,
+    "total_items": 1862
+  }
+}

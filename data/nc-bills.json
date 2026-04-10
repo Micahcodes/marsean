@@ -1,0 +1,317 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/11275349-3edf-4dd6-ad51-2c7a504e336c",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nc/government",
+        "name": "North Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/4861d484-9f30-411a-baaf-c2c12d4d174f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 434",
+      "title": "Lower Healthcare Costs.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "AUDITING & AUDITS; CERTIFICATES OF NEED; CLINICS; COMMERCE; COMMISSIONS; CONSUMER PROTECTION; COUNCIL OF STATE; DHHS; DISEASES & HEALTH DISORDERS; HEALTH SERVICES; HOSPITALS; INSURANCE; INSURANCE",
+        "HEALTH; MEDICAL CARE COMN.; NOTIFICATION; PUBLIC; PUBLIC HEALTH; PUBLIC OFFICIALS; STATE AUDITOR; TITLE CHANGE; PATIENT RIGHTS"
+      ],
+      "extras": {},
+      "created_at": "2025-03-18T16:19:48.633662+00:00",
+      "updated_at": "2026-04-06T18:54:07.279976+00:00",
+      "openstates_url": "https://openstates.org/nc/bills/2025/HB434/",
+      "first_action_date": "2025-03-18",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "Conferees Changed",
+      "latest_passage_date": "2025-06-04"
+    },
+    {
+      "id": "ocd-bill/07e680ae-d770-44a4-8d88-07ecabd8d182",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nc/government",
+        "name": "North Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/4861d484-9f30-411a-baaf-c2c12d4d174f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 171",
+      "title": "Equality in State Agencies/Prohibition on Diversity, Equity, and Inclusion (DEI).",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "COLLEGES & UNIVERSITIES; COURTS; DISCRIMINATION; EDUCATION; EMPLOYMENT; FINES & PENALTIES; HIGHER EDUCATION; LGBTQ & GENDER ISSUES; MINORITIES; PERSONNEL; PRESENTED; PUBLIC; RATIFIED; UNC; VETOED; WOMEN; CIVIL ACTIONS"
+      ],
+      "extras": {},
+      "created_at": "2025-02-21T16:08:09.732351+00:00",
+      "updated_at": "2026-04-06T14:55:34.497525+00:00",
+      "openstates_url": "https://openstates.org/nc/bills/2025/HB171/",
+      "first_action_date": "2025-02-21",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "Withdrawn From Cal",
+      "latest_passage_date": "2025-06-25"
+    },
+    {
+      "id": "ocd-bill/12390097-c388-4e2c-bed9-b30e059fdd93",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nc/government",
+        "name": "North Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/4861d484-9f30-411a-baaf-c2c12d4d174f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 887",
+      "title": "Address Abandoned and Derelict Vessels.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "COASTAL COMN.; COASTAL RESOURCES; COMMISSIONS; EMERGENCY SERVICES; LAW ENFORCEMENT; LAW ENFORCEMENT OFFICERS; LOCAL GOVERNMENT; PERSONNEL; PROPERTY; PUBLIC; TRANSPORTATION; BOATS & WATERCRAFT; ABANDONED PROPERTY"
+      ],
+      "extras": {},
+      "created_at": "2025-04-09T20:42:50.495115+00:00",
+      "updated_at": "2026-03-17T21:00:24.671299+00:00",
+      "openstates_url": "https://openstates.org/nc/bills/2025/HB887/",
+      "first_action_date": "2025-04-09",
+      "latest_action_date": "2025-04-14",
+      "latest_action_description": "Passed 1st Reading",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/f2a55976-0b48-4fac-91c2-48b37cff6927",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nc/government",
+        "name": "North Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/4861d484-9f30-411a-baaf-c2c12d4d174f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 47",
+      "title": "Disaster Recovery Act of 2025 - Part I.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ADMINISTRATION DEPT.; AGRICULTURE; AGRICULTURE DEPT.; ANIMALS; APPROPRIATIONS; AQUACULTURE; BOARDS; BUDGET & MANAGEMENT OFFICE; BUDGETING; BUILDING CODES; BUILDINGS; COMMERCE; COMMERCE DEPT.; COMMUNITY DEVELOPMENT; CONSTRUCTION; CONTRACTS; CORPORATIONS",
+        "FOR-PROFIT; CORPORATIONS",
+        "NONPROFIT; COUNTIES; DEATH & DYING; DEFINITIONS; DHHS; DISASTERS & EMERGENCIES; ECONOMIC DEVELOPMENT; EMERGENCY MANAGEMENT; EMERGENCY SERVICES; ENVIRONMENT; FIREFIGHTERS & FIREFIGHTING; FISHERIES; FISHERIES PRODUCTS; FOODS & BEVERAGES; FUNDING; FUNDS & ACCOUNTS; FUNERAL SERVICES; GRANTS; HEALTH SERVICES; INFORMATION TECHNOLOGY; INFRASTRUCTURE; INTERNET; LICENSING & CERTIFICATION; LIVESTOCK & POULTRY; LOCAL GOVERNMENT; NUTRITION; OCCUPATIONS; PRESENTED; PRODUCE; PROPERTY; PUBLIC; PUBLIC HEALTH; PUBLIC OFFICIALS; PURCHASING; RATIFIED; REPORTING; RETIREMENT; ROADS & HIGHWAYS; RURAL DEVELOPMENT; SAFETY; SALARIES & BENEFITS; SESSION LAWS; SMALL BUSINESS; SOCIAL SERVICES; SOILS; STATE CONTROLLER; STATE EMPLOYEES; TEACHERS; TELECOMMUNICATIONS; TELESERVICES; TRANSPORTATION; TRANSPORTATION DEPT.; TSERS; SWAIN COUNTY; CHAPTERED; FUNERAL SERVICE BOARD; DISASTER RELIEF RESERVE FUND; CONSTRUCTION EQUIPMENT; EMERGENCY EQUIPMENT; GOVERNMENT EMPLOYEES; PROPERTY-STATE GOVERNMENT; CASH CROPS; PUBLIC SAFETY DEPT.; STATE FIRE MARSHAL; FOOD & NUTRITION PROGRAMS"
+      ],
+      "extras": {},
+      "created_at": "2025-02-04T18:03:15.927922+00:00",
+      "updated_at": "2026-03-17T21:00:24.177499+00:00",
+      "openstates_url": "https://openstates.org/nc/bills/2025/HB47/",
+      "first_action_date": "2025-02-04",
+      "latest_action_date": "2025-03-20",
+      "latest_action_description": "Ch. SL 2025-2",
+      "latest_passage_date": "2025-03-05"
+    },
+    {
+      "id": "ocd-bill/d4cfd8c7-6562-41fa-804d-655a91bcda09",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nc/government",
+        "name": "North Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/6347dffa-4778-4dc0-97d7-fd4db3ff5328",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 474",
+      "title": "The DAVE Act.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "AUDITING & AUDITS; COUNCIL OF STATE; EMERGING TECHNOLOGIES; INFORMATION TECHNOLOGY; PERSONNEL; PUBLIC; REPORTING; STEM; STATE AUDITOR; STATE EMPLOYEES; GOVERNMENT EMPLOYEES; VACANCIES; ARTIFICIAL INTELLIGENCE"
+      ],
+      "extras": {},
+      "created_at": "2025-03-24T20:22:36.813122+00:00",
+      "updated_at": "2026-03-17T21:00:23.656910+00:00",
+      "openstates_url": "https://openstates.org/nc/bills/2025/SB474/",
+      "first_action_date": "2025-03-24",
+      "latest_action_date": "2025-04-10",
+      "latest_action_description": "Passed 1st Reading",
+      "latest_passage_date": "2025-04-08"
+    },
+    {
+      "id": "ocd-bill/7cab4140-377e-45cf-b2cd-bc0a7aab95c3",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nc/government",
+        "name": "North Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/6347dffa-4778-4dc0-97d7-fd4db3ff5328",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 576",
+      "title": "E-Bike Definition and Local Regulation.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "BICYCLES; COUNTIES; DEFINITIONS; LOCAL GOVERNMENT; MOTOR VEHICLES; MOTORCYCLES & MOPEDS; MUNICIPALITIES; PUBLIC; TRANSPORTATION; TRANSPORTATION DEPT.; LOCAL ORDINANCES"
+      ],
+      "extras": {},
+      "created_at": "2025-03-25T18:23:50.181199+00:00",
+      "updated_at": "2026-03-17T21:00:22.639394+00:00",
+      "openstates_url": "https://openstates.org/nc/bills/2025/SB576/",
+      "first_action_date": "2025-03-25",
+      "latest_action_date": "2025-05-06",
+      "latest_action_description": "Reptd Fav Com Substitute",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/1456cc9a-ef36-444a-9684-59af37d7551a",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nc/government",
+        "name": "North Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/6347dffa-4778-4dc0-97d7-fd4db3ff5328",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 524",
+      "title": "Community Safety Partnership Act.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "COMMISSIONS; COMMUNITY DEVELOPMENT; DATA & RECORDS SYSTEMS; EMERGENCY SERVICES; INFORMATION TECHNOLOGY; LAW ENFORCEMENT; LAW ENFORCEMENT OFFICERS; PERSONNEL; PUBLIC; REVENUE DEPT.; SAFETY; TAXATION; RECORDS; PUBLIC SAFETY DEPT."
+      ],
+      "extras": {},
+      "created_at": "2025-03-25T16:22:11.041554+00:00",
+      "updated_at": "2026-03-17T21:00:19.141028+00:00",
+      "openstates_url": "https://openstates.org/nc/bills/2025/SB524/",
+      "first_action_date": "2025-03-25",
+      "latest_action_date": "2025-03-26",
+      "latest_action_description": "Passed 1st Reading",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/1491a536-1fe8-42e2-8480-2f63b0084ddd",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nc/government",
+        "name": "North Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/6347dffa-4778-4dc0-97d7-fd4db3ff5328",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 374",
+      "title": "Licensing Certain Fire Safety Equip. Work.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ALARM SYSTEMS; BUILDING CODES; BUILDINGS; CONSTRUCTION; EMERGENCY SERVICES; EMPLOYMENT; FEES; FIREFIGHTERS & FIREFIGHTING; LICENSES & PERMITS; LICENSING & CERTIFICATION; OCCUPATIONS; PUBLIC; PUBLIC OFFICIALS; SAFETY; SAFETY EQUIPMENT; EMERGENCY EQUIPMENT; CONSTRUCTION INDUSTRY; STATE FIRE MARSHAL"
+      ],
+      "extras": {},
+      "created_at": "2025-03-20T20:21:55.297755+00:00",
+      "updated_at": "2026-03-17T21:00:14.126745+00:00",
+      "openstates_url": "https://openstates.org/nc/bills/2025/SB374/",
+      "first_action_date": "2025-03-20",
+      "latest_action_date": "2025-03-24",
+      "latest_action_description": "Passed 1st Reading",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/44dcbd65-3a59-4416-a180-a01667d2bde1",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nc/government",
+        "name": "North Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/4861d484-9f30-411a-baaf-c2c12d4d174f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 755",
+      "title": "Nonprofit Sales Tax Exemption.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "COMMERCE; COMMUNITY DEVELOPMENT; CORPORATIONS",
+        "CORPORATE INCOME; TAXES",
+        "NONPROFIT; HEALTH SERVICES; HOSPITALS; PUBLIC; RETAILING; SOCIAL SERVICES; TAX EXEMPTIONS; TAXATION; TAXES",
+        "SALES & USE"
+      ],
+      "extras": {},
+      "created_at": "2025-04-02T22:31:04.716796+00:00",
+      "updated_at": "2026-03-17T21:00:13.117525+00:00",
+      "openstates_url": "https://openstates.org/nc/bills/2025/HB755/",
+      "first_action_date": "2025-04-02",
+      "latest_action_date": "2025-04-07",
+      "latest_action_description": "Passed 1st Reading",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/39227cac-1975-4384-ab89-a592bd802341",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nc/government",
+        "name": "North Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/4861d484-9f30-411a-baaf-c2c12d4d174f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 388",
+      "title": "Amend Business Corporations Act.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ATTORNEYS; COMMERCE; CORPORATIONS",
+        "FOR-PROFIT; DEATH & DYING; ELECTRONIC COMMERCE; ESTATES; FINANCIAL SERVICES; INCORPORATION; INFORMATION TECHNOLOGY; INTERNET; MINORS; OCCUPATIONS; PRESENTED; PUBLIC; RATIFIED; SECRETARY OF STATE; TELESERVICES; TRUSTS; WILLS; RECORDS; LIABILITY; CHAPTERED"
+      ],
+      "extras": {},
+      "created_at": "2025-03-12T20:15:49.214488+00:00",
+      "updated_at": "2026-03-17T21:00:11.610080+00:00",
+      "openstates_url": "https://openstates.org/nc/bills/2025/HB388/",
+      "first_action_date": "2025-03-12",
+      "latest_action_date": "2025-07-01",
+      "latest_action_description": "Ch. SL 2025-33",
+      "latest_passage_date": "2025-06-23"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 730,
+    "total_items": 7298
+  }
+}

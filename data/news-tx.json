@@ -1,0 +1,356 @@
+{
+  "status": "ok",
+  "totalResults": 466,
+  "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Molly Taft",
+      "title": "Senators Demand to Know How Much Energy Data Centers Use",
+      "description": "In a letter sent Thursday morning, Elizabeth Warren and Josh Hawley press the Energy Information Agency to mandate annual electricity disclosure for data centers.",
+      "url": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
+      "urlToImage": "https://media.wired.com/photos/69c421794ff31d9d83686f80/191:100/w_1280,c_limit/Elizabeth-Warren-Josh-Hawley-Demand-EIA-Start-Monitoring-How-Much-Energy-Data-Centers-Use-Science-2255930687.jpg",
+      "publishedAt": "2026-03-26T12:00:00Z",
+      "content": "Democratic senator Elizabeth Warren and Republican senator Josh Hawley are urging the USs central energy information agency to provide better information on how much electricity data centers actually… [+3830 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Molly Taft",
+      "title": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
+      "description": "Documents show that one of Google’s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year—an increasingly common trend in the industry.",
+      "url": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/",
+      "urlToImage": "https://media.wired.com/photos/69cda0ecca819c3b6fb66073/191:100/w_1280,c_limit/As-Google-Builds-Out-Renewables-Its-Also-Leaning-on-Fossil-Fuels-Science.jpg",
+      "publishedAt": "2026-04-02T18:27:29Z",
+      "content": "Grid growth can't match AI demand, so a pragmatic 'all-of-the-above' strategy is essentialwith gas as a critical bridge, Cully Cavness, the cofounder and president of Crusoe, told WIRED in a statemen… [+3555 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Stevie Bonifield",
+      "title": "Senators are pushing to find out how much electricity data centers actually use",
+      "description": "On Thursday, senators Elizabeth Warren (D-MA) and Josh Hawley (R-MO) sent a letter to the Energy Information Administration (EIA) urging it to begin collecting \"comprehensive, annual energy-use disclosures\" on data centers, as reported by Wired. According to …",
+      "url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/hero-001-10-gallery-data-center-drone-cropped-copy.jpeg?quality=90&strip=all&crop=0%2C3.4383212962771%2C100%2C93.123357407446&w=1200",
+      "publishedAt": "2026-03-26T14:25:32Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nA bipartisan letter is the latest attempt to hold data centers accountable for rising electricity costs.\r\nA bipartisan letter is the latest attempt to hold data … [+2641 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Daniel Geiger,Reed Alexander",
+      "title": "10 power players behind the data center debt boom",
+      "description": "Wall Street is pouring billions into AI data centers. Meet the financiers from firms like Apollo, JPMorgan, and KKR funding the boom.",
+      "url": "https://www.businessinsider.com/power-players-data-center-debt-boom-goldman-apollo-smbc-kkr-2026-3",
+      "urlToImage": "https://i.insider.com/69cac311f573a637a7567972?width=1200&format=jpeg",
+      "publishedAt": "2026-03-31T09:46:01Z",
+      "content": "Three of the financiers behind the boom: Goldman Sachs' John Greenwood, SMBC's Quynh Tran, and Apollo's Joe Jackson.Goldman Sachs;SMBC; Apollo\r\n<ul><li>The AI race is triggering a Wall Street financi… [+21130 chars]",
+      "sentiment": "negative"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nilay Patel",
+      "title": "Cisco CEO Chuck Robbins wants data centers in space",
+      "description": "Today, I’m talking with Chuck Robbins, CEO of Cisco. Cisco is one of those big companies that everyone has heard of but that most of us don’t have to interact with very much; it’s not really a consumer brand. But all of us are in some way using Cisco’s produc…",
+      "url": "https://www.theverge.com/podcast/906727/cisco-ceo-chuck-robbins-data-centers-space-ai-elon-musk-interview",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD-Chuck-Robbins-Cisco.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-04-06T15:12:46Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe head of the networking giant on energy, infrastructure, and why AI is writing Cisco code.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your… [+58850 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "MATT O'BRIEN",
+      "title": "Microsoft takes over a Texas AI data center expansion after OpenAI backs away",
+      "description": "Microsoft is taking over a data center construction project in Texas after OpenAI declined to pursue it, in a move that will make the two companies neighbors...",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-takes-over-texas-ai-181641200.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wFFuxQt6hK1J36BmPyop8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ap.org/9b2baee9ff6d481c55addecf5d7b8ad3",
+      "publishedAt": "2026-03-27T18:16:41Z",
+      "content": "Microsoft is taking over a data center construction project in Texas after OpenAI declined to pursue it, in a move that will make the two companies neighbors at one of the nation's largest complexes … [+3092 chars]",
+      "sentiment": "positive"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "BeauHD",
+      "title": "OpenAI Is Walking Away From Expanding Its Stargate Data Center With Oracle",
+      "description": "OpenAI is reportedly backing away from expanding its AI data center partnership with Oracle because newer generations of Nvidia GPUs may arrive before the facility is even operational. CNBC reports: Artificial intelligence chips are getting upgraded more quic…",
+      "url": "https://developers.slashdot.org/story/26/03/10/0510223/openai-is-walking-away-from-expanding-its-stargate-data-center-with-oracle",
+      "urlToImage": "https://a.fsdn.com/sd/topics/oracle_64.png",
+      "publishedAt": "2026-03-10T18:00:00Z",
+      "content": "OpenAI is reportedly backing away from expanding its AI data center partnership with Oracle because newer generations of Nvidia GPUs may arrive before the facility is even operational. CNBC reports: … [+1069 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "BeauHD",
+      "title": "Oracle Is Walking Away From Expanding Its Stargate Data Center With Oracle",
+      "description": "OpenAI is reportedly backing away from expanding its AI data center partnership with Oracle because newer generations of Nvidia GPUs may arrive before the facility is even operational. CNBC reports: Artificial intelligence chips are getting upgraded more quic…",
+      "url": "https://developers.slashdot.org/story/26/03/10/0510223/oracle-is-walking-away-from-expanding-its-stargate-data-center-with-oracle",
+      "urlToImage": "https://a.fsdn.com/sd/topics/oracle_64.png",
+      "publishedAt": "2026-03-10T18:00:00Z",
+      "content": "OpenAI is reportedly backing away from expanding its AI data center partnership with Oracle because newer generations of Nvidia GPUs may arrive before the facility is even operational. CNBC reports: … [+1069 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Huileng Tan",
+      "title": "Oil's price spike is bad news for power-hungry AI",
+      "description": "AI data centers use far more electricity than traditional servers, driven by power-hungry GPUs and advanced cooling systems.",
+      "url": "https://www.businessinsider.com/oil-price-spike-impact-electricity-power-ai-semiconductor-chips-fab-2026-3",
+      "urlToImage": "https://i.insider.com/69b0dacfa96e437d6eb819a1?width=1200&format=jpeg",
+      "publishedAt": "2026-03-11T05:34:59Z",
+      "content": "AI data centers are highly energy-intensive, making them vulnerable to rising power costs.Andrew Caballero-Reynolds/AFP/Getty Images\r\n<ul><li>Oil's price surge is rattling chip stocks and raising AI … [+3474 chars]",
+      "sentiment": "negative"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ellen Thomas",
+      "title": "Oracle tells investors not to worry about data center spending because its 'very, very good' at cost-cutting",
+      "description": "As the cloud giant spends billions on the AI race, it reassures investors that it is still \"very good\" at doing things on the cheap.",
+      "url": "https://www.businessinsider.com/oracle-doubles-down-on-data-center-spending-cost-cutting-2026-3",
+      "urlToImage": "https://i.insider.com/69b0aaf3a96e437d6eb818f4?width=1200&format=jpeg",
+      "publishedAt": "2026-03-10T23:51:12Z",
+      "content": "Oracle reported its third-quarter earnings for fiscal 2026 on Tuesday.Jonathan Raa/NurPhoto via Getty Images\r\n<ul><li>Oracle reported its third-quarter earnings for fiscal 2026 on Tuesday.</li><li>Th… [+2306 chars]",
+      "sentiment": "positive"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Eric Westervelt",
+      "title": "ICE's growing detention footprint, and the communities fighting back",
+      "description": "Resistance in both Democratic and Republican cities points to broader unease with the direction of immigration enforcement.",
+      "url": "https://www.npr.org/2026/03/23/g-s1-114107/ices-growing-detention-footprint-and-the-communities-fighting-back",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1237x696+0+27/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F08%2F0530e62b4c32aef2926193133a3f%2Fscreenshot-2026-03-20-at-9-28-37-am.png",
+      "publishedAt": "2026-03-23T09:00:00Z",
+      "content": "Loading... \r\nThe Trump administration's unprecedented expansion of migrant detention facilities is igniting fierce opposition in communities across the political and geographic spectrum, as the admin… [+15342 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Daniel Geiger",
+      "title": "For crypto miners turned AI stars, the real test is about to come",
+      "description": "Meet the quiet winners of the AI boom, the crypto mining players pivoting to big opportunities in the AI boom.",
+      "url": "https://www.businessinsider.com/crypto-miners-ai-data-centers-big-tech-infrastructure-apld-iren-2026-4",
+      "urlToImage": "https://i.insider.com/69d03c956a864f6fcd7bd5b5?width=1200&format=jpeg",
+      "publishedAt": "2026-04-05T10:43:01Z",
+      "content": "A Bitdeer Technologies cryptocurrency mining data center under construction in Massillon, Ohio.Bloomberg/Getty Images; Tyler Le/BI\r\n<ul><li>Former crypto miners are pivoting to AI, leveraging legacy … [+7794 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Michael Kan",
+      "title": "Musk Offers Sneak Peek at Orbiting Data Centers. They're Bigger Than the ISS",
+      "description": "The SpaceX CEO reveals renderings of the upcoming satellites, which feature an exceptionally long solar array, and teases a 'Terafab' factory to produce...",
+      "url": "https://www.pcmag.com/news/musk-offers-sneak-peek-at-orbiting-data-centers-theyre-bigger-than-iss",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QgBhVad5LsZzunbnhImxIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/pc_mag_263/b7b6b226f8ae75920340e4fea3d8b682",
+      "publishedAt": "2026-03-23T16:20:00Z",
+      "content": "Elon Musk offered a first look at his plans for orbiting data centers this weekend, and they will be longer than the International Space Station (ISS).\r\nThe satellites stand out for their exceptional… [+6116 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Joe Supan",
+      "title": "If You Buy a New Router, It Might ‘Turn Into a Pumpkin’ Next Year",
+      "description": "I spoke to four cybersecurity experts about the FCC's ban on all new foreign-made routers. Even though I review routers for a living, here's why I recommend avoiding a router purchase right now.",
+      "url": "https://www.cnet.com/home/internet/my-expert-advice-dont-buy-a-router-right-now/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/bb06e663cca40f51f6ba6bbd66873f0b66eeb7c5/hub/2026/03/26/46736792-5141-4c0c-bf09-55da9e30f5e4/gettyimages-1453309281.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2026-03-29T14:30:00Z",
+      "content": "Key takeaways:\r\n<ul><li>The Federal Communications Commission has banned the sale of new foreign-made routers in the US. The sweeping order applies to virtually every Wi-Fi router currently available… [+9308 chars]",
+      "sentiment": "negative"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Joe Supan",
+      "title": "My Expert Advice: Don’t Buy a Router Until We Know More About the FCC's Ban",
+      "description": "The FCC’s sweeping ban applies to the sale of virtually every new Wi-Fi router. Without regular updates, yours might turn into a pumpkin by 2027.",
+      "url": "https://www.cnet.com/home/internet/my-expert-advice-dont-buy-a-router-until-we-know-more-about-the-fccs-ban/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/59323679a882a135c44c4729855061e05a04ca13/hub/2026/03/25/b353f552-66c5-49c5-9e9d-e7886e1d3f5c/foreign-made-routers-banned.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2026-04-05T15:00:00Z",
+      "content": "Key takeaways:\r\n<ul><li>The Federal Communications Commission has banned the sale of new foreign-made routers in the US. The sweeping order applies to virtually every Wi-Fi router currently available… [+10677 chars]",
+      "sentiment": "negative"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "AJ Dellinger",
+      "title": "Sam Altman Says Intelligence Will Be a Utility, and He’s Just the Man to Collect the Bills",
+      "description": "\"Intelligence too cheap to meter\" doesn't quite come across the way Altman might intend.",
+      "url": "https://gizmodo.com/sam-altman-says-intelligence-will-be-a-utility-and-hes-just-the-man-to-collect-the-bills-2000732953",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/sam-altman-talking-1200x675.jpg",
+      "publishedAt": "2026-03-12T20:55:04Z",
+      "content": "In an appearance at BlackRocks U.S. Infrastructure Summit on Wednesday, OpenAI CEO Sam Altman offered a surprisingly clear articulation of how he imagines the future of artificial intelligenceit’s ju… [+2997 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ece Yildirim",
+      "title": "Elon Musk’s Latest Outlandish Plan Is a Giant Chip Factory In Texas",
+      "description": "The factory will produce chips for both terrestrial and space purposes, Musk said.",
+      "url": "https://gizmodo.com/elon-musks-latest-outlandish-plan-is-a-giant-chip-factory-in-texas-2000736620",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2256968069-1200x675.jpg",
+      "publishedAt": "2026-03-22T21:49:44Z",
+      "content": "Elon Musk announced plans to build a giant chip factory in Austin, Texas.\r\nSpeaking at an event in Austin on Saturday, Musk announced that the project, Terafab, would start off as an “advanced techno… [+2636 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Nicole Einbinder",
+      "title": "A $7.5 billion cop-tech darling runs headfirst into human consequences",
+      "description": "Flock Safety's license plate readers are used by police in thousands of communities. When the cameras make mistakes, the consequences can be severe.",
+      "url": "https://www.businessinsider.com/flock-safety-alpr-cameras-misreads-2026-3",
+      "urlToImage": "https://i.insider.com/69ab0f1fd3e2f1aef36a233c?width=1200&format=jpeg",
+      "publishedAt": "2026-03-09T09:07:01Z",
+      "content": "In April 2024, Brandon Upchurch and his cousin were driving home from a convenience store when they noticed flashing lights behind them. When Upchurch pulled over, officers from the Toledo Police Dep… [+23869 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wheresyoured.at"
+      },
+      "author": "Edward Zitron",
+      "title": "The AI Industry Is Lying to You",
+      "description": "Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5000 to 18,000 words, incl…",
+      "url": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/",
+      "urlToImage": "https://www.wheresyoured.at/content/images/2024/01/wyea--1.jpeg",
+      "publishedAt": "2026-03-24T17:30:55Z",
+      "content": "Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? Its $70 a year, or $7 a month, and in return you get a weekly newslet… [+55856 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Jaclyn Diaz",
+      "title": "The Trump DOJ is giving guns back to felons, including one alleged fake elector",
+      "description": "The Department of Justice is quietly restarting a decades-dormant program to restore gun rights to felons. One of them was an alleged fake elector in 2020.",
+      "url": "https://www.npr.org/2026/03/11/g-s1-113204/gun-rights-restore-felons-trump-justice-department",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4624x2601+0+433/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F7b%2F61e3fe6645ab9f979da92456f927%2Fap22298577267269.jpg",
+      "publishedAt": "2026-03-11T09:00:00Z",
+      "content": "Last month, the Department of Justice quietly published a list of 22 names in the Federal Register. With little explanation or fanfare, the department announced that these individuals had their feder… [+10201 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yanko Design"
+      },
+      "author": "Sarang Sheth",
+      "title": "Meta Is Turning Its Smart Glasses Into A Mass Surveillance Tool… And You Can’t Stop It",
+      "description": "Meta Is Turning Its Smart Glasses Into A Mass Surveillance Tool… And You Can’t Stop ItIf not Palantir, why Palantir-shaped?? Palantir builds spy tech for the CIA, DHS, and ICE. It aggregates data, maps your life, and tells governments who...",
+      "url": "https://www.yankodesign.com/2026/03/15/meta-is-turning-its-smart-glasses-into-a-mass-surveillance-tool-and-you-cant-stop-it/",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2026/03/meta-is-turning-its-smart-glasses-into-the-ultimate-mass-surveillance-tool-and-you-cant-stop-them/meta_name_tag_surveillance_1.jpg",
+      "publishedAt": "2026-03-15T23:30:14Z",
+      "content": "If not Palantir, why Palantir-shaped??\r\nPalantir builds spy tech for the CIA, DHS, and ICE. It aggregates data, maps your life, and tells governments who to watch. Meta is building something with the… [+11980 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Parade"
+      },
+      "author": "Alexa Mellardo",
+      "title": "Cardiologists Reveal How One Morning Habit Harms Your Heart Health",
+      "description": "We're ALL guilty of this one.",
+      "url": "https://parade.com/health/morning-habit-could-be-aging-your-heart-according-to-cardiologists",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/48oMHqrKjttoBY9RDvk07w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/parade_250/5c4957c2ee391d3ca3b218458adc6abb",
+      "publishedAt": "2026-03-26T14:50:00Z",
+      "content": "A healthy heart truly serves as the foundation of a happy, fulfilling life. After all, this vital organ carries a tremendous amount of responsibility. Each day, your heart pumps oxygen-rich blood, ho… [+7214 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Andrea Thompson",
+      "title": "Arctic sea ice hits lowest winter level on record",
+      "description": "The Arctic sea ice maximum this year effectively tied for the lowest ever on record, with major implications for polar ecosystems and global warming",
+      "url": "https://www.scientificamerican.com/article/arctic-sea-ice-hits-lowest-winter-level-on-record/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/1d0dc4a0fa00a878/original/RF-Sea-Ice-GettyImages-1595492689.jpg?m=1774546622.743&w=1200",
+      "publishedAt": "2026-03-26T17:51:00Z",
+      "content": "The shell of ice that expands atop the Arctic Ocean every winter has done all the growing it will do this season—and it wasn’t much. In fact, the annual winter maximum sea ice extent this year has ti… [+2243 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Samarveer Singh",
+      "title": "The FCC's router ban could make these router brands a risky bet in the future",
+      "description": "Your next Wi-Fi upgrade just got 10x harder",
+      "url": "https://www.xda-developers.com/router-brands-banned-by-the-fcc-router-ban-for-american-customers/",
+      "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/10/eero-max-7-review-front-side.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-04-07T14:01:21Z",
+      "content": "Much of the world's electronics production has always been based in Asia, which is why the FCC's recent ban on foreign-made Wi-Fi routers threatens to disrupt the entire market and industry in the Un… [+9301 chars]",
+      "sentiment": "negative"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jordan Blum",
+      "title": "Former BP CEO takes over Wyoming data center developer, as first woman leader of Big Oil giant becomes new BP chief",
+      "description": "The former BP chief is entering the AI age with American data center projects.",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/former-bp-ceo-takes-over-215041585.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CQMkR3HACUCetYIgYlVzRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/0b222139816d66eb199086296e919eea",
+      "publishedAt": "2026-03-31T21:50:41Z",
+      "content": "Bernard Looney, whose tenure as CEO of BP ended with him embattled in controversy, is entering the AI age as the new CEO of Wyoming-based Prometheus Hyperscale, leading a bevy of data center campus d… [+1945 chars]",
+      "sentiment": "neutral"
+    }
+  ]
+}

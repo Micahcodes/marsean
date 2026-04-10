@@ -1,0 +1,334 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/633d93e3-7aa1-4bd3-97fc-251928e57db1",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sd/government",
+        "name": "South Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/5a7260e0-bd1e-4f37-949f-ebb386e8bacc",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 135",
+      "title": "protect residents from increased utility costs and utility shortages caused by data centers and clarify authority to regulate data centers.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Administrative Procedure",
+        "Data Centers",
+        "Planning, Zoning and Housing Programs",
+        "Public Records and Files",
+        "Public Utilities and Carriers",
+        "Reports",
+        "Tax Exemptions and Refunds",
+        "Water Management"
+      ],
+      "extras": {},
+      "created_at": "2026-01-26T18:25:30.598200+00:00",
+      "updated_at": "2026-03-30T21:09:24.337537+00:00",
+      "openstates_url": "https://openstates.org/sd/bills/2026/SB135/",
+      "first_action_date": "2026-01-27",
+      "latest_action_date": "2026-03-30",
+      "latest_action_description": "Signed by the Governor on 2026-03-30 S.J. 549",
+      "latest_passage_date": "2026-03-11"
+    },
+    {
+      "id": "ocd-bill/bfc0bda5-7581-4de4-879b-ff064fb3a972",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sd/government",
+        "name": "South Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/2432bd5a-3c3f-4784-b1f5-c6134171162b",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1038",
+      "title": "allow the Public Utilities Commission to assess actual costs to data centers that are customers of public utilities.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Administrative Procedure",
+        "Court Costs",
+        "Data Centers",
+        "Executive/Judiciary Request",
+        "Fund",
+        "Public Utilities and Carriers"
+      ],
+      "extras": {},
+      "created_at": "2026-01-07T21:32:11.128990+00:00",
+      "updated_at": "2026-03-30T19:12:59.191911+00:00",
+      "openstates_url": "https://openstates.org/sd/bills/2026/HB1038/",
+      "first_action_date": "2026-01-13",
+      "latest_action_date": "2026-03-30",
+      "latest_action_description": "Signed by the Governor on 2026-03-30 H.J. 579",
+      "latest_passage_date": "2026-03-12"
+    },
+    {
+      "id": "ocd-bill/64c0e11b-0279-4c38-a5f9-20c4dfc2f29a",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sd/government",
+        "name": "South Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/2432bd5a-3c3f-4784-b1f5-c6134171162b",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1199",
+      "title": "address prior authorization and reporting requirements by utilization review organizations and health carriers.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Health Care",
+        "Health Maintenance Organizations",
+        "Insurance"
+      ],
+      "extras": {},
+      "created_at": "2026-01-29T14:32:17.335690+00:00",
+      "updated_at": "2026-03-30T19:12:05.606478+00:00",
+      "openstates_url": "https://openstates.org/sd/bills/2026/HB1199/",
+      "first_action_date": "2026-01-29",
+      "latest_action_date": "2026-03-30",
+      "latest_action_description": "Signed by the Governor on 2026-03-30 H.J. 579",
+      "latest_passage_date": "2026-03-05"
+    },
+    {
+      "id": "ocd-bill/581a0b23-62ec-4c2b-b441-96501268282f",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sd/government",
+        "name": "South Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/5a7260e0-bd1e-4f37-949f-ebb386e8bacc",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 193",
+      "title": "clarify the definition of backup electric generation.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Public Utilities and Carriers"
+      ],
+      "extras": {},
+      "created_at": "2026-01-29T18:35:55.575322+00:00",
+      "updated_at": "2026-03-17T21:13:01.236037+00:00",
+      "openstates_url": "https://openstates.org/sd/bills/2026/SB193/",
+      "first_action_date": "2026-01-29",
+      "latest_action_date": "2026-02-23",
+      "latest_action_description": "Intent to reconsider , Passed, S.J. 364",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/64449928-e6d5-41c5-9a90-ffcbaaebd193",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sd/government",
+        "name": "South Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/2432bd5a-3c3f-4784-b1f5-c6134171162b",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1246",
+      "title": "prohibit nondisclosure of certain agreements related to data centers.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Confidential Information",
+        "Data Centers",
+        "Public Records and Files",
+        "State Affairs and Government"
+      ],
+      "extras": {},
+      "created_at": "2026-01-31T20:37:00.257766+00:00",
+      "updated_at": "2026-03-17T21:12:54.319329+00:00",
+      "openstates_url": "https://openstates.org/sd/bills/2026/HB1246/",
+      "first_action_date": "2026-02-02",
+      "latest_action_date": "2026-02-20",
+      "latest_action_description": "House of Representatives Do Pass , Passed, YEAS 30, NAYS 37 H.J. 391",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/d2c40b87-99e2-4f3e-bdb9-c2537bc97c0e",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sd/government",
+        "name": "South Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/5a7260e0-bd1e-4f37-949f-ebb386e8bacc",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 127",
+      "title": "limit nuisances caused by data centers.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Data Centers",
+        "Judicial Remedies",
+        "Planning, Zoning and Housing Programs"
+      ],
+      "extras": {},
+      "created_at": "2026-01-25T16:24:44.228043+00:00",
+      "updated_at": "2026-03-17T21:12:11.958131+00:00",
+      "openstates_url": "https://openstates.org/sd/bills/2026/SB127/",
+      "first_action_date": "2026-01-26",
+      "latest_action_date": "2026-02-18",
+      "latest_action_description": "State Affairs Deferred to the 41st legislative day , Passed, YEAS 5, NAYS 3 S.J. 25",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/0d62ccd5-9176-4219-b7e8-f0de19e83946",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sd/government",
+        "name": "South Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/5a7260e0-bd1e-4f37-949f-ebb386e8bacc",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 36",
+      "title": "authorize certain utilities to establish wildfire mitigation plans and associated liability limitations for wildfire damages.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Fees",
+        "Firefighters",
+        "Liability",
+        "Promulgation of Rules",
+        "Public Utilities and Carriers",
+        "Reports"
+      ],
+      "extras": {},
+      "created_at": "2026-01-07T05:12:33.357826+00:00",
+      "updated_at": "2026-03-17T21:11:51.029389+00:00",
+      "openstates_url": "https://openstates.org/sd/bills/2026/SB36/",
+      "first_action_date": "2026-01-13",
+      "latest_action_date": "2026-03-12",
+      "latest_action_description": "Signed by the Governor on 2026-03-12 S.J. 541",
+      "latest_passage_date": "2026-03-09"
+    },
+    {
+      "id": "ocd-bill/aeaf3225-5d5e-4c24-9d49-799d7a7e3a7e",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sd/government",
+        "name": "South Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/2432bd5a-3c3f-4784-b1f5-c6134171162b",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1173",
+      "title": "require certain applicants that seek a permit from the Public Utilities Commission of the State of South Dakota to prepare and pay for an environmental impact statement.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Administrative Procedure",
+        "Environmental Protection",
+        "Fund",
+        "Pipelines",
+        "Public Utilities and Carriers"
+      ],
+      "extras": {},
+      "created_at": "2026-01-28T14:29:44.625161+00:00",
+      "updated_at": "2026-03-17T21:11:35.931868+00:00",
+      "openstates_url": "https://openstates.org/sd/bills/2026/HB1173/",
+      "first_action_date": "2026-01-28",
+      "latest_action_date": "2026-03-03",
+      "latest_action_description": "Commerce and Energy Deferred to the 41st legislative day , Passed, YEAS 5, NAYS 3",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/617106e7-599a-4c33-b95a-0f368d72675c",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sd/government",
+        "name": "South Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/2432bd5a-3c3f-4784-b1f5-c6134171162b",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1301",
+      "title": "limit costs and risks associated with electricity use by data centers and impose a moratorium.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-04T16:45:40.168398+00:00",
+      "updated_at": "2026-03-17T21:11:03.505569+00:00",
+      "openstates_url": "https://openstates.org/sd/bills/2026/HB1301/",
+      "first_action_date": "2026-02-04",
+      "latest_action_date": "2026-02-18",
+      "latest_action_description": "State Affairs Deferred to the 41st legislative day , Passed, YEAS 10, NAYS 2",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/7b71b809-47c2-448d-962f-2201d7b35d06",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sd/government",
+        "name": "South Dakota",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/5a7260e0-bd1e-4f37-949f-ebb386e8bacc",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 235",
+      "title": "protect residents from increased utility costs and utility shortages caused by data centers, to clarify authority to regulate data centers, and to modify provisions pertaining to the purchasing of goods and services by a data center.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-04T18:46:55.743445+00:00",
+      "updated_at": "2026-03-17T21:10:32.906877+00:00",
+      "openstates_url": "https://openstates.org/sd/bills/2026/SB235/",
+      "first_action_date": "2026-02-04",
+      "latest_action_date": "2026-02-18",
+      "latest_action_description": "State Affairs Deferred to the 41st legislative day , Passed, YEAS 5, NAYS 4 S.J. 27",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 29,
+    "total_items": 284
+  }
+}

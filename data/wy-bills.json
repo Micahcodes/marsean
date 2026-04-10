@@ -1,0 +1,326 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/58746aae-a5a1-4ad9-be5f-bb52add708a5",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wy/government",
+        "name": "Wyoming",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/683ca907-05d4-4c84-8d7b-f04f73e295ad",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "SF 60",
+      "title": "K-12 school facilities appropriations.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "wy_bill_id": 13034,
+        "effective_date": "2026-03-01"
+      },
+      "created_at": "2026-01-30T00:50:01.007963+00:00",
+      "updated_at": "2026-03-17T20:56:49.528931+00:00",
+      "openstates_url": "https://openstates.org/wy/bills/2026/SF60/",
+      "first_action_date": "2026-01-29T22:52:36+00:00",
+      "latest_action_date": "2026-03-04T15:23:51+00:00",
+      "latest_action_description": "S:Died in Committee Returned Bill Pursuant to SR 5-4",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/50ef1259-dd2b-44da-8f59-0c6bb5d3f144",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wy/government",
+        "name": "Wyoming",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/683ca907-05d4-4c84-8d7b-f04f73e295ad",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 105",
+      "title": "K-12 school facilities appropriations-2.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "chapter": "CH0039",
+        "wy_bill_id": 13247,
+        "effective_date": "2026-03-05",
+        "wy_enrolled_number": "HEA0010"
+      },
+      "created_at": "2026-02-06T04:50:29.538064+00:00",
+      "updated_at": "2026-03-17T20:56:47.914346+00:00",
+      "openstates_url": "https://openstates.org/wy/bills/2026/HB105/",
+      "first_action_date": "2026-02-06T04:13:10+00:00",
+      "latest_action_date": "2026-03-06T02:51:06+00:00",
+      "latest_action_description": "Assigned Chapter Number 39",
+      "latest_passage_date": "2026-02-26T17:59:26+00:00"
+    },
+    {
+      "id": "ocd-bill/4bf4a4b9-c514-4f11-a526-7ac96df9cd83",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wy/government",
+        "name": "Wyoming",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/683ca907-05d4-4c84-8d7b-f04f73e295ad",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 160",
+      "title": "Digital Taxonomy Act.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "wy_bill_id": 13388,
+        "effective_date": "2026-03-01"
+      },
+      "created_at": "2026-02-11T04:53:39.558949+00:00",
+      "updated_at": "2026-03-17T20:56:46.834745+00:00",
+      "openstates_url": "https://openstates.org/wy/bills/2026/HB160/",
+      "first_action_date": "2026-02-11T03:13:35+00:00",
+      "latest_action_date": "2026-03-03T16:59:35+00:00",
+      "latest_action_description": "H:Died in Committee Returned Bill Pursuant to HR 5-4",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/24c6dc7f-2421-48be-859b-bea1cd53e43c",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wy/government",
+        "name": "Wyoming",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/683ca907-05d4-4c84-8d7b-f04f73e295ad",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "SF 108",
+      "title": "Election purity and hand count-2.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "wy_bill_id": 13366,
+        "effective_date": "2026-03-01"
+      },
+      "created_at": "2026-02-11T04:52:17.580705+00:00",
+      "updated_at": "2026-03-17T20:56:43.606080+00:00",
+      "openstates_url": "https://openstates.org/wy/bills/2026/SF108/",
+      "first_action_date": "2026-02-11T01:19:45+00:00",
+      "latest_action_date": "2026-02-12T18:20:42+00:00",
+      "latest_action_description": "S Failed Introduction 9-22-0-0-0",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/196c9c66-69ff-4502-9613-63a4aee17f74",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wy/government",
+        "name": "Wyoming",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/683ca907-05d4-4c84-8d7b-f04f73e295ad",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "SF 31",
+      "title": "Uniform mortgage modification act.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "chapter": "CH0006",
+        "wy_bill_id": 13012,
+        "effective_date": "2026-07-01",
+        "wy_enrolled_number": "SEA0003"
+      },
+      "created_at": "2026-01-01T00:48:10.979322+00:00",
+      "updated_at": "2026-03-17T20:56:38.222859+00:00",
+      "openstates_url": "https://openstates.org/wy/bills/2026/SF31/",
+      "first_action_date": "2025-12-31T23:03:28+00:00",
+      "latest_action_date": "2026-02-27T21:45:08+00:00",
+      "latest_action_description": "Assigned Chapter Number 6",
+      "latest_passage_date": "2026-02-25T18:25:45+00:00"
+    },
+    {
+      "id": "ocd-bill/b14eb080-c5ef-476c-a740-f4b6dd1f0fbb",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wy/government",
+        "name": "Wyoming",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/683ca907-05d4-4c84-8d7b-f04f73e295ad",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "SF 37",
+      "title": "K-12 school facilities maintenance and appropriations.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "wy_bill_id": 12950,
+        "effective_date": "2026-03-01"
+      },
+      "created_at": "2026-01-07T20:48:34.594337+00:00",
+      "updated_at": "2026-03-17T20:56:37.685680+00:00",
+      "openstates_url": "https://openstates.org/wy/bills/2026/SF37/",
+      "first_action_date": "2026-01-07T17:25:38+00:00",
+      "latest_action_date": "2026-03-04T15:24:14+00:00",
+      "latest_action_description": "S:Died in Committee Returned Bill Pursuant to SR 5-4",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/98191036-4c2c-4afa-9b94-87d84cf433db",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wy/government",
+        "name": "Wyoming",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/683ca907-05d4-4c84-8d7b-f04f73e295ad",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "SF 102",
+      "title": "Wyoming energy transmission study.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "chapter": "CH0058",
+        "wy_bill_id": 13193,
+        "effective_date": "2026-03-06",
+        "wy_enrolled_number": "SEA0050"
+      },
+      "created_at": "2026-02-11T00:52:46.821513+00:00",
+      "updated_at": "2026-03-17T20:56:33.850211+00:00",
+      "openstates_url": "https://openstates.org/wy/bills/2026/SF102/",
+      "first_action_date": "2026-02-10T23:32:33+00:00",
+      "latest_action_date": "2026-03-06T21:51:34+00:00",
+      "latest_action_description": "Assigned Chapter Number 58",
+      "latest_passage_date": "2026-03-04T22:57:53+00:00"
+    },
+    {
+      "id": "ocd-bill/1eeb3078-c91b-4750-a435-07d842b35248",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wy/government",
+        "name": "Wyoming",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/683ca907-05d4-4c84-8d7b-f04f73e295ad",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 188",
+      "title": "County boards and special districts-board member elections.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "wy_bill_id": 13288,
+        "effective_date": "2026-03-01"
+      },
+      "created_at": "2026-02-12T00:53:31.288238+00:00",
+      "updated_at": "2026-03-17T20:56:31.700266+00:00",
+      "openstates_url": "https://openstates.org/wy/bills/2026/HB188/",
+      "first_action_date": "2026-02-11T20:56:19+00:00",
+      "latest_action_date": "2026-02-14T02:03:20+00:00",
+      "latest_action_description": "H Did not Consider for Introduction",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/4ed0f18d-ee75-4e72-94cd-54732085ea61",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wy/government",
+        "name": "Wyoming",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/683ca907-05d4-4c84-8d7b-f04f73e295ad",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "SF 91",
+      "title": "Wyoming energy project accountability act.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "wy_bill_id": 13287,
+        "effective_date": "2026-03-01"
+      },
+      "created_at": "2026-02-10T04:52:37.794960+00:00",
+      "updated_at": "2026-03-17T20:56:31.160383+00:00",
+      "openstates_url": "https://openstates.org/wy/bills/2026/SF91/",
+      "first_action_date": "2026-02-10T03:35:13+00:00",
+      "latest_action_date": "2026-02-11T18:01:03+00:00",
+      "latest_action_description": "S Failed Introduction 10-21-0-0-0",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/af91ea61-987d-41d8-8718-833c60a4bb0c",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wy/government",
+        "name": "Wyoming",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/683ca907-05d4-4c84-8d7b-f04f73e295ad",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "SF 72",
+      "title": "Interstate Teacher Mobility Compact.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "wy_bill_id": 13121,
+        "effective_date": "2026-03-01"
+      },
+      "created_at": "2026-02-05T00:51:15.951320+00:00",
+      "updated_at": "2026-03-17T20:56:28.774351+00:00",
+      "openstates_url": "https://openstates.org/wy/bills/2026/SF72/",
+      "first_action_date": "2026-02-04T23:31:22+00:00",
+      "latest_action_date": "2026-03-04T02:26:34+00:00",
+      "latest_action_description": "H COW:Failed 25-30-7-0-0",
+      "latest_passage_date": "2026-02-24T17:34:52+00:00"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 67,
+    "total_items": 668
+  }
+}

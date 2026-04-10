@@ -1,0 +1,320 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/d402d13c-5147-44e6-a740-37a90f1090b1",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nh/government",
+        "name": "New Hampshire",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/c95932a0-2ac1-4f14-a0c4-ade8568daac6",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 447",
+      "title": "enabling electric utilities to own, operate, and offer advanced nuclear resources, and relative to purchased power agreements for electric distribution utilities and limitations on community customer generators.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "LSR": "2020",
+        "_code": ""
+      },
+      "created_at": "2025-12-09T21:10:44.390949+00:00",
+      "updated_at": "2026-04-09T17:09:00.942185+00:00",
+      "openstates_url": "https://openstates.org/nh/bills/2026/SB447/",
+      "first_action_date": "2025-11-21",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Executive Session: 04/13/2026 09:00 am GP 229",
+      "latest_passage_date": "2026-03-26"
+    },
+    {
+      "id": "ocd-bill/61eb4705-fb84-4f01-95f7-ad38e0537db6",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nh/government",
+        "name": "New Hampshire",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3b857974-4029-4508-94d4-ce3b86c64602",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1463",
+      "title": "requiring the insurance department to conduct an analysis and produce a report detailing compliance with the state's managed care and medical utilization review laws.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "LSR": "3184",
+        "_code": "3071"
+      },
+      "created_at": "2025-12-09T21:07:44.067297+00:00",
+      "updated_at": "2026-04-09T17:08:36.568190+00:00",
+      "openstates_url": "https://openstates.org/nh/bills/2026/HB1463/",
+      "first_action_date": "2025-12-04",
+      "latest_action_date": "2026-02-19",
+      "latest_action_description": "Inexpedient to Legislate: MA VV 02/19/2026  HJ 5",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/81e7e5b1-f231-4b63-94ea-39d2385f0355",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nh/government",
+        "name": "New Hampshire",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/c95932a0-2ac1-4f14-a0c4-ade8568daac6",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 439",
+      "title": "relative to municipal data center zoning.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "LSR": "2236",
+        "_code": "5019"
+      },
+      "created_at": "2025-12-09T21:08:55.614818+00:00",
+      "updated_at": "2026-04-09T17:08:26.469387+00:00",
+      "openstates_url": "https://openstates.org/nh/bills/2026/SB439/",
+      "first_action_date": "2025-11-21",
+      "latest_action_date": "2026-04-01",
+      "latest_action_description": "Public Hearing: 04/07/2026 10:00 am GP 154",
+      "latest_passage_date": "2026-01-29"
+    },
+    {
+      "id": "ocd-bill/bf12c120-58bf-4877-b7c8-6be373b758e6",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nh/government",
+        "name": "New Hampshire",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3b857974-4029-4508-94d4-ce3b86c64602",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1723",
+      "title": "requiring utilities and electric grid operators to assess and report the vulnerability of high-voltage transformers to geomagnetic and electromagnetic disturbances, and to recommend mitigation measures to protect the state electric infrastructure.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "LSR": "2705",
+        "_code": "3028"
+      },
+      "created_at": "2025-12-18T02:08:48.994429+00:00",
+      "updated_at": "2026-04-09T17:07:06.148618+00:00",
+      "openstates_url": "https://openstates.org/nh/bills/2026/HB1723/",
+      "first_action_date": "2025-12-17",
+      "latest_action_date": "2026-04-03",
+      "latest_action_description": "Committee Amendment # 2026-1307s, AA, VV; 04/09/2026;  SJ 8",
+      "latest_passage_date": "2026-04-03"
+    },
+    {
+      "id": "ocd-bill/ea23d692-a948-4510-8d41-88d2763ae57c",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nh/government",
+        "name": "New Hampshire",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/c95932a0-2ac1-4f14-a0c4-ade8568daac6",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 537",
+      "title": "repealing the authorization for the public utilities commission to approve alternative forms of regulation.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "LSR": "2159",
+        "_code": ""
+      },
+      "created_at": "2025-12-09T21:08:48.409263+00:00",
+      "updated_at": "2026-04-09T17:07:04.211187+00:00",
+      "openstates_url": "https://openstates.org/nh/bills/2026/SB537/",
+      "first_action_date": "2025-11-24",
+      "latest_action_date": "2026-03-06",
+      "latest_action_description": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 03/12/2026;  SJ 6",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/ea428782-d81e-4a65-bb7b-eda9261a2bad",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nh/government",
+        "name": "New Hampshire",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3b857974-4029-4508-94d4-ce3b86c64602",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1410",
+      "title": "creating a new classification for electric vehicles.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "LSR": "3084",
+        "_code": "4051"
+      },
+      "created_at": "2025-12-09T21:08:35.707847+00:00",
+      "updated_at": "2026-04-09T17:07:03.445933+00:00",
+      "openstates_url": "https://openstates.org/nh/bills/2026/HB1410/",
+      "first_action_date": "2025-12-04",
+      "latest_action_date": "2026-02-19",
+      "latest_action_description": "Refer for Interim Study: MA VV 02/19/2026  HJ 5",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/94d1c017-2921-4332-aaad-ad78be8c89ae",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nh/government",
+        "name": "New Hampshire",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3b857974-4029-4508-94d4-ce3b86c64602",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1742",
+      "title": "relative to customer-generators inadvertently enrolled in a municipal or county aggregation program.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "LSR": "2786",
+        "_code": "4030"
+      },
+      "created_at": "2025-12-18T02:10:17.627333+00:00",
+      "updated_at": "2026-04-09T17:06:58.215986+00:00",
+      "openstates_url": "https://openstates.org/nh/bills/2026/HB1742/",
+      "first_action_date": "2025-12-17",
+      "latest_action_date": "2026-04-03",
+      "latest_action_description": "Committee Amendment # 2026-1265s, AA, VV; 04/09/2026;  SJ 8",
+      "latest_passage_date": "2026-04-03"
+    },
+    {
+      "id": "ocd-bill/c4f0d710-92fa-4710-97ef-506929c9068b",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nh/government",
+        "name": "New Hampshire",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3b857974-4029-4508-94d4-ce3b86c64602",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1745",
+      "title": "relative to the allocation of public utility costs to ratepayers.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "LSR": "2984",
+        "_code": "4017"
+      },
+      "created_at": "2025-12-18T02:11:22.749625+00:00",
+      "updated_at": "2026-04-09T17:05:44.640878+00:00",
+      "openstates_url": "https://openstates.org/nh/bills/2026/HB1745/",
+      "first_action_date": "2025-12-17",
+      "latest_action_date": "2026-02-25",
+      "latest_action_description": "Minority Committee Report: Ought to Pass with Amendment # 2026-0732h",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/cd2c54e3-ef5e-4ca6-99f3-7b00653fe929",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nh/government",
+        "name": "New Hampshire",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3b857974-4029-4508-94d4-ce3b86c64602",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1095",
+      "title": "relative to the maximum weight of utility terrain vehicles.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "LSR": "2670",
+        "_code": ""
+      },
+      "created_at": "2025-12-09T21:08:37.562756+00:00",
+      "updated_at": "2026-04-09T17:03:42.004056+00:00",
+      "openstates_url": "https://openstates.org/nh/bills/2026/HB1095/",
+      "first_action_date": "2025-12-01",
+      "latest_action_date": "2026-03-31",
+      "latest_action_description": "Hearing: 04/07/2026, Room 122-123, SH, 01:30 pm;  SC 13",
+      "latest_passage_date": "2026-03-05"
+    },
+    {
+      "id": "ocd-bill/05a9b2b7-44d1-49ba-9d75-1e824d2bac10",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nh/government",
+        "name": "New Hampshire",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3b857974-4029-4508-94d4-ce3b86c64602",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1103",
+      "title": "allowing municipalities to utilize community revitalization tax relief credits on a wider variety of properties and structures.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "LSR": "2499",
+        "_code": "2051"
+      },
+      "created_at": "2025-12-09T21:07:38.762529+00:00",
+      "updated_at": "2026-04-09T17:03:01.505253+00:00",
+      "openstates_url": "https://openstates.org/nh/bills/2026/HB1103/",
+      "first_action_date": "2025-12-01",
+      "latest_action_date": "2026-03-17",
+      "latest_action_description": "Introduced 03/12/2026 and Referred to Commerce;  SJ 7",
+      "latest_passage_date": "2026-03-11"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 71,
+    "total_items": 701
+  }
+}

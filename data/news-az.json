@@ -1,0 +1,258 @@
+{
+  "status": "ok",
+  "totalResults": 18,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "InfoQ.com"
+      },
+      "author": "Renato Losio",
+      "title": "War in Iran Damages Multiple AWS Data Centers, Challenging Multi-AZ Assumptions",
+      "description": "Earlier this month, Iranian drone strikes damaged three AWS data centers in the UAE and Bahrain, causing outages and disruptions to multiple services. The events, which affected multiple facilities within the same AWS region, sparked discussion in the communi…",
+      "url": "https://www.infoq.com/news/2026/03/aws-multiaz-conflict-outage/",
+      "urlToImage": "https://res.infoq.com/news/2026/03/aws-multiaz-conflict-outage/en/headerimage/generatedHeaderImage-1773671194784.jpg",
+      "publishedAt": "2026-03-18T08:17:00Z",
+      "content": "Earlier this month, Iranian drone strikes damaged three AWS data centers in the UAE and Bahrain, causing outages and disruptions to multiple services. The events, which affected multiple facilities w… [+4831 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Signing Day Sports, Inc.",
+      "title": "SGN Announces BlockchAIn Has Established a Collaboration with Supermicro for AI Data Center Hardware",
+      "description": "Supermicro's AI-optimized compute platforms supports BlockchAIn's U.S. data center development pipeline Supermicro's AI-optimized compute platforms supports BlockchAIn's U.S. data center development pipeline",
+      "url": "https://www.globenewswire.com/news-release/2026/03/11/3253687/0/en/SGN-Announces-BlockchAIn-Has-Established-a-Collaboration-with-Supermicro-for-AI-Data-Center-Hardware.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a493cf1f-3849-433b-8aa0-c1cacf09c5d9",
+      "publishedAt": "2026-03-11T12:00:00Z",
+      "content": "SCOTTSDALE, AZ, March 11, 2026 (GLOBE NEWSWIRE) -- Signing Day Sports, Inc. (Signing Day Sports, SGN or the Company) (NYSE American: SGN), in connection with the Companys previously announced propose… [+11101 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Justthenews.com"
+      },
+      "author": "just the news",
+      "title": "FBI secretly seizes election records from AZ largest county as 'voting probe' expands...",
+      "description": "A grand jury subpoena comes after the Arizona Senate raised concerns dating to 2020, and the FBI learned of congressional report from 2024.",
+      "url": "https://justthenews.com/politics-policy/elections/monfbi-secretly-seizes-election-records-arizonas-largest-county-voting",
+      "urlToImage": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2023-05/GettyImages-1440312308.jpg?h=59a31f54&itok=ZANeaCA6",
+      "publishedAt": "2026-03-09T18:00:12Z",
+      "content": "The FBI is expanding its criminal probe into suspected election irregularities, secretly obtaining a large tranche of voting records from Arizonas largest county with a recent grand jury subpoena, mu… [+7392 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Jake Angelo",
+      "title": "Nvidia’s Jensen Huang thinks $1 trillion won’t be enough to meet AI demand—and he’s paying engineers in AI tokens worth half their salary to prove it",
+      "description": "The Nvidia CEO said the company is powering the “largest buildout of human history” as AI investments skyrocket.",
+      "url": "https://fortune.com/2026/03/17/jensen-huang-ai-infrastructure-buildout-1-trillion-dollars/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2266453812-e1773767731652.jpg?resize=1200,600",
+      "publishedAt": "2026-03-17T17:30:28Z",
+      "content": "Just a few short years ago, AI was a novel concept generating uncanny, sloppy photos and videos that appeared across your social media feeds. Today, its seemingly ubiquitous. New models are popping u… [+3976 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": "medical-news-today",
+        "name": "Medical News Today"
+      },
+      "author": "Jessica Freeborn",
+      "title": "Water sources may affect Parkinson's disease risk: What to know",
+      "description": "Where drinking water comes from and what it contains may affect Parkinson's disease risk, a recent study suggests.",
+      "url": "https://www.medicalnewstoday.com/articles/water-sources-may-affect-parkinsons-disease-risk-what-to-know",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/03/water-tap-home-1200x628-facebook.jpg",
+      "publishedAt": "2026-03-12T07:00:00Z",
+      "content": "<ul><li>A recent study evaluated how groundwater relates to risk for Parkinsons disease. </li><li>The study found that the age of groundwater and aquifer type may both impact risk for Parkinsons. </l… [+6581 chars]",
+      "sentiment": "negative"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Chenggang Chen, Evan D. Remington, Xiaoqin Wang",
+      "title": "Behavioral engagement facilitates auditory neuron responses beyond their receptive fields",
+      "description": "During passive listening, auditory cortical neurons typically respond only to stimuli within a particular receptive field, but repeated stimulation can facilitate responses to non-preferred locations. This study in marmosets shows that task engagement facilit…",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003707",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003707.g007&size=inline",
+      "publishedAt": "2026-03-13T14:00:00Z",
+      "content": "Citation: Chen C, Remington ED, Wang X (2026) Behavioral engagement facilitates auditory neuron responses beyond their receptive fields. PLoS Biol 24(3):\r\n e3003707.\r\nhttps://doi.org/10.1371/journal.… [+65769 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "K-TECH SOLUTIONS COMPANY LIMITED",
+      "title": "K-Tech Solutions Company Limited (Nasdaq: KMRK) Announces Joint Venture with Aurora AZ Energy Ltd. to Develop up to 500 MW of AI and HPC Infrastructure in Canada",
+      "description": "HONG KONG and NEW YORK, March 16, 2026 (GLOBE NEWSWIRE) -- K‑Tech Solutions Company Limited (Nasdaq: KMRK) (“K‑Tech” or the “Company”), a technology firm specializing in high-performance computing infrastructure, today announced that its subsidiary has entere…",
+      "url": "https://www.globenewswire.com/news-release/2026/03/16/3256374/0/en/K-Tech-Solutions-Company-Limited-Nasdaq-KMRK-Announces-Joint-Venture-with-Aurora-AZ-Energy-Ltd-to-Develop-up-to-500-MW-of-AI-and-HPC-Infrastructure-in-Canada.html",
+      "urlToImage": null,
+      "publishedAt": "2026-03-16T13:21:00Z",
+      "content": "HONG KONG and NEW YORK, March 16, 2026 (GLOBE NEWSWIRE) -- KTech Solutions Company Limited (Nasdaq: KMRK) (KTech or the Company), a technology firm specializing in high-performance computing infrastr… [+6211 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cloudtweaks.com"
+      },
+      "author": "Oleksiy Pototskyy",
+      "title": "Architecture in an Unstable World: A Practical Framework for Geopolitical Risk",
+      "description": "Architecture for Unstable Worlds Architecture is no longer only about technology. It is about understanding where your technology physically and politically lives. Geopolitical resilience is not about building the most complex system. It is about choosing the…",
+      "url": "https://cloudtweaks.com/2026/03/architecture-unstable-world-practical-framework-geopolitical-risk/",
+      "urlToImage": "https://cloudtweaks.com/wp-content/uploads/2025/09/Oleksiy-Pototskyy1.png",
+      "publishedAt": "2026-03-11T10:41:14Z",
+      "content": "Architecture is no longer only about technology. It is about understanding where your technology physically and politically lives.\r\nGeopolitical resilience is not about building the most complex syst… [+19385 chars]",
+      "sentiment": "negative"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": "Jiyeon Oh, Soeun Kim, Yesol Yim, Min Seo Kim, Jae Il Shin, Ahmed A. J. Jabbar, Hasan Aalruz, Mohammadreza Abbasian, Abdallah H. A. Abd Al Magied, Samar Abd ElHafeez, Atef Abdelkader, Mawada Hassan Abdelmagied, Parsa Abdi, Mohammad-Amin Abdollahifar, Deldar Morad Abdulah, Auwal Abdullahi, Nigusie Abebaw, Roberto Ariel Abeldaño Zuñiga, Richard Gyan Aboagye, Hassan Abolhassani, Mohamed Abouzid, Lucas Guimarães Abreu, Dariush Abtahi, Rana Kamal Abu Farha, Ibrahim Jatau Abubakar, Eman Abu-Gharbieh, Hana J. Abukhadijah, Salahdein Aburuz, Ahmed Abu-Zaid, Juan Manuel Acuna, Mesafint Molla Adane, Isaac Yeboah Addo, Oyelola A. Adegboye, Victor Adekanmbi, Charles Oluwaseun Adetunji, Temitayo Esther Adeyeoluwa, Rishan Adha, Kishor Adhikari, Ripon Kumar Adhikary, Qorinah Estiningtyas Sakilah Adnani, Aanuoluwapo Adeyimika Afolabi, Rotimi Felix Afolabi, Fatemeh Afrashteh, Arya Afrooghe, Anurag Agrawal, Williams Agyemang-Duah, Aqeel Ahmad, Muayyad M. Ahmad, Sajjad Ahmad, Shahzaib Ahmad, Ali Ahmadi, Ayman Ahmed, Haroon Ahmed, Ibrar Ahmed, Mohammed Ahmed, Oli Ahmed, Sindew Mahmud Ahmed, Syed Anees Ahmed, Abdullateef Abiodun Ajadi, Ruslan Akhmedullin, Karolina Akinosoglou, Mohammed Ahmed Al-kaif, Ashley E. Akrami, Hanadi Al Hamad, Syed Mahfuz Al Hasan, Muaaz M. Alajlani, Yazan Al-Ajlouni, Khurshid Alam, Mohammad Khursheed Alam, Nazmul Alam, Rasmieh Mustafa Al-amer, Ayman Al-Eyadhy, Abdelazeem M. Algammal, Adel Ali Saeed Al-Gheethi, Fadwa Naji Alhalaiqa, Endale Alemayehu Ali, Mohammad Daud Ali, Mohammed Usman Ali, Rafat Ali, Syed Shujait Ali, Waad Ali, Akram Al-Ibraheem, Sheikh Mohammad Alif, Samah W. Al-Jabi, Mohamad Aljofan, Syed Mohamed Aljunid, Sabah Al-Marwani, Hesham M. Al-Mekhlafi, Mohmmad Minwer Alnaeem, Mahmoud A. Alomari, Jaber S. Alqahtani, Abdullah A. Alqarni, Ahmad Alrawashdeh, Sahel Majed Alrousan, Mohammed A. Alsabri, Najim Z. Alshahrani, Zaid Altaany, Awais Altaf, Khaled Altartoor, Jaffar A. Al-Tawfiq, Khalid A. Altirkawi, Farrukh Jawad Alvi, Nelson Alvis-Guzman, Hassa…",
+      "title": "Author Correction: Global, regional, and national burden of chronic respiratory diseases and impact of the COVID-19 pandemic, 1990–2023: a Global Burden of Disease study",
+      "description": "Nature Medicine - Author Correction: Global, regional, and national burden of chronic respiratory diseases and impact of the COVID-19 pandemic, 1990–2023: a Global Burden of Disease study",
+      "url": "https://www.nature.com/articles/s41591-026-04288-8",
+      "urlToImage": null,
+      "publishedAt": "2026-03-11T00:00:00Z",
+      "content": "<li>Department of Medicine, Kyung Hee University College of Medicine, Seoul, South Korea\r\nJiyeon Oh &amp; Soeun Kim\r\n</li><li>Center for Digital Health, Kyung Hee University Medical Center, Kyung Hee… [+137025 chars]",
+      "sentiment": "negative"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": "Sooji Lee, Hayeon Lee, Yejun Son, Jae Il Shin, Hasan Aalruz, Yohannes Habtegiorgis Abate, Cristiana Abbafati, Nasir Abbas, Elahe Abbaspour, Hedayat Abbastabar, Samar Abd ElHafeez, Parsa Abdi, Wakgari Mosisa Abdisa, Mohammad Abdollahi, Meriem Abdoun, Rizwan Suliankatchi Abdulkader, Auwal Abdullahi, Olugbenga Olusola Abiodun, Olumide Abiodun, Richard Gyan Aboagye, Shady Abohashem, Lucas Guimarães Abreu, Dariush Abtahi, Aminu Kende Abubakar, Bilyaminu Abubakar, Eman Abu-Gharbieh, Hana J. Abukhadijah, Salahdein Aburuz, Ahmed Abu-Zaid, Mesafint Molla Adane, Isaac Yeboah Addo, Oladimeji Muritala Adebayo, Kamoru Ademola Adedokun, Rufus Adesoji Adedoyin, Charles Oluwaseun Adetunji, Juliana Bunmi Adetunji, Temitayo Esther Adeyeoluwa, Kishor Adhikari, Usha Adiga, Qorinah Estiningtyas Sakilah Adnani, Aanuoluwapo Adeyimika Afolabi, Arya Afrooghe, Muhammad Sohail Afzal, Saira Afzal, Prerna Agarwal, Feleke Doyore Agide, Williams Agyemang-Duah, Bright Opoku Ahinkorah, Aqeel Ahmad, Danish Ahmad, Firdos Ahmad, Muayyad M. Ahmad, Sajjad Ahmad, Ali Ahmadi, Ayman Ahmed, Haroon Ahmed, Muktar Beshir Ahmed, Mushood Ahmed, Syed Anees Ahmed, Marjan Ajami, Budi Aji, Mohammed Ahmed Akkaif, Alaa Al Amiry, Salah Al Awaidy, Mohammad Al Qadire, Tariq A. Alalwan, Ziyad Al-Aly, Khurshid Alam, Fahmi Y. Al-Ashwal, Mohammed Albashtawy, Khalifah A. Aldawsari, Wafa A. Aldhaleei, Abdelazeem M. Algammal, Fadwa Naji Alhalaiqa, Abid Ali, Akhtar Ali, Endale Alemayehu Ali, Mohammad Daud Ali, Mohammed Usman Ali, Rafat Ali, Syed Shujait Ali, Waad Ali, Gianfranco Alicandro, Sheikh Mohammad Alif, Samah W. Al-Jabi, Syed Mohamed Aljunid, Ahmad Alkhatib, Sabah Al-Marwani, Mohmmad Minwer Alnaeem, Mahmoud A. Alomari, Saleh A. Alqahtani, Ahmad Alrawashdeh, Sahel Majed Alrousan, Mohammed A. Alsabri, Wafa Mohammed Alseragi, Zaid Altaany, Awais Altaf, Nelson Alvis-Guzman, Hassan Alwafi, Mohammad Al-Wardat, Yaser Mohammed Al-Worafi, Safwat Aly, Mohammad Sharif Ibrahim Alyahya, Karem H. Alzoubi, Masoud Aman Mohammadi, Reza …",
+      "title": "Global, regional and national burden of ischemic heart disease attributable to suboptimal diet, 1990–2023: a Global Burden of Disease study",
+      "description": "Global Burden of Disease analysis found that in 2023, suboptimal diet was estimated to be responsible for 4 million deaths and 97 million morbidity burdens from ischemic heart disease.",
+      "url": "https://www.nature.com/articles/s41591-026-04250-8",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04250-8/MediaObjects/41591_2026_4250_Fig1_HTML.png",
+      "publishedAt": "2026-03-30T00:00:00Z",
+      "content": "<li>Department of Medicine, Kyung Hee University College of Medicine, Seoul, South Korea\r\nSooji Lee\r\n</li><li>Center for Digital Health, Medical Science Research Institute, Kyung Hee University, Seou… [+188491 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Signing Day Sports, Inc.",
+      "title": "SGN Announces BlockchAIn Has Signed LOI for 5 MW AI Infrastructure Deployment, Over $100 Million in Expected Contract Value During Initial Term",
+      "description": "Scottsdale, AZ, March 13, 2026 (GLOBE NEWSWIRE) -- Signing Day Sports, Inc. (“Signing Day Sports”, “SGN” or the “Company”) (NYSE American: SGN), in connection with the Company’s previously announced proposed business combination (the “Business Combination”) w…",
+      "url": "https://www.globenewswire.com/news-release/2026/03/13/3255433/0/en/SGN-Announces-BlockchAIn-Has-Signed-LOI-for-5-MW-AI-Infrastructure-Deployment-Over-100-Million-in-Expected-Contract-Value-During-Initial-Term.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a493cf1f-3849-433b-8aa0-c1cacf09c5d9",
+      "publishedAt": "2026-03-13T12:00:00Z",
+      "content": "Scottsdale, AZ, March 13, 2026 (GLOBE NEWSWIRE) -- Signing Day Sports, Inc. (Signing Day Sports, SGN or the Company) (NYSE American: SGN), in connection with the Companys previously announced propose… [+13145 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Amazon.com"
+      },
+      "author": "Daniel Abib",
+      "title": "AWS Weekly Roundup: NVIDIA Nemotron 3 Super on Amazon Bedrock, Nova Forge SDK, Amazon Corretto 26, and more (March 23, 2026)",
+      "description": "Hello! I’m Daniel Abib, and this is my first AWS Weekly Roundup. I’m a Senior Specialist Solutions Architect at AWS, focused on the generative AI and Amazon Bedrock. With over 28 years of experience in solution architecture, software development, and cloud ar…",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-nvidia-nemotron-3-super-on-amazon-bedrock-nova-forge-sdk-amazon-corretto-26-and-more-march-23-2026/",
+      "urlToImage": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2023/08/13/AWS-WIR-default.png",
+      "publishedAt": "2026-03-23T16:40:41Z",
+      "content": "Hello! Im Daniel Abib, and this is my first AWS Weekly Roundup. Im a Senior Specialist Solutions Architect at AWS, focused on the generative AI and Amazon Bedrock. With over 28 years of experience in… [+7378 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Signing Day Sports, Inc.",
+      "title": "Signing Day Sports Stockholders Approve Previously Announced Business Combination with BlockchAIn Digital Infrastructure at Today’s Special Meeting of Stockholders",
+      "description": "Closing expected on March 16, 2026  BlockchAIn Inc. common stock is expected to begin trading on the NYSE American under the ticker symbol “AIB” on March...",
+      "url": "https://www.globenewswire.com/news-release/2026/03/13/3255789/0/en/Signing-Day-Sports-Stockholders-Approve-Previously-Announced-Business-Combination-with-BlockchAIn-Digital-Infrastructure-at-Today-s-Special-Meeting-of-Stockholders.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a493cf1f-3849-433b-8aa0-c1cacf09c5d9",
+      "publishedAt": "2026-03-13T20:05:00Z",
+      "content": "Closing expected on March 16, 2026\r\nBlockchAIn Inc. common stock is expected to begin trading on the NYSE American under the ticker symbol AIB on March 17, 2026, at 9:30am EDT\r\nSCOTTSDALE, AZ, March … [+8002 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phoenix New Times"
+      },
+      "author": "amy",
+      "title": "Insurrectionist Brunch: Trumpists plotted to deploy military on U.S. soil",
+      "description": "Before the 2024 election, a cadre of MAGA loyalists met over brunch to plot ways for Trump to use the military domestically.",
+      "url": "http://www.phoenixnewtimes.com/news/trumpists-plotted-deploy-military-on-us-soil-before-election-40650142/",
+      "urlToImage": "https://www.phoenixnewtimes.com/wp-content/uploads/sites/6/2026/03/Insurrectionist-Brunch-1200x800-1.jpg",
+      "publishedAt": "2026-03-11T05:47:02Z",
+      "content": "This article is a continuation of the Big Takeover investigative series begun last year by Cochise Regional News and Phoenix New Times. You can read an expanded version of this story on CRN. This sto… [+41163 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techtarget.com"
+      },
+      "author": null,
+      "title": "Last year in AWS with Corey Quinn",
+      "description": "In this episode of IT Ops Query, Duckbill's Corey Quinn discusses the highs and lows of last year in AWS, advice for enterprise IT buyers dealing with the cloud giant and more.",
+      "url": "https://www.techtarget.com/searchcloudcomputing/video/Last-year-in-AWS-with-Corey-Quinn",
+      "urlToImage": null,
+      "publishedAt": "2026-03-09T15:34:00Z",
+      "content": "Transcript - Last year in AWS with Corey QuinnBeth Pariseau: From Informa TechTarget, I'm Beth Pariseau, and this is IT Ops Query.\r\nThis podcast distills the signal from the noise about enterprise so… [+28724 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Ricardo M. Rosales, Ming Wu, Piet Claus, Stefan Janssens, Gonzalo R. Ríos-Muñoz, María Eugenia Fernández-Santos, Pablo Martínez-Legazpi, Javier Bermejo, Aiden Flanagan, Manuel Doblaré, Ana Mincholé, Esther Pueyo",
+      "title": "Integrated multi-modal data analysis for computational modeling of healthy and location-dependent myocardial infarction conditions in porcine hearts",
+      "description": "Author summary Pigs are commonly used as preclinical models for cardiac evaluation due to their close resemblance to the human heart. Computational cardiac electrophysiology often supports and extends this preclinical assessment. However, the reliability of t…",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013688",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013688.g011&size=inline",
+      "publishedAt": "2026-03-16T14:00:00Z",
+      "content": "Citation: Rosales RM, Wu M, Claus P, Janssens S, Ríos-Muñoz GR, Fernández-Santos ME, et al. (2026) Integrated multi-modal data analysis for computational modeling of healthy and location-dependent my… [+106936 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Leena R. Baghdadi, Hoor K. Aloraini, Razan A. Almohanna, Jana I. Alhazmi, Farah M. Alhalafi, Sarah H. Alotaebe",
+      "title": "The effect of dumping syndrome severity on health-related quality of life among bariatric surgery patients in Saudi Arabia",
+      "description": "Dumping syndrome is a postoperative complication of bariatric surgery; it is classified into early and late dumping syndrome depending on the time of the symptoms. This study aimed to assess the health-related quality of life among adult patients in Saudi Ara…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345638",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0345638.g002&size=inline",
+      "publishedAt": "2026-03-23T14:00:00Z",
+      "content": "Abstract\r\nDumping syndrome is a postoperative complication of bariatric surgery; it is classified into early and late dumping syndrome depending on the time of the symptoms. This study aimed to asses… [+35335 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ms. Magazine"
+      },
+      "author": "Cynthia Richie Terrell",
+      "title": "Juliana Stratton’s Big Senate Win, Kristi Noem’s Next Steps and the Origins of Women’s History Month",
+      "description": "Weekend Reading on Women’s Representation is a compilation of stories about women’s representation in politics, on boards, in sports and entertainment, in judicial offices and in the private sector in the U.S. and around the world—with a little gardening and …",
+      "url": "https://msmagazine.com/2026/03/21/juliana-stratton-senate-kristi-noem-womens-history-month/",
+      "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/03/Weekend-Reading-on-Womens-Representation-Juliana-Strattons-Big-Senate-Win-Kristi-Noems-Next-Steps-and-the-Origins-of-Womens-History-Month.png",
+      "publishedAt": "2026-03-21T13:30:53Z",
+      "content": "The Origins of Women’s History Month\r\nPresident Jimmy Carter signs proclamation creating National Womens History Week on Feb. 27, 1980. (White House Staff Photographers Collection)\r\nThis month, Ive b… [+28010 chars]",
+      "sentiment": "neutral"
+    }
+  ]
+}

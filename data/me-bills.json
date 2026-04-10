@@ -1,0 +1,350 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/e0930f46-6c93-4577-815f-9f2cbc8f6616",
+      "session": "132",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:me/government",
+        "name": "Maine",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a26314f0-dc6f-4cfc-99ca-dee4bafc9d4c",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "LD 307",
+      "title": "An Act Regarding Energy, Utilities And Technology",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ELECTRIC UTILITIES",
+        "PLANNING",
+        "PROVISIONS REVISED"
+      ],
+      "extras": {
+        "ld_number": "LD 307"
+      },
+      "created_at": "2025-01-30T22:40:58.062255+00:00",
+      "updated_at": "2026-04-09T07:46:26.765558+00:00",
+      "openstates_url": "https://openstates.org/me/bills/132/LD307/",
+      "first_action_date": "2025-01-30",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "latest_passage_date": "2026-04-08"
+    },
+    {
+      "id": "ocd-bill/124a575c-2bce-4d3d-b7a9-6674cd6ba356",
+      "session": "132",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:me/government",
+        "name": "Maine",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/fe33521e-3c48-445a-adf7-75ff8a7674e4",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "LD 897",
+      "title": "An Act Regarding The Calculation Of Electric Rate Contracting Costs",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "CONTRACTING COSTS",
+        "ELECTRIC UTILITIES",
+        "RATES"
+      ],
+      "extras": {
+        "ld_number": "LD 897"
+      },
+      "created_at": "2025-03-05T20:43:20.111272+00:00",
+      "updated_at": "2026-04-08T02:33:01.595996+00:00",
+      "openstates_url": "https://openstates.org/me/bills/132/LD897/",
+      "first_action_date": "2025-03-05",
+      "latest_action_date": "2026-04-07",
+      "latest_action_description": "PASSED TO BE ENACTED, in concurrence.",
+      "latest_passage_date": "2026-04-07"
+    },
+    {
+      "id": "ocd-bill/c6bc296f-c10d-471e-a203-d056ed12089c",
+      "session": "132",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:me/government",
+        "name": "Maine",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a26314f0-dc6f-4cfc-99ca-dee4bafc9d4c",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "LD 2112",
+      "title": "An Act To Authorize Municipalities To Form Community Choice Aggregation Programs To Procure Electricity",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "COMMUNITY CHOICE AGGREGATION",
+        "DELIVERY",
+        "ELECTRIC UTILITIES"
+      ],
+      "extras": {
+        "ld_number": "LD 2112"
+      },
+      "created_at": "2026-01-06T02:26:10.700002+00:00",
+      "updated_at": "2026-04-07T00:08:10.920175+00:00",
+      "openstates_url": "https://openstates.org/me/bills/132/LD2112/",
+      "first_action_date": "2026-01-07",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "PASSED TO BE ENACTED, in concurrence.",
+      "latest_passage_date": "2026-04-06"
+    },
+    {
+      "id": "ocd-bill/0ddff78d-dbf8-467a-9e2c-97ff41b5f392",
+      "session": "132",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:me/government",
+        "name": "Maine",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a26314f0-dc6f-4cfc-99ca-dee4bafc9d4c",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "LD 2038",
+      "title": "An Act To Require Maine Transmission And Distribution Utility Participation In A Regional Transmission Organization",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ELECTRIC UTILITIES",
+        "PLANNING",
+        "REGIONAL TRANSMISSION ORG"
+      ],
+      "extras": {
+        "ld_number": "LD 2038"
+      },
+      "created_at": "2025-12-04T03:08:23.894697+00:00",
+      "updated_at": "2026-04-07T00:02:11.701003+00:00",
+      "openstates_url": "https://openstates.org/me/bills/132/LD2038/",
+      "first_action_date": "2025-12-03",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "Signed by Governor",
+      "latest_passage_date": "2026-04-02"
+    },
+    {
+      "id": "ocd-bill/24e50f75-9210-43bb-bfed-28144b8dd47d",
+      "session": "132",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:me/government",
+        "name": "Maine",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a26314f0-dc6f-4cfc-99ca-dee4bafc9d4c",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "LD 2203",
+      "title": "An Act To Limit Rates Charged To Low-Income Electricity Consumers",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "DELIVERY",
+        "ELECTRIC UTILITIES",
+        "RATEPAYER PROTECTIONS"
+      ],
+      "extras": {
+        "ld_number": "LD 2203"
+      },
+      "created_at": "2026-02-05T21:32:51.837236+00:00",
+      "updated_at": "2026-04-06T15:31:15.969208+00:00",
+      "openstates_url": "https://openstates.org/me/bills/132/LD2203/",
+      "first_action_date": "2026-02-10",
+      "latest_action_date": "2026-04-03",
+      "latest_action_description": "Signed by Governor",
+      "latest_passage_date": "2026-03-25"
+    },
+    {
+      "id": "ocd-bill/c80791b6-e72a-4780-ad6d-bb0568b89579",
+      "session": "132",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:me/government",
+        "name": "Maine",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a26314f0-dc6f-4cfc-99ca-dee4bafc9d4c",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "LD 633",
+      "title": "An Act Concerning The Restoration Of Electricity During Emergencies For Certain Medically Vulnerable Individuals Who Rely On Electronic Medical Apparatuses",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ELECTRIC UTILITIES",
+        "OUTAGES",
+        "PLANNING"
+      ],
+      "extras": {
+        "ld_number": "LD 633"
+      },
+      "created_at": "2025-02-20T23:17:16.425600+00:00",
+      "updated_at": "2026-04-02T03:40:23.872318+00:00",
+      "openstates_url": "https://openstates.org/me/bills/132/LD633/",
+      "first_action_date": "2025-02-20",
+      "latest_action_date": "2025-04-22",
+      "latest_action_description": "Signed by Governor",
+      "latest_passage_date": "2025-04-17"
+    },
+    {
+      "id": "ocd-bill/86bbca1e-3559-4d25-aa8a-b2334fd8b0e5",
+      "session": "132",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:me/government",
+        "name": "Maine",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a26314f0-dc6f-4cfc-99ca-dee4bafc9d4c",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "LD 1473",
+      "title": "An Act To Require Utilities To Monitor Meters For Natural Gas Leaks",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "GAS UTILITIES",
+        "LEAKS",
+        "NATURAL GAS"
+      ],
+      "extras": {
+        "ld_number": "LD 1473"
+      },
+      "created_at": "2025-04-03T03:14:32.131452+00:00",
+      "updated_at": "2026-04-02T03:40:08.804890+00:00",
+      "openstates_url": "https://openstates.org/me/bills/132/LD1473/",
+      "first_action_date": "2025-04-03",
+      "latest_action_date": "2025-06-09",
+      "latest_action_description": "Signed by Governor",
+      "latest_passage_date": "2025-06-02"
+    },
+    {
+      "id": "ocd-bill/36129460-5eb8-4397-8495-4c1f2a438e25",
+      "session": "132",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:me/government",
+        "name": "Maine",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/fe33521e-3c48-445a-adf7-75ff8a7674e4",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "LD 1133",
+      "title": "An Act To Allow Electric Vehicle Charging Stations By Condominium And Residential Associations",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "CHARGING",
+        "ELECTRIC VEHICLES",
+        "MOTOR VEHICLES"
+      ],
+      "extras": {
+        "ld_number": "LD 1133"
+      },
+      "created_at": "2025-03-17T21:10:22.982910+00:00",
+      "updated_at": "2026-04-02T03:39:55.681143+00:00",
+      "openstates_url": "https://openstates.org/me/bills/132/LD1133/",
+      "first_action_date": "2025-03-18",
+      "latest_action_date": "2025-06-12",
+      "latest_action_description": "Signed by Governor",
+      "latest_passage_date": "2025-06-09"
+    },
+    {
+      "id": "ocd-bill/99347704-0e51-43ac-af9e-27dfd4323dae",
+      "session": "132",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:me/government",
+        "name": "Maine",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/fe33521e-3c48-445a-adf7-75ff8a7674e4",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "LD 838",
+      "title": "An Act To Explore Public Financing And Ownership Of Electric Transmission And Distribution Infrastructure",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "DELIVERY",
+        "ELECTRIC UTILITIES",
+        "INFRASTRUCTURE"
+      ],
+      "extras": {
+        "ld_number": "LD 838"
+      },
+      "created_at": "2025-03-03T18:47:50.939616+00:00",
+      "updated_at": "2026-04-02T03:39:30.145387+00:00",
+      "openstates_url": "https://openstates.org/me/bills/132/LD838/",
+      "first_action_date": "2025-03-04",
+      "latest_action_date": "2026-03-30",
+      "latest_action_description": "On motion by Senator DUSON of Cumberland placed on the SPECIAL STUDY TABLE pending FINAL PASSAGE in concurrence.",
+      "latest_passage_date": "2026-03-26"
+    },
+    {
+      "id": "ocd-bill/32c8a922-f0c9-4bc9-a01a-1f49731242df",
+      "session": "132",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:me/government",
+        "name": "Maine",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a26314f0-dc6f-4cfc-99ca-dee4bafc9d4c",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "LD 300",
+      "title": "Resolve, To Direct The Public Utilities Commission To Study Expanding The Use Of Hydroelectric Power And The Development Of A Geothermal Power Plant In The State",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ALTERNATIVE ENERGY",
+        "HYDROPOWER",
+        "REVITALIZATION STUDY"
+      ],
+      "extras": {
+        "ld_number": "LD 300"
+      },
+      "created_at": "2025-01-30T22:40:54.613210+00:00",
+      "updated_at": "2026-04-02T03:38:53.409744+00:00",
+      "openstates_url": "https://openstates.org/me/bills/132/LD300/",
+      "first_action_date": "2025-01-30",
+      "latest_action_date": "2025-05-29",
+      "latest_action_description": "Signed by Governor",
+      "latest_passage_date": "2025-05-27"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 59,
+    "total_items": 583
+  }
+}

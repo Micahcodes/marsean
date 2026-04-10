@@ -1,0 +1,402 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/0a28a9aa-b18c-4dcf-b917-2ece72bb148f",
+      "session": "2026RS",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ky/government",
+        "name": "Kentucky",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/4e2398aa-4ffd-4e2c-8089-7a0cb64f1bc9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 600",
+      "title": "AN ACT relating to the collection of delinquent tax bills.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Attorney, County",
+        "Counties",
+        "Local Mandate",
+        "State Agencies",
+        "Taxation",
+        "Taxation, Property"
+      ],
+      "extras": {
+        "BDR": "1107"
+      },
+      "created_at": "2026-02-10T00:49:22.575838+00:00",
+      "updated_at": "2026-04-09T21:14:09.828786+00:00",
+      "openstates_url": "https://openstates.org/ky/bills/2026RS/HB600/",
+      "first_action_date": "2026-02-09T05:00:00+00:00",
+      "latest_action_date": "2026-04-07T04:00:00+00:00",
+      "latest_action_description": "signed by Governor (Acts Ch. 48)",
+      "latest_passage_date": "2026-03-26T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/9a789222-d78d-4714-9401-f8871fe9d591",
+      "session": "2026RS",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ky/government",
+        "name": "Kentucky",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/4e2398aa-4ffd-4e2c-8089-7a0cb64f1bc9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 781",
+      "title": "AN ACT relating to the Supplemental Nutrition Assistance Program Employment and Training state plan.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Federal Laws And Regulations",
+        "Poverty",
+        "Public Assistance",
+        "State Agencies",
+        "Workforce"
+      ],
+      "extras": {
+        "BDR": "2316"
+      },
+      "created_at": "2026-02-27T22:55:04.559881+00:00",
+      "updated_at": "2026-04-09T21:13:49.574949+00:00",
+      "openstates_url": "https://openstates.org/ky/bills/2026RS/HB781/",
+      "first_action_date": "2026-02-27T05:00:00+00:00",
+      "latest_action_date": "2026-04-08T04:00:00+00:00",
+      "latest_action_description": "signed by Governor (Acts Ch. 58)",
+      "latest_passage_date": "2026-03-27T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/2569a02c-52b6-473d-8792-61e267286d23",
+      "session": "2026RS",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ky/government",
+        "name": "Kentucky",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 343",
+      "title": "AN ACT relating to the Department of Workers' Claims and declaring an emergency.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Effective Dates, Emergency",
+        "Funds",
+        "Governor",
+        "Labor And Industry",
+        "Reorganization",
+        "State Agencies",
+        "Workers  Compensation",
+        "Workforce"
+      ],
+      "extras": {
+        "BDR": "1402"
+      },
+      "created_at": "2026-03-03T02:56:42.024133+00:00",
+      "updated_at": "2026-04-09T21:13:45.019953+00:00",
+      "openstates_url": "https://openstates.org/ky/bills/2026RS/SB343/",
+      "first_action_date": "2026-03-02T05:00:00+00:00",
+      "latest_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_description": "became law without Governor's Signature (Acts Ch. 61)",
+      "latest_passage_date": "2026-03-27T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/cbaf12a8-d4df-46a6-a531-20dd2d8ac69c",
+      "session": "2026RS",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ky/government",
+        "name": "Kentucky",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/4e2398aa-4ffd-4e2c-8089-7a0cb64f1bc9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 388",
+      "title": "AN ACT relating to prescription drugs.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Drugs And Medicines",
+        "Health And Medical Services",
+        "Health Care Professionals",
+        "Optometrists",
+        "Pharmacists",
+        "Physicians",
+        "State Agencies"
+      ],
+      "extras": {
+        "BDR": "1755"
+      },
+      "created_at": "2026-01-14T22:38:14.802631+00:00",
+      "updated_at": "2026-04-09T21:13:12.391447+00:00",
+      "openstates_url": "https://openstates.org/ky/bills/2026RS/HB388/",
+      "first_action_date": "2026-01-14T05:00:00+00:00",
+      "latest_action_date": "2026-04-07T04:00:00+00:00",
+      "latest_action_description": "signed by Governor (Acts Ch. 38)",
+      "latest_passage_date": "2026-03-26T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/25abdfe3-f20f-40ef-9574-6b695adc782f",
+      "session": "2026RS",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ky/government",
+        "name": "Kentucky",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/4e2398aa-4ffd-4e2c-8089-7a0cb64f1bc9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 527",
+      "title": "AN ACT relating to insurance regulatory requirements and declaring an emergency.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Actuarial Analysis",
+        "Disasters And Recovery Efforts",
+        "Health And Medical Services",
+        "Health Benefit Plan Mandate",
+        "Insurance",
+        "Insurance, Health",
+        "Investments",
+        "Licensing",
+        "Local Mandate",
+        "State Agencies",
+        "State Employee Health Plan Mandate",
+        "Technical Corrections",
+        "Workers  Compensation"
+      ],
+      "extras": {
+        "BDR": "1343"
+      },
+      "created_at": "2026-01-29T22:46:06.440617+00:00",
+      "updated_at": "2026-04-09T21:12:33.471643+00:00",
+      "openstates_url": "https://openstates.org/ky/bills/2026RS/HB527/",
+      "first_action_date": "2026-01-29T05:00:00+00:00",
+      "latest_action_date": "2026-04-07T04:00:00+00:00",
+      "latest_action_description": "signed by Governor (Acts Ch. 45)",
+      "latest_passage_date": "2026-03-26T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/25f45c4b-8b11-48f3-8b90-5f602ac4b673",
+      "session": "2026RS",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ky/government",
+        "name": "Kentucky",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 153",
+      "title": "AN ACT relating to the prevention of harmful and fraudulent practices.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Administrative Regulations And Proceedings",
+        "Attorney General",
+        "Consumer Protection",
+        "Contracts",
+        "Corrections Impact",
+        "Crimes And Punishments",
+        "Disasters And Recovery Efforts",
+        "Insurance",
+        "Local Government",
+        "Local Mandate",
+        "Real Estate",
+        "Trade Practices And Retailing"
+      ],
+      "extras": {
+        "BDR": "1962"
+      },
+      "created_at": "2026-02-03T00:44:49.324797+00:00",
+      "updated_at": "2026-04-09T21:10:57.241805+00:00",
+      "openstates_url": "https://openstates.org/ky/bills/2026RS/SB153/",
+      "first_action_date": "2026-02-02T05:00:00+00:00",
+      "latest_action_date": "2026-04-08T04:00:00+00:00",
+      "latest_action_description": "signed by Governor (Acts Ch. 54)",
+      "latest_passage_date": "2026-03-27T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/8c90f490-e0cb-4758-b528-a3f643a7f87e",
+      "session": "2026RS",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ky/government",
+        "name": "Kentucky",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/4e2398aa-4ffd-4e2c-8089-7a0cb64f1bc9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 392",
+      "title": "AN ACT relating to local public agency transactions.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Advertising",
+        "Cities",
+        "Counties",
+        "Financial Responsibility",
+        "Local Government",
+        "Local Mandate",
+        "Public Procurement",
+        "State Agencies"
+      ],
+      "extras": {
+        "BDR": "1684"
+      },
+      "created_at": "2026-01-16T00:41:31.549972+00:00",
+      "updated_at": "2026-04-09T21:10:08.859332+00:00",
+      "openstates_url": "https://openstates.org/ky/bills/2026RS/HB392/",
+      "first_action_date": "2026-01-15T05:00:00+00:00",
+      "latest_action_date": "2026-04-07T04:00:00+00:00",
+      "latest_action_description": "signed by Governor (Acts Ch. 39)",
+      "latest_passage_date": "2026-03-26T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/5261847d-0078-4d42-b3a7-f19d7888b305",
+      "session": "2026RS",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ky/government",
+        "name": "Kentucky",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/523aa254-9d04-4641-9770-6488b5f4fb0e",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 97",
+      "title": "AN ACT relating to coverage for prostheses and orthoses.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Actuarial Analysis",
+        "Disabilities",
+        "Education, Higher",
+        "Effective Dates, Delayed",
+        "Health And Medical Services",
+        "Health Benefit Plan Mandate",
+        "Health Care Professionals",
+        "Insurance, Health",
+        "Local Mandate",
+        "Reports Mandated",
+        "State Employee Health Plan Mandate",
+        "State Employees"
+      ],
+      "extras": {
+        "BDR": "1263"
+      },
+      "created_at": "2026-01-16T00:39:34.573607+00:00",
+      "updated_at": "2026-04-09T21:09:02.519979+00:00",
+      "openstates_url": "https://openstates.org/ky/bills/2026RS/SB97/",
+      "first_action_date": "2026-01-15T05:00:00+00:00",
+      "latest_action_date": "2026-04-07T04:00:00+00:00",
+      "latest_action_description": "signed by Governor (Acts Ch. 51)",
+      "latest_passage_date": "2026-03-31T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/adcb76d6-5a56-4c98-bec8-783af14f8fe1",
+      "session": "2026RS",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ky/government",
+        "name": "Kentucky",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/4e2398aa-4ffd-4e2c-8089-7a0cb64f1bc9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 393",
+      "title": "AN ACT relating to services for Alzheimer's and related dementias.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Advisory Boards, Commissions, And Committees",
+        "Aged Persons And Aging",
+        "Dementia",
+        "Diseases",
+        "Health And Medical Services",
+        "Public Health",
+        "Reports Mandated",
+        "State Agencies"
+      ],
+      "extras": {
+        "BDR": "937"
+      },
+      "created_at": "2026-01-16T00:41:39.695630+00:00",
+      "updated_at": "2026-04-09T21:08:20.661144+00:00",
+      "openstates_url": "https://openstates.org/ky/bills/2026RS/HB393/",
+      "first_action_date": "2026-01-15T05:00:00+00:00",
+      "latest_action_date": "2026-04-07T04:00:00+00:00",
+      "latest_action_description": "signed by Governor (Acts Ch. 40)",
+      "latest_passage_date": "2026-03-26T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/c0778975-85f8-4665-9680-037964155d0a",
+      "session": "2026RS",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ky/government",
+        "name": "Kentucky",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/4e2398aa-4ffd-4e2c-8089-7a0cb64f1bc9",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 529",
+      "title": "AN ACT relating to the Parole Board and declaring an emergency.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Boards And Commissions",
+        "Governor",
+        "Probation And Parole"
+      ],
+      "extras": {
+        "BDR": "1856"
+      },
+      "created_at": "2026-01-30T22:43:13.339374+00:00",
+      "updated_at": "2026-04-09T21:08:12.838593+00:00",
+      "openstates_url": "https://openstates.org/ky/bills/2026RS/HB529/",
+      "first_action_date": "2026-01-30T05:00:00+00:00",
+      "latest_action_date": "2026-04-07T04:00:00+00:00",
+      "latest_action_description": "signed by Governor (Acts Ch. 46)",
+      "latest_passage_date": "2026-03-26T04:00:00+00:00"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 313,
+    "total_items": 3122
+  }
+}

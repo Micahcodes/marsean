@@ -1,0 +1,331 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/15db4a47-854a-4257-9bc2-81915a91e087",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mo/government",
+        "name": "Missouri",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b028938f-599d-4b3a-8d53-fdb9de12e759",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 3496",
+      "title": "Modifies provisions related to county finances",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "COUNTIES",
+        "COUNTY OFFICIALS",
+        "SALARIES"
+      ],
+      "extras": {},
+      "created_at": "2026-02-26T22:57:50.038445+00:00",
+      "updated_at": "2026-04-09T23:10:49.011957+00:00",
+      "openstates_url": "https://openstates.org/mo/bills/2026/HB3496/",
+      "first_action_date": "2026-02-26T06:00:00+00:00",
+      "latest_action_date": "2026-04-09T05:00:00+00:00",
+      "latest_action_description": "Referred: Rules - Legislative(H)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/7c4481f0-1a9e-4d2c-b8fb-74fe3461ee11",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mo/government",
+        "name": "Missouri",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b028938f-599d-4b3a-8d53-fdb9de12e759",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 3434",
+      "title": "Creates and modifies provisions related to statewide sexual assault response",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "BOARDS, COMMISSIONS, COMMITTEES, AND COUNCILS",
+        "CRIMES AND PUNISHMENT",
+        "VICTIMS OF CRIME"
+      ],
+      "extras": {},
+      "created_at": "2026-02-26T02:40:37.250334+00:00",
+      "updated_at": "2026-04-09T23:08:59.398844+00:00",
+      "openstates_url": "https://openstates.org/mo/bills/2026/HB3434/",
+      "first_action_date": "2026-02-25T06:00:00+00:00",
+      "latest_action_date": "2026-04-09T05:00:00+00:00",
+      "latest_action_description": "HCS Reported Do Pass (H) - AYES: 11 NOES: 4 PRESENT: 1",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/600d22e0-71a7-495f-8df7-0d32c29e2ccb",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mo/government",
+        "name": "Missouri",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b028938f-599d-4b3a-8d53-fdb9de12e759",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 3460",
+      "title": "Modifies provisions relating to examinations and medical care for victims of sexual assault",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "HEALTH AND SENIOR SERVICES, DEPARTMENT OF",
+        "HEALTH CARE",
+        "VICTIMS OF CRIME"
+      ],
+      "extras": {},
+      "created_at": "2026-02-26T19:41:19.334247+00:00",
+      "updated_at": "2026-04-09T23:06:35.275750+00:00",
+      "openstates_url": "https://openstates.org/mo/bills/2026/HB3460/",
+      "first_action_date": "2026-02-26T06:00:00+00:00",
+      "latest_action_date": "2026-04-09T05:00:00+00:00",
+      "latest_action_description": "HCS Reported Do Pass (H)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/05a87f44-1066-48d6-b0fa-f56af99e8a85",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mo/government",
+        "name": "Missouri",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/8ff25b39-cd33-4cee-a2a9-d88b80b2c6fe",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 1066",
+      "title": "SS/SCS/SBs 1066 & 1088 - This act modifies the definition of \"residential property\" for the purposes of the taxation of real property by providing that such definition shall include single family homes that are owned by a sole proprietor, individual, partnership, or limited liability company and leased, in whole or in part, for a term of less than thirty consecutive days, provided that such provision may not apply to any such property in excess of fifteen such properties owned by the same individual or business.\r\n\r\n\tThis act also prohibits an assessor from reclassifying real property without first conducting an in-person consultation with the owner of record of such property. An assessor shall be deemed to be in compliance with this provision if the assessor can document a good-faith effort to contact the owner of record, as described in the act.\r\n\r\n\tThis provision is identical to a provision in SCS/SB 919 (2026).\r\n\r\n\tThis act is substantially similar to SB 699 (2025), SB 784 (2025), and SCS/HB 1086 (2025), and to a provision in HB 660 (2025).\r\nJOSH NORBERG",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "MO_BILL_LR": "4335S.04P"
+      },
+      "created_at": "2025-12-02T22:21:57.890365+00:00",
+      "updated_at": "2026-04-09T23:05:26.383725+00:00",
+      "openstates_url": "https://openstates.org/mo/bills/2026/SB1066/",
+      "first_action_date": "2025-12-01T06:00:00+00:00",
+      "latest_action_date": "2026-04-14T05:00:00+00:00",
+      "latest_action_description": "Executive Session Scheduled H Special Committee on Property Tax--(12:00 p.m. or Upon Morning recess - HR 6)",
+      "latest_passage_date": "2026-03-25T05:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/7abae7ba-5594-4fe1-aacd-2ac8de7c4643",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mo/government",
+        "name": "Missouri",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b028938f-599d-4b3a-8d53-fdb9de12e759",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 3504",
+      "title": "Establishes the \"Producer Responsibility Program for Statewide Recycling Act\"",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "BOARDS, COMMISSIONS, COMMITTEES, AND COUNCILS",
+        "ENVIRONMENTAL PROTECTION",
+        "NATURAL RESOURCES, DEPARTMENT OF"
+      ],
+      "extras": {},
+      "created_at": "2026-02-26T22:50:20.326918+00:00",
+      "updated_at": "2026-04-09T23:04:43.126519+00:00",
+      "openstates_url": "https://openstates.org/mo/bills/2026/HB3504/",
+      "first_action_date": "2026-02-26T06:00:00+00:00",
+      "latest_action_date": "2026-02-27T06:00:00+00:00",
+      "latest_action_description": "Read Second Time (H)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/29a41706-8bdd-4903-aeb4-77b2febc3449",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mo/government",
+        "name": "Missouri",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b028938f-599d-4b3a-8d53-fdb9de12e759",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2628",
+      "title": "Modifies provisions relating to examinations and medical care for victims of sexual assault",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "HEALTH AND SENIOR SERVICES, DEPARTMENT OF",
+        "HEALTH CARE",
+        "VICTIMS OF CRIME"
+      ],
+      "extras": {},
+      "created_at": "2025-12-31T22:04:04.386404+00:00",
+      "updated_at": "2026-04-09T22:59:00.369812+00:00",
+      "openstates_url": "https://openstates.org/mo/bills/2026/HB2628/",
+      "first_action_date": "2025-12-31T06:00:00+00:00",
+      "latest_action_date": "2026-04-09T05:00:00+00:00",
+      "latest_action_description": "HCS Reported Do Pass (H)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/f7234a47-2078-4a91-b817-15d70e9abdac",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mo/government",
+        "name": "Missouri",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b028938f-599d-4b3a-8d53-fdb9de12e759",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 3108",
+      "title": "Modifies provisions relating to homemade food",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "BUSINESS AND COMMERCE",
+        "FOOD",
+        "HEALTH, PUBLIC"
+      ],
+      "extras": {},
+      "created_at": "2026-01-28T19:20:08.317711+00:00",
+      "updated_at": "2026-04-09T22:52:16.169403+00:00",
+      "openstates_url": "https://openstates.org/mo/bills/2026/HB3108/",
+      "first_action_date": "2026-01-28T06:00:00+00:00",
+      "latest_action_date": "2026-04-09T05:00:00+00:00",
+      "latest_action_description": "Referred: Government Efficiency(H)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/3e24885f-85f2-420e-956b-95c2505c084f",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mo/government",
+        "name": "Missouri",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b028938f-599d-4b3a-8d53-fdb9de12e759",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1939",
+      "title": "Modifies provisions relating to golf cart operation on streets or highways within certain municipalities",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "MOTOR VEHICLES",
+        "ROADS AND HIGHWAYS"
+      ],
+      "extras": {},
+      "created_at": "2025-12-01T21:10:39.282402+00:00",
+      "updated_at": "2026-04-09T20:11:54.047564+00:00",
+      "openstates_url": "https://openstates.org/mo/bills/2026/HB1939/",
+      "first_action_date": "2025-12-01T06:00:00+00:00",
+      "latest_action_date": "2026-04-09T05:00:00+00:00",
+      "latest_action_description": "Placed Back on Formal Perfection Calendar (H)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/07c964a2-346d-4806-b697-66d3c409ed95",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mo/government",
+        "name": "Missouri",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b028938f-599d-4b3a-8d53-fdb9de12e759",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2732",
+      "title": "Changes amount of the fee a political subdivision may impose for water service line repair or replacement",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "FEES",
+        "POLITICAL SUBDIVISIONS",
+        "WATER RESOURCES AND WATER DISTRICTS"
+      ],
+      "extras": {},
+      "created_at": "2026-01-06T22:10:14.757665+00:00",
+      "updated_at": "2026-04-09T20:11:29.531028+00:00",
+      "openstates_url": "https://openstates.org/mo/bills/2026/HB2732/",
+      "first_action_date": "2026-01-06T06:00:00+00:00",
+      "latest_action_date": "2026-04-09T05:00:00+00:00",
+      "latest_action_description": "Referred: Rules - Legislative(H)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/015bb128-f3f2-4337-ae84-3c473bd85b40",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:mo/government",
+        "name": "Missouri",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b028938f-599d-4b3a-8d53-fdb9de12e759",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2713",
+      "title": "Modifies provisions relating to tax credits",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "AGRICULTURE",
+        "MOTOR FUEL",
+        "RAILROADS",
+        "REVENUE, DEPARTMENT OF",
+        "TAX CREDITS",
+        "TAXATION AND REVENUE - GENERAL",
+        "TAXATION AND REVENUE - INCOME"
+      ],
+      "extras": {},
+      "created_at": "2026-01-06T19:10:09.046933+00:00",
+      "updated_at": "2026-04-09T20:10:17.238308+00:00",
+      "openstates_url": "https://openstates.org/mo/bills/2026/HB2713/",
+      "first_action_date": "2026-01-06T06:00:00+00:00",
+      "latest_action_date": "2026-04-09T05:00:00+00:00",
+      "latest_action_description": "Placed Back on Formal Perfection Calendar (H)",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 374,
+    "total_items": 3735
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/a86cb1f4-d146-4ed8-a14f-1c146e2e216b",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wv/government",
+        "name": "West Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3fcd7789-fa25-4d8b-a4b9-7c0d1d0f8bc4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 5590",
+      "title": "Create a limited and predictable water-quantity review framework for High Impact Data Centers (HIDCs) in West Virginia.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-16T17:44:44.114889+00:00",
+      "updated_at": "2026-04-10T00:24:56.347989+00:00",
+      "openstates_url": "https://openstates.org/wv/bills/2026/HB5590/",
+      "first_action_date": "",
+      "latest_action_date": "",
+      "latest_action_description": "",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/ecfb038e-27cc-4745-ab9e-72bc0893450d",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wv/government",
+        "name": "West Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3fcd7789-fa25-4d8b-a4b9-7c0d1d0f8bc4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4994",
+      "title": "Relating to utility lines on the Division of Highways rights of way",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Roads and Transportation"
+      ],
+      "extras": {},
+      "created_at": "2026-01-31T06:02:36.135467+00:00",
+      "updated_at": "2026-04-09T02:22:15.289599+00:00",
+      "openstates_url": "https://openstates.org/wv/bills/2026/HB4994/",
+      "first_action_date": "2026-01-30",
+      "latest_action_date": "2026-02-04",
+      "latest_action_description": "Markup Discussion",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/a3a0631f-81db-45be-be99-50affa6ef19f",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wv/government",
+        "name": "West Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3fcd7789-fa25-4d8b-a4b9-7c0d1d0f8bc4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4983",
+      "title": "Authorizing the Department of Commerce to promulgate a legislative rule relating to certification of a microgrid district or certification as a high impact data center",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Rules"
+      ],
+      "extras": {},
+      "created_at": "2026-01-31T06:12:20.624275+00:00",
+      "updated_at": "2026-04-09T02:13:48.986021+00:00",
+      "openstates_url": "https://openstates.org/wv/bills/2026/HB4983/",
+      "first_action_date": "2026-01-30",
+      "latest_action_date": "2026-03-30",
+      "latest_action_description": "Approved by Governor 3/27/2026",
+      "latest_passage_date": "2026-03-11"
+    },
+    {
+      "id": "ocd-bill/f0eaf38d-06d2-4398-b189-cd3a18cb03a1",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wv/government",
+        "name": "West Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3fcd7789-fa25-4d8b-a4b9-7c0d1d0f8bc4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4971",
+      "title": "Relating to preliminary planning for future electric substations near industrial parks on certain high voltage transmission lines",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Utilities"
+      ],
+      "extras": {},
+      "created_at": "2026-01-30T06:11:48.475579+00:00",
+      "updated_at": "2026-04-09T02:08:30.324425+00:00",
+      "openstates_url": "https://openstates.org/wv/bills/2026/HB4971/",
+      "first_action_date": "2026-01-29",
+      "latest_action_date": "2026-02-26",
+      "latest_action_description": "To Energy, Industry, and Mining",
+      "latest_passage_date": "2026-02-25"
+    },
+    {
+      "id": "ocd-bill/beb18df4-f2ee-46f9-acfa-5bb9cab4ca70",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wv/government",
+        "name": "West Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3fcd7789-fa25-4d8b-a4b9-7c0d1d0f8bc4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4948",
+      "title": "To create a buffer zone between a data center and residence, school or house of worship",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Consumer Protection"
+      ],
+      "extras": {},
+      "created_at": "2026-01-30T06:02:01.954798+00:00",
+      "updated_at": "2026-04-09T02:07:49.325128+00:00",
+      "openstates_url": "https://openstates.org/wv/bills/2026/HB4948/",
+      "first_action_date": "2026-01-29",
+      "latest_action_date": "2026-01-29",
+      "latest_action_description": "To House Energy and Public Works",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/9c000c26-12e3-42e8-9c68-ec5c430e61fe",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wv/government",
+        "name": "West Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3fcd7789-fa25-4d8b-a4b9-7c0d1d0f8bc4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 5613",
+      "title": "Relating to authorizing the Fleet Management Division to use telematics",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Finance and Administration"
+      ],
+      "extras": {},
+      "created_at": "2026-02-16T17:51:54.899083+00:00",
+      "updated_at": "2026-04-07T22:35:19.554531+00:00",
+      "openstates_url": "https://openstates.org/wv/bills/2026/HB5613/",
+      "first_action_date": "2026-02-16",
+      "latest_action_date": "2026-04-01",
+      "latest_action_description": "Approved by Governor 4/1/2026",
+      "latest_passage_date": "2026-03-12"
+    },
+    {
+      "id": "ocd-bill/4c57e62a-93b5-4d55-9f6e-1d16d18c44c7",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wv/government",
+        "name": "West Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3fcd7789-fa25-4d8b-a4b9-7c0d1d0f8bc4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 5653",
+      "title": "To confirm the confidentiality of internal audit and other manuals, training materials, guidelines, thresholds, and procedures.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Taxation"
+      ],
+      "extras": {},
+      "created_at": "2026-02-17T17:48:19.571831+00:00",
+      "updated_at": "2026-04-07T22:34:40.083901+00:00",
+      "openstates_url": "https://openstates.org/wv/bills/2026/HB5653/",
+      "first_action_date": "2026-02-17",
+      "latest_action_date": "2026-03-30",
+      "latest_action_description": "Approved by Governor 3/27/2026",
+      "latest_passage_date": "2026-03-12"
+    },
+    {
+      "id": "ocd-bill/e1b14c77-f332-4e6c-86d5-f81c6c01b4d5",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wv/government",
+        "name": "West Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3fcd7789-fa25-4d8b-a4b9-7c0d1d0f8bc4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 5354",
+      "title": "Relating to authorizing legislative rules regarding higher education",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Education (Higher)"
+      ],
+      "extras": {},
+      "created_at": "2026-02-09T17:16:26.071151+00:00",
+      "updated_at": "2026-04-07T22:23:54.853294+00:00",
+      "openstates_url": "https://openstates.org/wv/bills/2026/HB5354/",
+      "first_action_date": "2026-02-09",
+      "latest_action_date": "2026-04-01",
+      "latest_action_description": "Approved by Governor 4/1/2026",
+      "latest_passage_date": "2026-03-11"
+    },
+    {
+      "id": "ocd-bill/5c23a5ef-f8e9-45c9-8727-7a3146717d01",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wv/government",
+        "name": "West Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3fcd7789-fa25-4d8b-a4b9-7c0d1d0f8bc4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4195",
+      "title": "Placing a two year a cap on electrical utility rates",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Public Service Commission"
+      ],
+      "extras": {},
+      "created_at": "2026-01-14T20:36:55.669142+00:00",
+      "updated_at": "2026-04-07T18:24:03.269534+00:00",
+      "openstates_url": "https://openstates.org/wv/bills/2026/HB4195/",
+      "first_action_date": "2026-01-14",
+      "latest_action_date": "2026-01-14",
+      "latest_action_description": "To House Energy and Public Works",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/2d41ced9-7744-46a6-a5d1-32b143056251",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wv/government",
+        "name": "West Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/3fcd7789-fa25-4d8b-a4b9-7c0d1d0f8bc4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4412",
+      "title": "Require certain websites to utilize age verification methods to prevent minors from accessing content",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Juveniles",
+        "Public Safety"
+      ],
+      "extras": {},
+      "created_at": "2026-01-17T05:52:27.184830+00:00",
+      "updated_at": "2026-04-07T14:37:31.765729+00:00",
+      "openstates_url": "https://openstates.org/wv/bills/2026/HB4412/",
+      "first_action_date": "2026-01-16",
+      "latest_action_date": "2026-04-01",
+      "latest_action_description": "Approved by Governor 4/1/2026",
+      "latest_passage_date": "2026-03-10"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 372,
+    "total_items": 3716
+  }
+}

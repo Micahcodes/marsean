@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/598320ec-091d-4105-8f66-8e1c40c08cc1",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wa/government",
+        "name": "Washington",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7417a716-eba8-4437-a6e9-df14694bcb79",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2088",
+      "title": "Concerning the dietitian licensure compact.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-12-02T10:01:10.128231+00:00",
+      "updated_at": "2026-04-09T09:58:51.351322+00:00",
+      "openstates_url": "https://openstates.org/wa/bills/2025-2026/HB2088/",
+      "first_action_date": "2025-12-01",
+      "latest_action_date": "2026-03-11",
+      "latest_action_description": "Effective date 7/1/2028.",
+      "latest_passage_date": "2026-03-04"
+    },
+    {
+      "id": "ocd-bill/b6a76968-186c-4ba0-ba73-48e465ca18b2",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wa/government",
+        "name": "Washington",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7417a716-eba8-4437-a6e9-df14694bcb79",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2711",
+      "title": "Concerning transportation resources.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-02T19:59:59.883863+00:00",
+      "updated_at": "2026-04-09T09:52:45.518632+00:00",
+      "openstates_url": "https://openstates.org/wa/bills/2025-2026/HB2711/",
+      "first_action_date": "2026-02-02",
+      "latest_action_date": "2026-03-31",
+      "latest_action_description": "Effective date 6/11/2026*.",
+      "latest_passage_date": "2026-03-12"
+    },
+    {
+      "id": "ocd-bill/5dc82419-bfd4-4135-ad45-2e1b96092cdd",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wa/government",
+        "name": "Washington",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7417a716-eba8-4437-a6e9-df14694bcb79",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1903",
+      "title": "Establishing a statewide low-income energy assistance program.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-02-07T18:48:09.088652+00:00",
+      "updated_at": "2026-04-09T09:49:04.259448+00:00",
+      "openstates_url": "https://openstates.org/wa/bills/2025-2026/HB1903/",
+      "first_action_date": "2025-02-07",
+      "latest_action_date": "2026-03-30",
+      "latest_action_description": "Effective date 6/11/2026.",
+      "latest_passage_date": "2026-03-12"
+    },
+    {
+      "id": "ocd-bill/a82bf49d-e188-4d51-ab58-d05fbd55b3cc",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wa/government",
+        "name": "Washington",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7417a716-eba8-4437-a6e9-df14694bcb79",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2451",
+      "title": "Concerning local tax increment financing.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-14T04:26:20.592022+00:00",
+      "updated_at": "2026-04-09T09:48:15.122059+00:00",
+      "openstates_url": "https://openstates.org/wa/bills/2025-2026/HB2451/",
+      "first_action_date": "2026-01-13",
+      "latest_action_date": "2026-03-23",
+      "latest_action_description": "Effective date 6/2/2026.",
+      "latest_passage_date": "2026-03-09"
+    },
+    {
+      "id": "ocd-bill/330a2497-fb18-4a9d-948f-fa5051867851",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wa/government",
+        "name": "Washington",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7417a716-eba8-4437-a6e9-df14694bcb79",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2296",
+      "title": "Expanding the use of distributed energy resources.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-08T03:38:31.709084+00:00",
+      "updated_at": "2026-04-09T09:45:06.484227+00:00",
+      "openstates_url": "https://openstates.org/wa/bills/2025-2026/HB2296/",
+      "first_action_date": "2026-01-07",
+      "latest_action_date": "2026-03-23",
+      "latest_action_description": "Effective date 6/11/2026.",
+      "latest_passage_date": "2026-03-12"
+    },
+    {
+      "id": "ocd-bill/d9dff65b-5434-4ff8-9111-f40883689828",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wa/government",
+        "name": "Washington",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7417a716-eba8-4437-a6e9-df14694bcb79",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2229",
+      "title": "Concerning the professional engineers' registration act.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-01T03:54:07.645868+00:00",
+      "updated_at": "2026-04-09T09:43:56.448010+00:00",
+      "openstates_url": "https://openstates.org/wa/bills/2025-2026/HB2229/",
+      "first_action_date": "2025-12-31",
+      "latest_action_date": "2026-03-23",
+      "latest_action_description": "Effective date 6/11/2026.",
+      "latest_passage_date": "2026-03-09"
+    },
+    {
+      "id": "ocd-bill/7516af42-bf5c-46c0-9f42-c29288ce311a",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wa/government",
+        "name": "Washington",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7417a716-eba8-4437-a6e9-df14694bcb79",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1701",
+      "title": "Authorizing multiple liquor licensees to have licensed premises within a facility owned and leased out by another liquor licensee or person.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-29T19:08:52.854561+00:00",
+      "updated_at": "2026-04-09T09:39:45.456783+00:00",
+      "openstates_url": "https://openstates.org/wa/bills/2025-2026/HB1701/",
+      "first_action_date": "2025-01-29",
+      "latest_action_date": "2026-03-24",
+      "latest_action_description": "Effective date 6/11/2026.",
+      "latest_passage_date": "2026-03-12"
+    },
+    {
+      "id": "ocd-bill/c03f081b-beb8-40e8-8981-58991b831aff",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wa/government",
+        "name": "Washington",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7417a716-eba8-4437-a6e9-df14694bcb79",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2215",
+      "title": "Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-12-31T05:19:27.926510+00:00",
+      "updated_at": "2026-04-08T11:22:28.025895+00:00",
+      "openstates_url": "https://openstates.org/wa/bills/2025-2026/HB2215/",
+      "first_action_date": "2025-12-30",
+      "latest_action_date": "2026-03-30",
+      "latest_action_description": "Effective date 6/11/2026.",
+      "latest_passage_date": "2026-03-12"
+    },
+    {
+      "id": "ocd-bill/fbdf204f-9a20-4ebf-bec0-f191613a1ef5",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wa/government",
+        "name": "Washington",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7417a716-eba8-4437-a6e9-df14694bcb79",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2416",
+      "title": "Concerning fair treatment of waste to energy facilities under the climate commitment act.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-14T04:22:30.087688+00:00",
+      "updated_at": "2026-04-08T11:18:29.426619+00:00",
+      "openstates_url": "https://openstates.org/wa/bills/2025-2026/HB2416/",
+      "first_action_date": "2026-01-13",
+      "latest_action_date": "2026-03-25",
+      "latest_action_description": "Effective date 6/11/2026.",
+      "latest_passage_date": "2026-03-12"
+    },
+    {
+      "id": "ocd-bill/92463478-97a0-47d8-9ad1-36857d3fc58d",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wa/government",
+        "name": "Washington",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/7417a716-eba8-4437-a6e9-df14694bcb79",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1500",
+      "title": "Concerning resale certificates for units in common interest communities.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-22T18:35:11.516718+00:00",
+      "updated_at": "2026-04-08T11:13:03.395490+00:00",
+      "openstates_url": "https://openstates.org/wa/bills/2025-2026/HB1500/",
+      "first_action_date": "2025-01-22",
+      "latest_action_date": "2026-03-24",
+      "latest_action_description": "Effective date 6/11/2026.",
+      "latest_passage_date": "2026-03-11"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 565,
+    "total_items": 5648
+  }
+}

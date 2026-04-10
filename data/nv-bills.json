@@ -1,0 +1,310 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/721bb40d-6469-4f0c-819b-f5d774aa1a1f",
+      "session": "2025Special36",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nv/government",
+        "name": "Nevada",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/258cdef7-dac8-4ec1-8f74-00a70ee10269",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "AB 6",
+      "title": "Revises provisions governing public safety. (BDR 43-23)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "BDR": "43-23"
+      },
+      "created_at": "2025-11-14T06:44:50.953294+00:00",
+      "updated_at": "2026-03-18T00:45:42.409213+00:00",
+      "openstates_url": "https://openstates.org/nv/bills/2025Special36/AB6/",
+      "first_action_date": "2025-11-12T08:00:00+00:00",
+      "latest_action_date": "2025-12-01T08:00:00+00:00",
+      "latest_action_description": "Chapter 10.",
+      "latest_passage_date": "2025-11-19T08:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/755abb5d-6776-4ab7-8329-f788d6cd0b71",
+      "session": "2025Special36",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nv/government",
+        "name": "Nevada",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/c4400c7b-157d-442a-b688-543ffb989967",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 6",
+      "title": "Revises the Windsor Park Environmental Justice Act. (BDR S-12)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "BDR": "S-12"
+      },
+      "created_at": "2025-11-15T06:44:20.964248+00:00",
+      "updated_at": "2026-03-18T00:45:41.871812+00:00",
+      "openstates_url": "https://openstates.org/nv/bills/2025Special36/SB6/",
+      "first_action_date": "2025-11-14T08:00:00+00:00",
+      "latest_action_date": "2025-11-20T08:00:00+00:00",
+      "latest_action_description": "Enrolled and delivered to Governor.\rApproved by the Governor. Chapter 7.",
+      "latest_passage_date": "2025-11-17T08:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/ac8452cb-615d-48cf-a12a-b5ee4e468f35",
+      "session": "2025Special36",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nv/government",
+        "name": "Nevada",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/258cdef7-dac8-4ec1-8f74-00a70ee10269",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "AB 1",
+      "title": "Revises provisions relating to governmental administration. (BDR 19-22)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "BDR": "19-22"
+      },
+      "created_at": "2025-11-14T06:44:48.149738+00:00",
+      "updated_at": "2026-03-18T00:45:41.335548+00:00",
+      "openstates_url": "https://openstates.org/nv/bills/2025Special36/AB1/",
+      "first_action_date": "2025-11-12T08:00:00+00:00",
+      "latest_action_date": "2025-11-20T08:00:00+00:00",
+      "latest_action_description": "Chapter 4.",
+      "latest_passage_date": "2025-11-16T08:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/dbffdf87-7b57-40dc-b99a-47987a96e845",
+      "session": "2025Special36",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nv/government",
+        "name": "Nevada",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/258cdef7-dac8-4ec1-8f74-00a70ee10269",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "AB 4",
+      "title": "Revises provisions relating to public safety. (BDR 15-31)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "BDR": "15-31"
+      },
+      "created_at": "2025-11-14T06:44:50.201882+00:00",
+      "updated_at": "2026-03-18T00:45:36.763601+00:00",
+      "openstates_url": "https://openstates.org/nv/bills/2025Special36/AB4/",
+      "first_action_date": "2025-11-12T08:00:00+00:00",
+      "latest_action_date": "2025-12-01T08:00:00+00:00",
+      "latest_action_description": "Chapter 9.",
+      "latest_passage_date": "2025-11-19T08:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/f8b3d7c2-9d71-412a-bf20-461b4d5779eb",
+      "session": "2025Special36",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nv/government",
+        "name": "Nevada",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/c4400c7b-157d-442a-b688-543ffb989967",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 5",
+      "title": "Makes revisions relating to health care. (BDR 40-32)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "BDR": "40-32"
+      },
+      "created_at": "2025-11-14T06:44:42.823995+00:00",
+      "updated_at": "2026-03-18T00:45:36.225210+00:00",
+      "openstates_url": "https://openstates.org/nv/bills/2025Special36/SB5/",
+      "first_action_date": "2025-11-12T08:00:00+00:00",
+      "latest_action_date": "2025-12-01T08:00:00+00:00",
+      "latest_action_description": "Chapter 12.",
+      "latest_passage_date": "2025-11-19T08:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/3b33749c-0fb2-4278-a9c6-e08b17a704aa",
+      "session": "2025Special36",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nv/government",
+        "name": "Nevada",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/258cdef7-dac8-4ec1-8f74-00a70ee10269",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "AB 3",
+      "title": "Revises provisions relating to public office. (BDR 24-21)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "BDR": "24-21"
+      },
+      "created_at": "2025-11-14T06:44:47.790876+00:00",
+      "updated_at": "2026-03-18T00:45:35.695775+00:00",
+      "openstates_url": "https://openstates.org/nv/bills/2025Special36/AB3/",
+      "first_action_date": "2025-11-12T08:00:00+00:00",
+      "latest_action_date": "2025-11-20T08:00:00+00:00",
+      "latest_action_description": "Chapter 3.",
+      "latest_passage_date": "2025-11-16T08:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/7b4ca02b-d7b8-4d79-84a8-c6bc066f57aa",
+      "session": "2025Special36",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nv/government",
+        "name": "Nevada",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/c4400c7b-157d-442a-b688-543ffb989967",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 10",
+      "title": "Revises provisions relating to real property. (BDR 10-38)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "BDR": "10-38"
+      },
+      "created_at": "2025-11-19T18:45:14.156857+00:00",
+      "updated_at": "2026-03-18T00:45:33.112873+00:00",
+      "openstates_url": "https://openstates.org/nv/bills/2025Special36/SB10/",
+      "first_action_date": "2025-11-19T08:00:00+00:00",
+      "latest_action_date": "2025-11-19T08:00:00+00:00",
+      "latest_action_description": "Read first time. Referred to Select Committee on Jobs and Economy. To printer.\rFrom printer. To committee.\rFrom committee: Do pass.\rDeclared an emergency measure under the Constitution.\rRead third time. Amended. (Amend. No. 32.)\rReprinting dispensed with.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas: 18, Nays: None, Excused: 3.) To printer.\rFrom printer. To engrossment. Engrossed. First reprint. To Assembly.\rIn Assembly.\rRead first time.\rDeclared an emergency measure under the Constitution.\rRead third time. Amended. (Amend. No. 35.)\rDispensed with reprinting.\rRead third time. Lost. (Yeas: 27, Nays: 10, Excused: 5.)",
+      "latest_passage_date": "2025-11-19T08:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/772bb935-689c-445a-8038-a8bf3b9b2c3c",
+      "session": "2025Special36",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nv/government",
+        "name": "Nevada",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/c4400c7b-157d-442a-b688-543ffb989967",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 9",
+      "title": "Establishes provisions relating to public safety. (BDR 1-17)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "BDR": "1-17"
+      },
+      "created_at": "2025-11-19T12:44:55.524700+00:00",
+      "updated_at": "2026-03-18T00:45:32.589628+00:00",
+      "openstates_url": "https://openstates.org/nv/bills/2025Special36/SB9/",
+      "first_action_date": "2025-11-18T08:00:00+00:00",
+      "latest_action_date": "2025-11-19T08:00:00+00:00",
+      "latest_action_description": "From printer.\rPlaced on Secretary's desk.\r(No further action taken.)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/0e427b7f-bfd7-40d0-b23e-791ae9e61719",
+      "session": "2025Special36",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nv/government",
+        "name": "Nevada",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/258cdef7-dac8-4ec1-8f74-00a70ee10269",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "AB 5",
+      "title": "Enacts the Nevada Studio Infrastructure Jobs and Workforce Training Act. (BDR S-13)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "BDR": "S-13"
+      },
+      "created_at": "2025-11-14T06:44:46.458261+00:00",
+      "updated_at": "2026-03-18T00:45:31.009242+00:00",
+      "openstates_url": "https://openstates.org/nv/bills/2025Special36/AB5/",
+      "first_action_date": "2025-11-12T08:00:00+00:00",
+      "latest_action_date": "2025-11-19T08:00:00+00:00",
+      "latest_action_description": "Read third time. Lost. (Yeas: 10, Nays: 8, Excused: 3.)",
+      "latest_passage_date": "2025-11-16T08:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/f1e56256-76dd-45cd-a789-8a079ca9e1eb",
+      "session": "2025Special36",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nv/government",
+        "name": "Nevada",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/258cdef7-dac8-4ec1-8f74-00a70ee10269",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "ACR 4",
+      "title": "Directs the Joint Interim Standing Committee on the Judiciary to conduct a study relating to road safety. (BDR R-29)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "BDR": "R-29"
+      },
+      "created_at": "2025-11-14T06:44:44.729022+00:00",
+      "updated_at": "2026-03-18T00:45:29.320737+00:00",
+      "openstates_url": "https://openstates.org/nv/bills/2025Special36/ACR4/",
+      "first_action_date": "2025-11-12T08:00:00+00:00",
+      "latest_action_date": "2025-11-16T08:00:00+00:00",
+      "latest_action_description": "Enrolled and delivered to Secretary of State.\rFile No. 9.",
+      "latest_passage_date": "2025-11-15T08:00:00+00:00"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 91,
+    "total_items": 909
+  }
+}

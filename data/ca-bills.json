@@ -1,0 +1,385 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/ad1d238f-1804-4f90-8fff-8115882ba10f",
+      "session": "20252026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ca/government",
+        "name": "California",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98623fa0-f9c3-47ae-80bb-51465349ed71",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 1167",
+      "title": "Vehicles: electric bicycles.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Vehicles",
+        "electricbicycles"
+      ],
+      "extras": {
+        "tags": [
+          "fiscal committee",
+          "local program"
+        ],
+        "impact_clause": "An act to amend Section 26300 of the Health and Safety Code, and to amend Sections 312.5, 405, 406, 426, 472, 672, 4020, 5030, 5031, 5032, 5033, 5034, 5035, 5036, 5037, 5038, 5039, 12500, 12509, 12509.5, 12804.9, 12814.6, 21113, 21201.3, 21203, 21207.5, 21209, 21712, 21960, 22651.08, 23103, 23135, 23330, 24015, 24951, 25650, 27800, 27802, 27803, 38012, 38366, 38505, and 38601 of, to amend the heading of Article 8.1 (commencing with Section 5030) of Chapter 1 of Division 3 of, to add Section 21065 to,\n\t\t  to add Article 9 (commencing with Section 21310) to Chapter 1 of Division 11 of, and to add Article 7.5 (commencing with Section 27850) to Chapter 5 of Division 12 of, the Vehicle Code, relating to vehicles."
+      },
+      "created_at": "2026-02-19T08:32:39.655652+00:00",
+      "updated_at": "2026-04-09T09:06:22.141520+00:00",
+      "openstates_url": "https://openstates.org/ca/bills/20252026/SB1167/",
+      "first_action_date": "2026-02-18",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "From committee: Do pass as amended and re-refer to Com. on N.R. & W. (Ayes 12. Noes 0.) (April 7).",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/55c09b61-bce6-4e51-aa5a-84058e09331e",
+      "session": "20252026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ca/government",
+        "name": "California",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98623fa0-f9c3-47ae-80bb-51465349ed71",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 1098",
+      "title": "Public utilities: forecast-based ratemaking.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Publicutilities",
+        "forecast-basedratemaking"
+      ],
+      "extras": {
+        "tags": [
+          "fiscal committee",
+          "local program"
+        ],
+        "impact_clause": "An act to add Section 457 to the Public Utilities Code, relating to public utilities."
+      },
+      "created_at": "2026-02-14T08:32:37.930171+00:00",
+      "updated_at": "2026-04-09T09:01:55.756994+00:00",
+      "openstates_url": "https://openstates.org/ca/bills/20252026/SB1098/",
+      "first_action_date": "2026-02-13",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Re-referred to Com. on E., U & C.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/7e1e78a4-cf46-4d5b-b708-265493d06ab8",
+      "session": "20252026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ca/government",
+        "name": "California",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98623fa0-f9c3-47ae-80bb-51465349ed71",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 1267",
+      "title": "Common interest developments: electric vehicle charging stations owned by members in common areas.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Commoninterestdevelopments",
+        "electricvehiclechargingstationsownedbymembersincommonareas"
+      ],
+      "extras": {
+        "tags": [],
+        "impact_clause": "An act to amend Section 4745 of the Civil Code, relating to common interest developments."
+      },
+      "created_at": "2026-02-20T08:37:42.503314+00:00",
+      "updated_at": "2026-04-09T08:59:44.973699+00:00",
+      "openstates_url": "https://openstates.org/ca/bills/20252026/SB1267/",
+      "first_action_date": "2026-02-19",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "From committee: Do pass and re-refer to Com. on JUD. with recommendation: To consent calendar. (Ayes 10. Noes 0.) (April 7). Re-referred to Com. on JUD.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/62cc514f-d799-4d01-afa2-0f2b633faee6",
+      "session": "20252026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ca/government",
+        "name": "California",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98623fa0-f9c3-47ae-80bb-51465349ed71",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 978",
+      "title": "Data centers: labor: electricity rates.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Datacenters",
+        "electricityrates",
+        "labor"
+      ],
+      "extras": {
+        "tags": [
+          "fiscal committee",
+          "local program"
+        ],
+        "impact_clause": "An act to amend Section 913.11 of, and to add Section 740.22 to, the Public Utilities Code, relating to public utilities."
+      },
+      "created_at": "2026-02-05T08:35:23.114208+00:00",
+      "updated_at": "2026-04-09T08:57:06.878932+00:00",
+      "openstates_url": "https://openstates.org/ca/bills/20252026/SB978/",
+      "first_action_date": "2026-02-04",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 3. Noes 1.) (April 8). Re-referred to Com. on APPR.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/fe4d4f53-b5ab-4dcd-8a3e-50a11d273f30",
+      "session": "20252026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ca/government",
+        "name": "California",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98623fa0-f9c3-47ae-80bb-51465349ed71",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 1366",
+      "title": "State government: California Prompt Payment Act: Public Utilities Commission: State Energy Resources Conservation and Development Commission.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "CaliforniaPromptPaymentAct",
+        "PublicUtilitiesCommission",
+        "StateEnergyResourcesConservationandDevelopmentCommission",
+        "Stategovernment"
+      ],
+      "extras": {
+        "tags": [
+          "fiscal committee",
+          "local program"
+        ],
+        "impact_clause": "An act to add Section 25213.5 to the Public Resources Code, and to add Sections 701.7 and 910.11 to the Public Utilities Code, relating to state government."
+      },
+      "created_at": "2026-02-21T08:50:15.405285+00:00",
+      "updated_at": "2026-04-09T08:48:33.458714+00:00",
+      "openstates_url": "https://openstates.org/ca/bills/20252026/SB1366/",
+      "first_action_date": "2026-02-20",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Re-referred to Com. on E., U & C.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/2a8579df-0eed-45d8-9c5a-449e7d77a262",
+      "session": "20252026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ca/government",
+        "name": "California",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98623fa0-f9c3-47ae-80bb-51465349ed71",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 1424",
+      "title": "Sales and use taxes: electric vehicle fueling.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Salesandusetaxes",
+        "electricvehiclefueling"
+      ],
+      "extras": {
+        "tags": [
+          "fiscal committee",
+          "urgency",
+          "tax levy"
+        ],
+        "impact_clause": "An act to amend Section 6377.1 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy."
+      },
+      "created_at": "2026-02-21T08:50:31.252737+00:00",
+      "updated_at": "2026-04-09T08:47:27.396600+00:00",
+      "openstates_url": "https://openstates.org/ca/bills/20252026/SB1424/",
+      "first_action_date": "2026-02-20",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Re-referred to Coms. on E.Q. and REV. & TAX.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/9b8a4952-d7f9-49b8-8879-160838d8470c",
+      "session": "20252026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ca/government",
+        "name": "California",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98623fa0-f9c3-47ae-80bb-51465349ed71",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 1097",
+      "title": "California Environmental Quality Act: electrical distribution: clean energy: exemptions: standard of review.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "CaliforniaEnvironmentalQualityAct",
+        "cleanenergy",
+        "electricaldistribution",
+        "exemptions",
+        "standardofreview"
+      ],
+      "extras": {
+        "tags": [
+          "fiscal committee",
+          "local program"
+        ],
+        "impact_clause": "An act to add Sections 21080.39 and 21080.80 to the Public Resources Code, relating to environmental quality."
+      },
+      "created_at": "2026-02-14T08:45:01.876422+00:00",
+      "updated_at": "2026-04-09T08:44:38.202691+00:00",
+      "openstates_url": "https://openstates.org/ca/bills/20252026/SB1097/",
+      "first_action_date": "2026-02-13",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Re-referred to Coms. on E.Q. and E., U & C.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/7b09b69c-f0cd-468f-8ad3-611f56c53c01",
+      "session": "20252026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ca/government",
+        "name": "California",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e70e812e-44d2-46b0-9eae-2f3b9a1d5150",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "AB 2424",
+      "title": "Public Utilities Commission: communications: low-income customers.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "PublicUtilitiesCommission",
+        "communications",
+        "low-incomecustomers"
+      ],
+      "extras": {
+        "tags": [
+          "fiscal committee"
+        ],
+        "impact_clause": "An act to amend Section 382.1 of, and to add Section 871.6 to, the Public Utilities Code, relating to communications."
+      },
+      "created_at": "2026-02-21T08:40:56.052339+00:00",
+      "updated_at": "2026-04-09T08:43:01.944593+00:00",
+      "openstates_url": "https://openstates.org/ca/bills/20252026/AB2424/",
+      "first_action_date": "2026-02-20",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Re-referred to Com. on C. & C.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/096f1ce6-6aba-4712-bd15-39f88d22ab8e",
+      "session": "20252026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ca/government",
+        "name": "California",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98623fa0-f9c3-47ae-80bb-51465349ed71",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 1233",
+      "title": "Public utilities: rates.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Publicutilities",
+        "rates"
+      ],
+      "extras": {
+        "tags": [
+          "fiscal committee",
+          "local program"
+        ],
+        "impact_clause": "An act to add Section 454.05 to the Public Utilities Code, relating to public utilities."
+      },
+      "created_at": "2026-02-20T08:31:04.883261+00:00",
+      "updated_at": "2026-04-09T08:42:56.031892+00:00",
+      "openstates_url": "https://openstates.org/ca/bills/20252026/SB1233/",
+      "first_action_date": "2026-02-19",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Re-referred to Com. on E., U & C.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/cfba81d8-86fd-4121-87a2-47b9d3e26348",
+      "session": "20252026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ca/government",
+        "name": "California",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98623fa0-f9c3-47ae-80bb-51465349ed71",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 1283",
+      "title": "Electric vehicle charging stations: installation: permits.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Electricvehiclechargingstations",
+        "installation",
+        "permits"
+      ],
+      "extras": {
+        "tags": [
+          "fiscal committee",
+          "local program"
+        ],
+        "impact_clause": "An act to amend Sections 65850.7 and 65850.71 of the Government Code, relating to electric vehicle charging stations."
+      },
+      "created_at": "2026-02-21T08:42:48.743105+00:00",
+      "updated_at": "2026-04-09T08:42:43.065149+00:00",
+      "openstates_url": "https://openstates.org/ca/bills/20252026/SB1283/",
+      "first_action_date": "2026-02-20",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 542,
+    "total_items": 5420
+  }
+}

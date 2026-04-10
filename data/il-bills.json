@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/c0349105-f0ae-40eb-9b36-0481522d9831",
+      "session": "104th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/76120f9a-2982-4cc5-a6e2-de7401fa0d38",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 5072",
+      "title": "SUSTAINABLE INVESTING-ACTIONS",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-11T12:41:34.954218+00:00",
+      "updated_at": "2026-04-09T11:56:27.864543+00:00",
+      "openstates_url": "https://openstates.org/il/bills/104th/HB5072/",
+      "first_action_date": "2026-02-04",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Added Chief Co-Sponsor Rep. Rita Mayfield",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/5a35c9fc-8392-41f3-9d4d-e4f33605cd52",
+      "session": "104th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/76120f9a-2982-4cc5-a6e2-de7401fa0d38",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4496",
+      "title": "PROCUREMENT-STATE LABS",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-21T04:35:09.164937+00:00",
+      "updated_at": "2026-04-09T11:55:54.003876+00:00",
+      "openstates_url": "https://openstates.org/il/bills/104th/HB4496/",
+      "first_action_date": "2026-01-20",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "House Floor Amendment No. 2 Recommends Be Adopted State Government Administration Committee;  007-000-000",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/de5a4fc8-0e2e-4eaa-86bc-9642f0072fce",
+      "session": "104th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/76120f9a-2982-4cc5-a6e2-de7401fa0d38",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1428",
+      "title": "ISOLATED CONFINEMENT RESTRICT",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-16T23:36:32.259155+00:00",
+      "updated_at": "2026-04-09T11:55:17.446760+00:00",
+      "openstates_url": "https://openstates.org/il/bills/104th/HB1428/",
+      "first_action_date": "2025-01-16",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Added Co-Sponsor Rep. Abdelnasser Rashid",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/b4f2cc52-3889-40c2-a632-bf5068eaec33",
+      "session": "104th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/76120f9a-2982-4cc5-a6e2-de7401fa0d38",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4690",
+      "title": "PROP TAX-SANITARY SEWER FEES",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-11T12:38:35.276723+00:00",
+      "updated_at": "2026-04-09T11:55:12.242531+00:00",
+      "openstates_url": "https://openstates.org/il/bills/104th/HB4690/",
+      "first_action_date": "2026-01-29",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "House Floor Amendment No. 1 Rules Refers to Revenue & Finance Committee",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/8a4c0980-4b28-4448-a252-7259a638f71e",
+      "session": "104th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/76120f9a-2982-4cc5-a6e2-de7401fa0d38",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4606",
+      "title": "DHS-NEWBORN HOME VISITING",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-28T14:43:01.974705+00:00",
+      "updated_at": "2026-04-09T11:54:29.807845+00:00",
+      "openstates_url": "https://openstates.org/il/bills/104th/HB4606/",
+      "first_action_date": "2026-01-27",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Third Reading - Short Debate - Passed 073-031-000",
+      "latest_passage_date": "2026-04-08"
+    },
+    {
+      "id": "ocd-bill/0763cb68-3448-44db-afdd-fc0365a9dbc8",
+      "session": "104th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/76120f9a-2982-4cc5-a6e2-de7401fa0d38",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4808",
+      "title": "DHFS-TRANSFORMATION PROGRAM",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-11T12:50:55.822848+00:00",
+      "updated_at": "2026-04-09T11:53:50.869680+00:00",
+      "openstates_url": "https://openstates.org/il/bills/104th/HB4808/",
+      "first_action_date": "2026-02-02",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Placed on Calendar Order of 3rd Reading - Short Debate",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/fb9f37b5-9caf-40f0-9e4d-2fbf45585847",
+      "session": "104th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/76120f9a-2982-4cc5-a6e2-de7401fa0d38",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 5492",
+      "title": "PRESCRIPTION HORMONE THERAPY",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-11T12:44:03.185247+00:00",
+      "updated_at": "2026-04-09T11:52:26.262730+00:00",
+      "openstates_url": "https://openstates.org/il/bills/104th/HB5492/",
+      "first_action_date": "2026-02-06",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "House Floor Amendment No. 1 Recommends Be Adopted Insurance Committee;  009-005-000",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/9fa297e0-cc65-4aa2-8682-6d5ef667aed0",
+      "session": "104th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/76120f9a-2982-4cc5-a6e2-de7401fa0d38",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4911",
+      "title": "VETERAN SCRATCH-OFF GAME",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-11T12:21:13.163929+00:00",
+      "updated_at": "2026-04-09T11:48:02.713235+00:00",
+      "openstates_url": "https://openstates.org/il/bills/104th/HB4911/",
+      "first_action_date": "2026-02-03",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Third Reading - Short Debate - Passed 109-000-000",
+      "latest_passage_date": "2026-04-08"
+    },
+    {
+      "id": "ocd-bill/f09df147-31f9-43e6-8459-f9e381630bfe",
+      "session": "104th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/76120f9a-2982-4cc5-a6e2-de7401fa0d38",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4667",
+      "title": "COUNTIES CD-RECORDING FEES",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-29T15:11:06.224986+00:00",
+      "updated_at": "2026-04-09T11:44:21.900487+00:00",
+      "openstates_url": "https://openstates.org/il/bills/104th/HB4667/",
+      "first_action_date": "2026-01-28",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Placed on Calendar Order of 3rd Reading - Short Debate",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/addaff23-dc5c-492f-a4c9-a501f583133e",
+      "session": "104th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:il/government",
+        "name": "Illinois",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/76120f9a-2982-4cc5-a6e2-de7401fa0d38",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 4463",
+      "title": "SUBSTITUTION OF GAL-DIS ADULT",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-16T14:14:51.385153+00:00",
+      "updated_at": "2026-04-09T11:44:07.034565+00:00",
+      "openstates_url": "https://openstates.org/il/bills/104th/HB4463/",
+      "first_action_date": "2026-01-15",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Added Co-Sponsor Rep. Janet Yang Rohr",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 1869,
+    "total_items": 18690
+  }
+}

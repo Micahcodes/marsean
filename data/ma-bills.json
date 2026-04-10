@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/33cdc483-deac-4575-8cbc-06002d00b48a",
+      "session": "194th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ma/government",
+        "name": "Massachusetts",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ca38ad9c-c3d5-4c4f-bc2f-d885218ed802",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 5349",
+      "title": "Amendment H.5349",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-07T23:52:03.838651+00:00",
+      "updated_at": "2026-04-09T23:45:36.667619+00:00",
+      "openstates_url": "https://openstates.org/ma/bills/194th/H5349/",
+      "first_action_date": "2026-04-08",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Published as amended, see H5366",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/f293a79c-7b86-44bc-9671-f46ed690f72e",
+      "session": "194th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ma/government",
+        "name": "Massachusetts",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ca38ad9c-c3d5-4c4f-bc2f-d885218ed802",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HD 5791",
+      "title": "A communication from the Pension Reserves Investment Management Board (see Section 23(2A)(e)(xi) of Chapter 32 of the General Laws) submitting its fiscal year 2025 fourth quarterly report",
+      "classification": [
+        "proposed bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-09T23:45:12.618504+00:00",
+      "updated_at": "2026-04-09T23:45:12.857639+00:00",
+      "openstates_url": "https://openstates.org/ma/bills/194th/HD5791/",
+      "first_action_date": "2026-04-09",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Placed on file",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/e22fd0e2-d37b-4bb6-ba85-99c18aebfc2d",
+      "session": "194th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ma/government",
+        "name": "Massachusetts",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ca38ad9c-c3d5-4c4f-bc2f-d885218ed802",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HD 5793",
+      "title": "The annual report of the Tax Expenditure Review Commission (under Section 14 of Chapter 14 of the General Laws) submitting a review of tax expenditures for fiscal year 2026",
+      "classification": [
+        "proposed bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-09T23:45:06.525931+00:00",
+      "updated_at": "2026-04-09T23:45:06.764964+00:00",
+      "openstates_url": "https://openstates.org/ma/bills/194th/HD5793/",
+      "first_action_date": "2026-04-09",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Placed on file",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/5deba107-3961-4b74-b1a1-c21e4ed72a9b",
+      "session": "194th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ma/government",
+        "name": "Massachusetts",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ca38ad9c-c3d5-4c4f-bc2f-d885218ed802",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 5317",
+      "title": "An Act authorizing the grant of easements in or takings of certain parcels of land to the city of Boston",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-03-26T23:41:50.866221+00:00",
+      "updated_at": "2026-04-09T23:44:45.580776+00:00",
+      "openstates_url": "https://openstates.org/ma/bills/194th/H5317/",
+      "first_action_date": "2026-03-26",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Bill reported favorably by committee and referred to the committee on House Steering, Policy and Scheduling",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/aea4413c-2ed8-45c1-ae03-a7a4849736b0",
+      "session": "194th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ma/government",
+        "name": "Massachusetts",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ca38ad9c-c3d5-4c4f-bc2f-d885218ed802",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 5280",
+      "title": "An Act making appropriations for the fiscal year 2026 to provide for supplementing certain existing appropriations and for certain other activities and projects",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-03-19T23:31:04.014254+00:00",
+      "updated_at": "2026-04-09T23:44:40.037218+00:00",
+      "openstates_url": "https://openstates.org/ma/bills/194th/H5280/",
+      "first_action_date": "2026-03-18",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Passed to be engrossed -see   Roll Call #148 (Yeas 35 to Nays 4)",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/9c235f35-db93-4964-b374-530509c46676",
+      "session": "194th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ma/government",
+        "name": "Massachusetts",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ca38ad9c-c3d5-4c4f-bc2f-d885218ed802",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HD 5794",
+      "title": "The annual report of the Multi-Agency Illegal Tobacco Task Force (under Section 40(d) of Chapter 64C of the General Laws) submitting its fiscal year 2026 annual report relative to the coordination of efforts to combat contraband tobacco distribution, including efforts to foster compliance with the law and conduct targeted investigations and enforcement actions",
+      "classification": [
+        "proposed bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-09T23:43:38.840943+00:00",
+      "updated_at": "2026-04-09T23:43:39.081205+00:00",
+      "openstates_url": "https://openstates.org/ma/bills/194th/HD5794/",
+      "first_action_date": "2026-04-09",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Placed on file",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/8eff14e3-193c-4d1e-94a0-f6542c837338",
+      "session": "194th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ma/government",
+        "name": "Massachusetts",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ca38ad9c-c3d5-4c4f-bc2f-d885218ed802",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 5366",
+      "title": "Amendment H.5366",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-09T23:42:22.938007+00:00",
+      "updated_at": "2026-04-09T23:42:23.177741+00:00",
+      "openstates_url": "https://openstates.org/ma/bills/194th/H5366/",
+      "first_action_date": "2026-04-08",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Passed to be engrossed - 129 YEAS to 25 NAYS (See YEA and NAY No. 156 )",
+      "latest_passage_date": "2026-04-08"
+    },
+    {
+      "id": "ocd-bill/583e0c4e-c0aa-4e48-a355-ddbcd65d6f45",
+      "session": "194th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ma/government",
+        "name": "Massachusetts",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ca38ad9c-c3d5-4c4f-bc2f-d885218ed802",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HD 6038",
+      "title": "An Act amending the sick leave bank for Matthew McRae, an employee of the department of state police",
+      "classification": [
+        "proposed bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-09T23:42:12.129780+00:00",
+      "updated_at": "2026-04-09T23:42:12.129805+00:00",
+      "openstates_url": "https://openstates.org/ma/bills/194th/HD6038/",
+      "first_action_date": "",
+      "latest_action_date": "",
+      "latest_action_description": "",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/37231cb0-f92e-497e-9bbe-319734542959",
+      "session": "194th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ma/government",
+        "name": "Massachusetts",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/1a75ab3a-669b-43fe-ac8d-31a2d6923d9a",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "S 3041",
+      "title": "Amendment S.3041",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-02T23:49:04.692525+00:00",
+      "updated_at": "2026-04-09T23:41:51.750685+00:00",
+      "openstates_url": "https://openstates.org/ma/bills/194th/S3041/",
+      "first_action_date": "2026-04-02",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "See H5280",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/6363db45-5fee-428d-9e72-7a9411ac6175",
+      "session": "194th",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ma/government",
+        "name": "Massachusetts",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ca38ad9c-c3d5-4c4f-bc2f-d885218ed802",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 5350",
+      "title": "An Act modernizing the commonwealth’s cannabis laws",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-06T23:47:46.708591+00:00",
+      "updated_at": "2026-04-09T23:40:40.068669+00:00",
+      "openstates_url": "https://openstates.org/ma/bills/194th/H5350/",
+      "first_action_date": "2026-04-06",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Enacted and laid before the Governor -see   Roll Call #146 (Yeas 33 to Nays 6)",
+      "latest_passage_date": "2026-04-09"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 755,
+    "total_items": 7541
+  }
+}

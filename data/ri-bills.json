@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/c4b7fbcd-f9a9-4d43-819f-d8e839cf8b60",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ri/government",
+        "name": "Rhode Island",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ba73a081-69ab-42c3-bf47-7620fec808cf",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HR 8422",
+      "title": "HOUSE RESOLUTION HONORING THRIVE BEHAVIORAL HEALTH, INC. ON THE OCCASION OF ITS 50TH ANNIVERSARY AND RECOGNIZING ITS ENDURING IMPACT ON THE HEALTH AND WELL-BEING OF RHODE ISLANDERS",
+      "classification": [
+        "resolution"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-09T22:51:23.671079+00:00",
+      "updated_at": "2026-04-09T22:51:24.084019+00:00",
+      "openstates_url": "https://openstates.org/ri/bills/2026/HR8422/",
+      "first_action_date": "2026-04-09",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "04/09/2026 House read and passed",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/735b814d-5878-4f81-8fc4-9d29be7963d5",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ri/government",
+        "name": "Rhode Island",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bea6e1af-6d6b-4a81-8040-499daf785244",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 3032",
+      "title": "AN ACT RELATING TO HEALTH AND SAFETY -- STATE BUILDING CODE",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-03-06T14:45:47.033477+00:00",
+      "updated_at": "2026-04-09T22:47:27.520648+00:00",
+      "openstates_url": "https://openstates.org/ri/bills/2026/SB3032/",
+      "first_action_date": "2026-03-05",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "04/09/2026 Meeting postponed  (04/09/2026)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/806f8924-7c17-47fa-b746-ee87656915ee",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ri/government",
+        "name": "Rhode Island",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bea6e1af-6d6b-4a81-8040-499daf785244",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 2409",
+      "title": "AN ACT RELATING TO LABOR AND LABOR RELATIONS -- MUNICIPAL EMPLOYEES' ARBITRATION",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-30T18:41:08.603944+00:00",
+      "updated_at": "2026-04-09T20:59:10.398344+00:00",
+      "openstates_url": "https://openstates.org/ri/bills/2026/SB2409/",
+      "first_action_date": "2026-01-30",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "04/09/2026 Placed on Senate Calendar  (04/16/2026)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/8999ec88-9263-49f0-b974-074b6e681c4a",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ri/government",
+        "name": "Rhode Island",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ba73a081-69ab-42c3-bf47-7620fec808cf",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 7027",
+      "title": "AN ACT RELATING TO EDUCATION -- HEALTH AND SAFETY OF PUPILS",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-09T20:36:32.959152+00:00",
+      "updated_at": "2026-04-09T20:58:10.157982+00:00",
+      "openstates_url": "https://openstates.org/ri/bills/2026/HB7027/",
+      "first_action_date": "2026-01-09",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "04/09/2026 House read and passed",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/6090ed4f-6a45-495a-a784-10dc0ef49c08",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ri/government",
+        "name": "Rhode Island",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bea6e1af-6d6b-4a81-8040-499daf785244",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 2928",
+      "title": "AN ACT RELATING TO LABOR AND LABOR RELATIONS -- HEALTHY AND SAFE FAMILIES AND WORKPLACES ACT",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-03-04T22:41:34.303679+00:00",
+      "updated_at": "2026-04-09T14:58:39.942690+00:00",
+      "openstates_url": "https://openstates.org/ri/bills/2026/SB2928/",
+      "first_action_date": "2026-03-04",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "04/08/2026 Committee recommended measure be held for further study",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/09344bcd-b6c7-4a10-8870-f38898c52958",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ri/government",
+        "name": "Rhode Island",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bea6e1af-6d6b-4a81-8040-499daf785244",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 2499",
+      "title": "AN ACT RELATING TO LABOR AND LABOR RELATIONS -- ARTIFICIAL INTELLIGENCE USE AND FAIR EMPLOYMENT PRACTICES",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-06T18:40:25.720624+00:00",
+      "updated_at": "2026-04-09T14:58:24.105579+00:00",
+      "openstates_url": "https://openstates.org/ri/bills/2026/SB2499/",
+      "first_action_date": "2026-02-06",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "04/08/2026 Committee recommended measure be held for further study",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/a24c541c-2448-4db5-9cd1-82f47680b8d5",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ri/government",
+        "name": "Rhode Island",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/bea6e1af-6d6b-4a81-8040-499daf785244",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 2208",
+      "title": "AN ACT RELATING TO EDUCATION -- COOPERATIVE SERVICE AMONG SCHOOL DISTRICTS",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-23T16:38:28.916543+00:00",
+      "updated_at": "2026-04-09T14:51:23.240732+00:00",
+      "openstates_url": "https://openstates.org/ri/bills/2026/SB2208/",
+      "first_action_date": "2026-01-23",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "04/08/2026 Committee recommended measure be held for further study",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/8392c4e5-cae7-436e-bbd9-7de00906cfab",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ri/government",
+        "name": "Rhode Island",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ba73a081-69ab-42c3-bf47-7620fec808cf",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 7249",
+      "title": "AN ACT RELATING TO TOWNS AND CITIES -- STATE AID",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-21T18:39:48.623791+00:00",
+      "updated_at": "2026-04-08T20:58:55.336672+00:00",
+      "openstates_url": "https://openstates.org/ri/bills/2026/HB7249/",
+      "first_action_date": "2026-01-21",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "04/08/2026 Committee recommended measure be held for further study",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/4c77cfb1-919a-4006-a60f-635809d2477c",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ri/government",
+        "name": "Rhode Island",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ba73a081-69ab-42c3-bf47-7620fec808cf",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 7544",
+      "title": "AN ACT RELATING TO PUBLIC PROPERTY AND WORKS -- STATE PURCHASES",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-06T18:41:52.090235+00:00",
+      "updated_at": "2026-04-08T20:56:17.066986+00:00",
+      "openstates_url": "https://openstates.org/ri/bills/2026/HB7544/",
+      "first_action_date": "2026-02-06",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "04/08/2026 Committee recommended measure be held for further study",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/4af9645c-3579-458f-adbb-890226a47838",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ri/government",
+        "name": "Rhode Island",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ba73a081-69ab-42c3-bf47-7620fec808cf",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 7632",
+      "title": "AN ACT RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- AGE-APPROPRIATE DESIGN CODE",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-11T18:43:17.686924+00:00",
+      "updated_at": "2026-04-08T20:56:04.959962+00:00",
+      "openstates_url": "https://openstates.org/ri/bills/2026/HB7632/",
+      "first_action_date": "2026-02-11",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "04/08/2026 Committee recommended measure be held for further study",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 604,
+    "total_items": 6036
+  }
+}

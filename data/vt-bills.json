@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/5e8bd847-06b3-4bd6-b034-8de39d0522d3",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:vt/government",
+        "name": "Vermont",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/1bba67ba-1a0c-4edc-a9de-32c2e5c13c6e",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 727",
+      "title": "An act relating to sustainable data center deployment",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-21T02:43:54.030516+00:00",
+      "updated_at": "2026-04-03T06:55:42.098911+00:00",
+      "openstates_url": "https://openstates.org/vt/bills/2025-2026/H727/",
+      "first_action_date": "2026-01-21",
+      "latest_action_date": "2026-04-02",
+      "latest_action_description": "Read 1st time & referred to Committee on Finance",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/7d376b42-7329-445c-8280-b7b5c310bc1a",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:vt/government",
+        "name": "Vermont",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/1bba67ba-1a0c-4edc-a9de-32c2e5c13c6e",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 940",
+      "title": "An act relating to miscellaneous public utility subjects",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-03-17T11:06:15.778306+00:00",
+      "updated_at": "2026-03-26T09:16:28.444351+00:00",
+      "openstates_url": "https://openstates.org/vt/bills/2025-2026/H940/",
+      "first_action_date": "2026-03-17",
+      "latest_action_date": "2026-03-25",
+      "latest_action_description": "Read 1st time & referred to Committee on Finance",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/27a35176-9885-410c-8020-8e0227718fd6",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:vt/government",
+        "name": "Vermont",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/1bba67ba-1a0c-4edc-a9de-32c2e5c13c6e",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 479",
+      "title": "An act relating to housing",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-03-14T16:32:23.614511+00:00",
+      "updated_at": "2026-03-25T11:47:25.619896+00:00",
+      "openstates_url": "https://openstates.org/vt/bills/2025-2026/H479/",
+      "first_action_date": "2025-03-14",
+      "latest_action_date": "2025-05-30",
+      "latest_action_description": "Rep. Mihaly of Calais moved to commit the bill to the Committee on General and Housing, which was agreed to",
+      "latest_passage_date": "2025-05-22"
+    },
+    {
+      "id": "ocd-bill/5219c805-79c9-4368-b686-9bf7dafb3d05",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:vt/government",
+        "name": "Vermont",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/1bba67ba-1a0c-4edc-a9de-32c2e5c13c6e",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 946",
+      "title": "An act relating to the advertisement and costs of utilities under a residential rental agreement",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-03-20T08:22:03.765385+00:00",
+      "updated_at": "2026-03-21T08:12:23.806421+00:00",
+      "openstates_url": "https://openstates.org/vt/bills/2025-2026/H946/",
+      "first_action_date": "2026-03-20",
+      "latest_action_date": "2026-03-20",
+      "latest_action_description": "Read first time and referred to the Committee on General and Housing",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/db3d5df6-051b-42ff-9308-ee861c93fa0a",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:vt/government",
+        "name": "Vermont",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/1bba67ba-1a0c-4edc-a9de-32c2e5c13c6e",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 753",
+      "title": "An act relating to utility service disconnections and ratepayer protections",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-23T00:08:16.629240+00:00",
+      "updated_at": "2026-03-18T20:25:03.847119+00:00",
+      "openstates_url": "https://openstates.org/vt/bills/2025-2026/H753/",
+      "first_action_date": "2026-01-22",
+      "latest_action_date": "2026-03-18",
+      "latest_action_description": "Read 1st time & referred to Committee on Finance",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/b372029f-c373-4820-a736-59e173eb417a",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:vt/government",
+        "name": "Vermont",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/1bba67ba-1a0c-4edc-a9de-32c2e5c13c6e",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 439",
+      "title": "An act relating to the creation of the Whole Home Repairs Program",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-02-27T21:54:57.904454+00:00",
+      "updated_at": "2026-03-18T08:35:44.184314+00:00",
+      "openstates_url": "https://openstates.org/vt/bills/2025-2026/H439/",
+      "first_action_date": "2025-02-28",
+      "latest_action_date": "2025-02-28",
+      "latest_action_description": "Read first time and referred to the Committee on General and Housing",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/c0495739-9faf-4d4d-96c6-30387f7dfc77",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:vt/government",
+        "name": "Vermont",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/1bba67ba-1a0c-4edc-a9de-32c2e5c13c6e",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 320",
+      "title": "An act relating to stabilizing Vermont’s rural hospitals",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-02-24T17:55:39.354257+00:00",
+      "updated_at": "2026-03-18T08:35:40.581494+00:00",
+      "openstates_url": "https://openstates.org/vt/bills/2025-2026/H320/",
+      "first_action_date": "2025-02-25",
+      "latest_action_date": "2025-02-25",
+      "latest_action_description": "Read first time and referred to the Committee on Health Care",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/f6f3ff7d-0729-4325-ae0b-e3a5ac6ea1cd",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:vt/government",
+        "name": "Vermont",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/1bba67ba-1a0c-4edc-a9de-32c2e5c13c6e",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 11",
+      "title": "An act relating to consumer protections applicable to broadband and VoIP services",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-07T16:21:47.950217+00:00",
+      "updated_at": "2026-03-18T08:35:40.043652+00:00",
+      "openstates_url": "https://openstates.org/vt/bills/2025-2026/H11/",
+      "first_action_date": "2025-01-09",
+      "latest_action_date": "2025-01-09",
+      "latest_action_description": "Read first time and referred to the Committee on Energy and Digital Infrastructure",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/087b9690-fdf7-48dc-ad7d-961211aa18e0",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:vt/government",
+        "name": "Vermont",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/1bba67ba-1a0c-4edc-a9de-32c2e5c13c6e",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 289",
+      "title": "An act relating to affordable climate initiatives",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-02-19T21:47:21.203051+00:00",
+      "updated_at": "2026-03-18T08:35:28.283090+00:00",
+      "openstates_url": "https://openstates.org/vt/bills/2025-2026/H289/",
+      "first_action_date": "2025-02-20",
+      "latest_action_date": "2025-02-20",
+      "latest_action_description": "Read first time and referred to the Committee on Energy and Digital Infrastructure",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/6800e9da-20c7-449d-bcf5-d72214d00957",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:vt/government",
+        "name": "Vermont",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/1bba67ba-1a0c-4edc-a9de-32c2e5c13c6e",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 323",
+      "title": "An act relating to mental health programming funded by the Mental Health Innovation Special Fund",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-02-24T19:56:58.325930+00:00",
+      "updated_at": "2026-03-18T08:35:26.733688+00:00",
+      "openstates_url": "https://openstates.org/vt/bills/2025-2026/H323/",
+      "first_action_date": "2025-02-25",
+      "latest_action_date": "2025-02-26",
+      "latest_action_description": "Rep. Wood of Waterbury moved that the Committee on Human Services be relieved of the bill and that the same be committed to the Committee on Health Care, which was agreed to",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 99,
+    "total_items": 983
+  }
+}

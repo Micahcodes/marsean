@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/74ce160c-95ba-4c5a-bc8a-bf5ad0c51461",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d711b9b2-6668-470d-83a7-92d73b24f94a",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HR 118",
+      "title": "TAX/INCOME-CREDIT: Creates a legislative subcommittee to study the potential establishment of a state income tax credit for certain water utility customers",
+      "classification": [
+        "resolution"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-09T22:44:56.428462+00:00",
+      "updated_at": "2026-04-09T22:44:56.726216+00:00",
+      "openstates_url": "https://openstates.org/la/bills/2026/HR118/",
+      "first_action_date": "2026-04-09",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Read by title.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/dc82b0da-9e3f-4ab9-ab14-06f0c43f0347",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d711b9b2-6668-470d-83a7-92d73b24f94a",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1134",
+      "title": "RETIREMENT/STATE EMPS: Creates the Back-Deferred Retirement Option Program within the Louisiana State Employees' Retirement System (OR SEE ACTUARIAL NOTE APV)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-03-31T21:08:36.428426+00:00",
+      "updated_at": "2026-04-09T22:43:53.169976+00:00",
+      "openstates_url": "https://openstates.org/la/bills/2026/HB1134/",
+      "first_action_date": "2026-04-01",
+      "latest_action_date": "2026-04-01",
+      "latest_action_description": "Read by title, under the rules, referred to the Committee on Retirement.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/85cd688f-a0ff-4c17-be39-01817c473b71",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ebc2f274-ac99-40a5-ae55-19e896936bc7",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SCR 19",
+      "title": "TRUSTS: Requests the Louisiana State Law Institute to study the use of trusts with extended durations and report its findings and any recommendations for revisions to the Louisiana Trust Code and applicable Louisiana laws to the legislature.",
+      "classification": [
+        "concurrent resolution"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-03-25T23:57:04.736783+00:00",
+      "updated_at": "2026-04-09T22:42:37.908165+00:00",
+      "openstates_url": "https://openstates.org/la/bills/2026/SCR19/",
+      "first_action_date": "2026-03-30",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Read by title.  Lies over under the rules.",
+      "latest_passage_date": "2026-04-08"
+    },
+    {
+      "id": "ocd-bill/96082542-423c-4b39-b0b5-a8a2faccf127",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d711b9b2-6668-470d-83a7-92d73b24f94a",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 477",
+      "title": "INSURANCE/HEALTH: Modifies provisions of law regarding health insurance coverage of prosthetic and custom orthotic devices and services (OR INCREASE  EX See Note)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-26T20:55:45.845061+00:00",
+      "updated_at": "2026-04-09T22:41:04.780767+00:00",
+      "openstates_url": "https://openstates.org/la/bills/2026/HB477/",
+      "first_action_date": "2026-02-26",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Becomes HB 1235.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/7787581c-bc79-4379-ae31-2947e501b2f8",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d711b9b2-6668-470d-83a7-92d73b24f94a",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 987",
+      "title": "HIGHER EDUCATION: Realigns energy-related programs by moving the Louisiana Geological Survey under the Louisiana State University Energy Institute (EG NO IMPACT   See Note)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-03-19T22:18:37.132800+00:00",
+      "updated_at": "2026-04-09T22:39:02.639655+00:00",
+      "openstates_url": "https://openstates.org/la/bills/2026/HB987/",
+      "first_action_date": "2026-03-24",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Read third time by title, roll called on final passage, yeas 97, nays 0. Finally passed, title adopted, ordered to the Senate.",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/76004371-d483-4973-9f61-8e06b18506ac",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ebc2f274-ac99-40a5-ae55-19e896936bc7",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 34",
+      "title": "PUBLIC SFTY/CORRECT DEPT: Provides relative to alerts for missing persons. (gov sig) (EG NO IMPACT   See Note)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-06T20:11:04.532217+00:00",
+      "updated_at": "2026-04-09T22:38:12.208390+00:00",
+      "openstates_url": "https://openstates.org/la/bills/2026/SB34/",
+      "first_action_date": "2026-02-06",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Read by title and returned to the Calendar, subject to call.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/440a275c-cccb-49a6-b203-9d0c06f2b768",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d711b9b2-6668-470d-83a7-92d73b24f94a",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 915",
+      "title": "MEDICAID: Provides with respect to utilization management practices (EG SEE FISC NOTE GF EX See Note)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-27T23:36:56.764315+00:00",
+      "updated_at": "2026-04-09T22:35:28.191177+00:00",
+      "openstates_url": "https://openstates.org/la/bills/2026/HB915/",
+      "first_action_date": "2026-02-27",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Read by title, returned to the calendar.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/b6a3d869-ab20-4899-8d91-15a5dc93a968",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d711b9b2-6668-470d-83a7-92d73b24f94a",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1011",
+      "title": "JURY DUTY: Permits jurors to donate their per diem compensation to the formal program of Court Appointed Special Advocates (CASA)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-03-25T23:58:59.040827+00:00",
+      "updated_at": "2026-04-09T22:34:00.931945+00:00",
+      "openstates_url": "https://openstates.org/la/bills/2026/HB1011/",
+      "first_action_date": "2026-03-26",
+      "latest_action_date": "2026-03-26",
+      "latest_action_description": "Read by title, under the rules, referred to the Committee on Judiciary.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/2df2a9ef-479a-4af0-bfbe-cd8e1534b3f5",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d711b9b2-6668-470d-83a7-92d73b24f94a",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 616",
+      "title": "MENTAL HEALTH: Provides for oversight of publicly funded homeless service providers",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-27T03:04:51.033337+00:00",
+      "updated_at": "2026-04-09T22:33:20.203819+00:00",
+      "openstates_url": "https://openstates.org/la/bills/2026/HB616/",
+      "first_action_date": "2026-02-26",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Read by title, ordered engrossed, passed to 3rd reading.",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/6be072f6-669e-47bb-b4cb-5eb61a311494",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:la/government",
+        "name": "Louisiana",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/d711b9b2-6668-470d-83a7-92d73b24f94a",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 665",
+      "title": "FISHING/NETS: Prohibits hoop nets and seines from being utilized in North Pass and Manchac Pass",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-27T17:14:18.729497+00:00",
+      "updated_at": "2026-04-09T22:33:19.607884+00:00",
+      "openstates_url": "https://openstates.org/la/bills/2026/HB665/",
+      "first_action_date": "2026-02-27",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Read third time by title, roll called on final passage, yeas 93, nays 2. Finally passed, title adopted, ordered to the Senate.",
+      "latest_passage_date": "2026-04-09"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 142,
+    "total_items": 1415
+  }
+}

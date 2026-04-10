@@ -1,0 +1,298 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/f4b7036e-e7d1-45a0-87de-957e887ecbe2",
+      "session": "153",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/378d45a3-b3f9-41d5-b4f1-6fcf2979666c",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HCR 108",
+      "title": "CELEBRATING DEMEC DAY AND RECOGNIZING THE DELAWARE MUNICIPAL ELECTRIC CORPORATION AND THE COMMUNITY-OWNED NOT FOR PROFIT ELECTRIC UTILITIES THROUGHOUT DELAWARE.",
+      "classification": [
+        "concurrent resolution"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-03-24T20:29:20.295686+00:00",
+      "updated_at": "2026-03-26T02:58:07.825446+00:00",
+      "openstates_url": "https://openstates.org/de/bills/153/HCR108/",
+      "first_action_date": "2026-03-24",
+      "latest_action_date": "2026-03-25",
+      "latest_action_description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "latest_passage_date": "2026-03-25"
+    },
+    {
+      "id": "ocd-bill/5bd20c6c-f92a-4d2b-93f0-215458f8e83a",
+      "session": "153",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/099db7ce-13e0-4865-98ef-9787f65705c4",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 192",
+      "title": "AN ACT TO AMEND TITLE 26 OF THE DELAWARE CODE RELATING TO PUBLIC UTILITIES.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-06-25T02:22:55.681392+00:00",
+      "updated_at": "2026-03-26T02:56:37.321399+00:00",
+      "openstates_url": "https://openstates.org/de/bills/153/SB192/",
+      "first_action_date": "2025-06-24",
+      "latest_action_date": "2026-03-25",
+      "latest_action_description": "Reported Out of Committee (Elections & Government Affairs) in Senate with 2 Favorable, 2 On Its Merits",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/026818a4-ec50-4a98-b4bd-6daefe8627ba",
+      "session": "153",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/378d45a3-b3f9-41d5-b4f1-6fcf2979666c",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 186",
+      "title": "AN ACT TO AMEND TITLE 30 OF THE DELAWARE CODE RELATING TO BUSINESS TAX CREDITS AND DEDUCTIONS FOR ELECTRICITY PRODUCTION.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "amendment": "HA 1"
+      },
+      "created_at": "2025-06-05T16:26:38.383242+00:00",
+      "updated_at": "2026-03-18T21:46:36.862744+00:00",
+      "openstates_url": "https://openstates.org/de/bills/153/HB186/",
+      "first_action_date": "2025-06-05",
+      "latest_action_date": "2026-03-18",
+      "latest_action_description": "Not Worked in Committee",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/9e2faf6b-da85-4b47-af8b-79d8ea93ae25",
+      "session": "153",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/099db7ce-13e0-4865-98ef-9787f65705c4",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 239",
+      "title": "AN ACT TO AMEND TITLE 26 OF THE DELAWARE CODE RELATING TO PUBLIC UTILITIES AND NET METERING.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-19T20:30:25.166348+00:00",
+      "updated_at": "2026-03-18T18:48:05.174618+00:00",
+      "openstates_url": "https://openstates.org/de/bills/153/SB239/",
+      "first_action_date": "2026-02-19",
+      "latest_action_date": "2026-03-18",
+      "latest_action_description": "Assigned to Natural Resources & Energy Committee in House",
+      "latest_passage_date": "2026-03-17"
+    },
+    {
+      "id": "ocd-bill/0354ecba-e473-4ff9-bae6-bcfc53d69276",
+      "session": "153",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/099db7ce-13e0-4865-98ef-9787f65705c4",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 210",
+      "title": "AN ACT TO AMEND TITLE 26 OF THE DELAWARE CODE RELATING TO PUBLIC UTILITIES.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-12-18T20:24:33.945669+00:00",
+      "updated_at": "2026-03-17T22:23:56.502917+00:00",
+      "openstates_url": "https://openstates.org/de/bills/153/SB210/",
+      "first_action_date": "2025-12-18",
+      "latest_action_date": "2026-03-16",
+      "latest_action_description": "Signed by Governor",
+      "latest_passage_date": "2026-03-12"
+    },
+    {
+      "id": "ocd-bill/70b3216c-1334-41f2-aacd-8df7f11a982b",
+      "session": "153",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/099db7ce-13e0-4865-98ef-9787f65705c4",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 102",
+      "title": "AN ACT TO AMEND TITLE 24 OF THE DELAWARE CODE RELATING TO THE BOARD OF ELECTRICAL EXAMINERS.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "amendment": "SA 1"
+      },
+      "created_at": "2025-04-10T00:07:56.543887+00:00",
+      "updated_at": "2026-03-17T20:31:21.394501+00:00",
+      "openstates_url": "https://openstates.org/de/bills/153/SB102/",
+      "first_action_date": "2025-04-09",
+      "latest_action_date": "2025-09-25",
+      "latest_action_description": "Signed by Governor",
+      "latest_passage_date": "2025-06-26"
+    },
+    {
+      "id": "ocd-bill/76796ec1-b898-485d-8722-a418033aa124",
+      "session": "153",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/378d45a3-b3f9-41d5-b4f1-6fcf2979666c",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HJR 7",
+      "title": "DIRECTING THE ARTIFICIAL INTELLIGENCE COMMISSION TO WORK IN COLLABORATION WITH THE SECRETARY OF STATE TO CREATE A REGULATORY SANDBOX FRAMEWORK FOR THE TESTING OF INNOVATIVE AND NOVEL TECHNOLOGIES THAT UTILIZE AGENTIC ARTIFICIAL INTELLIGENCE.",
+      "classification": [
+        "joint resolution"
+      ],
+      "subject": [],
+      "extras": {
+        "amendment": "HA 1"
+      },
+      "created_at": "2025-06-25T18:22:41.628278+00:00",
+      "updated_at": "2026-03-17T20:31:01.530925+00:00",
+      "openstates_url": "https://openstates.org/de/bills/153/HJR7/",
+      "first_action_date": "2025-06-25",
+      "latest_action_date": "2025-07-23",
+      "latest_action_description": "Signed by Governor",
+      "latest_passage_date": "2025-06-30"
+    },
+    {
+      "id": "ocd-bill/e80060c9-0b85-4f39-9661-9e24d55f66a9",
+      "session": "153",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/099db7ce-13e0-4865-98ef-9787f65705c4",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 59",
+      "title": "AN ACT TO AMEND TITLE 26 OF THE DELAWARE CODE RELATING TO PUBLIC UTILITIES AND UTILITY RATES.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-02-21T20:04:11.403421+00:00",
+      "updated_at": "2026-03-17T20:28:55.113326+00:00",
+      "openstates_url": "https://openstates.org/de/bills/153/SB59/",
+      "first_action_date": "2025-02-21",
+      "latest_action_date": "2025-07-16",
+      "latest_action_description": "Signed by Governor",
+      "latest_passage_date": "2025-06-26"
+    },
+    {
+      "id": "ocd-bill/12a060f4-27f3-48f3-bdaf-90eb151d99d2",
+      "session": "153",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/099db7ce-13e0-4865-98ef-9787f65705c4",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 242",
+      "title": "AN ACT TO AMEND CHAPTER 78, VOLUME 85 OF THE LAWS OF DELAWARE ENTITLED “AN ACT TO AMEND TITLE 26 OF THE DELAWARE CODE RELATING TO PUBLIC UTILITIES AND UTILITY RATES.”",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-26T20:33:15.957723+00:00",
+      "updated_at": "2026-03-17T20:28:37.536699+00:00",
+      "openstates_url": "https://openstates.org/de/bills/153/SB242/",
+      "first_action_date": "2026-02-26",
+      "latest_action_date": "2026-02-26",
+      "latest_action_description": "Introduced and Assigned to Environment, Energy & Transportation Committee in Senate",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/3b75d52c-056f-451a-ac32-fe8540973e89",
+      "session": "153",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:de/government",
+        "name": "Delaware",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/099db7ce-13e0-4865-98ef-9787f65705c4",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SJR 3",
+      "title": "DIRECTING ALL ELECTRIC PUBLIC UTILITIES IN DELAWARE TO PARTICIPATE IN A STUDY TO BE UNDERTAKEN BY THE DELAWARE SUSTAINABLE ENERGY UTILITY TO ASSESS AND ANALYZE THE COSTS AND BENEFITS OF THE ADOPTION OF ENERGY STORAGE SYSTEMS IN DELAWARE, AND DIRECTING THE DELAWARE SUSTAINABLE ENERGY UTILITY TO CONDUCT A PILOT PROGRAM WITH THE PARTICIPATION AND COOPERATION OF CERTAIN ELECTRIC UTILITIES TO DEVELOP AND DEPLOY PILOT PROJECTS INVOLVING BATTERY STORAGE SYSTEMS IN DELAWARE.",
+      "classification": [
+        "joint resolution"
+      ],
+      "subject": [],
+      "extras": {
+        "amendment": "SA 2"
+      },
+      "created_at": "2025-03-21T18:05:44.444242+00:00",
+      "updated_at": "2026-03-17T20:28:19.104792+00:00",
+      "openstates_url": "https://openstates.org/de/bills/153/SJR3/",
+      "first_action_date": "2025-03-21",
+      "latest_action_date": "2025-07-16",
+      "latest_action_description": "Signed by Governor",
+      "latest_passage_date": "2025-07-01"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 52,
+    "total_items": 518
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/b688fc3f-4b4e-46c9-bdb6-8af96c5f34df",
+      "session": "2026rs",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:al/government",
+        "name": "Alabama",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/74ad748b-f0a1-408f-9aa6-3319a868fd55",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HJR 306",
+      "title": "Representative Brett Easterbrook, commended",
+      "classification": [
+        "resolution"
+      ],
+      "subject": [
+        "Resolutions"
+      ],
+      "extras": {
+        "AL_BILL_ID": "29195297"
+      },
+      "created_at": "2026-04-01T00:34:24.334477+00:00",
+      "updated_at": "2026-04-10T00:38:16.614316+00:00",
+      "openstates_url": "https://openstates.org/al/bills/2026rs/HJR306/",
+      "first_action_date": "2026-03-31T04:00:00+00:00",
+      "latest_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_description": "Reported from RULES (RULES)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/edcaef56-29ed-4b33-91ab-d964f8045459",
+      "session": "2026rs",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:al/government",
+        "name": "Alabama",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/74ad748b-f0a1-408f-9aa6-3319a868fd55",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 496",
+      "title": "Class 2 municipalities, foreclosure bidding preference and notice for adjoining owners",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Counties & Municipalities"
+      ],
+      "extras": {
+        "AL_BILL_ID": "24633782"
+      },
+      "created_at": "2026-02-25T00:26:46.062423+00:00",
+      "updated_at": "2026-04-10T00:36:58.900970+00:00",
+      "openstates_url": "https://openstates.org/al/bills/2026rs/HB496/",
+      "first_action_date": "2026-02-24T05:00:00+00:00",
+      "latest_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_description": "Enacted",
+      "latest_passage_date": "2026-04-02T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/6778fc02-2559-4568-b886-8729f640c450",
+      "session": "2026rs",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:al/government",
+        "name": "Alabama",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ddf820b5-5246-46b3-a807-99b5914ad39f",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 292",
+      "title": "Real property; creation of the Alabama Property Protection Act of 2026, title fraud prevention",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Property & Estates"
+      ],
+      "extras": {
+        "AL_BILL_ID": "23252019"
+      },
+      "created_at": "2026-02-11T00:21:28.278675+00:00",
+      "updated_at": "2026-04-10T00:36:31.372447+00:00",
+      "openstates_url": "https://openstates.org/al/bills/2026rs/SB292/",
+      "first_action_date": "2026-02-10T05:00:00+00:00",
+      "latest_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_description": "Judiciary  Engrossed Substitute Offered (Judiciary)",
+      "latest_passage_date": "2026-04-09T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/8ff4ec07-162f-45ce-a421-1f38b3454ba4",
+      "session": "2026rs",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:al/government",
+        "name": "Alabama",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ddf820b5-5246-46b3-a807-99b5914ad39f",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 145",
+      "title": "Hospitals, private hospital assessment and Medicaid funding program sunset clause removed.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Taxation & Revenue"
+      ],
+      "extras": {
+        "AL_BILL_ID": "22163998"
+      },
+      "created_at": "2026-01-15T00:12:18.133154+00:00",
+      "updated_at": "2026-04-10T00:36:30.405484+00:00",
+      "openstates_url": "https://openstates.org/al/bills/2026rs/SB145/",
+      "first_action_date": "2026-01-14T05:00:00+00:00",
+      "latest_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_description": "Enacted",
+      "latest_passage_date": "2026-04-01T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/c1f73edb-6205-4b6e-9d66-f41349680ff8",
+      "session": "2026rs",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:al/government",
+        "name": "Alabama",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/74ad748b-f0a1-408f-9aa6-3319a868fd55",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 399",
+      "title": "Tax abatements for data processing centers, exemption period limited, collection of certain taxes on purchases required, sunset date extended",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Taxation & Revenue"
+      ],
+      "extras": {
+        "AL_BILL_ID": "22810243"
+      },
+      "created_at": "2026-02-05T18:16:25.279638+00:00",
+      "updated_at": "2026-04-10T00:35:19.119755+00:00",
+      "openstates_url": "https://openstates.org/al/bills/2026rs/HB399/",
+      "first_action_date": "2026-02-05T05:00:00+00:00",
+      "latest_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_description": "Fiscal Responsibility and Economic Development 1st Amendment Offered (Fiscal Responsibility and Economic Development)",
+      "latest_passage_date": "2026-04-09T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/646f0552-1281-4a1d-888d-cda95220236e",
+      "session": "2026rs",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:al/government",
+        "name": "Alabama",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ddf820b5-5246-46b3-a807-99b5914ad39f",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 279",
+      "title": "General Contractor Licensing Board; practice of general contracting, exemption expanded",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Authorities"
+      ],
+      "extras": {
+        "AL_BILL_ID": "23241743"
+      },
+      "created_at": "2026-02-10T22:18:59.442290+00:00",
+      "updated_at": "2026-04-10T00:34:15.514676+00:00",
+      "openstates_url": "https://openstates.org/al/bills/2026rs/SB279/",
+      "first_action_date": "2026-02-10T05:00:00+00:00",
+      "latest_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_description": "Enacted",
+      "latest_passage_date": "2026-04-02T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/ce44ef24-6c20-4b8e-835b-84dc87c57dce",
+      "session": "2026rs",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:al/government",
+        "name": "Alabama",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/74ad748b-f0a1-408f-9aa6-3319a868fd55",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 510",
+      "title": "Class 2 municipalities; industrial development boards, powers amended",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Counties & Municipalities"
+      ],
+      "extras": {
+        "AL_BILL_ID": "24747208"
+      },
+      "created_at": "2026-02-26T00:25:43.992008+00:00",
+      "updated_at": "2026-04-10T00:33:56.800199+00:00",
+      "openstates_url": "https://openstates.org/al/bills/2026rs/HB510/",
+      "first_action_date": "2026-02-25T05:00:00+00:00",
+      "latest_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_description": "Enacted",
+      "latest_passage_date": "2026-04-02T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/2b1be8ba-2042-450f-a130-ce041b55d9a4",
+      "session": "2026rs",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:al/government",
+        "name": "Alabama",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/74ad748b-f0a1-408f-9aa6-3319a868fd55",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 565",
+      "title": "Higher education, College and Higher Education Excellence and Results (CHEER) Act  established, bonus funding for eligible institutions authorized based on achievement of performance goals and objectives",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Education"
+      ],
+      "extras": {
+        "AL_BILL_ID": "25437360"
+      },
+      "created_at": "2026-03-04T00:28:50.790694+00:00",
+      "updated_at": "2026-04-10T00:33:55.676584+00:00",
+      "openstates_url": "https://openstates.org/al/bills/2026rs/HB565/",
+      "first_action_date": "2026-03-03T05:00:00+00:00",
+      "latest_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_description": "Enacted",
+      "latest_passage_date": "2026-04-02T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/bf44ac03-f5e6-43ca-b074-f8759f7e0a98",
+      "session": "2026rs",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:al/government",
+        "name": "Alabama",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/74ad748b-f0a1-408f-9aa6-3319a868fd55",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 502",
+      "title": "City of Prichard; Mobile County, expedited quiet title process established",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Mobile County"
+      ],
+      "extras": {
+        "AL_BILL_ID": "24633780"
+      },
+      "created_at": "2026-02-25T00:23:34.129587+00:00",
+      "updated_at": "2026-04-10T00:33:44.099517+00:00",
+      "openstates_url": "https://openstates.org/al/bills/2026rs/HB502/",
+      "first_action_date": "2026-02-24T05:00:00+00:00",
+      "latest_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_description": "Enacted",
+      "latest_passage_date": "2026-04-02T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/b37722c2-1eb8-4fd5-9567-75f8ad5bd99f",
+      "session": "2026rs",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:al/government",
+        "name": "Alabama",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/ddf820b5-5246-46b3-a807-99b5914ad39f",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SJR 77",
+      "title": "Section Boys Basketball Team, commended",
+      "classification": [
+        "resolution"
+      ],
+      "subject": [
+        "Resolutions"
+      ],
+      "extras": {
+        "AL_BILL_ID": "26406119"
+      },
+      "created_at": "2026-03-11T22:25:20.627909+00:00",
+      "updated_at": "2026-04-10T00:33:43.489880+00:00",
+      "openstates_url": "https://openstates.org/al/bills/2026rs/SJR77/",
+      "first_action_date": "2026-03-11T04:00:00+00:00",
+      "latest_action_date": "2026-04-09T04:00:00+00:00",
+      "latest_action_description": "Enacted",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 132,
+    "total_items": 1311
+  }
+}

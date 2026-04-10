@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/3b75dbfc-64e8-479d-927f-64457f1f15b4",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:pa/government",
+        "name": "Pennsylvania",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1615",
+      "title": "An Act amending Titles 42 (Judiciary and Judicial Procedure) and 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in sentencing, further providing for sentence of total confinement; in licensing of drivers, further providing for notice of acceptance of Accelerated Rehabilitative Disposition, for the offense of driving while operating privilege is suspended or revoked and for ignition interlock limited license; in miscellaneous provisions relating to serious traffic offenses, further providing for homicide by vehicle while driving under influence; and, in driving after imbibing alcohol or utilizing drugs, further providing for the offense of driving under influence of alcohol or controlled substance, for grading, for penalties, for ignition interlock, for prior offenses and for Accelerated Rehabilitative Disposition.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-06-16T20:00:03.867603+00:00",
+      "updated_at": "2026-04-09T14:40:18.266541+00:00",
+      "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1615/",
+      "first_action_date": "2025-06-16T04:00:00+00:00",
+      "latest_action_date": "2025-12-22T05:00:00+00:00",
+      "latest_action_description": "Act No. 58 of 2025",
+      "latest_passage_date": "2025-12-09T05:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/4c137e4c-85e9-4c27-8219-3fc9cc99c498",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:pa/government",
+        "name": "Pennsylvania",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9443a886-8032-4502-b99d-551735ec9606",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 101",
+      "title": "An Act amending the act of December 18, 2001 (P.L.949, No.114), known as the Workforce Development Act, in preliminary provisions, further providing for definitions; and, in local workforce development areas and regions and local workforce development boards, further providing for plan, functions and responsibilities and providing for technical assistance and data availability and for local performance accountability.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-23T00:50:01.896450+00:00",
+      "updated_at": "2026-04-09T14:38:29.288886+00:00",
+      "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB101/",
+      "first_action_date": "2025-01-22T05:00:00+00:00",
+      "latest_action_date": "2025-06-25T04:00:00+00:00",
+      "latest_action_description": "Referred to Labor & Industry",
+      "latest_passage_date": "2025-06-25T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/73055769-98df-435b-b47f-f3219faee3bc",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:pa/government",
+        "name": "Pennsylvania",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9443a886-8032-4502-b99d-551735ec9606",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 89",
+      "title": "An Act amending the act of November 3, 2022 (P.L.2158, No.158), known as the Overdose Mapping Act, further providing for definitions and for establishment and design; and providing for entry requirements for EMS providers.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-23T00:48:53.618179+00:00",
+      "updated_at": "2026-04-09T14:37:32.885171+00:00",
+      "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB89/",
+      "first_action_date": "2025-01-22T05:00:00+00:00",
+      "latest_action_date": "2025-06-30T04:00:00+00:00",
+      "latest_action_description": "Act No. 18 of 2025",
+      "latest_passage_date": "2025-06-26T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/960574c6-2a28-4948-ac39-f2eade1c803d",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:pa/government",
+        "name": "Pennsylvania",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1191",
+      "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in railroads, providing for prohibition on blocking of crossings, for limitation on length of freight or work trains, for authorization to monitor safety practices and operations by collective bargaining representatives, for safe staffing levels for trains or light engines, for wayside detector systems, for study of transportation of hazardous materials or waste, for reporting system for transportation of hazardous materials or waste and for hazard impact assessment; and imposing penalties.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-04-10T16:11:42.934689+00:00",
+      "updated_at": "2026-04-09T14:26:03.694077+00:00",
+      "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1191/",
+      "first_action_date": "2025-04-15T04:00:00+00:00",
+      "latest_action_date": "2026-03-30T04:00:00+00:00",
+      "latest_action_description": "Referred to Consumer Protection & Professional Licensure",
+      "latest_passage_date": "2026-03-25T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/e775dfa8-bc1c-40a4-a5e7-d2307a0a89a7",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:pa/government",
+        "name": "Pennsylvania",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9443a886-8032-4502-b99d-551735ec9606",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 780",
+      "title": "An Act amending Title 68 (Real and Personal Property) of the Pennsylvania Consolidated Statutes, in uses of property, providing for encampments.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-05-27T22:17:51.713867+00:00",
+      "updated_at": "2026-04-09T14:19:46.956418+00:00",
+      "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB780/",
+      "first_action_date": "2025-05-27T04:00:00+00:00",
+      "latest_action_date": "2025-06-25T04:00:00+00:00",
+      "latest_action_description": "Referred to Local Government",
+      "latest_passage_date": "2025-06-25T04:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/6a01fa88-a5b5-42c7-8a14-64dbdaf2f131",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:pa/government",
+        "name": "Pennsylvania",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9443a886-8032-4502-b99d-551735ec9606",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 88",
+      "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in casualty insurance, repealing provisions relating to coverage for mammographic examinations and breast imaging and providing for coverage for mammographic examinations, magnetic resonance imaging and other forms of breast imaging.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-06-07T02:16:32.869778+00:00",
+      "updated_at": "2026-04-09T02:39:40.059421+00:00",
+      "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB88/",
+      "first_action_date": "2025-06-06T04:00:00+00:00",
+      "latest_action_date": "2025-11-24T05:00:00+00:00",
+      "latest_action_description": "Act No. 52 of 2025",
+      "latest_passage_date": "2025-11-19T05:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/f81f889b-8fbb-4dbf-a3a4-f53d53b09628",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:pa/government",
+        "name": "Pennsylvania",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9443a886-8032-4502-b99d-551735ec9606",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 11",
+      "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code,  in the Secretary of the Commonwealth, further providing for powers and duties of the Secretary of the Commonwealth; in primary and election expenses, further providing for definitions, for organization of political committees, treasurer and assistant treasurer and records of candidate and committees, for registration and for reporting by candidate and political committees and other persons, providing for limitations on certain contributions, further providing for residual funds, for late filing fee and certificate of filing, for contributions or expenditures by national banks, corporations or unincorporated associations, for advertising and for reports by business entities and publication by Secretary of the Commonwealth and providing for independent expenditures and for independent expenditure evaluation; and providing for corporate political accountability.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-08-26T07:29:49.213613+00:00",
+      "updated_at": "2026-04-09T02:35:51.151745+00:00",
+      "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB11/",
+      "first_action_date": "2025-08-25T04:00:00+00:00",
+      "latest_action_date": "2025-08-25T04:00:00+00:00",
+      "latest_action_description": "Referred to State Government",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/0851689d-9869-4f75-9c5b-0b34555c4e9f",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:pa/government",
+        "name": "Pennsylvania",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2264",
+      "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in restructuring of electric utility industry, providing for virtual power plant program.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-03-05T14:26:29.490394+00:00",
+      "updated_at": "2026-04-09T02:35:45.966576+00:00",
+      "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2264/",
+      "first_action_date": "2026-03-05T05:00:00+00:00",
+      "latest_action_date": "2026-03-05T05:00:00+00:00",
+      "latest_action_description": "Referred to Energy",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/f2c69edd-3930-466b-a23a-1f9c8abab500",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:pa/government",
+        "name": "Pennsylvania",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9443a886-8032-4502-b99d-551735ec9606",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 583",
+      "title": "An Act authorizing the Commonwealth of Pennsylvania to join the Social Work Licensure Compact; and providing for the form of the compact.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-04-09T20:09:15.257495+00:00",
+      "updated_at": "2026-04-09T02:35:13.156591+00:00",
+      "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB583/",
+      "first_action_date": "2025-04-09T04:00:00+00:00",
+      "latest_action_date": "2025-10-06T04:00:00+00:00",
+      "latest_action_description": "Laid on the table (Pursuant to Senate Rule 9)",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/0e92d608-94b5-4cba-bf03-b6442626725a",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:pa/government",
+        "name": "Pennsylvania",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1200",
+      "title": "An Act providing for the regulation and treatment of cannabis, for exemption from criminal or civil penalties, for effect on cannabis convictions and expungements and for membership and duties of the Liquor Control Board; establishing Pennsylvania Cannabis Stores; providing for social and economic equity, for license, permit or other authorization, for packaging, labeling, advertising and testing, for recordkeeping and inspection, for prohibitions and penalties and for tax and tax administration; establishing the Cannabis Revenue Fund, the Communities Reimagined and Reinvestment Restricted Account and the Substance Use Disorder Prevention, Treatment and Education Restricted Account; providing for the issuance of bonds; imposing duties on the Department of Agriculture and the Department of Revenue; and making repeals.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-05-04T22:40:49.269902+00:00",
+      "updated_at": "2026-04-09T02:26:48.912621+00:00",
+      "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1200/",
+      "first_action_date": "2025-05-04T04:00:00+00:00",
+      "latest_action_date": "2025-05-13T04:00:00+00:00",
+      "latest_action_description": "Motion to report defeated",
+      "latest_passage_date": "2025-05-07T04:00:00+00:00"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 350,
+    "total_items": 3494
+  }
+}

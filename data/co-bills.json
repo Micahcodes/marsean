@@ -1,0 +1,321 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/c22a8cc4-bdb8-47c0-b69f-42d46900f5db",
+      "session": "2026A",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:co/government",
+        "name": "Colorado",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e047d0e5-2c93-4e39-bea3-04c0d9d11b20",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1411",
+      "title": "Changes to Cover All Coloradans Program",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Health Care & Health Insurance"
+      ],
+      "extras": {},
+      "created_at": "2026-04-07T01:32:22.107867+00:00",
+      "updated_at": "2026-04-09T21:38:15.877704+00:00",
+      "openstates_url": "https://openstates.org/co/bills/2026A/HB1411/",
+      "first_action_date": "2026-04-06",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "House Second Reading Special Order - Laid Over Daily - No Amendments",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/e0006200-df52-468e-8ae7-e7ff1af86787",
+      "session": "2026A",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:co/government",
+        "name": "Colorado",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e047d0e5-2c93-4e39-bea3-04c0d9d11b20",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1362",
+      "title": "Repeal Decarbonization Tax Credits Administration Fund",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "State Government",
+        "State Revenue & Budget"
+      ],
+      "extras": {},
+      "created_at": "2026-04-03T01:30:02.259400+00:00",
+      "updated_at": "2026-04-09T21:35:50.120471+00:00",
+      "openstates_url": "https://openstates.org/co/bills/2026A/HB1362/",
+      "first_action_date": "2026-04-02",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "House Second Reading Special Order - Passed - No Amendments",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/d3ff5e30-9e59-4829-91a1-eba189925c0e",
+      "session": "2026A",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:co/government",
+        "name": "Colorado",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e047d0e5-2c93-4e39-bea3-04c0d9d11b20",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1268",
+      "title": "Renewable Energy Development on Disturbed Lands",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Energy",
+        "Local Government"
+      ],
+      "extras": {},
+      "created_at": "2026-02-20T17:01:41.803253+00:00",
+      "updated_at": "2026-04-09T21:35:42.503557+00:00",
+      "openstates_url": "https://openstates.org/co/bills/2026A/HB1268/",
+      "first_action_date": "2026-02-19",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Senate Second Reading Passed with Amendments - Floor",
+      "latest_passage_date": "2026-03-16"
+    },
+    {
+      "id": "ocd-bill/fa607196-7f3d-436a-86a1-bd3e57ba8789",
+      "session": "2026A",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:co/government",
+        "name": "Colorado",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e047d0e5-2c93-4e39-bea3-04c0d9d11b20",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1213",
+      "title": "Sunset Biomass Utilization Grant Program",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Natural Resources & Environment",
+        "State Government"
+      ],
+      "extras": {},
+      "created_at": "2026-02-18T01:01:22.415939+00:00",
+      "updated_at": "2026-04-09T21:35:16.589607+00:00",
+      "openstates_url": "https://openstates.org/co/bills/2026A/HB1213/",
+      "first_action_date": "2026-02-17",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Senate Committee on Agriculture & Natural Resources Refer Unamended - Consent Calendar to Senate Committee of the Whole",
+      "latest_passage_date": "2026-03-10"
+    },
+    {
+      "id": "ocd-bill/b341f1ca-1d59-43b4-944e-4c7b949279f4",
+      "session": "2026A",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:co/government",
+        "name": "Colorado",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e047d0e5-2c93-4e39-bea3-04c0d9d11b20",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1116",
+      "title": "Process for People with Behavioral Health Disorder",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Civil Law",
+        "Courts & Judicial",
+        "Health Care & Health Insurance",
+        "Human Services"
+      ],
+      "extras": {},
+      "created_at": "2026-02-05T04:53:36.746016+00:00",
+      "updated_at": "2026-04-09T21:35:14.369023+00:00",
+      "openstates_url": "https://openstates.org/co/bills/2026A/HB1116/",
+      "first_action_date": "2026-02-04",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Senate Committee on Health & Human Services Refer Unamended - Consent Calendar to Senate Committee of the Whole",
+      "latest_passage_date": "2026-03-16"
+    },
+    {
+      "id": "ocd-bill/4022f8f5-6f89-47c8-b866-6d17e5233635",
+      "session": "2026A",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:co/government",
+        "name": "Colorado",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e047d0e5-2c93-4e39-bea3-04c0d9d11b20",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1113",
+      "title": "Modifications to Elections",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Elections & Redistricting"
+      ],
+      "extras": {},
+      "created_at": "2026-02-04T16:52:16.041775+00:00",
+      "updated_at": "2026-04-09T21:35:01.695149+00:00",
+      "openstates_url": "https://openstates.org/co/bills/2026A/HB1113/",
+      "first_action_date": "2026-02-03",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Senate Committee on State, Veterans, & Military Affairs Refer Amended to Appropriations",
+      "latest_passage_date": "2026-03-03"
+    },
+    {
+      "id": "ocd-bill/62f9e9a9-c7f6-4bbe-bc85-60c51f5e97b9",
+      "session": "2026A",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:co/government",
+        "name": "Colorado",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98d43d46-9571-4a40-9007-581d84d41bb8",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 149",
+      "title": "Pathways for Individuals with Mental Health Disorder",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Civil Law",
+        "Courts & Judicial",
+        "Crimes, Corrections, & Enforcement",
+        "Human Services"
+      ],
+      "extras": {},
+      "created_at": "2026-03-26T17:26:50.417698+00:00",
+      "updated_at": "2026-04-09T21:34:44.895032+00:00",
+      "openstates_url": "https://openstates.org/co/bills/2026A/SB149/",
+      "first_action_date": "2026-03-26",
+      "latest_action_date": "2026-03-26",
+      "latest_action_description": "Introduced In Senate - Assigned to Judiciary",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/56391829-447c-49a6-b1b9-c280253a49b1",
+      "session": "2026A",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:co/government",
+        "name": "Colorado",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e047d0e5-2c93-4e39-bea3-04c0d9d11b20",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1360",
+      "title": "Affordable Housing Financing Fund",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Housing",
+        "State Government",
+        "State Revenue & Budget"
+      ],
+      "extras": {},
+      "created_at": "2026-04-03T01:29:26.555843+00:00",
+      "updated_at": "2026-04-09T17:33:46.002495+00:00",
+      "openstates_url": "https://openstates.org/co/bills/2026A/HB1360/",
+      "first_action_date": "2026-04-02",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "House Second Reading Special Order - Passed - No Amendments",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/b789c5fb-8c76-4d81-8495-4920b61f7409",
+      "session": "2026A",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:co/government",
+        "name": "Colorado",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/98d43d46-9571-4a40-9007-581d84d41bb8",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 113",
+      "title": "Require Recovery Residences to Obtain Behavioral Health Administration License",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Health Care & Health Insurance"
+      ],
+      "extras": {},
+      "created_at": "2026-02-13T00:58:19.234149+00:00",
+      "updated_at": "2026-04-09T17:33:34.765023+00:00",
+      "openstates_url": "https://openstates.org/co/bills/2026A/SB113/",
+      "first_action_date": "2026-02-12",
+      "latest_action_date": "2026-04-07",
+      "latest_action_description": "House Committee on Health & Human Services Refer Amended to Finance",
+      "latest_passage_date": "2026-03-25"
+    },
+    {
+      "id": "ocd-bill/983ec788-71e7-4c66-97b1-4e085a371a84",
+      "session": "2026A",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:co/government",
+        "name": "Colorado",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/e047d0e5-2c93-4e39-bea3-04c0d9d11b20",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 1224",
+      "title": "Protections for Mobile Home Park Residents",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "Housing"
+      ],
+      "extras": {},
+      "created_at": "2026-02-19T16:12:42.567412+00:00",
+      "updated_at": "2026-04-09T05:36:53.196715+00:00",
+      "openstates_url": "https://openstates.org/co/bills/2026A/HB1224/",
+      "first_action_date": "2026-02-18",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "House Second Reading Laid Over Daily - No Amendments",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 144,
+    "total_items": 1435
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/5d9785ef-de7f-4f69-8966-2584dc784233",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sc/government",
+        "name": "South Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/11144d16-6b61-4e2a-94fe-6f9c24e36193",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 3856",
+      "title": "Department of Motor Vehicles",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-01-30T20:37:31.739448+00:00",
+      "updated_at": "2026-04-08T23:33:31.919499+00:00",
+      "openstates_url": "https://openstates.org/sc/bills/2025-2026/H3856/",
+      "first_action_date": "2025-01-30",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "Signed By Governor",
+      "latest_passage_date": "2026-03-31"
+    },
+    {
+      "id": "ocd-bill/844f31e6-72e3-4e19-b812-89232f69d167",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sc/government",
+        "name": "South Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/11144d16-6b61-4e2a-94fe-6f9c24e36193",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 3967",
+      "title": "Bioenergy; Forest Products",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-02-12T22:40:58.359897+00:00",
+      "updated_at": "2026-04-08T23:23:05.267255+00:00",
+      "openstates_url": "https://openstates.org/sc/bills/2025-2026/H3967/",
+      "first_action_date": "2025-02-12",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "Signed By Governor",
+      "latest_passage_date": "2026-03-26"
+    },
+    {
+      "id": "ocd-bill/7d41e9c2-7b55-4e2a-b74c-8d0e01e33377",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sc/government",
+        "name": "South Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/705ec497-4b18-4a39-a0e0-ce114a2f3c78",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "S 1095",
+      "title": "Prohibit Abortions",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-04-02T07:14:14.880371+00:00",
+      "updated_at": "2026-04-07T23:22:17.188501+00:00",
+      "openstates_url": "https://openstates.org/sc/bills/2025-2026/S1095/",
+      "first_action_date": "2026-04-01",
+      "latest_action_date": "2026-04-07",
+      "latest_action_description": "Scrivener's error corrected",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/e37c3e25-41e7-4345-95f5-c23847459a35",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sc/government",
+        "name": "South Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/11144d16-6b61-4e2a-94fe-6f9c24e36193",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 4764",
+      "title": "Immigration",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-12-18T10:25:50.346811+00:00",
+      "updated_at": "2026-04-07T23:18:48.239422+00:00",
+      "openstates_url": "https://openstates.org/sc/bills/2025-2026/H4764/",
+      "first_action_date": "2025-12-16",
+      "latest_action_date": "2026-04-07",
+      "latest_action_description": "Referred to Committee on Judiciary",
+      "latest_passage_date": "2026-04-02"
+    },
+    {
+      "id": "ocd-bill/9b8a333c-8c5e-4cca-ac2a-ea90cee99ea1",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sc/government",
+        "name": "South Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/11144d16-6b61-4e2a-94fe-6f9c24e36193",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 4817",
+      "title": "Insurance Rate Reduction and Policy Holder Protection Act",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-12-18T10:18:35.432831+00:00",
+      "updated_at": "2026-04-07T23:09:11.845235+00:00",
+      "openstates_url": "https://openstates.org/sc/bills/2025-2026/H4817/",
+      "first_action_date": "2025-12-16",
+      "latest_action_date": "2026-04-07",
+      "latest_action_description": "Referred to Committee on Banking and Insurance",
+      "latest_passage_date": "2026-04-02"
+    },
+    {
+      "id": "ocd-bill/6317ad80-3070-4142-8036-ad06453e74a5",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sc/government",
+        "name": "South Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/705ec497-4b18-4a39-a0e0-ce114a2f3c78",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "S 893",
+      "title": "SUPERB Law",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-05T10:59:46.420430+00:00",
+      "updated_at": "2026-04-03T07:40:48.487133+00:00",
+      "openstates_url": "https://openstates.org/sc/bills/2025-2026/S893/",
+      "first_action_date": "2026-02-04",
+      "latest_action_date": "2026-04-02",
+      "latest_action_description": "Referred to Committee on Ways and Means",
+      "latest_passage_date": "2026-04-02"
+    },
+    {
+      "id": "ocd-bill/6642778d-16d1-4901-a952-d561afe23528",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sc/government",
+        "name": "South Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/11144d16-6b61-4e2a-94fe-6f9c24e36193",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 5111",
+      "title": "Public Water System Connections",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-02-06T03:49:35.103891+00:00",
+      "updated_at": "2026-04-03T07:39:30.823604+00:00",
+      "openstates_url": "https://openstates.org/sc/bills/2025-2026/H5111/",
+      "first_action_date": "2026-02-05",
+      "latest_action_date": "2026-04-02",
+      "latest_action_description": "Committee report: Favorable with amendment Agriculture, Natural Resources and Environmental Affairs",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/6bbabb5e-c2bd-4cd9-86e9-eb7988106077",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sc/government",
+        "name": "South Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/11144d16-6b61-4e2a-94fe-6f9c24e36193",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 5309",
+      "title": "Interstate Teacher Mobility Compact",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-03-05T06:30:25.931711+00:00",
+      "updated_at": "2026-04-03T07:37:30.626530+00:00",
+      "openstates_url": "https://openstates.org/sc/bills/2025-2026/H5309/",
+      "first_action_date": "2026-03-04",
+      "latest_action_date": "2026-04-02",
+      "latest_action_description": "Committee report: Favorable Education and Public Works",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/b3cb33f2-594e-46ac-a293-307e6da9af7f",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sc/government",
+        "name": "South Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/705ec497-4b18-4a39-a0e0-ce114a2f3c78",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "S 463",
+      "title": "Public Boat Landings",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-03-19T04:04:26.940600+00:00",
+      "updated_at": "2026-04-03T07:32:45.628857+00:00",
+      "openstates_url": "https://openstates.org/sc/bills/2025-2026/S463/",
+      "first_action_date": "2025-03-18",
+      "latest_action_date": "2026-04-02",
+      "latest_action_description": "Committee report: Favorable Agriculture, Natural Resources and Environmental Affairs",
+      "latest_passage_date": "2025-04-16"
+    },
+    {
+      "id": "ocd-bill/321a1982-e1de-440e-a4d7-94af1a2af806",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:sc/government",
+        "name": "South Carolina",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/11144d16-6b61-4e2a-94fe-6f9c24e36193",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "H 5069",
+      "title": "SC Protected Lands and Conservation Coordination Act",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-30T11:02:51.830393+00:00",
+      "updated_at": "2026-04-03T07:31:39.746491+00:00",
+      "openstates_url": "https://openstates.org/sc/bills/2025-2026/H5069/",
+      "first_action_date": "2026-01-29",
+      "latest_action_date": "2026-04-02",
+      "latest_action_description": "Committee report: Favorable Ways and Means",
+      "latest_passage_date": ""
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 167,
+    "total_items": 1665
+  }
+}

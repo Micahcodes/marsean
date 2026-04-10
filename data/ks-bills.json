@@ -1,0 +1,310 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/17c47d1f-c8ad-4abc-af04-799ef16ff774",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/31d2e44e-f94c-4971-83ea-e1fe29613c73",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2513",
+      "title": "Authorizing payment of certain claims against the state, making appropriations therefor and authorizing certain transfers.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "enacted"
+      },
+      "created_at": "2026-01-23T08:36:10.816009+00:00",
+      "updated_at": "2026-04-09T18:17:09.548445+00:00",
+      "openstates_url": "https://openstates.org/ks/bills/2025-2026/HB2513/",
+      "first_action_date": "2026-01-22",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Approved by Governor except line item veto of Secs. 15(b) and (c); 26(a) portions; 30(a) portions; 37(a); 37(e); 38(d); 47; 53(b); 54(w); 54(s); 54(t); 54(u); 54(y); 60(c),61(i); 64(r); 65(s); 72(l); 74(p); 74(o); 81(g); 74(q); 77(b); 78(a) portions; 78(dd); 81(h); 87(f); 87(g); 88(l) 88(a) portions; 88(l); 88(a) portions; 88(k); 88(m); 96(d); 140(a) portions; 140(k); 153; 155; 163(a); 181(a). on Wednesday, April 8, 2026",
+      "latest_passage_date": "2026-03-26"
+    },
+    {
+      "id": "ocd-bill/37d92e97-5039-4c25-8b07-d147700bbc78",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/c1d465f9-fab5-4cc0-aded-270423bf31ba",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 360",
+      "title": "Enacting the Kansas consumer prescription protection and accountability act and providing for regulation and registration of pharmacy benefits managers.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "introduced"
+      },
+      "created_at": "2026-01-23T08:31:16.766141+00:00",
+      "updated_at": "2026-04-09T18:15:46.228390+00:00",
+      "openstates_url": "https://openstates.org/ks/bills/2025-2026/SB360/",
+      "first_action_date": "2026-01-22",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Withdrawn from  Committee on Insurance; Rereferred to Committee on Health and Human Services",
+      "latest_passage_date": "2026-02-18"
+    },
+    {
+      "id": "ocd-bill/aa279dfd-c9c6-42ed-8d81-a849ceed2735",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/31d2e44e-f94c-4971-83ea-e1fe29613c73",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2518",
+      "title": "Enacting the Kansas transparency in consumer legal funding act.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "introduced"
+      },
+      "created_at": "2026-01-23T08:30:31.572857+00:00",
+      "updated_at": "2026-04-09T18:14:29.131571+00:00",
+      "openstates_url": "https://openstates.org/ks/bills/2025-2026/HB2518/",
+      "first_action_date": "2026-01-22",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Enrolled and presented to Governor on Friday, April 3, 2026",
+      "latest_passage_date": "2026-03-27"
+    },
+    {
+      "id": "ocd-bill/4e44cd4c-8559-46b8-8efe-c4f7eb3e35b4",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/31d2e44e-f94c-4971-83ea-e1fe29613c73",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2413",
+      "title": "Enhancing the criminal penalty for an offense committed with the intent to commit transnational repression, requiring the development of transnational repression recognition and response training, providing that theft of livestock or implements of husbandry is a severity level 5, nonperson felony, providing that the theft of grain or hay is a severity level 6, nonperson felony and providing that certain portions of the crime of cruelty to animals do not apply to any person who catches a feral cat to provide vaccination, spaying or neutering and returns such cat back to the location where such cat is caught.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "introduced"
+      },
+      "created_at": "2025-12-12T08:14:56.985096+00:00",
+      "updated_at": "2026-04-09T18:14:04.900515+00:00",
+      "openstates_url": "https://openstates.org/ks/bills/2025-2026/HB2413/",
+      "first_action_date": "2026-01-12",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Enrolled and presented to Governor on Friday, April 3, 2026",
+      "latest_passage_date": "2026-03-27"
+    },
+    {
+      "id": "ocd-bill/b54004f1-69d8-4c31-ad77-3a7f65b71301",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/31d2e44e-f94c-4971-83ea-e1fe29613c73",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2785",
+      "title": "Renaming the medication donation program providing for the registration of qualifying centers to accept, administer, supply or dispense certain donated drugs or devices.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "introduced"
+      },
+      "created_at": "2026-02-19T10:08:43.958703+00:00",
+      "updated_at": "2026-04-09T18:13:05.652128+00:00",
+      "openstates_url": "https://openstates.org/ks/bills/2025-2026/HB2785/",
+      "first_action_date": "2026-02-18",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Withdrawn from  Committee on Appropriations; Rereferred to Committee on Health and Human Services",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/59f0a6f8-4cec-4b02-ae9e-1ea45b0c8a10",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/31d2e44e-f94c-4971-83ea-e1fe29613c73",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2626",
+      "title": "Expanding veterans preference in government employment to include current members of the national guard and such members' eligible spouses.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "introduced"
+      },
+      "created_at": "2026-02-04T00:06:58.738858+00:00",
+      "updated_at": "2026-04-09T02:16:37.744464+00:00",
+      "openstates_url": "https://openstates.org/ks/bills/2025-2026/HB2626/",
+      "first_action_date": "2026-02-02",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Vetoed by Governor; Returned to House on Wednesday, April 8, 2026",
+      "latest_passage_date": "2026-03-27"
+    },
+    {
+      "id": "ocd-bill/d4bc7dce-4d51-49a0-b285-6033409a7e9d",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/31d2e44e-f94c-4971-83ea-e1fe29613c73",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2593",
+      "title": "Requiring that a political subdivision hold an open meeting to discuss a contingency fee contract for legal services before approving such contract and requiring the attorney general to approve such contracts.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "introduced"
+      },
+      "created_at": "2026-01-30T14:44:31.448321+00:00",
+      "updated_at": "2026-04-09T02:15:59.388552+00:00",
+      "openstates_url": "https://openstates.org/ks/bills/2025-2026/HB2593/",
+      "first_action_date": "2026-01-29",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Vetoed by Governor; Returned to House on Wednesday, April 8, 2026",
+      "latest_passage_date": "2026-03-19"
+    },
+    {
+      "id": "ocd-bill/f129760b-1624-4296-aeb8-23f2afd4fb1f",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/31d2e44e-f94c-4971-83ea-e1fe29613c73",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2528",
+      "title": "Requiring all state board of nursing actions related to certain nonpractice violations be void, allowing for late license renewal for professional, practical and advanced practice registered nurses, setting fees for late license renewal, limiting unprofessional conduct to acts related to the practice of nursing, prohibiting the board from taking retaliatory action against a licensee based on certain lawful actions and creating a civil cause of action for violation thereof, requiring termination of current board members on January 1, 2027 and requiring the governor to appoint interim board members subject to senate confirmation and requiring the board to issue refunds for overpayment or duplicate payment.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "enacted"
+      },
+      "created_at": "2026-01-24T08:39:37.285049+00:00",
+      "updated_at": "2026-04-08T18:18:26.948703+00:00",
+      "openstates_url": "https://openstates.org/ks/bills/2025-2026/HB2528/",
+      "first_action_date": "2026-01-23",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Approved by Governor on Tuesday, April 7, 2026",
+      "latest_passage_date": "2026-03-26"
+    },
+    {
+      "id": "ocd-bill/19c5af21-7076-4a57-8cda-3e5cc5ba2bf0",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/31d2e44e-f94c-4971-83ea-e1fe29613c73",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2507",
+      "title": "Removing the requirement for migratory waterfowl stamps to be validated by a signature across the face of each such stamp and increasing the fees for such stamps, authorizing the adoption of certain rules and regulations related to fees, registrations and other charges by the department of wildlife and parks and providing an exception from the disclosure requirements of the Kansas open records act for department of wildlife and parks records regarding the location of any species that is threatened, endangered or in need of conservation.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "introduced"
+      },
+      "created_at": "2026-01-22T08:34:28.055302+00:00",
+      "updated_at": "2026-04-08T18:15:42.873194+00:00",
+      "openstates_url": "https://openstates.org/ks/bills/2025-2026/HB2507/",
+      "first_action_date": "2026-01-21",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Enrolled and presented to Governor on Friday, April 3, 2026",
+      "latest_passage_date": "2026-03-26"
+    },
+    {
+      "id": "ocd-bill/220ed33b-fbfc-4465-a4f0-023544cd3c8e",
+      "session": "2025-2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:ks/government",
+        "name": "Kansas",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/c1d465f9-fab5-4cc0-aded-270423bf31ba",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 418",
+      "title": "Enacting the by-right housing development act to provide a streamlined permit approval process for by-right housing developments, allowing third-party review of new residential construction development documents and inspection of improvements, requiring political subdivisions to allow certain building provisions for certain single-family residences of a certain size, excluding owner initiated rezoning to a single-family residential district from protest petition provisions and providing for all land within the corporate limits of a city that is zoned for any type of residential use to be considered zoned for single-family residential use.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "enacted"
+      },
+      "created_at": "2026-01-29T08:47:12.009935+00:00",
+      "updated_at": "2026-04-08T02:17:59.013942+00:00",
+      "openstates_url": "https://openstates.org/ks/bills/2025-2026/SB418/",
+      "first_action_date": "2026-01-28",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Approved by Governor on Tuesday, April 7, 2026",
+      "latest_passage_date": "2026-03-27"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 136,
+    "total_items": 1355
+  }
+}

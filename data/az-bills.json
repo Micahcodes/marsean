@@ -1,0 +1,290 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/6abe5174-6300-40a4-a59d-fc60b5d1abce",
+      "session": "57th-2nd-regular",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b00585a8-0bd5-4a6b-bde1-1c96400f882f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2102",
+      "title": "domestic water improvement districts; hauling",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-12-29T20:38:57.952319+00:00",
+      "updated_at": "2026-04-09T23:43:23.513002+00:00",
+      "openstates_url": "https://openstates.org/az/bills/57th-2nd-regular/HB2102/",
+      "first_action_date": "2025-12-29",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Transmit to Governor",
+      "latest_passage_date": "2026-04-08"
+    },
+    {
+      "id": "ocd-bill/3164ae26-3125-4dff-b3f9-66e96ea3d159",
+      "session": "57th-2nd-regular",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b00585a8-0bd5-4a6b-bde1-1c96400f882f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2370",
+      "title": "schools; weapons detection systems; administration",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-15T01:14:27.046496+00:00",
+      "updated_at": "2026-04-09T23:42:50.764157+00:00",
+      "openstates_url": "https://openstates.org/az/bills/57th-2nd-regular/HB2370/",
+      "first_action_date": "2026-01-20",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Transmit to Governor",
+      "latest_passage_date": "2026-04-08"
+    },
+    {
+      "id": "ocd-bill/c0dbffc7-f75d-4e25-a0ce-41b4e69872a6",
+      "session": "57th-2nd-regular",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b00585a8-0bd5-4a6b-bde1-1c96400f882f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2055",
+      "title": "brackish groundwater recovery program",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-12-12T20:31:33.831948+00:00",
+      "updated_at": "2026-04-09T23:41:20.562576+00:00",
+      "openstates_url": "https://openstates.org/az/bills/57th-2nd-regular/HB2055/",
+      "first_action_date": "2025-12-12",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Transmit to Governor",
+      "latest_passage_date": "2026-04-08"
+    },
+    {
+      "id": "ocd-bill/db107138-e18c-4b8d-943a-8769cc0d1be8",
+      "session": "57th-2nd-regular",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b00585a8-0bd5-4a6b-bde1-1c96400f882f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2031",
+      "title": "grandfathered right; Willcox AMA; extension",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2025-12-02T16:27:59.465106+00:00",
+      "updated_at": "2026-04-09T23:40:27.397732+00:00",
+      "openstates_url": "https://openstates.org/az/bills/57th-2nd-regular/HB2031/",
+      "first_action_date": "2025-12-02",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Transmit to Governor",
+      "latest_passage_date": "2026-04-08"
+    },
+    {
+      "id": "ocd-bill/759dd195-92a4-4bed-a7b7-3fafb5c0aea8",
+      "session": "57th-2nd-regular",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/c3d4c85b-888e-4188-b903-a251b957c162",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 1372",
+      "title": "medicaid; dental benefit study committee",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-23T02:02:13.198379+00:00",
+      "updated_at": "2026-04-09T23:38:26.402185+00:00",
+      "openstates_url": "https://openstates.org/az/bills/57th-2nd-regular/SB1372/",
+      "first_action_date": "2026-01-26",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Transmit to Senate",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/48b6dd2d-dd2f-4d46-baa2-aa7890fd8916",
+      "session": "57th-2nd-regular",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b00585a8-0bd5-4a6b-bde1-1c96400f882f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2439",
+      "title": "public cold plunge; rules; exemption",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-15T01:16:46.014526+00:00",
+      "updated_at": "2026-04-09T23:36:53.570140+00:00",
+      "openstates_url": "https://openstates.org/az/bills/57th-2nd-regular/HB2439/",
+      "first_action_date": "2026-01-20",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "DPA",
+      "latest_passage_date": "2026-02-25"
+    },
+    {
+      "id": "ocd-bill/401b713e-90ec-4092-be0e-5c7a42bfca04",
+      "session": "57th-2nd-regular",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b00585a8-0bd5-4a6b-bde1-1c96400f882f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2389",
+      "title": "replacement units; certificates; environmental compatibility",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-15T01:17:28.170710+00:00",
+      "updated_at": "2026-04-09T19:42:23.709117+00:00",
+      "openstates_url": "https://openstates.org/az/bills/57th-2nd-regular/HB2389/",
+      "first_action_date": "2026-01-20",
+      "latest_action_date": "2026-03-18",
+      "latest_action_description": "Senate Second Reading",
+      "latest_passage_date": "2026-03-11"
+    },
+    {
+      "id": "ocd-bill/7aa0e67e-8fbb-4134-a26e-5ee4b75ac477",
+      "session": "57th-2nd-regular",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b00585a8-0bd5-4a6b-bde1-1c96400f882f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2875",
+      "title": "local regulation; prohibition; unmanned aircraft",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-16T05:52:12.445117+00:00",
+      "updated_at": "2026-04-09T19:41:55.769678+00:00",
+      "openstates_url": "https://openstates.org/az/bills/57th-2nd-regular/HB2875/",
+      "first_action_date": "2026-01-22",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "PASSED",
+      "latest_passage_date": "2026-04-09"
+    },
+    {
+      "id": "ocd-bill/fab03602-1daa-4e0e-a018-0c2be69a5df4",
+      "session": "57th-2nd-regular",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b00585a8-0bd5-4a6b-bde1-1c96400f882f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2584",
+      "title": "public monies; genetic sequencing; prohibition",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-15T21:28:37.028708+00:00",
+      "updated_at": "2026-04-09T19:37:42.018139+00:00",
+      "openstates_url": "https://openstates.org/az/bills/57th-2nd-regular/HB2584/",
+      "first_action_date": "2026-01-22",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "Transmit to Governor",
+      "latest_passage_date": "2026-04-08"
+    },
+    {
+      "id": "ocd-bill/df9ff515-8fdf-4781-9a81-762dfebe7f4d",
+      "session": "57th-2nd-regular",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:az/government",
+        "name": "Arizona",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/b00585a8-0bd5-4a6b-bde1-1c96400f882f",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 2812",
+      "title": "accumulated sick leave; payments",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {},
+      "created_at": "2026-01-16T05:55:19.873615+00:00",
+      "updated_at": "2026-04-09T19:35:51.183137+00:00",
+      "openstates_url": "https://openstates.org/az/bills/57th-2nd-regular/HB2812/",
+      "first_action_date": "2026-01-21",
+      "latest_action_date": "2026-04-09",
+      "latest_action_description": "FAILED",
+      "latest_passage_date": "2026-02-23"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 302,
+    "total_items": 3011
+  }
+}

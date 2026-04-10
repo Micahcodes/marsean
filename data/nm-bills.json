@@ -1,0 +1,318 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/46ceea36-fcf0-4a78-9a6e-45bd304b8719",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nm/government",
+        "name": "New Mexico",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/af9a59f2-c6b2-4bb1-b270-85f5d40605b4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HM 37",
+      "title": "RENEWABLE ENERGY FACILITIES DECOMMISSION COST",
+      "classification": [
+        "memorial"
+      ],
+      "subject": [
+        "ENERGY & NATURAL RESOURCES",
+        "MEMORIALS, OTHER"
+      ],
+      "extras": {},
+      "created_at": "2026-02-03T00:04:31.627184+00:00",
+      "updated_at": "2026-03-26T18:14:24.715044+00:00",
+      "openstates_url": "https://openstates.org/nm/bills/2026/HM37/",
+      "first_action_date": "2026-02-02",
+      "latest_action_date": "2026-03-24",
+      "latest_action_description": "action postponed indefinitely",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/7f9c8fff-3aea-445a-8a89-82caabe416eb",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nm/government",
+        "name": "New Mexico",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/af9a59f2-c6b2-4bb1-b270-85f5d40605b4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 214",
+      "title": "CONSUMER INFORMATION AND DATA PROTECTION ACT",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "BUSINESS & INDUSTRY"
+      ],
+      "extras": {},
+      "created_at": "2026-01-30T06:05:09.432762+00:00",
+      "updated_at": "2026-03-26T18:14:23.384362+00:00",
+      "openstates_url": "https://openstates.org/nm/bills/2026/HB214/",
+      "first_action_date": "2026-01-29",
+      "latest_action_date": "2026-03-24",
+      "latest_action_description": "action postponed indefinitely",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/ce4988af-18f6-4b18-b9ba-d2623b39fc23",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nm/government",
+        "name": "New Mexico",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/af9a59f2-c6b2-4bb1-b270-85f5d40605b4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 109",
+      "title": "WATER PROJECT FUND CHANGES",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "STATE AGENCIES & DEPARTMENTS (including reorganization)",
+        "WATER & WATER RIGHTS (acequias, irrigation, rivers)"
+      ],
+      "extras": {},
+      "created_at": "2026-01-17T06:03:06.602017+00:00",
+      "updated_at": "2026-03-26T18:14:12.537330+00:00",
+      "openstates_url": "https://openstates.org/nm/bills/2026/HB109/",
+      "first_action_date": "2026-01-16",
+      "latest_action_date": "2026-03-05",
+      "latest_action_description": "Signed",
+      "latest_passage_date": "2026-02-15"
+    },
+    {
+      "id": "ocd-bill/b14b600c-25a4-44c4-8497-00d2a455bdbb",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nm/government",
+        "name": "New Mexico",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/af9a59f2-c6b2-4bb1-b270-85f5d40605b4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 279",
+      "title": "HEALTHCARE PRIVACY & SAFETY PROTECTIONS",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "HEALTH & HEALTH FACILITIES"
+      ],
+      "extras": {},
+      "created_at": "2026-02-03T00:04:10.314042+00:00",
+      "updated_at": "2026-03-26T18:14:10.959850+00:00",
+      "openstates_url": "https://openstates.org/nm/bills/2026/HB279/",
+      "first_action_date": "2026-02-02",
+      "latest_action_date": "2026-03-24",
+      "latest_action_description": "action postponed indefinitely",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/1293a45d-3031-4d0d-9f00-c32189279bd2",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nm/government",
+        "name": "New Mexico",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/af9a59f2-c6b2-4bb1-b270-85f5d40605b4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 13",
+      "title": "OCCUPATIONAL THERAPY LICENSURE COMPACT",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "HEALTH & HEALTH FACILITIES",
+        "LICENSURE"
+      ],
+      "extras": {},
+      "created_at": "2026-01-18T00:03:25.988655+00:00",
+      "updated_at": "2026-03-26T18:14:01.499782+00:00",
+      "openstates_url": "https://openstates.org/nm/bills/2026/HB13/",
+      "first_action_date": "2026-01-17",
+      "latest_action_date": "2026-03-24",
+      "latest_action_description": "action postponed indefinitely",
+      "latest_passage_date": "2026-01-28"
+    },
+    {
+      "id": "ocd-bill/4f96ac1f-6433-4a33-b6a1-acf62067f735",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nm/government",
+        "name": "New Mexico",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/af9a59f2-c6b2-4bb1-b270-85f5d40605b4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 38",
+      "title": "WHEELCHAIR INSURANCE COVERAGE",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "DISABILITIES",
+        "HEALTH & HEALTH FACILITIES",
+        "INSURANCE"
+      ],
+      "extras": {},
+      "created_at": "2026-01-07T06:02:59.739979+00:00",
+      "updated_at": "2026-03-26T18:13:44.804702+00:00",
+      "openstates_url": "https://openstates.org/nm/bills/2026/HB38/",
+      "first_action_date": "2026-01-06",
+      "latest_action_date": "2026-03-06",
+      "latest_action_description": "Signed",
+      "latest_passage_date": "2026-02-19"
+    },
+    {
+      "id": "ocd-bill/72cec223-7278-48a0-83c8-00adb8667817",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nm/government",
+        "name": "New Mexico",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a6719ff4-d604-4144-95e3-453a03672dfd",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 78",
+      "title": "NUCLEAR ENERGY AS RENEWABLE ENERGY",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ENERGY & NATURAL RESOURCES"
+      ],
+      "extras": {},
+      "created_at": "2026-01-23T06:04:29.350744+00:00",
+      "updated_at": "2026-03-26T18:13:33.251601+00:00",
+      "openstates_url": "https://openstates.org/nm/bills/2026/SB78/",
+      "first_action_date": "2026-01-22",
+      "latest_action_date": "2026-03-24",
+      "latest_action_description": "action postponed indefinitely",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/a5c4ec63-5451-4a58-8d16-cfbb214a151a",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nm/government",
+        "name": "New Mexico",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a6719ff4-d604-4144-95e3-453a03672dfd",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 161",
+      "title": "WILDFIRE MITIGATION & LIABILITY ACT",
+      "classification": [
+        "bill"
+      ],
+      "subject": [
+        "ENVIRONMENT",
+        "UTILITIES (sewer, electric, gas, water, telephone)"
+      ],
+      "extras": {},
+      "created_at": "2026-01-28T06:05:24.770263+00:00",
+      "updated_at": "2026-03-26T18:13:31.851098+00:00",
+      "openstates_url": "https://openstates.org/nm/bills/2026/SB161/",
+      "first_action_date": "2026-01-27",
+      "latest_action_date": "2026-03-24",
+      "latest_action_description": "action postponed indefinitely",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/488478fb-f616-4ece-9e04-c41fd83dc50d",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nm/government",
+        "name": "New Mexico",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/a6719ff4-d604-4144-95e3-453a03672dfd",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SM 26",
+      "title": "UTILITIES IN REGIONAL TRANSMISSION ORGS.",
+      "classification": [
+        "memorial"
+      ],
+      "subject": [
+        "MEMORIALS, OTHER",
+        "UTILITIES (sewer, electric, gas, water, telephone)"
+      ],
+      "extras": {},
+      "created_at": "2026-02-11T00:06:31.252104+00:00",
+      "updated_at": "2026-03-26T18:13:31.159852+00:00",
+      "openstates_url": "https://openstates.org/nm/bills/2026/SM26/",
+      "first_action_date": "2026-02-10",
+      "latest_action_date": "2026-03-24",
+      "latest_action_description": "action postponed indefinitely",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/9ce45914-16e7-4499-8503-041f4ff1b26b",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:nm/government",
+        "name": "New Mexico",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/af9a59f2-c6b2-4bb1-b270-85f5d40605b4",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HM 35",
+      "title": "PEDIATRIC PALLIATIVE & CONCURRENT CARE",
+      "classification": [
+        "memorial"
+      ],
+      "subject": [
+        "INSURANCE",
+        "MEMORIALS, OTHER"
+      ],
+      "extras": {},
+      "created_at": "2026-02-03T00:05:45.759653+00:00",
+      "updated_at": "2026-03-26T18:13:28.323297+00:00",
+      "openstates_url": "https://openstates.org/nm/bills/2026/HM35/",
+      "first_action_date": "2026-02-02",
+      "latest_action_date": "2026-03-09",
+      "latest_action_description": "Signed",
+      "latest_passage_date": "2026-02-19"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 170,
+    "total_items": 1697
+  }
+}

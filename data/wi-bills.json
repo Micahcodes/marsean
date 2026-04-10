@@ -1,0 +1,310 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/d8713780-821b-4c29-aba8-14690ab1e5e1",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wi/government",
+        "name": "Wisconsin",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/c8a757e6-378e-468c-a526-e81ca083124b",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 96",
+      "title": "Relating to: exempting certain electric vehicle charging stations located at a residence from the electric vehicle charging tax. (FE)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "Status: S - Enrolled"
+      },
+      "created_at": "2025-03-07T20:07:26.745778+00:00",
+      "updated_at": "2026-04-09T18:20:27.255985+00:00",
+      "openstates_url": "https://openstates.org/wi/bills/2025/SB96/",
+      "first_action_date": "2025-03-07T06:00:00+00:00",
+      "latest_action_date": "2026-04-02T05:00:00+00:00",
+      "latest_action_description": "Presented to the Governor on 4-2-2026",
+      "latest_passage_date": "2026-01-15T06:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/f8f0712a-c7f0-4959-b76b-62bcd1c50983",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wi/government",
+        "name": "Wisconsin",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/2d0dada5-8153-44aa-b436-c92a90db0a9e",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "AB 131",
+      "title": "Relating to: programs and requirements to address PFAS.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "Status: A - Enacted into Law"
+      },
+      "created_at": "2025-03-13T22:09:46.884362+00:00",
+      "updated_at": "2026-04-09T18:11:54.343890+00:00",
+      "openstates_url": "https://openstates.org/wi/bills/2025/AB131/",
+      "first_action_date": "2025-03-13T05:00:00+00:00",
+      "latest_action_date": "2026-04-06T05:00:00+00:00",
+      "latest_action_description": "Published 4-7-2026",
+      "latest_passage_date": "2026-03-17T05:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/eebce374-c754-4a49-a11c-4e4b37a7921d",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wi/government",
+        "name": "Wisconsin",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/2d0dada5-8153-44aa-b436-c92a90db0a9e",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "AB 374",
+      "title": "Relating to: compliance with the federal Electoral Count Reform Act. (FE)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "Status: A - Enrolled"
+      },
+      "created_at": "2025-07-17T22:35:29.091539+00:00",
+      "updated_at": "2026-04-09T16:19:59.889369+00:00",
+      "openstates_url": "https://openstates.org/wi/bills/2025/AB374/",
+      "first_action_date": "2025-07-17T05:00:00+00:00",
+      "latest_action_date": "2026-04-02T05:00:00+00:00",
+      "latest_action_description": "Presented to the Governor on 4-2-2026",
+      "latest_passage_date": "2026-03-17T05:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/af6ad474-5874-4a1c-9089-ebc2dc5fe197",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wi/government",
+        "name": "Wisconsin",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/2d0dada5-8153-44aa-b436-c92a90db0a9e",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "AB 1162",
+      "title": "Relating to: a very large customer class for electric utilities and granting rule-making authority. (FE)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "Status: A - Energy and Utilities"
+      },
+      "created_at": "2026-03-19T22:45:49.476857+00:00",
+      "updated_at": "2026-04-09T16:15:21.666834+00:00",
+      "openstates_url": "https://openstates.org/wi/bills/2025/AB1162/",
+      "first_action_date": "2026-03-19T05:00:00+00:00",
+      "latest_action_date": "2026-03-23T05:00:00+00:00",
+      "latest_action_description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/43696a87-d76b-41a6-99cc-ae3f54864495",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wi/government",
+        "name": "Wisconsin",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/2d0dada5-8153-44aa-b436-c92a90db0a9e",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "AB 1211",
+      "title": "Relating to:  grants to municipalities to acquire or create public utilities and making an appropriation. (FE)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "Status: A - Energy and Utilities"
+      },
+      "created_at": "2026-03-20T01:05:00.452117+00:00",
+      "updated_at": "2026-04-09T16:14:57.157453+00:00",
+      "openstates_url": "https://openstates.org/wi/bills/2025/AB1211/",
+      "first_action_date": "2026-03-19T05:00:00+00:00",
+      "latest_action_date": "2026-03-23T05:00:00+00:00",
+      "latest_action_description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/3b2401e1-eaab-4140-9c3f-47870ca73107",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wi/government",
+        "name": "Wisconsin",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/c8a757e6-378e-468c-a526-e81ca083124b",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 1122",
+      "title": "Relating to: prohibiting recovery of a rate of return on retired electric generating facilities; an exemption from certificate requirements for constructing a large electric generating facility; and a permit dashboard for applications for certificates of public convenience and necessity. (FE)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "Status: S - Utilities, Technology and Tourism"
+      },
+      "created_at": "2026-03-23T21:45:41.490205+00:00",
+      "updated_at": "2026-04-09T16:13:31.090597+00:00",
+      "openstates_url": "https://openstates.org/wi/bills/2025/SB1122/",
+      "first_action_date": "2026-03-19T05:00:00+00:00",
+      "latest_action_date": "2026-03-23T05:00:00+00:00",
+      "latest_action_description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/4948efe8-ecc0-4ca1-b140-a6218ac67c88",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wi/government",
+        "name": "Wisconsin",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/2d0dada5-8153-44aa-b436-c92a90db0a9e",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "AB 1203",
+      "title": "Relating to: net zero emissions, carbon-free and renewable energy standards, and creating an office of sustainability and clean energy, granting rule-making authority, making an appropriation, and providing a penalty. (FE)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "Status: A - Environment"
+      },
+      "created_at": "2026-03-19T23:01:52.722383+00:00",
+      "updated_at": "2026-04-09T16:09:32.224672+00:00",
+      "openstates_url": "https://openstates.org/wi/bills/2025/AB1203/",
+      "first_action_date": "2026-03-19T05:00:00+00:00",
+      "latest_action_date": "2026-03-23T05:00:00+00:00",
+      "latest_action_description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "latest_passage_date": ""
+    },
+    {
+      "id": "ocd-bill/111f97dc-aa60-44fc-9cce-84250d7e86b9",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wi/government",
+        "name": "Wisconsin",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/2d0dada5-8153-44aa-b436-c92a90db0a9e",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "AB 80",
+      "title": "Relating to: ratification of the Social Work Licensure Compact. (FE)",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "Status: A - Enrolled"
+      },
+      "created_at": "2025-02-28T18:06:43.828898+00:00",
+      "updated_at": "2026-04-09T16:08:50.892141+00:00",
+      "openstates_url": "https://openstates.org/wi/bills/2025/AB80/",
+      "first_action_date": "2025-02-28T06:00:00+00:00",
+      "latest_action_date": "2026-04-02T05:00:00+00:00",
+      "latest_action_description": "Presented to the Governor on 4-2-2026",
+      "latest_passage_date": "2026-02-18T06:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/74293e2f-b1bf-49bb-b19e-5a8487480166",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wi/government",
+        "name": "Wisconsin",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/2d0dada5-8153-44aa-b436-c92a90db0a9e",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "AB 969",
+      "title": "Relating to: the drug repository program.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "Status: A - Enrolled"
+      },
+      "created_at": "2026-01-30T21:11:06.342683+00:00",
+      "updated_at": "2026-04-09T16:03:50.466447+00:00",
+      "openstates_url": "https://openstates.org/wi/bills/2025/AB969/",
+      "first_action_date": "2026-01-30T06:00:00+00:00",
+      "latest_action_date": "2026-04-02T05:00:00+00:00",
+      "latest_action_description": "Presented to the Governor on 4-2-2026",
+      "latest_passage_date": "2026-03-17T05:00:00+00:00"
+    },
+    {
+      "id": "ocd-bill/a316c61f-fe60-42a1-9460-1c5b9efdc244",
+      "session": "2025",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:wi/government",
+        "name": "Wisconsin",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/2d0dada5-8153-44aa-b436-c92a90db0a9e",
+        "name": "Assembly",
+        "classification": "lower"
+      },
+      "identifier": "AB 881",
+      "title": "Relating to: water diversion or elevation projects in towns.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "status": "Status: A - Enrolled"
+      },
+      "created_at": "2026-01-16T21:14:26.987600+00:00",
+      "updated_at": "2026-04-09T14:01:59.800972+00:00",
+      "openstates_url": "https://openstates.org/wi/bills/2025/AB881/",
+      "first_action_date": "2026-01-16T06:00:00+00:00",
+      "latest_action_date": "2026-04-02T05:00:00+00:00",
+      "latest_action_description": "Presented to the Governor on 4-2-2026",
+      "latest_passage_date": "2026-03-17T05:00:00+00:00"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 95,
+    "total_items": 944
+  }
+}

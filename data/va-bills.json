@@ -1,0 +1,310 @@
+{
+  "results": [
+    {
+      "id": "ocd-bill/0b633b25-9084-4bcd-a8f1-90878c8d8898",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:va/government",
+        "name": "Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9f1a0a17-d2fb-4d0c-90fb-119004411b83",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 598",
+      "title": "Electric utilities; renewable portfolio standard program, zero-carbon electricity, etc.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "VA_LEG_ID": 100577
+      },
+      "created_at": "2026-01-21T17:11:27.440011+00:00",
+      "updated_at": "2026-04-09T22:29:33.578505+00:00",
+      "openstates_url": "https://openstates.org/va/bills/2026/SB598/",
+      "first_action_date": "2026-01-14",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Approved by Governor-Chapter 512 (effective 7/1/2026)",
+      "latest_passage_date": "2026-03-31"
+    },
+    {
+      "id": "ocd-bill/4e218faf-e085-4f3d-953e-6691fe94d34b",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:va/government",
+        "name": "Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9f1a0a17-d2fb-4d0c-90fb-119004411b83",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 650",
+      "title": "Public utilities; water and sewerage companies, discounted rates for low-income customers.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "VA_LEG_ID": 100670
+      },
+      "created_at": "2026-01-21T17:03:35.239332+00:00",
+      "updated_at": "2026-04-09T22:28:03.206777+00:00",
+      "openstates_url": "https://openstates.org/va/bills/2026/SB650/",
+      "first_action_date": "2026-01-14",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "Acts of Assembly Chapter text (CHAP0218)",
+      "latest_passage_date": "2026-03-31"
+    },
+    {
+      "id": "ocd-bill/cfce10ec-b2c8-4f79-a3e3-baa7037b6586",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:va/government",
+        "name": "Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/0c3daf42-2835-49cf-8f58-b1d771dae687",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 557",
+      "title": "Tangible personal property tax; establishes classification for electric landscaping equipment.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "VA_LEG_ID": 99364
+      },
+      "created_at": "2026-01-13T20:04:54.009755+00:00",
+      "updated_at": "2026-04-09T20:31:21.674503+00:00",
+      "openstates_url": "https://openstates.org/va/bills/2026/HB557/",
+      "first_action_date": "2026-01-13",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Approved by Governor-Chapter 403 (effective 7/1/2026)",
+      "latest_passage_date": "2026-03-06"
+    },
+    {
+      "id": "ocd-bill/539e103a-2922-4234-a279-6ed5881c3164",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:va/government",
+        "name": "Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/0c3daf42-2835-49cf-8f58-b1d771dae687",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 507",
+      "title": "Data centers; permit requirements, emission limits for certain engine-generator sets.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "VA_LEG_ID": 99312
+      },
+      "created_at": "2026-01-13T20:04:15.832271+00:00",
+      "updated_at": "2026-04-09T20:30:48.220756+00:00",
+      "openstates_url": "https://openstates.org/va/bills/2026/HB507/",
+      "first_action_date": "2026-01-12",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Approved by Governor-Chapter 397 (effective 7/1/2026)",
+      "latest_passage_date": "2026-03-31"
+    },
+    {
+      "id": "ocd-bill/062e8bac-6e3e-42bb-b8b8-1330bce34c5c",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:va/government",
+        "name": "Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/0c3daf42-2835-49cf-8f58-b1d771dae687",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 422",
+      "title": "Water utilities; prohibition of multiple rate increases within 3-year period for water utilities.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "VA_LEG_ID": 99226
+      },
+      "created_at": "2026-01-13T01:46:26.486311+00:00",
+      "updated_at": "2026-04-09T20:30:29.900181+00:00",
+      "openstates_url": "https://openstates.org/va/bills/2026/HB422/",
+      "first_action_date": "2026-01-12",
+      "latest_action_date": "2026-04-08",
+      "latest_action_description": "Approved by Governor-Chapter 390 (effective 7/1/2026)",
+      "latest_passage_date": "2026-03-31"
+    },
+    {
+      "id": "ocd-bill/612a5334-2d3d-4d64-a842-e148b041ac31",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:va/government",
+        "name": "Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9f1a0a17-d2fb-4d0c-90fb-119004411b83",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 818",
+      "title": "Electric utilities; licensed retail suppliers, renewable portfolio standard requirements.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "VA_LEG_ID": 101033
+      },
+      "created_at": "2026-01-23T22:30:31.040465+00:00",
+      "updated_at": "2026-04-09T16:43:23.550046+00:00",
+      "openstates_url": "https://openstates.org/va/bills/2026/SB818/",
+      "first_action_date": "2026-01-23",
+      "latest_action_date": "2026-03-12",
+      "latest_action_description": "Fiscal Impact Statement from State Corporation Commission (SB818)",
+      "latest_passage_date": "2026-03-09"
+    },
+    {
+      "id": "ocd-bill/f636cf9b-5283-47f3-a6e3-94e0a4937c16",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:va/government",
+        "name": "Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/0c3daf42-2835-49cf-8f58-b1d771dae687",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 921",
+      "title": "Electric utilities; licensed retail suppliers, renewable portfolio standard requirements.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "VA_LEG_ID": 99741
+      },
+      "created_at": "2026-01-14T20:44:15.129884+00:00",
+      "updated_at": "2026-04-09T13:49:29.646076+00:00",
+      "openstates_url": "https://openstates.org/va/bills/2026/HB921/",
+      "first_action_date": "2026-01-13",
+      "latest_action_date": "2026-03-10",
+      "latest_action_description": "Governor's Action Deadline 11:59 p.m., April 13, 2026",
+      "latest_passage_date": "2026-03-03"
+    },
+    {
+      "id": "ocd-bill/acaa41bb-8289-487a-be19-7275d987d650",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:va/government",
+        "name": "Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/9f1a0a17-d2fb-4d0c-90fb-119004411b83",
+        "name": "Senate",
+        "classification": "upper"
+      },
+      "identifier": "SB 743",
+      "title": "Damage or trespass to public services or utilities or critical infrastructure; penalties.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "VA_LEG_ID": 100781
+      },
+      "created_at": "2026-01-21T17:03:49.812118+00:00",
+      "updated_at": "2026-04-09T04:44:51.008585+00:00",
+      "openstates_url": "https://openstates.org/va/bills/2026/SB743/",
+      "first_action_date": "2026-01-19",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "Acts of Assembly Chapter text (CHAP0106)",
+      "latest_passage_date": "2026-03-10"
+    },
+    {
+      "id": "ocd-bill/8f439fc0-114f-4a42-a48e-cd3af07323e6",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:va/government",
+        "name": "Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/0c3daf42-2835-49cf-8f58-b1d771dae687",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 346",
+      "title": "Va. Freedom of Information Act; exclusion to application of chapter, public utility account numbers.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "VA_LEG_ID": 99120
+      },
+      "created_at": "2026-01-12T22:04:06.064493+00:00",
+      "updated_at": "2026-04-08T19:54:09.134330+00:00",
+      "openstates_url": "https://openstates.org/va/bills/2026/HB346/",
+      "first_action_date": "2026-01-12",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "Acts of Assembly Chapter text (CHAP0115)",
+      "latest_passage_date": "2026-02-25"
+    },
+    {
+      "id": "ocd-bill/59a57d6b-147d-4e1a-ae57-b9ff2e6087c3",
+      "session": "2026",
+      "jurisdiction": {
+        "id": "ocd-jurisdiction/country:us/state:va/government",
+        "name": "Virginia",
+        "classification": "state"
+      },
+      "from_organization": {
+        "id": "ocd-organization/0c3daf42-2835-49cf-8f58-b1d771dae687",
+        "name": "House",
+        "classification": "lower"
+      },
+      "identifier": "HB 317",
+      "title": "Damage or trespass to public services or utilities or critical infrastructure; penalties.",
+      "classification": [
+        "bill"
+      ],
+      "subject": [],
+      "extras": {
+        "VA_LEG_ID": 99091
+      },
+      "created_at": "2026-01-12T15:39:43.242005+00:00",
+      "updated_at": "2026-04-08T19:53:38.078118+00:00",
+      "openstates_url": "https://openstates.org/va/bills/2026/HB317/",
+      "first_action_date": "2026-01-09",
+      "latest_action_date": "2026-04-06",
+      "latest_action_description": "Acts of Assembly Chapter text (CHAP0105)",
+      "latest_passage_date": "2026-03-04"
+    }
+  ],
+  "pagination": {
+    "per_page": 10,
+    "page": 1,
+    "max_page": 563,
+    "total_items": 5628
+  }
+}
