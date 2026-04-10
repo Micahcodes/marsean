@@ -89,7 +89,61 @@
           </label>
         </div>
         <h2 class="text-2xl font-semibold">Analysis summary</h2>
-        <div id="summary" class="mt-4 grid gap-4 grid-cols-1"></div>
+        <div id="summary" class="mt-4 grid gap-4 grid-cols-1">
+          <!-- Risk Intelligence Highlights Tile -->
+          <div
+            class="rounded-3xl border border-slate-800 bg-slate-900/90 p-5 w-full"
+          >
+            <p class="font-semibold text-slate-100">
+              Risk Intelligence Highlights
+            </p>
+            <ul
+              id="riskHighlights"
+              class="mt-2 space-y-2 text-slate-300 text-sm"
+            >
+              <li>• Loading risk intelligence data...</li>
+            </ul>
+            <p id="actionRecommendations" class="mt-3 text-slate-300">
+              <strong>Recommended focus:</strong> Loading recommendations...
+            </p>
+          </div>
+
+          <!-- Additional Full-Width Tile -->
+          <div
+            class="rounded-3xl border border-slate-800 bg-slate-900/90 p-5 w-full"
+          >
+            <p class="font-semibold text-slate-100">Additional Insights</p>
+            <p id="additionalInsights" class="mt-2 text-slate-400">
+              Loading additional insights...
+            </p>
+          </div>
+
+          <!-- Bills and News Tiles -->
+          <div class="mt-4 grid gap-4 grid-cols-1 sm:grid-cols-2">
+            <div
+              class="rounded-3xl border border-slate-800 bg-slate-900/90 p-5"
+            >
+              <p class="font-semibold text-slate-100">Legislative Bills</p>
+              <p id="billsText" class="mt-2 text-slate-400">
+                Loading legislative bill data...
+              </p>
+              <p id="billThemes" class="mt-3 text-slate-300">
+                <strong>Key bill themes:</strong> Loading themes...
+              </p>
+            </div>
+            <div
+              class="rounded-3xl border border-slate-800 bg-slate-900/90 p-5"
+            >
+              <p class="font-semibold text-slate-100">News Sentiment</p>
+              <p id="newsText" class="mt-2 text-slate-400">
+                Loading news sentiment data...
+              </p>
+              <p id="newsThemes" class="mt-3 text-slate-300">
+                <strong>Top news themes:</strong> Loading themes...
+              </p>
+            </div>
+          </div>
+        </div>
       </section>
 
       <section id="resultsSection" class="m-6 mt-14">

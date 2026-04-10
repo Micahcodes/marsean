@@ -20,6 +20,60 @@ function getRiskClasses(rating) {
   }
 }
 
+function getStateName(stateCode) {
+  const states = {
+    tx: "Texas",
+    ca: "California",
+    ny: "New York",
+    fl: "Florida",
+    wa: "Washington",
+    al: "Alabama",
+    ar: "Arkansas",
+    az: "Arizona",
+    co: "Colorado",
+    ct: "Connecticut",
+    de: "Delaware",
+    ga: "Georgia",
+    ia: "Iowa",
+    id: "Idaho",
+    il: "Illinois",
+    in: "Indiana",
+    ks: "Kansas",
+    ky: "Kentucky",
+    la: "Louisiana",
+    ma: "Massachusetts",
+    md: "Maryland",
+    me: "Maine",
+    mi: "Michigan",
+    mn: "Minnesota",
+    mo: "Missouri",
+    ms: "Mississippi",
+    mt: "Montana",
+    nc: "North Carolina",
+    nd: "North Dakota",
+    ne: "Nebraska",
+    nh: "New Hampshire",
+    nj: "New Jersey",
+    nm: "New Mexico",
+    nv: "Nevada",
+    oh: "Ohio",
+    ok: "Oklahoma",
+    or: "Oregon",
+    pa: "Pennsylvania",
+    ri: "Rhode Island",
+    sc: "South Carolina",
+    sd: "South Dakota",
+    tn: "Tennessee",
+    ut: "Utah",
+    vt: "Vermont",
+    va: "Virginia",
+    wv: "West Virginia",
+    wi: "Wisconsin",
+    wy: "Wyoming",
+  };
+  return states[stateCode] || stateCode;
+}
+
 function getStateFileUrl(stateCode) {
   if (stateCode === "tx") {
     return "/data/texas-bills.json";
@@ -339,27 +393,45 @@ function renderSummary(data, newsData) {
       : "No actions available without data.";
 
   summarySection.classList.remove("hidden");
-  summary.innerHTML = `
-    <div class="rounded-3xl border border-slate-800 bg-slate-900/90 p-5 w-full">
-      <p class="font-semibold text-slate-100">Risk Intelligence Highlights</p>
-      <ul class="mt-2 space-y-2 text-slate-300 text-sm">
-        ${riskHighlights.map((item) => `<li>• ${item}</li>`).join("")}
-      </ul>
-      <p class="mt-3 text-slate-300"><strong>Recommended focus:</strong> ${actionRecommendations}</p>
-    </div>
-    <div class="mt-4 grid gap-4 grid-cols-1 sm:grid-cols-2">
-      <div class="rounded-3xl border border-slate-800 bg-slate-900/90 p-5">
-        <p class="font-semibold text-slate-100">Legislative Bills</p>
-        <p class="mt-2 text-slate-400">${billsText}</p>
-        <p class="mt-3 text-slate-300"><strong>Key bill themes:</strong> ${topBillThemes || "None identified"}</p>
-      </div>
-      <div class="rounded-3xl border border-slate-800 bg-slate-900/90 p-5">
-        <p class="font-semibold text-slate-100">News Sentiment</p>
-        <p class="mt-2 text-slate-400">${newsText}</p>
-        <p class="mt-3 text-slate-300"><strong>Top news themes:</strong> ${topNewsThemes || "None identified"}</p>
-      </div>
-    </div>
-  `;
+
+  // Populate Risk Intelligence Highlights
+  const riskHighlightsEl = document.querySelector("#riskHighlights");
+  const actionRecommendationsEl = document.querySelector("#actionRecommendations");
+
+  if (riskHighlightsEl) {
+    riskHighlightsEl.innerHTML = riskHighlights.map((item) => `<li>• ${item}</li>`).join("");
+  }
+  if (actionRecommendationsEl) {
+    actionRecommendationsEl.innerHTML = `<strong>Recommended focus:</strong> ${actionRecommendations}`;
+  }
+
+  // Populate Additional Insights (placeholder for now)
+  const additionalInsightsEl = document.querySelector("#additionalInsights");
+  if (additionalInsightsEl) {
+    additionalInsightsEl.textContent = `State analysis for ${getStateName(stateFilter?.value || 'tx')} completed. Monitor legislative activity and stakeholder sentiment for optimal data center site selection.`;
+  }
+
+  // Populate Legislative Bills
+  const billsTextEl = document.querySelector("#billsText");
+  const billThemesEl = document.querySelector("#billThemes");
+
+  if (billsTextEl) {
+    billsTextEl.textContent = billsText;
+  }
+  if (billThemesEl) {
+    billThemesEl.innerHTML = `<strong>Key bill themes:</strong> ${topBillThemes || "None identified"}`;
+  }
+
+  // Populate News Sentiment
+  const newsTextEl = document.querySelector("#newsText");
+  const newsThemesEl = document.querySelector("#newsThemes");
+
+  if (newsTextEl) {
+    newsTextEl.textContent = newsText;
+  }
+  if (newsThemesEl) {
+    newsThemesEl.innerHTML = `<strong>Top news themes:</strong> ${topNewsThemes || "None identified"}`;
+  }
 }
 
 window.addEventListener("load", () => {
