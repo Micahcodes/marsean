@@ -4,7 +4,7 @@
 
 MarSean ingests all state house and senate legislative bills as well as local news sentiment across the USA to provide a risk intelligence hub for Data Center Infrastructure Deployment professionals. The AI-tailored synopsis focuses on the key issues driving sentiment and provides a suggested public affairs go-to-market playbook.
 
-Created as a learning opportunity and project to demonstrate technical understanding that mirrors the functions in ajob description I hope to be consider for.
+Created as a learning opportunity and project to demonstrate technical understanding that mirrors the functions in a job description I hope to be consider for.
 
 ## Getting Started
 
