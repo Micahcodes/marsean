@@ -10,7 +10,7 @@ Created as a learning opportunity and project to demonstrate technical understan
 
 1. Install dependencies: `npm install`
 2. Create `.env` with API configuration (see `.env.example`)
-3. Add your own API keys for Openstate.org, newsapi.com, and x.ai into the env folder
+3. Add your own API keys for Openstate.org, newsapi.com, and x.ai into the env folder according to the example from .env.example
 4. Run the dashboard: `npm start`
 5. Open `http://localhost:3000`
 
