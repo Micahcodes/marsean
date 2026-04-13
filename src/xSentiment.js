@@ -91,6 +91,33 @@ const searchQueries = [
     focus: "Amazon Virginia project sentiment",
     maxResults: 50,
   },
+  // New queries for additional context and positive sentiment
+  {
+    query:
+      "data center benefits OR data center innovation OR data center technology",
+    focus: "Positive sentiment - benefits and innovation",
+    maxResults: 100,
+  },
+  {
+    query: "data center jobs created OR data center economic growth",
+    focus: "Positive sentiment - economic benefits",
+    maxResults: 100,
+  },
+  {
+    query: "data center infrastructure OR data center development",
+    focus: "Neutral sentiment - infrastructure development",
+    maxResults: 100,
+  },
+  {
+    query: "data center regulation OR data center policy OR data center law",
+    focus: "Policy and regulatory sentiment",
+    maxResults: 100,
+  },
+  {
+    query: "data center community benefits OR data center local economy",
+    focus: "Community benefits sentiment",
+    maxResults: 100,
+  },
 ];
 
 function classifyThemes(text) {
