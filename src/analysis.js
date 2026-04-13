@@ -40,3 +40,32 @@ export function analyzeRecords(records) {
     numericSummary,
   };
 }
+
+export function generateSentimentThemeSummary(sentimentAnalysis) {
+  /**
+   * Generates a summary tile data for top sentiment themes
+   * Used for dashboard display of actionable marketing intelligence
+   */
+  if (!sentimentAnalysis || !sentimentAnalysis.topDisagreeableSentiments) {
+    return null;
+  }
+
+  return {
+    title: "Top 5 Disagreeable Sentiments",
+    description:
+      "Most common negative data center concerns by engagement & frequency",
+    timestamp: new Date().toISOString(),
+    sentiments: sentimentAnalysis.topDisagreeableSentiments.map(
+      (item, index) => ({
+        rank: index + 1,
+        theme: item.theme,
+        frequency: item.frequency,
+        totalEngagement: item.totalEngagement,
+        credibleMentions: item.credibleMentions,
+        score: item.score.toFixed(2),
+        samples: item.samples,
+      }),
+    ),
+    breakdown: sentimentAnalysis.breakdown,
+  };
+}

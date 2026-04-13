@@ -124,17 +124,18 @@ function renderBills(data) {
 }
 
 function analyzeNewsRisk(article) {
-  const text = `${article.title || ""} ${article.description || ""}`.toLowerCase();
-  
+  const text =
+    `${article.title || ""} ${article.description || ""}`.toLowerCase();
+
   // Map sentiment to risk level
   const sentimentToRisk = {
     negative: "red",
     neutral: "yellow",
     positive: "green",
   };
-  
+
   const rating = sentimentToRisk[article.sentiment] || "yellow";
-  
+
   // Keywords for recap analysis
   const concernKeywords = {
     ban: /\bban|banned|bans|banning\b/i,
@@ -148,12 +149,12 @@ function analyzeNewsRisk(article) {
     environmental: /\benvironmental|ecology|ecological\b/i,
     impact: /\bimpact|concern|issue|problem\b/i,
   };
-  
+
   // Identify concerns present in article
   const concernsFound = Object.entries(concernKeywords)
     .filter(([_, regex]) => regex.test(text))
     .map(([concern, _]) => concern);
-  
+
   // Generate recap based on sentiment and concerns
   let recap = "";
   if (article.sentiment === "negative") {
@@ -166,12 +167,13 @@ function analyzeNewsRisk(article) {
     if (concernsFound.length > 0) {
       recap = `Neutral coverage mentioning potential ${concernsFound[0]} considerations.`;
     } else {
-      recap = "Neutral tone in article discussing data center or related infrastructure.";
+      recap =
+        "Neutral tone in article discussing data center or related infrastructure.";
     }
   } else {
     recap = "Positive sentiment in coverage.";
   }
-  
+
   // Generate detailed analysis
   let analysis = "";
   if (article.sentiment === "negative") {
@@ -179,9 +181,10 @@ function analyzeNewsRisk(article) {
   } else if (article.sentiment === "neutral") {
     analysis = `Article provides factual coverage without clear sentiment. Opportunity to engage media with project benefits story, particularly around ${concernsFound.length > 0 ? concernsFound[0] : "infrastructure"} advantages and local economic impact.`;
   } else {
-    analysis = "Positive coverage represents opportunity to amplify project narrative through stakeholder engagement and media partnerships.";
+    analysis =
+      "Positive coverage represents opportunity to amplify project narrative through stakeholder engagement and media partnerships.";
   }
-  
+
   return { rating, recap, analysis, concerns: concernsFound };
 }
 
@@ -201,7 +204,7 @@ function renderNews(data) {
     // Analyze risk for each article
     const riskAnalysis = analyzeNewsRisk(article);
     const { rating, recap, analysis, concerns } = riskAnalysis;
-    
+
     // Only show yellow and red rated articles with full analysis
     if (rating === "red" || rating === "yellow") {
       const container = document.createElement("div");
@@ -217,11 +220,15 @@ function renderNews(data) {
             <h3 class="text-lg font-semibold leading-tight">${article.title || "No title"}</h3>
           </div>
         </div>
-        ${concerns.length > 0 ? `
+        ${
+          concerns.length > 0
+            ? `
           <div class="mt-2 flex flex-wrap gap-1 text-xs">
             ${concerns.map((concern) => `<span class="rounded bg-slate-800 px-2 py-1 text-slate-300">${concern}</span>`).join("")}
           </div>
-        ` : ""}
+        `
+            : ""
+        }
         <p class="mt-2 text-slate-400 text-sm">${article.description || ""}</p>
         <div class="mt-2 rounded bg-slate-950/80 p-2 text-xs text-slate-300">
           <p class="font-semibold text-slate-100">Sentiment Analysis</p>

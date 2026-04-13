@@ -5,6 +5,7 @@ import { fileURLToPath } from "url";
 import axios from "axios";
 import dotenv from "dotenv";
 import { getTexasBills } from "./index.js";
+import { fetchXSentiment, computeTopSentiments } from "./xSentiment.js";
 
 dotenv.config();
 
@@ -100,21 +101,32 @@ function getTwitterApiKey() {
 
 app.get("/api/x-sentiment", async (req, res) => {
   try {
-    const state = req.query.state || "tx";
-    const apiKey = getTwitterApiKey();
-    if (!apiKey) {
+    const bearerToken = process.env.X_BEARER_TOKEN;
+    if (!bearerToken) {
       return res.status(501).json({
         message:
-          "Twitter/X API key not configured. Set TWITTER_API_KEY or X_API_KEY in .env to enable social sentiment integration.",
+          "X API Bearer token not configured. Set X_BEARER_TOKEN in .env to enable social sentiment integration.",
       });
     }
 
-    // Future implementation: call Twitter/X API v2 or v3 to fetch tweets, filter by region/keywords,
-    // and run sentiment analysis. This scaffold is ready for the next phase.
-    return res.status(501).json({
-      message:
-        "Twitter/X integration is scaffolded but not yet implemented. API key is configured.",
-    });
+    // Fetch sentiment data from X API
+    const xData = await fetchXSentiment(bearerToken);
+
+    // Compute top disagreeable sentiments
+    const analysis = computeTopSentiments(xData.tweets);
+
+    const result = {
+      ...xData,
+      analysis,
+    };
+
+    // Store the full data
+    await fs.writeFile(
+      path.join(dataDir, "social-sentiment.json"),
+      JSON.stringify(result, null, 2),
+    );
+
+    res.json(result);
   } catch (error) {
     console.error("x-sentiment error:", error);
     res
