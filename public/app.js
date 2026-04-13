@@ -6,6 +6,9 @@ const newsTab = document.querySelector("#newsTab");
 let currentStateData = null;
 let currentNewsData = null;
 let activeTab = "bills";
+let nationalLegislationData = null;
+let nationalNewsData = null;
+let socialSentimentData = null;
 
 function getRiskClasses(rating) {
   switch (rating) {
@@ -527,6 +530,22 @@ function renderSummary(data, newsData) {
 }
 
 window.addEventListener("load", () => {
+  const aboutToggle = document.querySelector("#aboutToggle");
+  const aboutSection = document.querySelector("#aboutSection");
+
+  aboutToggle?.addEventListener("click", () => {
+    if (!aboutSection) {
+      return;
+    }
+
+    const isHidden = aboutSection.classList.contains("hidden");
+    aboutSection.classList.toggle("hidden", !isHidden);
+    aboutToggle.setAttribute("aria-expanded", String(isHidden));
+    aboutToggle.textContent = isHidden
+      ? "Hide Project Goals & Build Notes"
+      : "View Project Goals & Build Notes";
+  });
+
   riskFilter?.addEventListener("change", () => {
     if (currentStateData && activeTab === "bills") {
       renderResults(currentStateData);
@@ -550,7 +569,117 @@ window.addEventListener("load", () => {
   loadStateData(initialState);
   loadNewsData(initialState);
   loadSocialSentiment();
+  loadNationalLegislationSummary();
+  loadNationalNewsSummary();
 });
+
+async function loadNationalLegislationSummary() {
+  try {
+    const response = await fetch("/api/national-legislation-summary");
+    if (!response.ok) {
+      throw new Error("Unable to load nationwide legislation summary");
+    }
+
+    const summary = await response.json();
+    nationalLegislationData = summary;
+    renderNationalLegislationSummary(summary);
+    renderCorrelationAlertsFromNationalData();
+    renderPublicAffairsPlaybook();
+  } catch (error) {
+    const overviewEl = document.querySelector("#nationalLegislationOverview");
+    const insightsEl = document.querySelector("#nationalLegislationInsights");
+
+    if (overviewEl) {
+      overviewEl.textContent =
+        "Nationwide legislation summary unavailable at the moment.";
+    }
+    if (insightsEl) {
+      insightsEl.innerHTML =
+        "<li>• Unable to generate nationwide key insights from local bill files.</li>";
+    }
+  }
+}
+
+function renderNationalLegislationSummary(summary) {
+  const overviewEl = document.querySelector("#nationalLegislationOverview");
+  const insightsEl = document.querySelector("#nationalLegislationInsights");
+
+  if (!overviewEl || !insightsEl || !summary?.overview) {
+    return;
+  }
+
+  const { totalBills, statesAnalyzed, red, yellow, green, highRiskShare } =
+    summary.overview;
+
+  overviewEl.innerHTML = `
+    <p><strong>Coverage:</strong> ${totalBills} bills across ${statesAnalyzed} states</p>
+    <p class="mt-1"><strong>Risk Mix:</strong> Red ${red} • Yellow ${yellow} • Green ${green}</p>
+    <p class="mt-1"><strong>High-Risk Share:</strong> ${highRiskShare}% nationwide</p>
+  `;
+
+  const insights = Array.isArray(summary.insights) ? summary.insights : [];
+  insightsEl.innerHTML = insights.length
+    ? insights.map((item) => `<li>• ${item}</li>`).join("")
+    : "<li>• No key insights available.</li>";
+}
+
+async function loadNationalNewsSummary() {
+  try {
+    const response = await fetch("/api/national-news-summary");
+    if (!response.ok) {
+      throw new Error("Unable to load nationwide news summary");
+    }
+
+    const summary = await response.json();
+    nationalNewsData = summary;
+    renderNationalNewsSummary(summary);
+    renderCorrelationAlertsFromNationalData();
+    renderPublicAffairsPlaybook();
+  } catch (error) {
+    const overviewEl = document.querySelector("#nationalNewsOverview");
+    const insightsEl = document.querySelector("#nationalNewsInsights");
+
+    if (overviewEl) {
+      overviewEl.textContent =
+        "Nationwide news synthesis unavailable at the moment.";
+    }
+    if (insightsEl) {
+      insightsEl.innerHTML =
+        "<li>• Unable to generate nationwide key insights from stored news files.</li>";
+    }
+  }
+}
+
+function renderNationalNewsSummary(summary) {
+  const overviewEl = document.querySelector("#nationalNewsOverview");
+  const insightsEl = document.querySelector("#nationalNewsInsights");
+
+  if (!overviewEl || !insightsEl || !summary?.overview) {
+    return;
+  }
+
+  const {
+    totalArticles,
+    statesAnalyzed,
+    negative,
+    neutral,
+    positive,
+    recentArticles,
+    negativeShare,
+  } = summary.overview;
+
+  overviewEl.innerHTML = `
+    <p><strong>Coverage:</strong> ${totalArticles} articles across ${statesAnalyzed} states</p>
+    <p class="mt-1"><strong>Sentiment Mix:</strong> Negative ${negative} • Neutral ${neutral} • Positive ${positive}</p>
+    <p class="mt-1"><strong>Recent Activity:</strong> ${recentArticles} articles in the last 30 days</p>
+    <p class="mt-1"><strong>Negative Share:</strong> ${negativeShare}% of total coverage</p>
+  `;
+
+  const insights = Array.isArray(summary.insights) ? summary.insights : [];
+  insightsEl.innerHTML = insights.length
+    ? insights.map((item) => `<li>• ${item}</li>`).join("")
+    : "<li>• No key insights available.</li>";
+}
 
 // Load and render social sentiment data
 async function loadSocialSentiment() {
@@ -561,10 +690,212 @@ async function loadSocialSentiment() {
       return;
     }
     const data = await response.json();
+    socialSentimentData = data;
     renderSocialSentiment(data);
+    renderCorrelationAlertsFromNationalData();
+    renderPublicAffairsPlaybook();
   } catch (error) {
     console.error("Error loading social sentiment:", error);
   }
+}
+
+function renderCorrelationAlertsFromNationalData() {
+  const correlationAlertsEl = document.querySelector("#correlationAlerts");
+  const correlationInsightsEl = document.querySelector("#correlationInsights");
+
+  if (!correlationAlertsEl || !nationalLegislationData || !nationalNewsData) {
+    return;
+  }
+
+  const billOverview = nationalLegislationData.overview || {};
+  const newsOverview = nationalNewsData.overview || {};
+  const billThemes = (nationalLegislationData.topThemes || []).map(
+    (item) => item.theme,
+  );
+  const newsThemes = (nationalNewsData.topThemes || []).map(
+    (item) => item.theme,
+  );
+
+  const sharedThemes = billThemes.filter((theme) => newsThemes.includes(theme));
+  const billRiskShare = billOverview.totalBills
+    ? (((billOverview.red || 0) + (billOverview.yellow || 0)) /
+        billOverview.totalBills) *
+      100
+    : 0;
+  const newsNegativeShare = parseFloat(newsOverview.negativeShare || "0");
+
+  const socialBreakdown =
+    socialSentimentData?.analysis?.breakdown?.bySentiment || {};
+  const socialTotal = Object.values(socialBreakdown).reduce(
+    (sum, value) => sum + value,
+    0,
+  );
+  const socialNegativeShare = socialTotal
+    ? ((socialBreakdown.negative || 0) / socialTotal) * 100
+    : 0;
+
+  const billHighStates = new Set(
+    (nationalLegislationData.topStatesByRedRisk || [])
+      .filter((item) => item.red > 0)
+      .map((item) => item.stateName),
+  );
+  const newsHighStates = new Set(
+    (nationalNewsData.topStatesByNegative || [])
+      .filter((item) => item.negative > 0)
+      .map((item) => item.stateName),
+  );
+  const overlappingStates = [...billHighStates].filter((state) =>
+    newsHighStates.has(state),
+  );
+
+  const policyMediaLevel =
+    billRiskShare >= 20 || newsNegativeShare >= 25
+      ? "High"
+      : billRiskShare >= 8 || newsNegativeShare >= 12
+        ? "Moderate"
+        : "Low";
+  const narrativeLevel =
+    sharedThemes.length >= 2
+      ? "High"
+      : sharedThemes.length === 1
+        ? "Moderate"
+        : "Low";
+  const geographicLevel =
+    overlappingStates.length >= 2
+      ? "High"
+      : overlappingStates.length === 1
+        ? "Moderate"
+        : "Low";
+  const socialAmplificationLevel =
+    socialNegativeShare >= 20
+      ? "High"
+      : socialNegativeShare >= 10
+        ? "Moderate"
+        : "Low";
+
+  const levelClass = (level) => {
+    if (level === "High") return "text-red-400";
+    if (level === "Moderate") return "text-amber-400";
+    return "text-green-400";
+  };
+
+  correlationAlertsEl.innerHTML = `
+    <div class="space-y-2">
+      <div class="p-3 bg-slate-800/30 rounded-lg">
+        <div class="flex items-center justify-between mb-1">
+          <span class="text-sm font-medium text-slate-100">Policy-Media Pressure</span>
+          <span class="text-xs font-semibold ${levelClass(policyMediaLevel)}">${policyMediaLevel}</span>
+        </div>
+        <p class="text-xs text-slate-400">Bills at yellow/red: ${billRiskShare.toFixed(1)}% • Negative news share: ${newsNegativeShare.toFixed(1)}%</p>
+      </div>
+      <div class="p-3 bg-slate-800/30 rounded-lg">
+        <div class="flex items-center justify-between mb-1">
+          <span class="text-sm font-medium text-slate-100">Narrative Convergence</span>
+          <span class="text-xs font-semibold ${levelClass(narrativeLevel)}">${narrativeLevel}</span>
+        </div>
+        <p class="text-xs text-slate-400">Shared themes between bills/news: ${sharedThemes.length ? sharedThemes.join(", ") : "none"}</p>
+      </div>
+      <div class="p-3 bg-slate-800/30 rounded-lg">
+        <div class="flex items-center justify-between mb-1">
+          <span class="text-sm font-medium text-slate-100">Geographic Overlap</span>
+          <span class="text-xs font-semibold ${levelClass(geographicLevel)}">${geographicLevel}</span>
+        </div>
+        <p class="text-xs text-slate-400">States with both elevated bill and negative news pressure: ${overlappingStates.length ? overlappingStates.join(", ") : "none currently"}</p>
+      </div>
+      <div class="p-3 bg-slate-800/30 rounded-lg">
+        <div class="flex items-center justify-between mb-1">
+          <span class="text-sm font-medium text-slate-100">Social Amplification Risk</span>
+          <span class="text-xs font-semibold ${levelClass(socialAmplificationLevel)}">${socialAmplificationLevel}</span>
+        </div>
+        <p class="text-xs text-slate-400">Negative social sentiment share: ${socialNegativeShare.toFixed(1)}% (used to estimate escalation risk)</p>
+      </div>
+    </div>
+  `;
+
+  if (correlationInsightsEl) {
+    correlationInsightsEl.innerHTML = `
+      <li>• National correlation is ${policyMediaLevel.toLowerCase()} pressure with ${billRiskShare.toFixed(1)}% legislative scrutiny and ${newsNegativeShare.toFixed(1)}% negative media coverage.</li>
+      <li>• ${sharedThemes.length ? `Shared pressure themes indicate narrative alignment: ${sharedThemes.join(", ")}.` : "No major bill/news theme convergence detected yet."}</li>
+      <li>• ${overlappingStates.length ? `Cross-signal hotspot states: ${overlappingStates.join(", ")}.` : "No states currently show simultaneous high bill-risk and negative media concentration."}</li>
+      <li>• Social downside amplification remains ${socialAmplificationLevel.toLowerCase()} at ${socialNegativeShare.toFixed(1)}% negative share.</li>
+    `;
+  }
+}
+
+function renderPublicAffairsPlaybook() {
+  const overviewEl = document.querySelector("#publicAffairsOverview");
+  const listEl = document.querySelector("#publicAffairsPlaybook");
+  const priorityEl = document.querySelector("#publicAffairsPriority");
+
+  if (!overviewEl || !listEl || !priorityEl) {
+    return;
+  }
+
+  if (!nationalLegislationData || !nationalNewsData) {
+    overviewEl.textContent =
+      "Public affairs context unavailable at the moment.";
+    listEl.innerHTML =
+      "<li>• Re-run dashboard load to populate nationwide legislation and news context.</li>";
+    priorityEl.innerHTML =
+      "<strong>Priority focus:</strong> Confirm baseline policy and media datasets before campaign planning.";
+    return;
+  }
+
+  const legislationOverview = nationalLegislationData.overview || {};
+  const newsOverview = nationalNewsData.overview || {};
+
+  const billRiskShare = legislationOverview.totalBills
+    ? (((legislationOverview.red || 0) + (legislationOverview.yellow || 0)) /
+        legislationOverview.totalBills) *
+      100
+    : 0;
+  const newsNegativeShare = parseFloat(newsOverview.negativeShare || "0");
+
+  const legislativeThemes = (nationalLegislationData.topThemes || []).map(
+    (item) => item.theme,
+  );
+  const newsThemes = (nationalNewsData.topThemes || []).map(
+    (item) => item.theme,
+  );
+  const sharedThemes = legislativeThemes.filter((theme) =>
+    newsThemes.includes(theme),
+  );
+
+  const topLegislationState = nationalLegislationData.topStatesByVolume?.[0];
+  const topNewsNegativeState = nationalNewsData.topStatesByNegative?.[0];
+
+  const socialBreakdown =
+    socialSentimentData?.analysis?.breakdown?.bySentiment || {};
+  const socialTotal = Object.values(socialBreakdown).reduce(
+    (sum, value) => sum + value,
+    0,
+  );
+  const socialNegativeShare = socialTotal
+    ? ((socialBreakdown.negative || 0) / socialTotal) * 100
+    : 0;
+
+  overviewEl.innerHTML = `
+    <p><strong>National baseline:</strong> ${legislationOverview.totalBills || 0} bills across ${legislationOverview.statesAnalyzed || 0} states and ${newsOverview.totalArticles || 0} news articles across ${newsOverview.statesAnalyzed || 0} states.</p>
+    <p class="mt-1"><strong>Signal pressure:</strong> ${billRiskShare.toFixed(1)}% legislative yellow/red share • ${newsNegativeShare.toFixed(1)}% negative news share • ${socialNegativeShare.toFixed(1)}% negative social share.</p>
+  `;
+
+  const playbookItems = [
+    `Lead with economic and infrastructure proof points where narratives converge (${sharedThemes.length ? sharedThemes.join(", ") : "energy / community"}), including jobs, grid investments, and fiscal impact.`,
+    `Prioritize state-level stakeholder mapping in ${topLegislationState ? topLegislationState.stateName : "top-volume states"} (policy volume) and ${topNewsNegativeState ? topNewsNegativeState.stateName : "high-coverage states"} (media scrutiny) before major announcements.`,
+    `Deploy a proactive risk-mitigation narrative tied to water, environmental, and community safeguards in all earned media and local briefings.`,
+    `Build rapid-response messaging for negative cycles using social monitoring triggers; current social downside pressure is ${socialNegativeShare.toFixed(1)}%, which supports targeted rather than broad escalation response.`,
+  ];
+
+  listEl.innerHTML = playbookItems.map((item) => `<li>• ${item}</li>`).join("");
+
+  const priorityFocus =
+    newsNegativeShare >= 20
+      ? "Media-risk management and local coalition alignment in high-negative states."
+      : sharedThemes.length >= 2
+        ? "Narrative alignment around shared bill/news themes to preempt opposition framing."
+        : "Build localized benefits messaging with proof-backed community outcomes.";
+
+  priorityEl.innerHTML = `<strong>Priority focus:</strong> ${priorityFocus}`;
 }
 
 function renderSocialSentiment(data) {
@@ -686,33 +1017,5 @@ function renderSocialSentiment(data) {
       .join("");
   }
 
-  // Correlation Alerts
-  const correlationAlertsEl = document.querySelector("#correlationAlerts");
-  if (correlationAlertsEl) {
-    correlationAlertsEl.innerHTML = `
-      <div class="space-y-2">
-        <div class="p-3 bg-slate-800/30 rounded-lg">
-          <div class="flex items-center gap-2 mb-1">
-            <span class="text-yellow-400">📈</span>
-            <span class="text-sm font-medium text-slate-100">Bills → News Correlation</span>
-          </div>
-          <p class="text-xs text-slate-400">Legislative activity drives media attention spikes</p>
-        </div>
-        <div class="p-3 bg-slate-800/30 rounded-lg">
-          <div class="flex items-center gap-2 mb-1">
-            <span class="text-green-400">📊</span>
-            <span class="text-sm font-medium text-slate-100">Social Stability</span>
-          </div>
-          <p class="text-xs text-slate-400">Social sentiment remains consistent despite news cycles</p>
-        </div>
-        <div class="p-3 bg-slate-800/30 rounded-lg">
-          <div class="flex items-center gap-2 mb-1">
-            <span class="text-blue-400">🎯</span>
-            <span class="text-sm font-medium text-slate-100">Economic Focus</span>
-          </div>
-          <p class="text-xs text-slate-400">Cost concerns dominate over environmental issues</p>
-        </div>
-      </div>
-    `;
-  }
+  renderCorrelationAlertsFromNationalData();
 }
