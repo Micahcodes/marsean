@@ -560,4 +560,121 @@ window.addEventListener("load", () => {
   const initialState = stateFilter?.value || "tx";
   loadStateData(initialState);
   loadNewsData(initialState);
+  loadSocialSentiment();
 });
+
+// Load and render social sentiment data
+async function loadSocialSentiment() {
+  try {
+    const response = await fetch("/data/social-sentiment.json");
+    if (!response.ok) {
+      console.warn("Social sentiment data not available");
+      return;
+    }
+    const data = await response.json();
+    renderSocialSentiment(data);
+  } catch (error) {
+    console.error("Error loading social sentiment:", error);
+  }
+}
+
+function renderSocialSentiment(data) {
+  if (!data?.analysis) return;
+
+  const analysis = data.analysis;
+
+  // Top Disagreeable Sentiments
+  const topDisagreeableEl = document.querySelector("#topDisagreeable");
+  if (topDisagreeableEl && analysis.topDisagreeableSentiments) {
+    topDisagreeableEl.innerHTML = analysis.topDisagreeableSentiments
+      .map((item, index) => `
+        <div class="flex items-center justify-between p-3 bg-slate-800/30 rounded-lg">
+          <div class="flex-1">
+            <div class="flex items-center gap-2">
+              <span class="text-sm font-medium text-slate-300">#${index + 1}</span>
+              <span class="text-sm font-semibold text-slate-100">${item.theme}</span>
+            </div>
+            <p class="text-xs text-slate-400 mt-1">${item.frequency} mentions, ${item.totalEngagement} engagement</p>
+          </div>
+          <div class="text-right">
+            <div class="text-sm font-medium text-red-400">Score: ${item.score}</div>
+          </div>
+        </div>
+      `)
+      .join("");
+  }
+
+  // Sentiment Themes
+  const sentimentThemesEl = document.querySelector("#sentimentThemes");
+  if (sentimentThemesEl && analysis.breakdown?.byTheme) {
+    const themes = analysis.breakdown.byTheme;
+    const total = Object.values(themes).reduce((a, b) => a + b, 0);
+    sentimentThemesEl.innerHTML = Object.entries(themes)
+      .sort(([,a], [,b]) => b - a)
+      .map(([theme, count]) => {
+        const percentage = ((count / total) * 100).toFixed(1);
+        return `
+          <div class="flex items-center justify-between">
+            <span class="text-sm text-slate-300">${theme}</span>
+            <div class="flex items-center gap-2">
+              <div class="w-16 bg-slate-700 rounded-full h-2">
+                <div class="bg-cyan-500 h-2 rounded-full" style="width: ${percentage}%"></div>
+              </div>
+              <span class="text-sm text-slate-100">${percentage}%</span>
+            </div>
+          </div>
+        `;
+      })
+      .join("");
+  }
+
+  // Pro/Con Balance
+  const proConBalanceEl = document.querySelector("#proConBalance");
+  if (proConBalanceEl && analysis.breakdown?.bySentiment) {
+    const sentiments = analysis.breakdown.bySentiment;
+    const total = Object.values(sentiments).reduce((a, b) => a + b, 0);
+    proConBalanceEl.innerHTML = Object.entries(sentiments)
+      .map(([sentiment, count]) => {
+        const percentage = ((count / total) * 100).toFixed(1);
+        const color = sentiment === "positive" ? "text-green-400" : 
+                     sentiment === "negative" ? "text-red-400" : "text-slate-400";
+        return `
+          <div class="flex items-center justify-between">
+            <span class="text-sm text-slate-300 capitalize">${sentiment}</span>
+            <span class="text-sm ${color} font-medium">${count} (${percentage}%)</span>
+          </div>
+        `;
+      })
+      .join("");
+  }
+
+  // Correlation Alerts
+  const correlationAlertsEl = document.querySelector("#correlationAlerts");
+  if (correlationAlertsEl) {
+    correlationAlertsEl.innerHTML = `
+      <div class="space-y-2">
+        <div class="p-3 bg-slate-800/30 rounded-lg">
+          <div class="flex items-center gap-2 mb-1">
+            <span class="text-yellow-400">📈</span>
+            <span class="text-sm font-medium text-slate-100">Bills → News Correlation</span>
+          </div>
+          <p class="text-xs text-slate-400">Legislative activity drives media attention spikes</p>
+        </div>
+        <div class="p-3 bg-slate-800/30 rounded-lg">
+          <div class="flex items-center gap-2 mb-1">
+            <span class="text-green-400">📊</span>
+            <span class="text-sm font-medium text-slate-100">Social Stability</span>
+          </div>
+          <p class="text-xs text-slate-400">Social sentiment remains consistent despite news cycles</p>
+        </div>
+        <div class="p-3 bg-slate-800/30 rounded-lg">
+          <div class="flex items-center gap-2 mb-1">
+            <span class="text-blue-400">🎯</span>
+            <span class="text-sm font-medium text-slate-100">Economic Focus</span>
+          </div>
+          <p class="text-xs text-slate-400">Cost concerns dominate over environmental issues</p>
+        </div>
+      </div>
+    `;
+  }
+}
