@@ -2,10 +2,7 @@ import express from "express";
 import fs from "fs/promises";
 import path from "path";
 import { fileURLToPath } from "url";
-import axios from "axios";
 import dotenv from "dotenv";
-import { getTexasBills } from "./index.js";
-import { fetchXSentiment, computeTopSentiments } from "./xSentiment.js";
 
 dotenv.config();
 
@@ -15,45 +12,14 @@ const app = express();
 const publicDir = path.join(__dirname, "../public");
 const dataDir = path.join(__dirname, "../data");
 
-function getStateName(stateCode) {
-  const states = {
-    tx: "Texas",
-    ca: "California",
-    ny: "New York",
-    fl: "Florida",
-    wa: "Washington",
-    // Add more as needed
-  };
-  return states[stateCode] || stateCode;
-}
-
-function analyzeSentiment(text) {
-  const positiveWords =
-    /\b(benefit|growth|expansion|investment|job|positive|good|success|advantage)\b/gi;
-  const negativeWords =
-    /\b(controversy|ban|restrict|protest|lawsuit|opposition|environmental|water|power|shortage|outage|impact|problem|issue|concern|risk|threat|damage|harm|criticism|complaint)\b/gi;
-  const posCount = (text.match(positiveWords) || []).length;
-  const negCount = (text.match(negativeWords) || []).length;
-  if (negCount > posCount) return "negative";
-  if (posCount > negCount) return "positive";
-  return "neutral";
-}
-
 app.use(express.static(publicDir));
 app.use("/data", express.static(dataDir));
 
+const COLLECTION_DISABLED_MESSAGE =
+  "Live data collection is disabled for this project. Use existing files in /data for analysis and UI work.";
+
 app.get("/api/search-bills", async (req, res) => {
-  try {
-    const result = await getTexasBills();
-    await fs.writeFile(
-      path.join(dataDir, "texas-bills.json"),
-      JSON.stringify(result, null, 2),
-    );
-    res.json(result);
-  } catch (error) {
-    console.error("search-bills error:", error);
-    res.status(500).json({ message: error.message || "Unable to fetch bills" });
-  }
+  res.status(410).json({ message: COLLECTION_DISABLED_MESSAGE });
 });
 
 app.get("/api/stored-bills", async (req, res) => {
@@ -69,70 +35,11 @@ app.get("/api/stored-bills", async (req, res) => {
 });
 
 app.get("/api/news", async (req, res) => {
-  try {
-    const state = req.query.state || "tx";
-    const stateName = getStateName(state);
-    const apiKey = process.env.NEWS_API_KEY;
-    const url = `https://newsapi.org/v2/everything?q=data center ${stateName} (controversy OR ban OR restrict OR protest OR lawsuit OR opposition OR environmental OR water OR power)&pageSize=25&apiKey=${apiKey}`;
-    const response = await axios.get(url);
-    const data = response.data;
-    // Analyze sentiment for each article
-    if (data.articles) {
-      data.articles.forEach((article) => {
-        const text = (article.title || "") + " " + (article.description || "");
-        article.sentiment = analyzeSentiment(text);
-      });
-    }
-    // Store the data
-    await fs.writeFile(
-      path.join(dataDir, `news-${state}.json`),
-      JSON.stringify(data, null, 2),
-    );
-    res.json(data);
-  } catch (error) {
-    console.error("news error:", error);
-    res.status(500).json({ message: error.message || "Unable to fetch news" });
-  }
+  res.status(410).json({ message: COLLECTION_DISABLED_MESSAGE });
 });
 
-function getTwitterApiKey() {
-  return process.env.TWITTER_API_KEY || process.env.X_API_KEY;
-}
-
 app.get("/api/x-sentiment", async (req, res) => {
-  try {
-    const bearerToken = process.env.X_BEARER_TOKEN;
-    if (!bearerToken) {
-      return res.status(501).json({
-        message:
-          "X API Bearer token not configured. Set X_BEARER_TOKEN in .env to enable social sentiment integration.",
-      });
-    }
-
-    // Fetch sentiment data from X API
-    const xData = await fetchXSentiment(bearerToken);
-
-    // Compute top disagreeable sentiments
-    const analysis = computeTopSentiments(xData.tweets);
-
-    const result = {
-      ...xData,
-      analysis,
-    };
-
-    // Store the full data
-    await fs.writeFile(
-      path.join(dataDir, "social-sentiment.json"),
-      JSON.stringify(result, null, 2),
-    );
-
-    res.json(result);
-  } catch (error) {
-    console.error("x-sentiment error:", error);
-    res
-      .status(500)
-      .json({ message: error.message || "Unable to fetch X sentiment" });
-  }
+  res.status(410).json({ message: COLLECTION_DISABLED_MESSAGE });
 });
 
 const port = process.env.PORT || 3000;

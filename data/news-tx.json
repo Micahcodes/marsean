@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 466,
+  "totalResults": 447,
   "articles": [
     {
       "source": {
@@ -84,62 +84,6 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wFFuxQt6hK1J36BmPyop8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ap.org/9b2baee9ff6d481c55addecf5d7b8ad3",
       "publishedAt": "2026-03-27T18:16:41Z",
       "content": "Microsoft is taking over a data center construction project in Texas after OpenAI declined to pursue it, in a move that will make the two companies neighbors at one of the nation's largest complexes … [+3092 chars]",
-      "sentiment": "positive"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "BeauHD",
-      "title": "OpenAI Is Walking Away From Expanding Its Stargate Data Center With Oracle",
-      "description": "OpenAI is reportedly backing away from expanding its AI data center partnership with Oracle because newer generations of Nvidia GPUs may arrive before the facility is even operational. CNBC reports: Artificial intelligence chips are getting upgraded more quic…",
-      "url": "https://developers.slashdot.org/story/26/03/10/0510223/openai-is-walking-away-from-expanding-its-stargate-data-center-with-oracle",
-      "urlToImage": "https://a.fsdn.com/sd/topics/oracle_64.png",
-      "publishedAt": "2026-03-10T18:00:00Z",
-      "content": "OpenAI is reportedly backing away from expanding its AI data center partnership with Oracle because newer generations of Nvidia GPUs may arrive before the facility is even operational. CNBC reports: … [+1069 chars]",
-      "sentiment": "neutral"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "BeauHD",
-      "title": "Oracle Is Walking Away From Expanding Its Stargate Data Center With Oracle",
-      "description": "OpenAI is reportedly backing away from expanding its AI data center partnership with Oracle because newer generations of Nvidia GPUs may arrive before the facility is even operational. CNBC reports: Artificial intelligence chips are getting upgraded more quic…",
-      "url": "https://developers.slashdot.org/story/26/03/10/0510223/oracle-is-walking-away-from-expanding-its-stargate-data-center-with-oracle",
-      "urlToImage": "https://a.fsdn.com/sd/topics/oracle_64.png",
-      "publishedAt": "2026-03-10T18:00:00Z",
-      "content": "OpenAI is reportedly backing away from expanding its AI data center partnership with Oracle because newer generations of Nvidia GPUs may arrive before the facility is even operational. CNBC reports: … [+1069 chars]",
-      "sentiment": "neutral"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Huileng Tan",
-      "title": "Oil's price spike is bad news for power-hungry AI",
-      "description": "AI data centers use far more electricity than traditional servers, driven by power-hungry GPUs and advanced cooling systems.",
-      "url": "https://www.businessinsider.com/oil-price-spike-impact-electricity-power-ai-semiconductor-chips-fab-2026-3",
-      "urlToImage": "https://i.insider.com/69b0dacfa96e437d6eb819a1?width=1200&format=jpeg",
-      "publishedAt": "2026-03-11T05:34:59Z",
-      "content": "AI data centers are highly energy-intensive, making them vulnerable to rising power costs.Andrew Caballero-Reynolds/AFP/Getty Images\r\n<ul><li>Oil's price surge is rattling chip stocks and raising AI … [+3474 chars]",
-      "sentiment": "negative"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Ellen Thomas",
-      "title": "Oracle tells investors not to worry about data center spending because its 'very, very good' at cost-cutting",
-      "description": "As the cloud giant spends billions on the AI race, it reassures investors that it is still \"very good\" at doing things on the cheap.",
-      "url": "https://www.businessinsider.com/oracle-doubles-down-on-data-center-spending-cost-cutting-2026-3",
-      "urlToImage": "https://i.insider.com/69b0aaf3a96e437d6eb818f4?width=1200&format=jpeg",
-      "publishedAt": "2026-03-10T23:51:12Z",
-      "content": "Oracle reported its third-quarter earnings for fiscal 2026 on Tuesday.Jonathan Raa/NurPhoto via Getty Images\r\n<ul><li>Oracle reported its third-quarter earnings for fiscal 2026 on Tuesday.</li><li>Th… [+2306 chars]",
       "sentiment": "positive"
     },
     {
@@ -242,20 +186,6 @@
     },
     {
       "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Nicole Einbinder",
-      "title": "A $7.5 billion cop-tech darling runs headfirst into human consequences",
-      "description": "Flock Safety's license plate readers are used by police in thousands of communities. When the cameras make mistakes, the consequences can be severe.",
-      "url": "https://www.businessinsider.com/flock-safety-alpr-cameras-misreads-2026-3",
-      "urlToImage": "https://i.insider.com/69ab0f1fd3e2f1aef36a233c?width=1200&format=jpeg",
-      "publishedAt": "2026-03-09T09:07:01Z",
-      "content": "In April 2024, Brandon Upchurch and his cousin were driving home from a convenience store when they noticed flashing lights behind them. When Upchurch pulled over, officers from the Toledo Police Dep… [+23869 chars]",
-      "sentiment": "neutral"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Wheresyoured.at"
       },
@@ -266,20 +196,6 @@
       "urlToImage": "https://www.wheresyoured.at/content/images/2024/01/wyea--1.jpeg",
       "publishedAt": "2026-03-24T17:30:55Z",
       "content": "Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? Its $70 a year, or $7 a month, and in return you get a weekly newslet… [+55856 chars]",
-      "sentiment": "neutral"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Jaclyn Diaz",
-      "title": "The Trump DOJ is giving guns back to felons, including one alleged fake elector",
-      "description": "The Department of Justice is quietly restarting a decades-dormant program to restore gun rights to felons. One of them was an alleged fake elector in 2020.",
-      "url": "https://www.npr.org/2026/03/11/g-s1-113204/gun-rights-restore-felons-trump-justice-department",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4624x2601+0+433/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F7b%2F61e3fe6645ab9f979da92456f927%2Fap22298577267269.jpg",
-      "publishedAt": "2026-03-11T09:00:00Z",
-      "content": "Last month, the Department of Justice quietly published a list of 22 names in the Federal Register. With little explanation or fanfare, the department announced that these individuals had their feder… [+10201 chars]",
       "sentiment": "neutral"
     },
     {
@@ -351,6 +267,90 @@
       "publishedAt": "2026-03-31T21:50:41Z",
       "content": "Bernard Looney, whose tenure as CEO of BP ended with him embattled in controversy, is entering the AI age as the new CEO of Wyoming-based Prometheus Hyperscale, leading a bevy of data center campus d… [+1945 chars]",
       "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Craig Hale",
+      "title": "'If one piece of your supply chain is delayed, then your whole project can't deliver': Nearly half of US data centers planned for 2026 canceled or delayed — and things could soon get much worse",
+      "description": "Data centers are being delayed or cancelled altogether, and the number of challenges operators face just continues to grow.",
+      "url": "https://www.techradar.com/pro/if-one-piece-of-your-supply-chain-is-delayed-then-your-whole-project-cant-deliver-nearly-half-of-us-data-centers-planned-for-2026-canceled-or-delayed-and-things-could-soon-get-much-worse",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg",
+      "publishedAt": "2026-04-10T12:05:00Z",
+      "content": "<ul><li>As many as one in two US data centers planned for 2026 could face delays or cancellations</li><li>The global chip shortage continues to strain supply, while demand soars</li><li>Other challen… [+2918 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Restofworld.org"
+      },
+      "author": "José Olivares",
+      "title": "Mexican surveillance company Grupo Seguritech watches the U.S. border",
+      "description": "Grupo Seguritech quietly built a $1.27 billion surveillance empire. Now it's expanding into the U.S. and across Latin America.",
+      "url": "https://restofworld.org/2026/mexico-seguritech-government-surveillance-profile/",
+      "urlToImage": "https://restofworld.org/wp-content/uploads/2026/04/sized_Seguritech_Mexico_035_final-1600x900.jpg",
+      "publishedAt": "2026-04-10T00:36:21Z",
+      "content": "This article was produced in partnership with Type Investigations.\r\nInside a law enforcement command center in Ciudad Juárez, a police officer scrolled across a map on her touch-screen computer. As s… [+29741 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Reason"
+      },
+      "author": "Christian Britschgi",
+      "title": "Live Free or Ban Data Centers",
+      "description": "Plus: D.C. considers single-stair reform, Idaho legalizes starter homes, and Florida bans discrimination against manufactured housing.",
+      "url": "https://reason.com/2026/03/31/live-free-or-ban-data-centers/",
+      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/01/Zoning-Meta.png",
+      "publishedAt": "2026-03-31T16:58:48Z",
+      "content": "Happy Tuesday, and welcome to another edition of Rent Free. This week's newsletter covers a number of new reforms that try to relegalize formerly ubiquitous forms of affordable housing.\r\n<ul><li>In W… [+9550 chars]",
+      "sentiment": "negative"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Scott Stein",
+      "title": "We're All Flailing With AI: I Tried Art That Pokes Back at the Chaos",
+      "description": "A handful of moments at SXSW had me wondering: How much of AI is me playing a game and how much is it a game playing me?",
+      "url": "https://www.cnet.com/tech/services-and-software/ai-art-games-creativity-chaos-sxsw-2026/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/9a03a92b0f2f61612d1c003791afa8b7e6fa9460/hub/2026/03/24/b6989991-dd18-4c6c-9df2-1e7257ab4e14/body-proxy-sxsw.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2026-03-25T12:01:15Z",
+      "content": "Smack dab in the middle of this year's SXSW festival in Austin, Texas, there was a huge dirt hole in the ground, blocks wide, where there used to be a convention center. The festival's events continu… [+11915 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Simon Shuster",
+      "title": "China Watches Trump Blink",
+      "description": "A blockade of Taiwan would hurt the global economy more than Iran’s blockade of the Strait of Hormuz.",
+      "url": "https://www.theatlantic.com/national-security/2026/04/china-taiwan-trump-iran-war/686738/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/RJJH7zKSTJ0mV5xoBvuL6dONZl8=/0x85:3994x2165/1200x625/media/img/mt/2026/04/2026_04_09_What_the_Mess_in_the_Strait_of_Hormuz_Has_Taught_China_About_the_Taiwan_Strait/original.jpg",
+      "publishedAt": "2026-04-09T11:00:00Z",
+      "content": "China stands to learn a lot from the war in Iran. Red lines and deadlines imposed by the United States, even when backed by the threat of genocide, can turn out to be rather wobbly. The American mili… [+5216 chars]",
+      "sentiment": "neutral"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Cointelegraph by Amin Haqshanas",
+      "title": "Google plans to back $5B data center for Anthropic: Report",
+      "description": "Google plans to support a $5 billion Texas data center for Anthropic with bank financing, as a US judge blocks a federal attempt to restrict the AI company’s tools.",
+      "url": "https://cointelegraph.com/news/google-banks-back-5b-texas-data-center-anthropic",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019d3476-4336-7fb7-9029-352de6ec3788.jpg",
+      "publishedAt": "2026-03-28T14:14:20Z",
+      "content": "Google is preparing to support a multibillion-dollar data center project in Texas leased to Anthropic as competition for AI infrastructure accelerates.\r\nThe project, operated by Nexus Data Centers, c… [+2675 chars]",
+      "sentiment": "negative"
     }
   ]
 }

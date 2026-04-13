@@ -284,22 +284,11 @@ async function loadNewsData(stateCode) {
       return;
     }
   } catch (error) {
-    // Ignore, fetch from API
+    // Ignore and fall through to empty dataset in analysis-only mode
   }
 
-  try {
-    const response = await fetch(`/api/news?state=${stateCode}`);
-    if (!response.ok) {
-      throw new Error(`Unable to load news for ${stateCode}`);
-    }
-    const data = await response.json();
-    currentNewsData = data;
-    renderResults(currentStateData);
-  } catch (error) {
-    console.warn(error);
-    currentNewsData = { articles: [] };
-    renderResults(currentStateData);
-  }
+  currentNewsData = { articles: [] };
+  renderResults(currentStateData);
 }
 
 function switchTab(tab) {
@@ -610,6 +599,38 @@ function renderSocialSentiment(data) {
               <div class="text-right">
                 <div class="text-sm font-medium text-red-400">Score: ${normalizedScore}/10</div>
                 <div class="text-xs text-slate-500">Most Disagreeable</div>
+              </div>
+            </div>
+          `;
+      })
+      .join("");
+  }
+
+  // Top Positive Sentiments
+  const topPositiveEl = document.querySelector("#topPositive");
+  if (topPositiveEl && analysis.topPositiveSentiments) {
+    // Calculate max score for normalization to 1-10 scale
+    const maxScore = Math.max(
+      ...analysis.topPositiveSentiments.map((item) => parseFloat(item.score)),
+    );
+
+    topPositiveEl.innerHTML = analysis.topPositiveSentiments
+      .map((item, index) => {
+        const rawScore = parseFloat(item.score);
+        const normalizedScore =
+          maxScore > 0 ? Math.round((rawScore / maxScore) * 10) : 0;
+        return `
+            <div class="flex items-center justify-between p-3 bg-slate-800/30 rounded-lg">
+              <div class="flex-1">
+                <div class="flex items-center gap-2">
+                  <span class="text-sm font-medium text-slate-300">#${index + 1}</span>
+                  <span class="text-sm font-semibold text-slate-100">${item.theme}</span>
+                </div>
+                <p class="text-xs text-slate-400 mt-1">${item.frequency} mentions, ${item.totalEngagement} engagement</p>
+              </div>
+              <div class="text-right">
+                <div class="text-sm font-medium text-green-400">Score: ${normalizedScore}/10</div>
+                <div class="text-xs text-slate-500">Most Positive</div>
               </div>
             </div>
           `;

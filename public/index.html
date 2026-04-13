@@ -32,7 +32,7 @@
       <section id="summarySection" class="mt-14">
         <h2 class="text-2xl font-semibold mb-6">Executive Summary</h2>
         <div class="grid gap-6 grid-cols-1 lg:grid-cols-2 mb-8">
-          <!-- Top Disagreeable Sentiments (Top Left) -->
+          <!-- Top Disagreeable Sentiments (Top Left - Full Width) -->
           <div
             class="rounded-3xl border border-slate-800 bg-slate-900/90 p-6 col-span-1 lg:col-span-2"
           >
@@ -70,7 +70,7 @@
             </div>
           </div>
 
-          <!-- Sentiment Themes (Top Right) -->
+          <!-- Sentiment Themes (Bottom Left) -->
           <div class="rounded-3xl border border-slate-800 bg-slate-900/90 p-6">
             <div class="flex items-center gap-3 mb-4">
               <div
@@ -87,7 +87,41 @@
             </div>
           </div>
 
-          <!-- Pro/Con Balance (Bottom Left) -->
+          <!-- Top Positive Sentiments (Bottom Center) -->
+          <div class="rounded-3xl border border-slate-800 bg-slate-900/90 p-6">
+            <div class="flex items-center gap-3 mb-4">
+              <div
+                class="w-8 h-8 bg-green-500/20 rounded-full flex items-center justify-center"
+              >
+                <span class="text-green-400 font-bold">👍</span>
+              </div>
+              <h3 class="text-xl font-semibold text-slate-100">
+                Top Positive Sentiments
+              </h3>
+            </div>
+            <p class="text-slate-300 mb-4">
+              Most common positive data center mentions by engagement &
+              frequency
+            </p>
+            <div id="topPositive" class="space-y-3">
+              <div class="text-slate-400">
+                Loading positive sentiment data...
+              </div>
+            </div>
+            <div class="mt-4 p-3 bg-slate-800/50 rounded-lg">
+              <p class="text-sm text-slate-300 mb-2">
+                <strong>Key Insights:</strong>
+              </p>
+              <ul class="text-sm text-slate-300 space-y-1">
+                <li>• Positive sentiment focuses on innovation and benefits</li>
+                <li>• Economic growth narratives resonate well</li>
+                <li>• Community benefits mentioned but underrepresented</li>
+                <li>• Opportunity to amplify positive messaging</li>
+              </ul>
+            </div>
+          </div>
+
+          <!-- Pro/Con Balance (Bottom Right) -->
           <div class="rounded-3xl border border-slate-800 bg-slate-900/90 p-6">
             <div class="flex items-center gap-3 mb-4">
               <div
@@ -123,8 +157,10 @@
             </div>
           </div>
 
-          <!-- Correlation Alerts (Bottom Right) -->
-          <div class="rounded-3xl border border-slate-800 bg-slate-900/90 p-6">
+          <!-- Correlation Alerts (New Row) -->
+          <div
+            class="rounded-3xl border border-slate-800 bg-slate-900/90 p-6 col-span-1 lg:col-span-2"
+          >
             <div class="flex items-center gap-3 mb-4">
               <div
                 class="w-8 h-8 bg-yellow-500/20 rounded-full flex items-center justify-center"
