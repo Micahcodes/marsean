@@ -43,7 +43,7 @@
                 <span class="text-red-400 font-bold">⚠️</span>
               </div>
               <h3 class="text-xl font-semibold text-slate-100">
-                Top 5 Disagreeable Sentiments
+                Top 5 Disagreeable Social Sentiments
               </h3>
             </div>
             <p class="text-slate-300 mb-4">
@@ -54,11 +54,19 @@
               <div class="text-slate-400">Loading sentiment data...</div>
             </div>
             <div class="mt-4 p-3 bg-slate-800/50 rounded-lg">
-              <p class="text-sm text-slate-300">
-                <strong>Key Insight:</strong> Low engagement, no credible
-                amplification. Economic costs dominate over environmental
-                concerns.
+              <p class="text-sm text-slate-300 mb-2">
+                <strong>Key Insights:</strong>
               </p>
+              <ul class="text-sm text-slate-300 space-y-1">
+                <li>• Low engagement across all negative sentiments</li>
+                <li>• No credible amplification from verified accounts</li>
+                <li>
+                  • Economic concerns (costs) dominate over environmental issues
+                </li>
+                <li>
+                  • Indicates grassroots opposition, not organized campaigns
+                </li>
+              </ul>
             </div>
           </div>
 
@@ -95,10 +103,23 @@
               <div class="text-slate-400">Loading balance data...</div>
             </div>
             <div class="mt-4 p-3 bg-slate-800/50 rounded-lg">
-              <p class="text-sm text-slate-300">
-                <strong>Key Insight:</strong> Balanced perception; economic
-                benefits resonate. 94% neutral tone indicates low social risk.
+              <p class="text-sm text-slate-300 mb-2">
+                <strong>Key Insights:</strong>
               </p>
+              <ul class="text-sm text-slate-300 space-y-1">
+                <li>
+                  • 94% of mentions are neutral, indicating balanced public
+                  perception
+                </li>
+                <li>
+                  • Economic benefits resonate more than environmental concerns
+                </li>
+                <li>• Low social risk for data center projects</li>
+                <li>
+                  • Positive sentiment exists but underrepresented in
+                  negative-focused searches
+                </li>
+              </ul>
             </div>
           </div>
 
@@ -118,11 +139,18 @@
               <div class="text-slate-400">Loading correlation data...</div>
             </div>
             <div class="mt-4 p-3 bg-slate-800/50 rounded-lg">
-              <p class="text-sm text-slate-300">
-                <strong>Key Insight:</strong> Bills drive news spikes, but
-                social sentiment remains stable. No viral negative trends
-                detected.
+              <p class="text-sm text-slate-300 mb-2">
+                <strong>Key Insights:</strong>
               </p>
+              <ul class="text-sm text-slate-300 space-y-1">
+                <li>• Legislative bills trigger news coverage spikes</li>
+                <li>• Social sentiment remains stable despite news cycles</li>
+                <li>• No viral negative trends detected on X</li>
+                <li>
+                  • Early warning: Monitor bills for potential social
+                  amplification
+                </li>
+              </ul>
             </div>
           </div>
         </div>
@@ -181,15 +209,13 @@
       <section id="resultsSection" class="mt-14">
         <h2 class="text-2xl font-semibold mb-6">Detailed Results</h2>
 
-        <!-- State Selector Moved Here -->
-        <div class="mb-6">
+        <!-- State Selector and Risk Filter Side by Side -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
           <label class="block text-sm text-slate-300">
-            <span class="mb-2 block font-semibold"
-              >Select state for detailed analysis</span
-            >
+            <span class="mb-2 block font-semibold">Select state for detailed analysis</span>
             <select
               id="stateFilter"
-              class="mt-1 w-full max-w-xs rounded-xl border border-slate-800 bg-slate-900 px-3 py-2 text-slate-100 focus:border-cyan-500 focus:outline-none"
+              class="mt-1 w-full rounded-xl border border-slate-800 bg-slate-900 px-3 py-2 text-slate-100 focus:border-cyan-500 focus:outline-none"
             >
               <option value="tx">Texas</option>
               <option value="al">Alabama</option>
@@ -241,31 +267,11 @@
               <option value="wy">Wyoming</option>
             </select>
           </label>
-        </div>
-
-        <!-- Tabs for Bills and News -->
-        <div class="flex space-x-1 mb-6">
-          <button
-            id="billsTab"
-            class="px-4 py-2 rounded-t-lg bg-slate-800 text-slate-100 font-semibold border-b-2 border-cyan-400"
-          >
-            Legislative Bills
-          </button>
-          <button
-            id="newsTab"
-            class="px-4 py-2 rounded-t-lg bg-slate-900 text-slate-400 font-semibold border-b-2 border-transparent hover:text-slate-100"
-          >
-            News Articles
-          </button>
-        </div>
-
-        <!-- Risk Filter -->
-        <div class="mb-6">
           <label class="block text-sm text-slate-300">
             <span class="mb-2 block font-semibold">Filter by risk rating</span>
             <select
               id="riskFilter"
-              class="mt-1 w-full max-w-xs rounded-xl border border-slate-800 bg-slate-900 px-3 py-2 text-slate-100 focus:border-cyan-500 focus:outline-none"
+              class="mt-1 w-full rounded-xl border border-slate-800 bg-slate-900 px-3 py-2 text-slate-100 focus:border-cyan-500 focus:outline-none"
             >
               <option value="all">All risks</option>
               <option value="red">Red</option>

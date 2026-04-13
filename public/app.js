@@ -586,21 +586,34 @@ function renderSocialSentiment(data) {
   // Top Disagreeable Sentiments
   const topDisagreeableEl = document.querySelector("#topDisagreeable");
   if (topDisagreeableEl && analysis.topDisagreeableSentiments) {
+    // Calculate max score for normalization to 1-10 scale
+    const maxScore = Math.max(
+      ...analysis.topDisagreeableSentiments.map((item) =>
+        parseFloat(item.score),
+      ),
+    );
+
     topDisagreeableEl.innerHTML = analysis.topDisagreeableSentiments
-      .map((item, index) => `
-        <div class="flex items-center justify-between p-3 bg-slate-800/30 rounded-lg">
-          <div class="flex-1">
-            <div class="flex items-center gap-2">
-              <span class="text-sm font-medium text-slate-300">#${index + 1}</span>
-              <span class="text-sm font-semibold text-slate-100">${item.theme}</span>
+      .map((item, index) => {
+        const rawScore = parseFloat(item.score);
+        const normalizedScore =
+          maxScore > 0 ? Math.round((rawScore / maxScore) * 10) : 0;
+        return `
+            <div class="flex items-center justify-between p-3 bg-slate-800/30 rounded-lg">
+              <div class="flex-1">
+                <div class="flex items-center gap-2">
+                  <span class="text-sm font-medium text-slate-300">#${index + 1}</span>
+                  <span class="text-sm font-semibold text-slate-100">${item.theme}</span>
+                </div>
+                <p class="text-xs text-slate-400 mt-1">${item.frequency} mentions, ${item.totalEngagement} engagement</p>
+              </div>
+              <div class="text-right">
+                <div class="text-sm font-medium text-red-400">Score: ${normalizedScore}/10</div>
+                <div class="text-xs text-slate-500">Most Disagreeable</div>
+              </div>
             </div>
-            <p class="text-xs text-slate-400 mt-1">${item.frequency} mentions, ${item.totalEngagement} engagement</p>
-          </div>
-          <div class="text-right">
-            <div class="text-sm font-medium text-red-400">Score: ${item.score}</div>
-          </div>
-        </div>
-      `)
+          `;
+      })
       .join("");
   }
 
@@ -610,7 +623,7 @@ function renderSocialSentiment(data) {
     const themes = analysis.breakdown.byTheme;
     const total = Object.values(themes).reduce((a, b) => a + b, 0);
     sentimentThemesEl.innerHTML = Object.entries(themes)
-      .sort(([,a], [,b]) => b - a)
+      .sort(([, a], [, b]) => b - a)
       .map(([theme, count]) => {
         const percentage = ((count / total) * 100).toFixed(1);
         return `
@@ -636,8 +649,12 @@ function renderSocialSentiment(data) {
     proConBalanceEl.innerHTML = Object.entries(sentiments)
       .map(([sentiment, count]) => {
         const percentage = ((count / total) * 100).toFixed(1);
-        const color = sentiment === "positive" ? "text-green-400" : 
-                     sentiment === "negative" ? "text-red-400" : "text-slate-400";
+        const color =
+          sentiment === "positive"
+            ? "text-green-400"
+            : sentiment === "negative"
+              ? "text-red-400"
+              : "text-slate-400";
         return `
           <div class="flex items-center justify-between">
             <span class="text-sm text-slate-300 capitalize">${sentiment}</span>
